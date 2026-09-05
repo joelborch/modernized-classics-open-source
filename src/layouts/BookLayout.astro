@@ -1,731 +1,581 @@
 ---
-import BookHeader from '../components/BookHeader.astro';
-import ReadingControls from '../components/ReadingControls.astro';
-import TableOfContents from '../components/TableOfContents.astro';
-import { Image } from 'astro:assets';
+/**
+ * The reading edition. One long page: a running head that always says where
+ * you are, the edition band (cover as object, provenance, downloads), the
+ * text at a book measure, and an outer rail carrying chapter ticks, progress,
+ * and the ribbon marking where you stopped last time.
+ */
 import type { ImageMetadata } from 'astro';
-import '../styles/book.css';
+import Cover from '../components/Cover.astro';
+import type { Chapter } from '../lib/edition';
 
 interface Props {
+  slug: string;
   title: string;
   author: string;
-  yearPublished?: number;
+  yearLabel?: string;
   yearModernized?: number;
   description?: string;
-  downloads?: {
-    epub?: string;
-  };
-  audioDownload?: string;
-  toc: { title: string; anchor: string; level: number }[];
-  slug: string;
-  coverImageAsset?: ImageMetadata;
+  epubHref: string;
+  audioHref?: string;
+  readingTime: string;
+  readingMinutes: number;
+  words: string;
+  chapters: Chapter[];
+  chapterDepth: number;
+  cover?: ImageMetadata;
   coverAlt?: string;
-  readingTime?: number;
 }
 
 const {
-  title,
-  author,
-  yearPublished,
-  yearModernized,
-  description,
-  downloads,
-  audioDownload,
-  toc,
-  slug,
-  coverImageAsset,
-  coverAlt,
-  readingTime
+  slug, title, author, yearLabel, yearModernized, description,
+  epubHref, audioHref, readingTime, readingMinutes, words,
+  chapters, chapterDepth, cover, coverAlt,
 } = Astro.props;
 
-const epubLink = downloads?.epub || `/downloads/${slug}.epub`;
-const fallbackCoverPath = '/default-book-cover.png';
-// const absoluteCoverImageUrl = coverImageAsset ? new URL(coverImageAsset.src, Astro.site).toString() : new URL(fallbackCoverPath, Astro.site).toString();
-
-const bookDescription = description || `Read ${title} by ${author} - A modernized classic available as EPUB.`;
+const contentsOpen = chapters.length <= 12;
+const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c.text, index: c.index })));
 ---
 
-<div class="reading-progress"></div>
-
-<main class="book-container">
-  <div class="book-header-container">
-    <div class="book-cover-container">
-      <div class="book-cover">
-        {coverImageAsset ? (
-          <Image
-            src={coverImageAsset}
-            alt={coverAlt || `Cover for ${title}`}
-            width={200}
-            height={300}
-            format="avif"
-            quality={75}
-            class="rounded shadow-md"
-            loading="eager"
-            fetchpriority="high"
-            decoding="async"
-          />
-        ) : (
-          <div class="w-[200px] h-[300px] bg-gray-200 dark:bg-gray-700 rounded shadow-md flex items-center justify-center">
-            <span class="text-gray-500 dark:text-gray-400">No cover image</span>
-            <p class="absolute bottom-2 text-xs text-gray-500">Expected path: {fallbackCoverPath}</p>
-          </div>
-        )}
-      </div>
-    </div>
-    <BookHeader
-      title={title}
-      author={author}
-      yearPublished={yearPublished}
-      yearModernized={yearModernized}
-      epubLink={epubLink}
-      audioDownload={audioDownload}
-      readingTime={readingTime}
-    />
-  </div>
-  
-  <div class="book-content-wrapper">
-    <!-- Mobile TOC toggle button - removed md:hidden to make sure it works -->
-    <button id="mobile-toc-toggle" class="mobile-toc-toggle">
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="3" y1="12" x2="21" y2="12"></line>
-        <line x1="3" y1="6" x2="21" y2="6"></line>
-        <line x1="3" y1="18" x2="21" y2="18"></line>
-      </svg>
-      <span>Controls</span>
-    </button>
-    
-    <!-- Focus mode toggle -->
-    <button id="focus-mode-toggle" class="focus-mode-toggle" aria-label="Toggle focus mode" title="Hide header & footer for distraction-free reading">
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M8 3H5a2 2 0 0 0-2 2v3"></path>
-        <path d="M21 8V5a2 2 0 0 0-2-2h-3"></path>
-        <path d="M3 16v3a2 2 0 0 0 2 2h3"></path>
-        <path d="M16 21h3a2 2 0 0 0 2-2v-3"></path>
-      </svg>
-    </button>
-
-    <!-- Sidebar with TOC and Reading Controls -->
-    <aside id="book-sidebar" class="book-sidebar">
-      <div class="sidebar-header md:hidden">
-        <h2>Book Navigation</h2>
-        <button id="close-sidebar" aria-label="Close sidebar" type="button">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
+<div
+  class="edition"
+  id="edition"
+  data-slug={slug}
+  data-title={title}
+  data-chapter-depth={chapterDepth}
+  data-reading-minutes={readingMinutes}
+>
+  <!-- Running head -->
+  <div class="running-head" id="running-head">
+    <div class="wrap rh-row">
+      <span class="rh-author t-label">{author}</span>
+      <button type="button" class="rh-title t-text" id="rh-title" aria-haspopup="dialog" aria-controls="contents-dialog" title="Contents">
+        <em class="rh-work">{title}</em>
+        <span class="rh-chapter" id="rh-chapter" aria-live="polite"></span>
+      </button>
+      <div class="rh-tools">
+        <span class="rh-pct t-meta" id="rh-pct" aria-label="Progress through the text">0%</span>
+        <button type="button" class="icon-button" id="contents-button" aria-haspopup="dialog" aria-controls="contents-dialog" aria-label="Contents" title="Contents">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true">
+            <path d="M3 5h14M3 10h14M3 15h9" />
           </svg>
         </button>
+        <button type="button" class="icon-button rh-aa t-text" id="menu-button" aria-expanded="false" aria-controls="reader-menu" aria-label="Reading settings" title="Reading settings">
+          <span aria-hidden="true">Aa</span>
+        </button>
       </div>
-      
-      <div class="sidebar-content">
-        <ReadingControls />
-        <TableOfContents toc={toc} slug={slug} />
+    </div>
+
+    <!-- Reading settings -->
+    <div class="reader-menu" id="reader-menu" hidden>
+      <div class="menu-section">
+        <span class="t-label">Size</span>
+        <div class="segmented" role="group" aria-label="Text size">
+          <button type="button" data-size="small" class="t-text" style="font-size:0.875rem" aria-label="Small">A</button>
+          <button type="button" data-size="medium" class="t-text" style="font-size:1.0625rem" aria-label="Medium">A</button>
+          <button type="button" data-size="large" class="t-text" style="font-size:1.3125rem" aria-label="Large">A</button>
+        </div>
       </div>
-    </aside>
-    
-    <!-- Main Content -->
-    <article class="book-content prose dark:prose-invert prose-slate max-w-none text-base leading-relaxed">
-      <slot />
-    </article>
+      <div class="menu-section">
+        <span class="t-label">Spacing</span>
+        <div class="segmented" role="group" aria-label="Line spacing">
+          <button type="button" data-leading="compact" aria-label="Compact"><span class="lines lines-1"></span></button>
+          <button type="button" data-leading="normal" aria-label="Normal"><span class="lines lines-2"></span></button>
+          <button type="button" data-leading="relaxed" aria-label="Relaxed"><span class="lines lines-3"></span></button>
+        </div>
+      </div>
+      <div class="menu-section">
+        <span class="t-label">Paper</span>
+        <div class="segmented" role="group" aria-label="Theme">
+          <button type="button" data-set-theme="light" aria-label="Light"><span class="swatch" style="background:#f8f8f6"></span>Light</button>
+          <button type="button" data-set-theme="sepia" aria-label="Sepia"><span class="swatch" style="background:#f3ecdc"></span>Sepia</button>
+          <button type="button" data-set-theme="dark" aria-label="Dark"><span class="swatch" style="background:#15161a"></span>Dark</button>
+        </div>
+      </div>
+      <label class="menu-toggle">
+        <input type="checkbox" id="focus-toggle" />
+        <span>Text only: hide the site header and footer</span>
+      </label>
+    </div>
   </div>
-</main>
 
-<script is:inline define:vars={{ slug }}>
-  document.addEventListener('DOMContentLoaded', () => {
-    // console.log("DOM loaded, initializing sidebar controls");
-    
-    // Get sidebar elements
-    const sidebar = document.getElementById('book-sidebar');
-    const mobileTocToggle = document.getElementById('mobile-toc-toggle');
-    const closeSidebarBtn = document.getElementById('close-sidebar');
-    
-    // console.log("Sidebar elements:", {
-    //   sidebar: sidebar ? "Found" : "Not found",
-    //   mobileTocToggle: mobileTocToggle ? "Found" : "Not found",
-    //   closeSidebarBtn: closeSidebarBtn ? "Found" : "Not found"
-    // });
-    
-    // Helper ─ remove any legacy inline transforms/visibility
-    const resetInlineStyles = () => {
-      sidebar.style.removeProperty('transform');
-      sidebar.style.removeProperty('visibility');
-    };
+  <!-- Edition band -->
+  <header class="wrap edition-band">
+    <div class="band-cover">
+      <Cover src={cover} alt={coverAlt || `Cover of ${title}`} title={title} author={author} width={240} loading="eager" sizes="(min-width: 768px) 240px, 168px" />
+    </div>
+    <div class="band-info">
+      <h1 class="band-title t-display">{title}</h1>
+      <p class="band-author t-text">{author}</p>
+      <p class="band-provenance t-meta">
+        {yearLabel && <span>Originally {yearLabel}</span>}
+        {yearModernized && <span>Modernized {yearModernized}</span>}
+        <span>{readingTime}</span>
+        <span>{words}</span>
+      </p>
+      {description && <p class="band-description t-text">{description}</p>}
 
-    // Function to close sidebar
-    const closeSidebar = () => {
-      if (sidebar) {
-        sidebar.classList.remove('sidebar-open');
-        document.body.classList.remove('sidebar-active');
-        /* --- force it off‑screen in every viewport --- */
-        sidebar.style.transform  = 'translateX(-100%)';
-        sidebar.style.visibility = 'hidden';
-        // console.log("Sidebar closed");
-      }
-    };
-    
-    // Function to open sidebar
-    const openSidebar = () => {
-      if (sidebar) {
-        resetInlineStyles();               // 👈  make sure we start fresh
-        sidebar.classList.add('sidebar-open');
-        document.body.classList.add('sidebar-active');
-        // console.log("Sidebar opened");
-      }
-    };
-    
-    // Set up mobile TOC toggle
-    if (mobileTocToggle && sidebar) {
-      mobileTocToggle.setAttribute('aria-controls', 'book-sidebar');
-      mobileTocToggle.addEventListener('click', (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        
-        // Check if sidebar is already open
-        const isOpen = sidebar.classList.contains('sidebar-open');
-        // console.log("TOC toggle clicked, sidebar currently:", isOpen ? "open" : "closed");
-        
-        if (isOpen) {
-          closeSidebar();
-          mobileTocToggle.setAttribute('aria-expanded', 'false');
-        } else {
-          openSidebar();
-          mobileTocToggle.setAttribute('aria-expanded', 'true');
-        }
-      });
-    }
-    
-    // Set up close button
-    if (closeSidebarBtn && sidebar) {
-      closeSidebarBtn.setAttribute('aria-controls', 'book-sidebar');
-      closeSidebarBtn.addEventListener('click', (e) => {
-        // console.log('Close button clicked');
-        e.preventDefault();
-        e.stopPropagation();
-        closeSidebar();
-        mobileTocToggle?.setAttribute('aria-expanded', 'false');
-      });
-    }
-    
-    // Close sidebar when clicking outside
-    document.addEventListener('click', (e) => {
-      if (sidebar && 
-          sidebar.classList.contains('sidebar-open') && 
-          !sidebar.contains(e.target) && 
-          e.target !== mobileTocToggle && 
-          !mobileTocToggle?.contains(e.target)) {
-        closeSidebar();
-      }
-    });
-    
-    // Close sidebar on escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && sidebar && sidebar.classList.contains('sidebar-open')) {
-        closeSidebar();
-      }
-    });
-    
-    // Check on resize if we should show/hide based on screen width
-    window.addEventListener('resize', () => {
-      if (window.innerWidth >= 768) {
-        // Reset sidebar styles on desktop
-        if (sidebar) {
-          sidebar.classList.remove('sidebar-open');
-          document.body.classList.remove('sidebar-active');
-        }
-      }
-    });
-    
-    // Initialize based on current screen size
-    if (window.innerWidth < 768) {
-      if (sidebar && !sidebar.classList.contains('sidebar-open')) {
-        sidebar.classList.remove('sidebar-open');
-        document.body.classList.remove('sidebar-active');
-      }
-    }
-    
-    // --- Reading Progress Bar ---
-    let progressBar = document.querySelector('.reading-progress');
-    if (!progressBar) {
-      progressBar = document.createElement('div');
-      progressBar.className = 'reading-progress';
-      document.body.insertBefore(progressBar, document.body.firstChild);
-    }
+      <div class="band-actions">
+        <a href="#text-start" class="action action-primary" id="start-reading">Start reading</a>
+        <a href="#text-start" class="action action-primary" id="resume-reading" hidden>
+          Resume<span class="resume-where" id="resume-where"></span>
+        </a>
+        <a href={epubHref} download class="band-download">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v10m0 0l-4-4m4 4l4-4M4 16h12" /></svg>
+          EPUB
+        </a>
+        {audioHref && (
+          <a href={audioHref} target="_blank" rel="noopener noreferrer" class="band-download">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4zM14 7a4 4 0 010 6M16 5a7 7 0 010 10" /></svg>
+            Audio, MP3
+          </a>
+        )}
+      </div>
 
-    const updateProgressBar = () => {
-      if (!progressBar) return;
+      {chapters.length > 0 && (
+        <details class="contents" open={contentsOpen}>
+          <summary class="contents-summary">
+            <span class="t-label">Contents</span>
+            <span class="t-meta">{chapters.length} {chapters.length === 1 ? 'section' : 'sections'}</span>
+          </summary>
+          <ol class="contents-list t-text">
+            {chapters.map((chapter) => (
+              <li>
+                <a href={`#${chapter.slug}`}>
+                  <span class="contents-n t-meta">{chapter.index}</span>
+                  <span>{chapter.text}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      )}
+    </div>
+  </header>
 
-      const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      const docHeight = Math.max(
-        document.body.scrollHeight, document.documentElement.scrollHeight,
-        document.body.offsetHeight, document.documentElement.offsetHeight,
-        document.body.clientHeight, document.documentElement.clientHeight
-      ) - window.innerHeight;
+  <!-- Text and rail -->
+  <div class="wrap edition-body">
+    <span id="text-start" class="text-start" aria-hidden="true"></span>
+    <article class="edition-text t-text" id="edition-text">
+      <slot />
+      <p class="text-end t-meta">End of <em>{title}</em>. <a href="/library/">Choose another edition</a>.</p>
+    </article>
 
-      const scrollPercent = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-      progressBar.style.width = scrollPercent + '%';
-      progressBar.setAttribute('data-percent', Math.round(scrollPercent).toString());
-    };
+    <nav class="rail" id="rail" aria-label="Chapters">
+      <div class="rail-track">
+        <div class="rail-progress" id="rail-progress"></div>
+        <div class="rail-ribbon" id="rail-ribbon" hidden title="Where you stopped last time"></div>
+        {chapters.map((chapter) => (
+          <a
+            href={`#${chapter.slug}`}
+            class="tick"
+            data-chapter={chapter.index}
+            data-target={chapter.slug}
+            aria-label={`${chapter.index}. ${chapter.text}`}
+            data-title={chapter.text}
+          ></a>
+        ))}
+      </div>
+    </nav>
+  </div>
 
-    window.addEventListener('scroll', updateProgressBar);
-    window.addEventListener('resize', updateProgressBar);
-    updateProgressBar();
+  <!-- Contents dialog -->
+  <dialog class="contents-dialog" id="contents-dialog" aria-labelledby="contents-dialog-title">
+    <div class="dialog-head">
+      <span id="contents-dialog-title" class="t-label">Contents · <em class="t-text">{title}</em></span>
+      <button type="button" class="icon-button" id="contents-close" aria-label="Close">
+        <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15" /></svg>
+      </button>
+    </div>
+    <ol class="dialog-list t-text">
+      {chapters.map((chapter) => (
+        <li>
+          <a href={`#${chapter.slug}`} data-target={chapter.slug}>
+            <span class="contents-n t-meta">{chapter.index}</span>
+            <span>{chapter.text}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </dialog>
 
-    // --- Add IDs to Headings for TOC ---
-    const contentElement = document.querySelector('.book-content');
-    if (contentElement) {
-      const headings = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
-      
-      headings.forEach((heading) => {
-        if (!heading.id) {
-          const text = heading.textContent || '';
-          const anchor = text
-            .toLowerCase()
-            .replace(/[^\w\s-]/g, '') // Remove special chars
-            .replace(/\s+/g, '-')     // Replace spaces with hyphens
-            .replace(/-+/g, '-');     // Replace multiple hyphens
-          
-          heading.id = anchor;
-        }
-      });
-    }
-    
-    // Restore saved position if available
-    const savedPosition = localStorage.getItem(`reading-position-${slug}`);
-    if (savedPosition) {
-      window.scrollTo(0, parseInt(savedPosition, 10));
-    }
-    
-    // Save position on scroll (throttled)
-    let timeout;
-    window.addEventListener('scroll', () => {
-      if (!timeout) {
-        timeout = setTimeout(() => {
-          localStorage.setItem(`reading-position-${slug}`, window.scrollY.toString());
-          timeout = null;
-        }, 1000);
-      }
-    });
-    
-    // Check and initialize the theme
-    const storedTheme = localStorage.getItem('book-theme');
-    if (storedTheme) {
-      const html = document.documentElement;
-      
-      if (storedTheme === 'dark') {
-        html.classList.add('dark');
-        html.removeAttribute('data-theme');
-      } else if (storedTheme === 'sepia') {
-        html.classList.remove('dark');
-        html.setAttribute('data-theme', 'sepia');
-      }
-    }
+  <script is:inline type="application/json" id="chapters-data" set:html={chaptersJson}></script>
+</div>
 
-    // --- Focus Mode ---
-    const focusToggle = document.getElementById('focus-mode-toggle');
-    if (focusToggle) {
-      // Restore saved preference
-      if (localStorage.getItem('focus-mode') === 'true') {
-        document.body.classList.add('focus-mode');
-      }
-
-      focusToggle.addEventListener('click', () => {
-        const isActive = document.body.classList.toggle('focus-mode');
-        localStorage.setItem('focus-mode', isActive.toString());
-      });
-    }
-
-    // --- Initial reset (covers hot‑reload & cached DOM) ---
-    resetInlineStyles();
-    sidebar.classList.remove('sidebar-open');
-    document.body.classList.remove('sidebar-active');
-  });
+<script>
+  import '../scripts/reader';
 </script>
 
 <style>
-  /* Book Container */
-  .book-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
+  /* ---------- Running head ---------- */
+  .running-head {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background: var(--paper);
+    border-bottom: 1px solid var(--series-rule);
   }
-  
-  /* Book Header with Cover */
-  .book-header-container {
+  .rh-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.75rem;
+    height: var(--running-head-h);
+  }
+  @media (min-width: 900px) {
+    .rh-row { grid-template-columns: 1fr minmax(0, 2fr) 1fr; }
+  }
+  .rh-author { display: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  @media (min-width: 900px) { .rh-author { display: block; } }
+  .rh-title {
+    background: none;
+    border: 0;
+    padding: 0;
+    min-width: 0;
     display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-    margin: 2rem 0;
-  }
-  
-  @media (min-width: 768px) {
-    .book-header-container {
-      flex-direction: row;
-      align-items: flex-start;
-    }
-  }
-  
-  .book-cover-container {
-    width: 100%;
-    max-width: 200px;
-    margin: 0 auto;
-  }
-  
-  @media (min-width: 768px) {
-    .book-cover-container {
-      margin: 0;
-    }
-  }
-  
-  .book-cover {
-    position: relative;
-    width: 100%;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    border-radius: 0.5rem;
+    align-items: baseline;
+    gap: 0.5rem;
+    justify-self: start;
+    font-size: 1rem;
+    color: var(--ink-10);
+    cursor: pointer;
+    white-space: nowrap;
     overflow: hidden;
   }
-  
-  .book-cover img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    display: block;
+  @media (min-width: 900px) { .rh-title { justify-self: center; } }
+  .rh-work { font-style: italic; flex-shrink: 0; }
+  .rh-chapter {
+    font-family: var(--font-ui);
+    font-size: 0.8125rem;
+    color: var(--ink-7);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
   }
-  
-  /* Reading Progress Bar */
-  .reading-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 3px;
-    background-color: var(--color-primary);
-    width: 0%;
-    z-index: 9999;
-    transition: width 0.1s linear;
-  }
-  
-  /* Focus Mode Toggle */
-  .focus-mode-toggle {
-    position: fixed;
-    bottom: 1.5rem;
-    right: 1.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    background-color: var(--color-bg-subtle);
-    color: var(--color-text-muted);
-    border: 1px solid var(--color-border);
-    border-radius: 9999px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    z-index: 40;
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
+  .rh-chapter:not(:empty)::before { content: '· '; }
+  .rh-tools { display: flex; align-items: center; gap: 0.125rem; justify-self: end; }
+  .rh-pct { min-width: 2.75rem; text-align: right; margin-right: 0.25rem; }
+  .rh-aa { font-size: 0.9375rem; letter-spacing: -0.02em; }
 
-  .focus-mode-toggle:hover {
-    background-color: var(--color-bg-hover);
-    color: var(--color-text);
-    transform: scale(1.05);
-  }
-
-  body.focus-mode header,
-  body.focus-mode footer {
-    display: none !important;
-  }
-
-  body.focus-mode .focus-mode-toggle {
-    background-color: #d97706;
-    color: white;
-    border-color: #d97706;
-  }
-
-  /* Reading progress tooltip */
-  .reading-progress {
-    cursor: default;
-  }
-  .reading-progress::after {
-    content: attr(data-percent) '%';
+  /* ---------- Reader menu ---------- */
+  .reader-menu {
     position: absolute;
-    right: 8px;
-    top: 6px;
-    font-size: 0.6875rem;
-    font-weight: 600;
-    color: var(--color-text-muted);
-    opacity: 0;
-    transition: opacity 0.2s;
-    pointer-events: none;
-  }
-  .reading-progress:hover::after {
-    opacity: 1;
-  }
-
-  /* Mobile TOC Toggle */
-  .mobile-toc-toggle {
-    position: fixed;
-    bottom: 1.5rem;
-    left: 1.5rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.25rem;
-    background-color: #b45309;
-    color: white;
-    border-radius: 9999px;
-    border: none;
-    box-shadow: 0 4px 10px rgba(180, 83, 9, 0.3);
-    z-index: 40;
-    font-size: 0.875rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
-  
-  /* Desktop tweaks */
-  @media (min-width: 768px) {
-    /* Hide the floating toggle button on larger screens */
-    .mobile-toc-toggle {
-      display: none;
-    }
-  }
-  
-  .mobile-toc-toggle:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
-  }
-  
-  .mobile-toc-toggle:active {
-    transform: translateY(0);
-  }
-  
-  .dark .mobile-toc-toggle {
-    background-color: #1e293b;
-    color: #f1f5f9;
-    border-color: #334155;
-  }
-  
-  [data-theme="sepia"] .mobile-toc-toggle {
-    background-color: #fef3c7;
-    color: #78350f;
-    border-color: #fde68a;
-  }
-  
-  /* Content Layout */
-  .book-content-wrapper {
-    display: flex;
-    flex-direction: column;
-    margin: 2rem 0;
-  }
-  
-  @media (min-width: 768px) {
-    .book-content-wrapper {
-      flex-direction: row;
-      gap: 2rem;
-    }
-  }
-  
-  /* Sidebar */
-  .book-sidebar {
-    width: 280px;
-    flex-shrink: 0;
-  }
-  
-  @media (max-width: 767px) {
-    .book-sidebar {
-      position: fixed;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      width: 300px;
-      background-color: white;
-      z-index: 50;
-      overflow-y: auto;
-      height: 100vh;
-
-      /* hidden by default */
-      transform: translateX(-100%);
-      visibility: hidden;
-
-      /* smooth slide */
-      transition: transform 0.3s ease, visibility 0.3s ease;
-    }
-
-    .book-sidebar.sidebar-open {
-      transform: translateX(0);
-      visibility: visible;
-      box-shadow: 4px 0 10px rgba(0, 0, 0, 0.1);
-    }
-  }
-  
-  .sidebar-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    right: max(1.25rem, calc((100% - 78rem) / 2));
+    top: calc(var(--running-head-h) + 0.5rem);
+    width: min(20rem, calc(100vw - 2.5rem));
+    background: var(--paper);
+    border: var(--rule);
+    box-shadow: 0 8px 28px -10px rgba(0, 0, 0, 0.3);
     padding: 1rem;
-    border-bottom: 1px solid #e2e8f0;
+    display: grid;
+    gap: 1rem;
+    font-family: var(--font-ui);
   }
-  
-  .sidebar-header h2 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin: 0;
-  }
-  
-  .sidebar-header button {
-    background: none;
-    border: none;
-    color: #64748b;
-    cursor: pointer;
-    padding: 0.25rem;
-    border-radius: 0.25rem;
-  }
-
-  #close-sidebar {
-    background: none;
-    border: none;
-    color: #64748b;
-    cursor: pointer;
-    padding: 0.5rem;
-    border-radius: 0.25rem;
-    display: flex;
+  .reader-menu[hidden] { display: none; }
+  .menu-section { display: grid; gap: 0.4rem; }
+  .segmented { display: flex; border: var(--rule); }
+  .segmented > button {
+    flex: 1;
+    min-height: 2.25rem;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.2s ease;
+    gap: 0.4rem;
+    background: transparent;
+    border: 0;
+    border-right: var(--rule);
+    color: var(--ink-8);
+    font-size: 0.8125rem;
+    cursor: pointer;
+  }
+  .segmented > button:last-child { border-right: 0; }
+  .segmented > button:hover { background: var(--ink-1); color: var(--ink-10); }
+  .segmented > button[aria-pressed='true'] { background: var(--series-tint); color: var(--ink-10); box-shadow: inset 0 -2px 0 var(--series-rule); }
+  .swatch { width: 0.75rem; height: 0.75rem; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.3); }
+  .lines { display: inline-block; width: 1rem; height: 0.875rem; background: repeating-linear-gradient(to bottom, currentColor 0 1.5px, transparent 1.5px var(--gap)); }
+  .lines-1 { --gap: 4px; }
+  .lines-2 { --gap: 5.5px; }
+  .lines-3 { --gap: 7px; }
+  .menu-toggle { display: flex; gap: 0.6rem; align-items: center; font-size: 0.8125rem; color: var(--ink-8); cursor: pointer; }
+  .menu-toggle input { accent-color: var(--series); width: 1rem; height: 1rem; }
+
+  /* ---------- Edition band ---------- */
+  .edition-band {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+    padding: 2.5rem 0 2rem;
+    border-bottom: var(--rule);
+  }
+  @media (min-width: 768px) {
+    .edition-band {
+      grid-template-columns: 240px minmax(0, 1fr);
+      gap: 3rem;
+      padding: 3.5rem 0 2.5rem;
+    }
+  }
+  .band-cover { width: 168px; }
+  @media (min-width: 768px) { .band-cover { width: 240px; position: sticky; top: calc(var(--running-head-h) + 1.5rem); align-self: start; } }
+  .band-info { max-width: 62ch; }
+  .band-title { font-size: clamp(2.25rem, 4.5vw + 0.5rem, 3.5rem); margin: 0 0 0.5rem; color: var(--ink-10); }
+  .band-author { font-size: 1.25rem; margin: 0 0 0.75rem; color: var(--ink-9); }
+  .band-provenance { display: flex; flex-wrap: wrap; gap: 0 0.5rem; margin: 0 0 1.25rem; }
+  .band-provenance span + span::before { content: '·'; margin-right: 0.5rem; color: var(--ink-5); }
+  .band-description { font-size: 1.0625rem; line-height: 1.55; color: var(--ink-9); margin: 0 0 1.5rem; }
+  .band-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1.25rem; }
+  .band-actions [hidden] { display: none; }
+  .resume-where { margin-left: 0.35rem; font-weight: 400; opacity: 0.9; }
+  .resume-where:not(:empty)::before { content: 'at '; }
+  .band-download {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    font-family: var(--font-ui); font-size: 0.9375rem; color: var(--ink-9);
+    text-decoration-color: var(--ink-4);
+  }
+  .band-download svg { width: 1rem; height: 1rem; color: var(--ink-7); }
+
+  .contents { margin-top: 2rem; border-top: var(--rule); }
+  .contents-summary {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding: 0.75rem 0; cursor: pointer; list-style: none;
+  }
+  .contents-summary::-webkit-details-marker { display: none; }
+  .contents-summary::after { content: '+'; font-family: var(--font-ui); color: var(--ink-6); margin-left: 0.75rem; }
+  .contents[open] .contents-summary::after { content: '−'; }
+  .contents-list {
+    margin: 0 0 0.5rem; padding: 0; list-style: none;
+    columns: 1; column-gap: 2.5rem;
+    font-size: 0.9375rem; line-height: 1.4;
+  }
+  @media (min-width: 640px) { .contents-list { columns: 2; } }
+  .contents-list li { break-inside: avoid; padding: 0.3rem 0; border-bottom: 1px solid var(--ink-2); }
+  .contents-list a, .dialog-list a { display: flex; gap: 0.75rem; text-decoration: none; color: var(--ink-9); }
+  .contents-list a:hover, .dialog-list a:hover { color: var(--series-ink); }
+  .contents-n { min-width: 1.75rem; text-align: right; color: var(--ink-6); }
+
+  /* ---------- Body: text + rail ---------- */
+  .edition-body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    padding-top: 2.5rem;
     position: relative;
-    z-index: 1;
   }
-  
-  #close-sidebar:hover {
-    background-color: #f1f5f9;
-    color: #334155;
-    transform: scale(1.1);
+  @media (min-width: 768px) {
+    .edition-body {
+      grid-template-columns: minmax(0, 1fr) minmax(0, var(--measure)) minmax(4.5rem, 1fr);
+      column-gap: 2rem;
+    }
+    .edition-text { grid-column: 2; }
+    .rail { grid-column: 3; }
   }
-  
-  #close-sidebar:active {
-    transform: scale(0.95);
+  .text-start { display: block; position: relative; top: calc(-1 * var(--running-head-h) - 1rem); }
+  .text-end { margin-top: 4rem; padding-top: 1rem; border-top: var(--rule); font-family: var(--font-ui); }
+
+  /* ---------- Rail ---------- */
+  .rail {
+    position: sticky;
+    top: calc(var(--running-head-h) + 2.5rem);
+    align-self: start;
+    height: calc(100dvh - var(--running-head-h) - 5rem);
+    display: none;
+  }
+  @media (min-width: 768px) { .rail { display: block; } }
+  .rail-track {
+    position: relative;
+    height: 100%;
+    width: 1px;
+    background: var(--ink-3);
+    margin-left: 1rem;
+  }
+  .rail-progress {
+    position: absolute; top: 0; left: 0; width: 1px; height: 100%;
+    background: var(--series-rule);
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform 120ms linear;
+  }
+  .tick {
+    position: absolute;
+    left: -3px;
+    top: var(--y, 0%);
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--paper);
+    border: 1px solid var(--ink-4);
+    transform: translateY(-50%);
+    transition: border-color 150ms cubic-bezier(0.2, 0, 0, 1), background-color 150ms cubic-bezier(0.2, 0, 0, 1);
+  }
+  .tick:hover, .tick:focus-visible { border-color: var(--series-rule); }
+  .tick.is-past { background: var(--series-rule); border-color: var(--series-rule); }
+  .tick.is-current { background: var(--paper); border: 2px solid var(--series-rule); width: 11px; height: 11px; left: -5px; z-index: 1; }
+  .tick::after {
+    content: attr(data-chapter) '. ' attr(data-title);
+    position: absolute;
+    left: 1.25rem;
+    top: 50%;
+    transform: translateY(-50%);
+    white-space: nowrap;
+    max-width: 14rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    color: var(--ink-7);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 150ms cubic-bezier(0.2, 0, 0, 1);
+  }
+  .tick:hover::after, .tick:focus-visible::after, .tick.is-current::after { opacity: 1; }
+  .tick.is-current::after { color: var(--ink-10); }
+  @media (min-width: 768px) and (max-width: 1099px) {
+    .tick.is-current::after { display: none; }
+  }
+  .rail-ribbon {
+    position: absolute;
+    left: -6px;
+    top: var(--y, 0%);
+    width: 13px;
+    height: 34px;
+    background: var(--series);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 78%, 0 100%);
+    transform-origin: top center;
+    z-index: 2;
+  }
+  .rail-ribbon[hidden] { display: none; }
+  .rail-ribbon.is-settling { animation: ribbon-settle 700ms cubic-bezier(0.2, 0, 0, 1) both; }
+  @keyframes ribbon-settle {
+    from { transform: translateY(-14px) scaleY(0.6); opacity: 0; }
+    to { transform: translateY(0) scaleY(1); opacity: 1; }
   }
 
-  /* Dark mode adjustments for close button */
-  .dark #close-sidebar {
-    color: #94a3b8;
+  /* Mobile edge rail: the same axis, three pixels wide, on the right edge. */
+  .edge-rail {
+    position: fixed;
+    top: var(--running-head-h);
+    right: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--ink-2);
+    z-index: 30;
   }
-  
-  .dark #close-sidebar:hover {
-    background-color: #334155;
-    color: #f1f5f9;
+  .edge-rail-progress { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: var(--series-rule); transform: scaleY(0); transform-origin: top; }
+  .edge-rail-ribbon { position: absolute; right: 0; width: 8px; height: 22px; background: var(--series); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%); transform: translateY(-50%); }
+  @media (min-width: 768px) { .edge-rail { display: none; } }
+
+  /* ---------- Contents dialog ---------- */
+  .contents-dialog {
+    width: min(40rem, calc(100vw - 2rem));
+    max-height: min(80dvh, 44rem);
+    padding: 0;
+    border: var(--rule);
+    background: var(--paper);
+    color: var(--ink-10);
+    box-shadow: 0 24px 60px -20px rgba(0, 0, 0, 0.45);
   }
-  
-  /* Sepia mode adjustments for close button */
-  [data-theme="sepia"] #close-sidebar {
-    color: #92400e;
+  .contents-dialog::backdrop { background: rgba(20, 20, 15, 0.35); backdrop-filter: blur(2px); }
+  :root[data-theme='dark'] .contents-dialog::backdrop { background: rgba(0, 0, 0, 0.6); }
+  .dialog-head {
+    position: sticky; top: 0;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.75rem 0.75rem 0.75rem 1.25rem;
+    background: var(--paper);
+    border-bottom: var(--rule);
   }
-  
-  [data-theme="sepia"] #close-sidebar:hover {
-    background-color: #fde68a;
-    color: #78350f;
+  .dialog-head em { text-transform: none; letter-spacing: 0; font-size: 0.9375rem; color: var(--ink-10); }
+  .dialog-list { list-style: none; margin: 0; padding: 0.5rem 1.25rem 1rem; font-size: 0.9375rem; line-height: 1.4; }
+  .dialog-list li { padding: 0.4rem 0; border-bottom: 1px solid var(--ink-2); }
+  .dialog-list a.is-current { color: var(--series-ink); }
+</style>
+
+<style is:global>
+  /* ---------- The text ---------- */
+  .edition-text {
+    max-width: var(--measure);
+    font-size: var(--reader-size);
+    line-height: var(--reader-leading);
+    color: var(--ink-10);
+    font-variation-settings: 'opsz' 14;
+    overflow-wrap: break-word;
+    hyphens: manual;
   }
-  
-  .sidebar-content {
-    padding: 1rem;
+  .edition-text p { margin: 0 0 0.9em; }
+  .edition-text > p:first-of-type,
+  .edition-text h2 + p,
+  .edition-text h3 + p { margin-top: 0; }
+
+  .edition-text h2,
+  .edition-text h3,
+  .edition-text h4 {
+    font-weight: 500;
+    color: var(--ink-10);
+    scroll-margin-top: calc(var(--running-head-h) + 1.5rem);
+    text-wrap: balance;
   }
-  
-  @media (min-width: 768px) {
-    .sidebar-content {
-      position: sticky;
-      top: 2rem;
-      max-height: calc(100vh - 4rem);
-      overflow-y: auto;
-      scrollbar-width: thin;
-      scrollbar-color: #cbd5e1 transparent;
-    }
-    
-    .sidebar-content::-webkit-scrollbar {
-      width: 5px;
-    }
-    
-    .sidebar-content::-webkit-scrollbar-track {
-      background: transparent;
-    }
-    
-    .sidebar-content::-webkit-scrollbar-thumb {
-      background-color: #cbd5e1;
-      border-radius: 3px;
-    }
+  .edition-text h2 {
+    font-size: 1.75em;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin: 3.25em 0 0.75em;
+    font-variation-settings: 'opsz' 40;
   }
-  
-  /* Main Content */
-  .book-content {
-    flex: 1;
-    font-family: var(--ff-display);
-    margin-bottom: 4rem;
+  .edition-text h3 {
+    font-size: 1.25em;
+    line-height: 1.25;
+    margin: 2.25em 0 0.6em;
+    font-variation-settings: 'opsz' 24;
   }
-  
-  /* Theme Adjustments */
-  .dark .sidebar-header {
-    border-color: #334155;
+  .edition-text h4 { font-size: 1.05em; margin: 1.75em 0 0.5em; font-weight: 600; }
+  .edition-text > :is(h2, h3):first-child { margin-top: 0.25em; }
+
+  /* Chapter numbering, applied by the reader script to the wayfinding level. */
+  .edition-text [data-chapter]::before {
+    content: attr(data-chapter);
+    display: block;
+    font-family: var(--font-ui);
+    font-size: 0.6875rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    color: var(--series-ink);
+    margin-bottom: 0.6rem;
+    font-variant-numeric: tabular-nums lining-nums;
   }
-  
-  .dark .sidebar-header button:hover {
-    background-color: #334155;
-    color: #f1f5f9;
+  .edition-text [data-chapter]::after {
+    content: '';
+    display: block;
+    width: 2.5rem;
+    border-top: 1px solid var(--series-rule);
+    margin-top: 0.7em;
   }
-  
-  .dark .book-sidebar {
-    background-color: #1e293b;
+  .edition-text [data-half-title] {
+    margin-top: 0;
+    font-size: 1.125em;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--ink-7);
   }
-  
-  [data-theme="sepia"] .sidebar-header {
-    border-color: #fde68a;
+
+  .edition-text strong { font-weight: 600; }
+  .edition-text em { font-style: italic; }
+  .edition-text a { text-decoration-color: var(--series-ink); }
+  .edition-text ul, .edition-text ol { margin: 0 0 1em; padding-left: 1.5em; }
+  .edition-text li { margin: 0.3em 0; }
+  .edition-text li::marker { color: var(--ink-6); }
+  .edition-text blockquote {
+    margin: 1.25em 0;
+    padding-left: 1.25em;
+    border-left: 1px solid var(--ink-4);
+    color: var(--ink-9);
   }
-  
-  [data-theme="sepia"] .sidebar-header button:hover {
-    background-color: #fde68a;
-    color: #78350f;
+  .edition-text blockquote p { margin-bottom: 0.6em; }
+  .edition-text hr {
+    border: 0;
+    width: 3rem;
+    margin: 2.5em auto;
+    border-top: 1px solid var(--ink-4);
   }
-  
-  [data-theme="sepia"] .book-sidebar {
-    background-color: #fef3c7;
-  }
-  
-  /* Tailwind Typography customizations */
-  .prose {
-    max-width: 100%;
-    font-family: var(--ff-display);
-  }
-  
-  .prose h1, 
-  .prose h2, 
-  .prose h3, 
-  .prose h4, 
-  .prose h5, 
-  .prose h6 {
-    font-family: var(--ff-sans);
-    scroll-margin-top: 5rem;
-  }
-  
-  /* Make sure headings have good spacing */
-  .prose h2 {
-    margin-top: 2.5rem;
-    margin-bottom: 1.25rem;
-  }
-  
-  .prose h3 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-  }
-  
-  /* Improve blockquote styling */
-  .prose blockquote {
-    font-style: italic;
-    border-left-width: 4px;
-    border-left-color: #cbd5e1;
-    padding-left: 1.5rem;
-  }
-  
-  .dark .prose blockquote {
-    border-left-color: #475569;
-  }
-  
-  [data-theme="sepia"] .prose blockquote {
-    border-left-color: #fde68a;
-  }
+  .edition-text img { margin: 1.5em auto; }
+  .edition-text table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.9em; font-variant-numeric: tabular-nums lining-nums; }
+  .edition-text th, .edition-text td { text-align: left; padding: 0.45em 0.6em; border-bottom: 1px solid var(--ink-3); vertical-align: top; }
+  .edition-text th { font-family: var(--font-ui); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-7); }
+  .edition-text pre, .edition-text code { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 0.9em; }
 </style>

@@ -1,104 +1,62 @@
 ---
-import { Image } from 'astro:assets';
-import logoImage from '../assets/logo.png';
+const year = new Date().getFullYear();
 ---
-<footer class="border-t border-stone-200 dark:border-slate-800 bg-white dark:bg-slate-950 text-stone-600 dark:text-slate-400">
-  <div class="container mx-auto px-6 py-8">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      <!-- Logo & About -->
-      <div>
-        <a href="/" class="flex items-center mb-4">
-          <Image
-            src={logoImage}
-            alt="Modernized Classics Logo"
-            height={32}
-            class="w-auto mr-3"
-            loading="lazy"
-            decoding="async"
-            format="avif"
-          />
-          <span class="text-xl font-serif font-bold text-stone-900 dark:text-white">
-            Modernized&nbsp;<span class="text-warm-700 dark:text-warm-400">Classics</span>
-          </span>
-        </a>
-        <p class="text-stone-500 dark:text-slate-400 max-w-md mt-4 leading-relaxed">
-          We believe that everyone should have access to the world's greatest literature in
-          modern, approachable language. Our mission is to preserve the essence while removing
-          barriers to understanding.
-        </p>
-      </div>
-
-      <!-- Quick Links -->
-      <div>
-        <h3 class="font-semibold text-lg mb-5 text-stone-900 dark:text-white flex items-center">
-          <div class="w-1 h-5 bg-warm-600 dark:bg-warm-400 rounded-sm mr-2"></div>
-          Quick&nbsp;Links
-        </h3>
-        <ul class="space-y-3">
-          <li><a href="/" class="footer-link">Home</a></li>
-          <li><a href="/library" class="footer-link">Browse&nbsp;Library</a></li>
-          <li><a href="/about" class="footer-link">About&nbsp;Us</a></li>
-        </ul>
-      </div>
-
-      <!-- Legal Links -->
-      <div>
-        <h3 class="font-semibold text-lg mb-5 text-stone-900 dark:text-white flex items-center">
-          <div class="w-1 h-5 bg-warm-600 dark:bg-warm-400 rounded-sm mr-2"></div>
-          Legal
-        </h3>
-        <ul class="space-y-3">
-          <li><a href="/terms-of-service" class="footer-link">Terms&nbsp;of&nbsp;Service</a></li>
-          <li><a href="/privacy-policy" class="footer-link">Privacy&nbsp;Policy</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div
-      class="border-t border-stone-200 dark:border-slate-800 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center"
-    >
-      <p class="text-sm text-stone-500 dark:text-slate-400">
-        © 2025 Modernized Classics. All rights reserved.
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <div class="footer-col">
+      <p class="t-text footer-mark">Modernized Classics</p>
+      <p class="t-meta footer-note">
+        Public-domain works rewritten into clear modern English, free to read, download, and share.
+        The texts are machine-rewritten and checked against their sources; read the
+        <a href="/about/">colophon</a> before you quote one.
       </p>
-
-      <button
-        id="back-to-top"
-        type="button"
-        class="mt-4 md:mt-0 rounded-full w-10 h-10 flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-slate-900 dark:hover:text-white transition-colors"
-      >
-        <span class="sr-only">Back to top</span>
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <path d="m18 15-6-6-6 6" />
-        </svg>
-      </button>
     </div>
+    <nav class="footer-col footer-links" aria-label="Footer">
+      <a href="/library/">Library</a>
+      <a href="/about/">Colophon</a>
+      <a href="/about/#contribute">Contribute</a>
+      <a href="https://github.com/joelborch/modernized-classics-open-source" rel="noopener">Source on GitHub</a>
+    </nav>
+    <nav class="footer-col footer-links" aria-label="Legal">
+      <a href="/terms-of-service/">Terms</a>
+      <a href="/privacy-policy/">Privacy</a>
+    </nav>
+  </div>
+  <div class="wrap footer-base t-meta">
+    <span>© {year} Modernized Classics. Site and pipeline MIT-licensed; the editions are free to read and share.</span>
+    <a href="#main" class="footer-top link-quiet">Back to top ↑</a>
   </div>
 </footer>
 
 <style>
-  .footer-link {
-    @apply text-stone-500 dark:text-slate-400 hover:text-warm-700 dark:hover:text-warm-400 transition-colors duration-200 inline-block py-1 hover:translate-x-0.5;
+  .site-footer {
+    border-top: var(--rule);
+    margin-top: 5rem;
+    padding: 2.5rem 0 2rem;
+    color: var(--ink-8);
+    font-family: var(--font-ui);
   }
+  .footer-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  @media (min-width: 768px) {
+    .footer-row { grid-template-columns: 2fr 1fr 1fr; gap: 3rem; }
+  }
+  .footer-mark { font-size: 1.125rem; font-weight: 500; color: var(--ink-10); margin: 0 0 0.5rem; }
+  .footer-note { max-width: 44ch; line-height: 1.55; margin: 0; }
+  .footer-links { display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9375rem; }
+  .footer-links a { text-decoration: none; color: var(--ink-8); }
+  .footer-links a:hover { color: var(--ink-10); text-decoration: underline; }
+  .footer-base {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: var(--rule);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .footer-top { color: var(--ink-7); }
 </style>
-
-<script>
-  // Back to top functionality
-  document.addEventListener('DOMContentLoaded', () => {
-    const backToTopButton = document.getElementById('back-to-top');
-    if (backToTopButton) {
-      backToTopButton.addEventListener('click', () =>
-        window.scrollTo({ top: 0, behavior: 'smooth' }),
-      );
-    }
-  });
-</script>

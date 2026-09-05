@@ -10,12 +10,17 @@
 
 ## Layout
 - `src/pages/`: Route entry points; `src/components/`, `src/layouts/`, `src/lib/` UI and utilities.
+  - `src/layouts/BookLayout.astro` + `src/scripts/reader.ts`: the reading edition (running head, chapter rail, resume ribbon, reading settings).
+  - `src/lib/edition.ts`: display helpers, chapter derivation from headings, and the editorial shelves used by the home page and library.
+  - `src/styles/tokens.css`: the design tokens (paper, an eleven-step ink ramp per theme, the per-edition series colour, type). `DESIGN.md` documents the system; read it before UI work.
 - `src/content/books/<slug>/index.md`: Book text with frontmatter; schema in `src/content.config.ts`.
+- `src/data/series-colors.json`: one colour per edition sampled from its cover by `npm run series-colors`; regenerate after adding a cover.
 - `public/downloads/`: Generated EPUBs (`${slug}.epub`, gitignored). `public/_redirects`: Cloudflare Pages 301 redirects.
 - `scripts/`:
   - `generate-epubs.ts`: Non-mutating EPUB generator creating `${slug}.epub`.
   - `fix-markdown.ts`: Explicit markdown formatter (`npm run format:books`).
   - `check-epubs.ts`: Post-build EPUB verification.
+  - `series-colors.mjs`: Samples a series colour from each `cover.png` into `src/data/series-colors.json` (`npm run series-colors`).
 - `pipeline/`: EPUB → modernized book pipeline.
   - `pipeline/src/stages/*`: Extract, select, rewrite, qa, assemble, publish.
   - `pipeline/prompts/*.md`: Core prompts (`rewrite.md`, `revise.md`, `qa.md`, `selection.md`, `frontmatter.md`).
@@ -45,7 +50,7 @@
 1. Drop a public-domain EPUB in `pipeline/input/`.
 2. Run `npm run modernize -- pipeline/input/<file>.epub --slug <slug> --to select` and verify `pipeline/work/<slug>/selection.json`.
 3. Run `npm run modernize -- --slug <slug>` to rewrite, QA, assemble, and publish.
-4. Add `cover.png` in `src/content/books/<slug>/`, update frontmatter `coverImage`, include source details in the contribution notes following `SOURCES.md`.
+4. Add `cover.png` (a real PNG, roughly 2:3) in `src/content/books/<slug>/`, update frontmatter `coverImage`, run `npm run series-colors`, and include source details in the contribution notes following `SOURCES.md`.
 5. Run `npm run verify` and commit.
 
 ## Model providers

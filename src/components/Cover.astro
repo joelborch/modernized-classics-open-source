@@ -1,0 +1,81 @@
+---
+/**
+ * A cover as a physical object: 2:3, spine edge on the left, a real drop
+ * shadow. Never cropped or tinted. Renders a typographic board when an
+ * edition has no cover yet.
+ */
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  src?: ImageMetadata;
+  alt: string;
+  title: string;
+  author: string;
+  /** Rendered width in CSS pixels at the largest breakpoint; drives the srcset. */
+  width?: number;
+  loading?: 'eager' | 'lazy';
+  sizes?: string;
+  class?: string;
+}
+
+const {
+  src,
+  alt,
+  title,
+  author,
+  width = 240,
+  loading = 'lazy',
+  sizes,
+  class: className = '',
+} = Astro.props;
+
+const widths = [Math.round(width), Math.round(width * 1.5), Math.round(width * 2), Math.round(width * 3)]
+  .filter((w, i, all) => all.indexOf(w) === i && w <= 1024);
+---
+
+<div class={`cover ${className}`.trim()}>
+  {src ? (
+    <Image
+      src={src}
+      alt={alt}
+      widths={widths}
+      sizes={sizes ?? `${width}px`}
+      format="webp"
+      quality={82}
+      loading={loading}
+      decoding="async"
+    />
+  ) : (
+    <div class="cover-board t-text">
+      <span class="cover-board-title">{title}</span>
+      <span class="cover-board-author">{author}</span>
+    </div>
+  )}
+</div>
+
+<style>
+  .cover-board {
+    position: absolute;
+    inset: 0;
+    padding: 12% 10% 12% 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: var(--series);
+    color: #fff;
+  }
+  .cover-board-title {
+    font-size: clamp(0.9rem, 1.4vw + 0.4rem, 1.5rem);
+    line-height: 1.1;
+    font-weight: 500;
+    text-wrap: balance;
+  }
+  .cover-board-author {
+    font-family: var(--font-ui);
+    font-size: 0.6875rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.85;
+  }
+</style>

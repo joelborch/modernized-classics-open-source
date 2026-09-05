@@ -78,3 +78,10 @@ pipeline/tmp/
 llm_text_transcripts/
 .tmp-*/
 *.pdf
+
+# Impeccable per-machine and build-state files (shared config.json and surfaces/ are committed)
+.impeccable/config.local.json
+.impeccable/build/
+.impeccable/review/
+.impeccable/mocks/
+.impeccable/live/

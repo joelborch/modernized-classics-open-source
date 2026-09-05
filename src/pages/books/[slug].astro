@@ -1,54 +1,50 @@
 ---
 import { getCollection, render } from 'astro:content';
-import BookLayout from '../../layouts/BookLayout.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { generateTOC } from '../../lib/toc';
+import BookLayout from '../../layouts/BookLayout.astro';
+import {
+  chaptersFrom, displayAuthor, formatWords, readingMinutes, readingTime,
+  seriesColor, wordCount, yearLabel,
+} from '../../lib/edition';
 
 export async function getStaticPaths() {
   const books = await getCollection('books');
-  return books.map((book) => ({
-    params: { slug: book.id },
-    props: { book },
-  }));
+  return books.map((book) => ({ params: { slug: book.id }, props: { book } }));
 }
 
 const { book } = Astro.props;
-const bookData = book.data;
-const { Content } = await render(book);
-const toc = generateTOC(book.body || '');
+const data = book.data;
+const { Content, headings } = await render(book);
 
-// Reading time estimate (~250 words/min)
-const wordCount = (book.body || '').split(/\s+/).length;
-const readingTime = Math.max(1, Math.round(wordCount / 250));
+const author = displayAuthor(data.author);
+const chapters = chaptersFrom(headings, data.title);
+const chapterDepth = chapters[0]?.depth ?? 2;
+const words = wordCount(book.body);
 
-const title = `${bookData.title} by ${bookData.author}`;
-const description = bookData.description || `Read ${bookData.title} by ${bookData.author} - A modernized classic available as EPUB.`;
+const title = `${data.title} by ${author}`;
+const description = data.description || `Read ${data.title} by ${author}, a public-domain classic rewritten into clear modern English. Free to read online or download as an EPUB.`;
 const canonicalURL = new URL(`/books/${book.id}/`, Astro.site).toString();
-const image = bookData.coverImage ? new URL(bookData.coverImage.src, Astro.site).toString() : undefined;
+const image = data.coverImage ? new URL(data.coverImage.src, Astro.site).toString() : undefined;
 ---
 
-<BaseLayout
-  {title}
-  {description}
-  {canonicalURL}
-  image={image}
->
+<BaseLayout {title} {description} {canonicalURL} image={image} series={seriesColor(book.id)} bodyClass="is-edition">
   <BookLayout
-    title={bookData.title}
-    author={bookData.author}
-    yearPublished={bookData.yearPublished}
-    yearModernized={bookData.yearModernized}
-    description={bookData.description}
-    downloads={bookData.downloads}
-    audioDownload={bookData.audioDownload}
-    toc={toc}
     slug={book.id}
-    coverImageAsset={bookData.coverImage}
-    coverAlt={bookData.coverAlt}
-    readingTime={readingTime}
+    title={data.title}
+    author={author}
+    yearLabel={yearLabel(data.yearPublished)}
+    yearModernized={data.yearModernized}
+    description={data.description}
+    epubHref={data.downloads?.epub || `/downloads/${book.id}.epub`}
+    audioHref={data.audioDownload}
+    readingTime={readingTime(words)}
+    readingMinutes={readingMinutes(words)}
+    words={formatWords(words)}
+    chapters={chapters}
+    chapterDepth={chapterDepth}
+    cover={data.coverImage}
+    coverAlt={data.coverAlt}
   >
-    <div class="prose dark:prose-invert max-w-prose mx-auto text-base">
-      <Content />
-    </div>
+    <Content />
   </BookLayout>
 </BaseLayout>

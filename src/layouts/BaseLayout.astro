@@ -1,76 +1,67 @@
 ---
-import "../styles/tailwind.css";
+import "../styles/global.css";
 import { Font } from 'astro:assets';
-import { ClientRouter } from 'astro:transitions';
-import Header   from "../components/Header.astro";
-import Footer   from "../components/Footer.astro";
-import SEO      from "../components/SEO.astro";
-import logoImage from '../assets/logo.png';
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import SEO from "../components/SEO.astro";
+import logoIcon from '../assets/logo-favicon.png';
 
-/* ----------  Props  ---------- */
 interface Props {
-  title:         string;
-  description?:  string;
-  image?:        string;
+  title: string;
+  description?: string;
+  image?: string;
   canonicalURL?: string;
+  /** Series colour for this page (an edition page sets its own). */
+  series?: string;
+  /** Extra class on <body>, e.g. "is-edition" on book pages. */
+  bodyClass?: string;
 }
 const {
   title,
-  description  = '',
+  description = '',
   image,
-  canonicalURL
+  canonicalURL,
+  series,
+  bodyClass = '',
 } = Astro.props as Props;
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style={series ? `--series: ${series}` : undefined}>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <SEO
-    title={title}
-    description={description}
-    image={image}
-    canonicalURL={canonicalURL}
-  />
+  <SEO title={title} description={description} image={image} canonicalURL={canonicalURL} />
 
-  <link rel="icon" href={logoImage.src} type="image/png" />
-  <link rel="apple-touch-icon" href={logoImage.src} />
+  <link rel="icon" href={logoIcon.src} type="image/png" />
+  <link rel="apple-touch-icon" href={logoIcon.src} />
 
-  <!-- Self-hosted fonts -->
-  <Font cssVariable="--font-robo" preload />
-  <Font cssVariable="--font-serif" preload />
+  <Font cssVariable="--font-literata" preload />
+  <Font cssVariable="--font-atkinson" preload />
 
-  <!-- View Transitions for smooth page navigation -->
-  <ClientRouter />
-
-  <!-- Apply reader prefs before first paint to avoid late font/spacing swaps impacting LCP -->
+  <!-- Theme and reader preferences before first paint. One key each; legacy
+       keys from the previous site are read once and migrated. -->
   <script is:inline>
     (() => {
       try {
-        const html = document.documentElement;
-
-        const theme = localStorage.getItem('book-theme');
-        if (theme === 'dark') {
-          html.classList.add('dark');
-          html.removeAttribute('data-theme');
-        } else if (theme === 'sepia') {
-          html.classList.remove('dark');
-          html.setAttribute('data-theme', 'sepia');
+        const root = document.documentElement;
+        const legacyTheme = localStorage.getItem('book-theme') || localStorage.getItem('theme');
+        let theme = localStorage.getItem('mc-theme');
+        if (!theme && legacyTheme && ['light', 'sepia', 'dark'].includes(legacyTheme)) {
+          theme = legacyTheme;
+          localStorage.setItem('mc-theme', theme);
         }
+        if (!theme) theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        root.setAttribute('data-theme', theme);
 
-        const fontSize = localStorage.getItem('book-font-size');
-        if (fontSize) {
-          html.setAttribute('data-reader-font', fontSize);
-        }
-
-        const spacing = localStorage.getItem('book-line-spacing');
-        if (spacing) {
-          html.setAttribute('data-reader-spacing', spacing);
-        }
+        const size = localStorage.getItem('mc-size') || localStorage.getItem('book-font-size');
+        if (size && ['small', 'medium', 'large'].includes(size)) root.setAttribute('data-reader-size', size);
+        const leading = localStorage.getItem('mc-leading') || localStorage.getItem('book-line-spacing');
+        if (leading && ['compact', 'normal', 'relaxed'].includes(leading)) root.setAttribute('data-reader-leading', leading);
+        if (localStorage.getItem('mc-focus') === 'true') root.setAttribute('data-focus', 'true');
       } catch {
-        // Ignore localStorage access errors (private mode, blocked storage, etc.)
+        /* storage unavailable: defaults apply */
       }
     })();
   </script>
@@ -85,56 +76,19 @@ const {
   </script>
 </head>
 
-<body class="min-h-screen font-sans bg-stone-50 text-stone-900 dark:bg-slate-950 dark:text-white">
+<body class={bodyClass}>
   <Header />
-
-  <main class="flex-1">
+  <main id="main">
     <slot />
   </main>
-
   <Footer />
-
-  <!-- Scroll-triggered reveal animations -->
-  <script>
-    function initScrollReveal() {
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('revealed');
-            observer.unobserve(entry.target);
-          }
-        });
-      }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
-
-      document.querySelectorAll('.reveal-on-scroll').forEach(el => {
-        observer.observe(el);
-      });
-    }
-
-    // Run on initial load
-    initScrollReveal();
-
-    // Re-run after view transitions
-    document.addEventListener('astro:after-swap', initScrollReveal);
-  </script>
-
-  <style is:global>
-    /* Scroll reveal — subtle, only used on section headings */
-    .reveal-on-scroll {
-      opacity: 0;
-      transform: translateY(12px);
-      transition: opacity 0.5s ease-out, transform 0.5s ease-out;
-    }
-    .reveal-on-scroll.revealed {
-      opacity: 1;
-      transform: translateY(0);
-    }
-
-    /* View transition customization */
-    ::view-transition-old(root),
-    ::view-transition-new(root) {
-      animation-duration: 0.3s;
-    }
-  </style>
 </body>
 </html>
+
+<style is:global>
+  /* Focus mode: the reader asked for the text alone. The running head stays. */
+  :root[data-focus='true'] .site-header,
+  :root[data-focus='true'] .site-footer {
+    display: none;
+  }
+</style>

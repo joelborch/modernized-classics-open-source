@@ -1,375 +1,194 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content";
-import { getImage } from "astro:assets";
-import { BookOpen, Download, ArrowRight, Type, Headphones, Clock } from "lucide-react";
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Cover from "../components/Cover.astro";
+import {
+  displayAuthor, readingTime, seriesColor, shelves, sortByTitle, startHere, wordCount, yearLabel,
+} from "../lib/edition";
 
-// Fetch book data
-const books = (await getCollection("books")).sort(
-  (left, right) => left.data.title.localeCompare(right.data.title, 'en') || left.id.localeCompare(right.id, 'en')
-);
+const books = sortByTitle(await getCollection("books"));
+const bySlug = new Map(books.map((b) => [b.id, b]));
 
-// Staff picks — hand-curated gateway books
-const staffPickIds = ['meditations', 'the-prince', 'art-of-war'];
-const staffPicks = staffPickIds
-  .map(id => books.find(book => book.id === id))
-  .filter(Boolean) as CollectionEntry<"books">[];
+const picks = startHere
+  .map((p) => ({ ...p, book: bySlug.get(p.slug) }))
+  .filter((p) => p.book) as { slug: string; line: string; book: (typeof books)[number] }[];
 
-// Optimize covers for staff picks (larger)
-const staffPicksWithCovers = await Promise.all(
-  staffPicks.map(async (book) => {
-    let optimizedSrc: string | undefined;
-    if (book.data.coverImage) {
-      try {
-        const optimized = await getImage({ src: book.data.coverImage, width: 500, format: 'webp', quality: 85 });
-        optimizedSrc = optimized.src;
-      } catch { /* fallback */ }
-    }
-    // Estimate reading time (~250 words/min)
-    const wordCount = (book.body || '').split(/\s+/).length;
-    const readingTime = Math.max(1, Math.round(wordCount / 250));
-    return { ...book, optimizedSrc, readingTime };
-  })
-);
+const shelved = new Set(shelves.flatMap((s) => s.slugs));
+const rows = shelves
+  .map((s) => ({ ...s, books: s.slugs.map((id) => bySlug.get(id)).filter(Boolean) as typeof books }))
+  .filter((s) => s.books.length > 0);
+const rest = books.filter((b) => !shelved.has(b.id));
+if (rest.length) rows.push({ id: 'further', title: 'Further reading', note: 'Recent additions, not yet shelved.', slugs: rest.map((b) => b.id), books: rest });
 
-// Hero covers — pick 5 visually interesting books for the hero display
-const heroIds = ['meditations', 'the-prince', 'wealth-of-nations', 'art-of-war', 'walden'];
-const heroBooks = heroIds.map(id => books.find(book => book.id === id)).filter(Boolean) as CollectionEntry<"books">[];
-const heroBooksWithCovers = await Promise.all(
-  heroBooks.map(async (book) => {
-    let optimizedSrc: string | undefined;
-    if (book.data.coverImage) {
-      try {
-        const optimized = await getImage({ src: book.data.coverImage, width: 300, format: 'webp', quality: 80 });
-        optimizedSrc = optimized.src;
-      } catch { /* fallback */ }
-    }
-    return { ...book, optimizedSrc };
-  })
-);
+const totalWords = books.reduce((n, b) => n + wordCount(b.body), 0);
 
-// Library preview — 9 books with covers
-const booksWithCovers = await Promise.all(
-  books.slice(0, 9).map(async (book) => {
-    let optimizedSrc: string | undefined;
-    if (book.data.coverImage) {
-      try {
-        const optimized = await getImage({ src: book.data.coverImage, width: 400, format: 'webp', quality: 80 });
-        optimizedSrc = optimized.src;
-      } catch { /* fallback */ }
-    }
-    return { ...book, optimizedSrc };
-  })
-);
-
-const editorialBlurbs: Record<string, string> = {
-  'meditations': "The private journal of a Roman emperor, distilled into timeless wisdom on resilience, duty, and self-mastery. The perfect first classic.",
-  'the-prince': "Machiavelli's unflinching guide to power and leadership — as sharp and relevant today as it was 500 years ago.",
-  'art-of-war': "Sun Tzu's ancient masterwork on strategy, now in clear modern English. Essential reading for leaders in any field.",
-};
-
-// SEO Metadata
-const title = "Modernized Classics | Classic Literature for Modern Readers";
-const description = "Experience timeless literature reimagined for today's readers. We transform classic public-domain books into contemporary language, available as EPUBs and audiobooks.";
-const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+const title = "Modernized Classics";
+const description = "Public-domain classics of philosophy, politics, economics, and science, rewritten sentence by sentence into clear modern English. Free to read online or download as EPUB.";
+const canonicalURL = new URL('/', Astro.site).toString();
 ---
 
 <BaseLayout {title} {description} {canonicalURL}>
-
-  <!-- ============ HERO ============ -->
-  <section class="relative overflow-hidden bg-gradient-to-br from-stone-50 via-white to-warm-50 dark:from-slate-900 dark:via-slate-900 dark:to-slate-800 border-b border-stone-200 dark:border-slate-800">
-    <!-- Warm decorative blurs -->
-    <div class="absolute inset-0 z-0 pointer-events-none" aria-hidden="true">
-      <div class="absolute -left-20 top-1/4 h-[400px] w-[400px] rounded-full bg-warm-200/40 dark:bg-warm-900/20 blur-[120px]"></div>
-      <div class="absolute right-0 bottom-0 h-[350px] w-[350px] rounded-full bg-amber-100/50 dark:bg-amber-900/10 blur-[100px]"></div>
+  <!-- Masthead statement -->
+  <section class="wrap masthead">
+    <h1 class="t-display masthead-title">
+      The classics, in the English you already speak.
+    </h1>
+    <div class="masthead-side">
+      <p class="t-text masthead-lede">
+        Twenty-eight public-domain works of philosophy, politics, economics, and science, each rewritten
+        sentence by sentence into clear modern prose. Nothing is summarized or cut. Read them here, or take
+        the EPUB with you. Free, without an account.
+      </p>
+      <p class="t-meta masthead-facts">
+        <span>{books.length} editions</span>
+        <span>{Math.round(totalWords / 1000).toLocaleString('en')},000 words</span>
+        <span>Open source</span>
+      </p>
+      <p class="masthead-actions">
+        <a href="/library/" class="action action-primary">Browse the library</a>
+        <a href="/about/" class="masthead-link">How an edition is made</a>
+      </p>
     </div>
+  </section>
 
-    <div class="relative z-10 mx-auto max-w-screen-xl px-6 py-20 md:py-28">
-      <div class="flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
-
-        <!-- Left: Text content -->
-        <div class="flex-1 text-center lg:text-left max-w-2xl">
-          <span class="inline-flex items-center rounded-full px-4 py-1.5 text-xs font-semibold tracking-wide bg-warm-600 text-white dark:bg-warm-500 dark:text-slate-900 mb-6 animate-fade-in uppercase">
-            Reimagined for modern readers
-          </span>
-
-          <h1 class="font-serif text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-stone-900 dark:text-white leading-[1.1]">
-            Classic Literature,
-            <span class="text-warm-700 dark:text-warm-400"> Made Clear</span>
-          </h1>
-
-          <p class="mt-6 text-lg md:text-xl text-stone-600 dark:text-slate-300 leading-relaxed max-w-xl mx-auto lg:mx-0">
-            Timeless wisdom shouldn't be locked behind archaic language. We modernize the world's greatest books — free EPUBs and audiobooks, beautifully readable.
-          </p>
-
-          <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-            <a href="/library" class="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-lg bg-warm-700 hover:bg-warm-800 dark:bg-warm-500 dark:hover:bg-warm-400 text-white dark:text-slate-900 font-semibold shadow-lg shadow-warm-700/25 dark:shadow-warm-500/25 transition-all duration-200 hover:-translate-y-0.5">
-              Browse Library
-              <ArrowRight className="w-4 h-4" />
+  <!-- Start here -->
+  <section class="wrap start-here" aria-labelledby="start-here-title">
+    <div class="section-head">
+      <h2 id="start-here-title" class="t-text section-title">Start here</h2>
+      <p class="t-meta">Three short, complete works that repay a first evening.</p>
+    </div>
+    <ol class="picks">
+      {picks.map(({ book, line }) => {
+        const words = wordCount(book.body);
+        return (
+          <li class="pick" style={`--series: ${seriesColor(book.id) ?? 'var(--ink-8)'}`}>
+            <a href={`/books/${book.id}/`} class="cover-link pick-cover">
+              <Cover src={book.data.coverImage} alt={book.data.coverAlt || `Cover of ${book.data.title}`} title={book.data.title} author={displayAuthor(book.data.author)} width={220} sizes="(min-width: 768px) 220px, 40vw" loading="eager" />
             </a>
-            <a href="/about" class="inline-flex items-center justify-center px-8 py-3.5 rounded-lg border-2 border-stone-300 dark:border-slate-600 text-stone-700 dark:text-slate-200 font-semibold hover:bg-stone-100 dark:hover:bg-slate-800/50 transition-all duration-200">
-              Our Process
-            </a>
-          </div>
-
-          <div class="mt-8 flex items-center gap-6 text-sm text-stone-500 dark:text-slate-400 justify-center lg:justify-start">
-            <span class="flex items-center gap-1.5">
-              <BookOpen className="w-4 h-4 text-warm-600 dark:text-warm-400" />
-              {books.length} books
-            </span>
-            <span class="flex items-center gap-1.5">
-              <Download className="w-4 h-4 text-warm-600 dark:text-warm-400" />
-              Free forever
-            </span>
-            <span class="flex items-center gap-1.5">
-              <Headphones className="w-4 h-4 text-warm-600 dark:text-warm-400" />
-              Audio available
-            </span>
-          </div>
-        </div>
-
-        <!-- Right: Floating book covers -->
-        <div class="flex-shrink-0 hidden md:block relative w-[360px] h-[420px] lg:w-[420px] lg:h-[480px]">
-          {heroBooksWithCovers.slice(0, 4).map((book, i) => {
-            const positions = [
-              'top-0 left-8 rotate-[-6deg] z-30',
-              'top-6 left-[140px] rotate-[3deg] z-40',
-              'top-[160px] left-0 rotate-[-3deg] z-20',
-              'top-[170px] left-[150px] rotate-[6deg] z-10',
-            ];
-            const durations = ['7s', '8s', '6.5s', '7.5s'];
-            const delays = ['0s', '0.6s', '1.2s', '1.8s'];
-            return book.optimizedSrc ? (
-              <div class={`absolute ${positions[i]} hero-float`} style={`--float-duration: ${durations[i]}; --float-delay: ${delays[i]};`}>
-                <a href={`/books/${book.id}/`} class="block">
-                  <img
-                    src={book.optimizedSrc}
-                    alt={book.data.coverAlt || `Cover of ${book.data.title}`}
-                    class="w-[160px] lg:w-[180px] rounded-lg shadow-2xl shadow-stone-900/20 dark:shadow-black/40 hover:scale-105 transition-transform duration-300"
-                    loading="eager"
-                  />
-                </a>
-              </div>
-            ) : null;
-          })}
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <!-- ============ STAFF PICKS — "Start Here" ============ -->
-  <section class="py-20 md:py-24 bg-white dark:bg-slate-900 border-b border-stone-200 dark:border-slate-800 relative overflow-hidden">
-    <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
-      <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[1px] bg-gradient-to-r from-transparent via-warm-300 dark:via-warm-700 to-transparent"></div>
-    </div>
-
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">Curated for you</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Start Here</h2>
-        <p class="mt-4 text-lg text-stone-600 dark:text-slate-400">Not sure where to begin? These three classics are the perfect introduction.</p>
-      </div>
-
-      <div class="grid gap-8 md:grid-cols-3 max-w-screen-lg mx-auto">
-        {staffPicksWithCovers.map((book, i) => (
-          <a
-            href={`/books/${book.id}/`}
-            class="group block bg-stone-50 dark:bg-slate-800 rounded-2xl overflow-hidden border border-stone-200 dark:border-slate-700 shadow-sm hover:shadow-xl transition-all duration-400 hover:-translate-y-1"
-          >
-            <div class="aspect-[3/4] relative overflow-hidden">
-              {book.optimizedSrc ? (
-                <img
-                  src={book.optimizedSrc}
-                  alt={book.data.coverAlt || `Cover of ${book.data.title}`}
-                  class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                  loading="eager"
-                />
-              ) : (
-                <div class="w-full h-full bg-gradient-to-br from-warm-100 to-warm-200 dark:from-slate-600 dark:to-slate-700 flex items-center justify-center">
-                  <p class="font-serif text-lg font-bold text-stone-700 dark:text-white">{book.data.title}</p>
-                </div>
-              )}
-              <!-- Staff Pick badge -->
-              <div class="absolute top-3 left-3 px-3 py-1 rounded-full bg-warm-600 text-white text-xs font-semibold shadow-lg">
-                Staff Pick
-              </div>
-              <!-- Reading time -->
-              <div class="absolute bottom-3 right-3 px-2.5 py-1 rounded-full bg-black/60 backdrop-blur-sm text-white text-xs font-medium flex items-center gap-1">
-                <Clock className="w-3 h-3" />
-                {book.readingTime} min
-              </div>
-            </div>
-
-            <div class="p-5">
-              <h3 class="font-serif text-xl font-bold text-stone-900 dark:text-white mb-1 group-hover:text-warm-700 dark:group-hover:text-warm-400 transition-colors">
-                {book.data.title}
-              </h3>
-              <p class="text-sm text-stone-500 dark:text-slate-400 font-medium mb-3">
-                by {book.data.author}
+            <div class="pick-info">
+              <h3 class="t-text pick-title"><a href={`/books/${book.id}/`} class="link-quiet">{book.data.title}</a></h3>
+              <p class="t-meta pick-meta">
+                <span>{displayAuthor(book.data.author)}</span>
+                {book.data.yearPublished && <span>{yearLabel(book.data.yearPublished)}</span>}
+                <span>{readingTime(words)}</span>
               </p>
-              <p class="text-sm text-stone-600 dark:text-slate-300 leading-relaxed">
-                {editorialBlurbs[book.id] || book.data.description}
-              </p>
+              <p class="t-text pick-line">{line}</p>
             </div>
-          </a>
-        ))}
-      </div>
-    </div>
+          </li>
+        );
+      })}
+    </ol>
   </section>
 
-
-  <!-- ============ FEATURES ============ -->
-  <section class="py-20 md:py-24 bg-stone-50 dark:bg-slate-950 border-b border-stone-200 dark:border-slate-800">
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">Why us</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Why Choose Our Editions?</h2>
-      </div>
-
-      <div class="grid gap-8 md:grid-cols-3 max-w-screen-lg mx-auto">
-        {[
-          { icon: 'prose', title: 'Crystal-Clear Prose', desc: 'Every classic is meticulously modernized, sentence by sentence. We preserve all original themes while making the text as readable as contemporary literature.' },
-          { icon: 'formats', title: 'Multiple Formats', desc: 'Download beautifully formatted EPUB files and stream high-quality audiobooks. All files are DRM-free — read offline or listen on-the-go.' },
-          { icon: 'type', title: 'Elegant Typography', desc: 'Enjoy a pleasant reading experience with carefully designed typography, proper spacing, and visual hierarchy on any device.' },
-        ].map((feature, i) => (
-          <div
-            class="bg-white dark:bg-slate-800/50 rounded-2xl p-8 border border-stone-200 dark:border-slate-700 hover:border-warm-300 dark:hover:border-warm-700 hover:shadow-lg transition-all duration-300"
-          >
-            <div class="flex items-center gap-4 mb-5">
-              <div class="flex-shrink-0 h-12 w-12 flex items-center justify-center rounded-xl bg-warm-100 dark:bg-warm-900/30">
-                {feature.icon === 'prose' && <BookOpen className="h-6 w-6 text-warm-700 dark:text-warm-400" />}
-                {feature.icon === 'formats' && <Download className="h-6 w-6 text-warm-700 dark:text-warm-400" />}
-                {feature.icon === 'type' && <Type className="h-6 w-6 text-warm-700 dark:text-warm-400" />}
-              </div>
-              <h3 class="text-xl font-semibold text-stone-900 dark:text-white">{feature.title}</h3>
-            </div>
-            <p class="text-stone-600 dark:text-slate-300 leading-relaxed">
-              {feature.desc}
-            </p>
-          </div>
-        ))}
-      </div>
+  <!-- The shelf -->
+  <section class="wrap shelf" aria-labelledby="shelf-title">
+    <div class="section-head">
+      <h2 id="shelf-title" class="t-text section-title">The shelf</h2>
+      <p class="t-meta">Every edition, grouped by the question it answers. <a href="/library/">Search and filter the library</a> for the full list.</p>
     </div>
+    {rows.map((row) => (
+      <div class="shelf-row">
+        <div class="shelf-label">
+          <h3 class="t-text shelf-title">{row.title}</h3>
+          <p class="t-meta shelf-note">{row.note}</p>
+        </div>
+        <ul class="shelf-books">
+          {row.books.map((book) => (
+            <li style={`--series: ${seriesColor(book.id) ?? 'var(--ink-8)'}`}>
+              <a href={`/books/${book.id}/`} class="cover-link shelf-book">
+                <Cover src={book.data.coverImage} alt={book.data.coverAlt || `Cover of ${book.data.title}`} title={book.data.title} author={displayAuthor(book.data.author)} width={150} sizes="(min-width: 1024px) 150px, (min-width: 640px) 22vw, 42vw" />
+                <span class="shelf-book-title t-text">{book.data.title}</span>
+                <span class="shelf-book-author t-meta">{displayAuthor(book.data.author)}{book.data.yearPublished ? `, ${yearLabel(book.data.yearPublished)}` : ''}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
   </section>
 
-
-  <!-- ============ LIBRARY PREVIEW ============ -->
-  <section id="library" class="py-20 md:py-24 bg-white dark:bg-slate-900 border-b border-stone-200 dark:border-slate-800 relative overflow-hidden">
-    <div class="container relative z-10 mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">Available Titles</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Our Library</h2>
-      </div>
-
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 max-w-screen-xl mx-auto">
-        {booksWithCovers.map((book, i: number) => (
-          <a
-            href={`/books/${book.id}/`}
-            class="group block bg-stone-50 dark:bg-slate-800 rounded-xl overflow-hidden border border-stone-200 dark:border-slate-700 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 book-card"
-          >
-            <!-- Book spine accent -->
-            <div class="flex">
-              <div class="w-1.5 bg-gradient-to-b from-warm-400 via-warm-600 to-warm-800 dark:from-warm-500 dark:via-warm-600 dark:to-warm-800 flex-shrink-0"></div>
-              <div class="flex-1">
-                <div class="aspect-[2/3] relative overflow-hidden bg-stone-100 dark:bg-slate-700">
-                  {book.optimizedSrc ? (
-                    <img
-                      src={book.optimizedSrc}
-                      alt={book.data.coverAlt || `Cover of ${book.data.title}`}
-                      class="w-full h-full object-cover object-center transition-transform duration-500 group-hover:scale-105"
-                      loading={i < 3 ? "eager" : "lazy"}
-                    />
-                  ) : (
-                    <div class="w-full h-full bg-gradient-to-br from-warm-100 to-stone-200 dark:from-slate-600 dark:to-slate-700 flex items-center justify-center">
-                      <div class="text-center p-4">
-                        <p class="font-serif text-lg font-bold text-stone-700 dark:text-white mb-1">{book.data.title}</p>
-                        <p class="text-sm text-stone-500 dark:text-slate-300">by {book.data.author}</p>
-                      </div>
-                    </div>
-                  )}
-                </div>
-
-                <div class="p-4">
-                  <h3 class="font-serif font-bold text-lg text-stone-900 dark:text-white mb-1 line-clamp-2 group-hover:text-warm-700 dark:group-hover:text-warm-400 transition-colors">
-                    {book.data.title}
-                  </h3>
-                  <p class="text-sm text-stone-500 dark:text-slate-400 font-medium mb-3">
-                    by {book.data.author}
-                  </p>
-
-                  <div class="flex items-center gap-3 text-xs text-stone-400 dark:text-slate-500 mb-3">
-                    <span class="flex items-center gap-1">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-                      EPUB
-                    </span>
-                    {book.data.audioDownload && (
-                      <span class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
-                        AUDIO
-                      </span>
-                    )}
-                  </div>
-
-                  {book.data.tags && book.data.tags.length > 0 && (
-                    <div class="flex flex-wrap gap-1">
-                      {book.data.tags.slice(0, 2).map((tag: string) => (
-                        <span class="inline-block px-2 py-0.5 text-xs bg-warm-100 dark:bg-warm-900/30 text-warm-800 dark:text-warm-300 rounded-full">
-                          {tag}
-                        </span>
-                      ))}
-                      {book.data.tags.length > 2 && (
-                        <span class="inline-block px-2 py-0.5 text-xs bg-stone-100 dark:bg-slate-700 text-stone-500 dark:text-slate-400 rounded-full">
-                          +{book.data.tags.length - 2}
-                        </span>
-                      )}
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
-          </a>
-        ))}
-      </div>
-
-      <div class="text-center mt-14">
-        <a href="/library" class="inline-flex items-center gap-2 px-8 py-3.5 rounded-lg border-2 border-warm-300 dark:border-warm-700 text-warm-800 dark:text-warm-300 font-semibold hover:bg-warm-50 dark:hover:bg-warm-900/20 transition-all duration-200">
-          View All {books.length} Books
-          <ArrowRight className="w-4 h-4" />
-        </a>
-      </div>
+  <!-- Method, briefly -->
+  <section class="wrap method" aria-labelledby="method-title">
+    <h2 id="method-title" class="t-text section-title">A note on the text</h2>
+    <div class="method-cols t-text">
+      <p>
+        Each edition starts from a public-domain source. A pipeline cuts the work into passages, rewrites
+        every passage into modern English with a language model, and then checks each rewrite against its
+        source for dropped content, changed meaning, summarizing, and stray commentary. Passages that fail
+        are revised and checked again; those that still fail are never published.
+      </p>
+      <p>
+        The result is a complete modern reading of the whole work, not an abridgement. It is also machine
+        prose reviewed by a machine, so treat it as a way in, and quote the original when it matters.
+        The pipeline, prompts, and site are <a href="https://github.com/joelborch/modernized-classics-open-source" rel="noopener">open source</a>;
+        the <a href="/about/">colophon</a> explains the method in full.
+      </p>
     </div>
   </section>
-
-  <style>
-    .book-card {
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fadeIn 0.5s ease-out forwards;
-    }
-
-    .book-card:nth-child(1) { animation-delay: 0.1s; }
-    .book-card:nth-child(2) { animation-delay: 0.15s; }
-    .book-card:nth-child(3) { animation-delay: 0.2s; }
-    .book-card:nth-child(4) { animation-delay: 0.25s; }
-    .book-card:nth-child(5) { animation-delay: 0.3s; }
-    .book-card:nth-child(6) { animation-delay: 0.35s; }
-    .book-card:nth-child(7) { animation-delay: 0.4s; }
-    .book-card:nth-child(8) { animation-delay: 0.45s; }
-    .book-card:nth-child(9) { animation-delay: 0.5s; }
-
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    .hero-float {
-      animation: gentle-float var(--float-duration, 7s) ease-in-out var(--float-delay, 0s) infinite;
-    }
-
-    @keyframes gentle-float {
-      0%, 100% { translate: 0 0; }
-      50% { translate: 0 -6px; }
-    }
-  </style>
 </BaseLayout>
+
+<style>
+  .masthead {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 3.5rem 0 3rem;
+    border-bottom: var(--rule);
+  }
+  @media (min-width: 900px) {
+    .masthead { grid-template-columns: 7fr 5fr; gap: 4rem; padding: 5rem 0 4rem; align-items: end; }
+  }
+  .masthead-title {
+    font-size: clamp(2.5rem, 6vw + 0.5rem, 5.5rem);
+    margin: 0;
+    max-width: 14ch;
+  }
+  .masthead-lede { font-size: 1.125rem; line-height: 1.55; margin: 0 0 1.25rem; color: var(--ink-9); max-width: 46ch; }
+  .masthead-facts { display: flex; flex-wrap: wrap; gap: 0 0.5rem; margin: 0 0 1.5rem; }
+  .masthead-facts span + span::before { content: '·'; margin-right: 0.5rem; color: var(--ink-5); }
+  .masthead-actions { display: flex; flex-wrap: wrap; gap: 1.25rem; align-items: center; margin: 0; }
+  .masthead-link { font-family: var(--font-ui); font-size: 0.9375rem; color: var(--ink-9); }
+
+  .section-head { display: flex; flex-direction: column; gap: 0.25rem; margin-bottom: 1.75rem; }
+  .section-title { font-size: 1.5rem; font-weight: 500; margin: 0; letter-spacing: -0.01em; }
+
+  .start-here { padding: 3.5rem 0 1rem; }
+  .picks {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: 1fr; gap: 2rem;
+  }
+  @media (min-width: 768px) { .picks { grid-template-columns: repeat(3, 1fr); gap: 2.5rem; } }
+  .pick { display: grid; grid-template-columns: 120px 1fr; gap: 1.25rem; align-items: start; }
+  @media (min-width: 768px) { .pick { grid-template-columns: 1fr; gap: 1rem; } .pick-cover { width: 220px; max-width: 100%; } }
+  .pick-title { font-size: 1.25rem; font-weight: 500; margin: 0 0 0.25rem; }
+  .pick-title a { text-decoration: none; }
+  .pick-title a:hover { text-decoration: underline; text-decoration-color: var(--series-ink); }
+  .pick-meta { display: flex; flex-wrap: wrap; gap: 0 0.5rem; margin: 0 0 0.5rem; }
+  .pick-meta span + span::before { content: '·'; margin-right: 0.5rem; color: var(--ink-5); }
+  .pick-line { font-size: 1rem; line-height: 1.5; color: var(--ink-9); margin: 0; max-width: 34ch; }
+
+  .shelf { padding: 3.5rem 0 1rem; }
+  .shelf-row {
+    display: grid; grid-template-columns: 1fr; gap: 1rem;
+    padding: 1.75rem 0; border-top: var(--rule);
+  }
+  @media (min-width: 900px) { .shelf-row { grid-template-columns: 16rem minmax(0, 1fr); gap: 2.5rem; padding: 2.25rem 0; } }
+  .shelf-title { font-size: 1.125rem; font-weight: 500; margin: 0 0 0.25rem; }
+  .shelf-note { margin: 0; max-width: 24ch; }
+  .shelf-books {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.75rem 1.25rem;
+  }
+  @media (min-width: 640px) { .shelf-books { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+  @media (min-width: 1024px) { .shelf-books { grid-template-columns: repeat(auto-fill, minmax(140px, 150px)); gap: 2rem 1.5rem; } }
+  .shelf-book { display: grid; gap: 0.5rem; }
+  .shelf-book-title { font-size: 0.9375rem; line-height: 1.25; font-weight: 500; margin-top: 0.35rem; }
+  .shelf-book-author { font-size: 0.75rem; line-height: 1.3; }
+
+  .method { padding: 3.5rem 0 1rem; border-top: var(--rule); margin-top: 2rem; }
+  .method .section-title { margin-bottom: 1.25rem; }
+  .method-cols { display: grid; grid-template-columns: 1fr; gap: 0 3rem; font-size: 1.0625rem; line-height: 1.6; color: var(--ink-9); }
+  @media (min-width: 900px) { .method-cols { grid-template-columns: 1fr 1fr; } }
+  .method-cols p { margin: 0 0 1em; max-width: 52ch; }
+  .method-cols a { text-decoration-color: var(--series-ink); }
+</style>

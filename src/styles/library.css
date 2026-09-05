@@ -1,0 +1,118 @@
+/* Library: search, filters, and the two shelf views. Loaded by library.astro. */
+
+.library { padding-bottom: 2rem; }
+
+.library-controls {
+  display: grid;
+  gap: 1.25rem;
+  padding: 1.5rem 0;
+  border-top: var(--rule);
+  border-bottom: var(--rule);
+  font-family: var(--font-ui);
+}
+.library-search { display: grid; gap: 0.4rem; }
+.library-search input {
+  width: 100%;
+  max-width: 34rem;
+  font: inherit;
+  font-family: var(--font-text);
+  font-size: 1.25rem;
+  padding: 0.5rem 0;
+  border: 0;
+  border-bottom: 1px solid var(--ink-5);
+  background: transparent;
+  color: var(--ink-10);
+  border-radius: 0;
+}
+.library-search input::placeholder { color: var(--ink-6); font-style: italic; }
+.library-search input:focus { outline: none; border-bottom-color: var(--series-rule); }
+.library-search input::-webkit-search-cancel-button { -webkit-appearance: none; }
+
+.library-filter { display: grid; gap: 0.4rem; align-content: start; }
+.library-row { display: flex; flex-wrap: wrap; gap: 1.25rem 2.5rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; }
+.chips button {
+  background: transparent;
+  border: 0;
+  padding: 0.2rem 0;
+  font-size: 0.9375rem;
+  color: var(--ink-8);
+  border-bottom: 1px solid transparent;
+  cursor: pointer;
+  transition: color 150ms cubic-bezier(0.2, 0, 0, 1), border-color 150ms cubic-bezier(0.2, 0, 0, 1);
+}
+.chips button:hover { color: var(--ink-10); border-bottom-color: var(--ink-4); }
+.chips button[aria-pressed='true'] { color: var(--ink-10); border-bottom-color: var(--series-rule); }
+.library-sort select {
+  font: inherit;
+  font-size: 0.9375rem;
+  color: var(--ink-10);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--ink-4);
+  padding: 0.2rem 1.5rem 0.2rem 0;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.library-count { margin: 1rem 0 1.5rem; }
+.library-clear {
+  background: none; border: 0; padding: 0; font: inherit; color: var(--series-ink);
+  text-decoration: underline; text-underline-offset: 0.16em; cursor: pointer;
+}
+
+.library-empty { padding: 3rem 0; max-width: 40ch; font-size: 1.125rem; }
+.library-empty p { margin: 0 0 0.5rem; }
+
+/* Covers view */
+.library-grid {
+  list-style: none; margin: 0; padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem 1.25rem;
+}
+@media (min-width: 640px) { .library-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (min-width: 1024px) { .library-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 170px)); gap: 2.25rem 1.5rem; } }
+a.library-item { display: grid; gap: 0.35rem; }
+.library-item .cover { display: block; }
+.library-item-title { font-size: 0.9375rem; line-height: 1.25; font-weight: 500; margin-top: 0.5rem; }
+.library-item-meta { font-size: 0.75rem; line-height: 1.3; }
+.library-board {
+  position: absolute; inset: 0; display: flex; align-items: flex-end;
+  padding: 10% 10% 12% 16%; background: var(--series); color: #fff;
+  font-size: 1rem; line-height: 1.15; font-weight: 500;
+}
+
+/* Spines view: the shelf edge, one row per edition */
+.spines { list-style: none; margin: 0; padding: 0; border-top: var(--rule); }
+.spine {
+  display: grid;
+  grid-template-columns: 6px minmax(0, 1fr) auto;
+  grid-template-areas:
+    'band title year'
+    'band author length';
+  column-gap: 1rem;
+  row-gap: 0.15rem;
+  align-items: baseline;
+  padding: 0.85rem 0;
+  border-bottom: var(--rule);
+  text-decoration: none;
+  color: var(--ink-10);
+  transition: background-color 150ms cubic-bezier(0.2, 0, 0, 1);
+}
+@media (min-width: 768px) {
+  .spine {
+    grid-template-columns: 6px minmax(0, 2fr) minmax(0, 1.4fr) 6rem 6rem 6rem;
+    grid-template-areas: 'band title author year length formats';
+    padding: 0.7rem 0;
+  }
+}
+.spine:hover { background: var(--ink-1); }
+.spine-band { grid-area: band; align-self: stretch; background: var(--series); }
+.spine-title { grid-area: title; font-size: 1.0625rem; font-weight: 500; }
+.spine-author { grid-area: author; }
+.spine-year { grid-area: year; text-align: right; }
+.spine-length { grid-area: length; text-align: right; }
+.spine-formats { grid-area: formats; text-align: right; display: none; }
+@media (min-width: 768px) { .spine-formats { display: block; } .spine-year, .spine-length { text-align: left; } }
+.spine:hover .spine-title { color: var(--series-ink); }

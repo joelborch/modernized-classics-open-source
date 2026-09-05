@@ -41,7 +41,11 @@ npm run modernize -- --slug walden
 ```
 
 Then drop a `cover.png` into `src/content/books/walden/` (a generated
-`cover-prompt.txt` is waiting there) and run `npm run build`.
+`cover-prompt.txt` is waiting there), run `npm run series-colors` so the
+edition gets its colour from the cover, and run `npm run build`.
+
+The site's visual system (tokens, type, the reading edition's apparatus) is
+recorded in `DESIGN.md`; read it before changing UI.
 
 `npm run modernize -- --help` lists every option. `--status` shows progress
 for a book; re-running a command resumes wherever it stopped.

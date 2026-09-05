@@ -1,77 +1,67 @@
 ---
 import { getCollection } from 'astro:content';
 import { getImage } from 'astro:assets';
-import type { Book } from '../lib/search';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import LibraryClient from '../components/LibraryClient.tsx';
+import '../styles/library.css';
+import LibraryClient from '../components/LibraryClient';
+import type { LibraryBook } from '../components/LibraryClient';
+import { displayAuthor, readingMinutes, readingTime, seriesColor, shelves, sortByTitle, wordCount, yearLabel } from '../lib/edition';
 
-const books = (await getCollection('books')).sort(
-  (left, right) => left.data.title.localeCompare(right.data.title, 'en') || left.id.localeCompare(right.id, 'en')
-);
+const books = sortByTitle(await getCollection('books'));
+const shelfOf = new Map<string, string>();
+shelves.forEach((s) => s.slugs.forEach((slug) => shelfOf.set(slug, s.id)));
 
-// Process book cover images with getImage for optimization
-const booksData: Book[] = await Promise.all(
+const items: LibraryBook[] = await Promise.all(
   books.map(async (book) => {
-    let optimizedCover: Book['data']['optimizedCover'] | undefined = undefined;
-
+    let cover: LibraryBook['cover'];
     if (book.data.coverImage) {
-      try {
-        const optimized = await getImage({
-          src: book.data.coverImage,
-          widths: [200, 400, 600],
-          formats: ['webp', 'jpeg'],
-          quality: 85
-        });
-
-        // Extract the actual attributes we need
-        optimizedCover = {
-          src: optimized.src,
-          width: optimized.attributes.width as number,
-          height: optimized.attributes.height as number,
-          srcSet: (optimized.attributes as any).srcset as string,
-          sizes: '(max-width: 768px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw'
-        };
-      } catch (error) {
-        console.error(`Failed to optimize cover for ${book.data.title}:`, error);
-        // If optimization fails, we'll fall back to the original image in the component
-      }
+      const optimized = await getImage({ src: book.data.coverImage, widths: [160, 240, 320, 480], format: 'webp', quality: 82 });
+      cover = {
+        src: optimized.src,
+        srcSet: (optimized.attributes as { srcset?: string }).srcset ?? '',
+        width: Number(optimized.attributes.width),
+        height: Number(optimized.attributes.height),
+      };
     }
-
-    const result: Book = {
+    const words = wordCount(book.body);
+    return {
       slug: book.id,
-      data: {
-        title: book.data.title,
-        author: book.data.author,
-        description: book.data.description,
-        tags: book.data.tags,
-        yearPublished: book.data.yearPublished,
-        yearModernized: book.data.yearModernized,
-        coverImage: book.data.coverImage as any,
-        coverAlt: book.data.coverAlt,
-        audioDownload: book.data.audioDownload,
-        optimizedCover
-      }
+      title: book.data.title,
+      author: displayAuthor(book.data.author),
+      description: book.data.description ?? '',
+      tags: book.data.tags ?? [],
+      year: book.data.yearPublished,
+      yearLabel: yearLabel(book.data.yearPublished),
+      minutes: readingMinutes(words),
+      length: readingTime(words),
+      audio: !!book.data.audioDownload,
+      epub: book.data.downloads?.epub || `/downloads/${book.id}.epub`,
+      shelf: shelfOf.get(book.id) ?? 'further',
+      series: seriesColor(book.id),
+      cover,
+      coverAlt: book.data.coverAlt,
     };
-    return result;
-  })
+  }),
 );
+
+const shelfOptions = shelves.map((s) => ({ id: s.id, title: s.title }));
+if (items.some((i) => i.shelf === 'further')) shelfOptions.push({ id: 'further', title: 'Further reading' });
+
+const title = 'Library';
+const description = `All ${books.length} Modernized Classics editions: search by title or author, filter by subject or format, and read online or download the EPUB.`;
 ---
 
-<BaseLayout
-  title="Library - Modernized Books"
-  description="Browse our complete collection of modernized classic books. Filter by format, tags and search to find your next great read in EPUB or audio format."
->
-  <main class="min-h-screen bg-stone-50 dark:bg-slate-950 py-8">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center mb-8">
-        <h1 class="font-serif text-4xl font-bold text-stone-900 dark:text-white mb-4">Book Library</h1>
-        <p class="text-lg text-stone-600 dark:text-slate-400 max-w-2xl mx-auto">
-          Discover our collection of {books.length} modernized classic books available as EPUBs and audiobooks.
-          Use the search and filters below to find books that interest you.
-        </p>
-      </div>
-
-      <LibraryClient books={booksData} client:idle />
-    </div>
-  </main>
+<BaseLayout {title} {description}>
+  <section class="wrap library-head">
+    <h1 class="t-display library-title">Library</h1>
+    <p class="t-meta">{books.length} editions · every one free to read here or download as EPUB</p>
+  </section>
+  <section class="wrap">
+    <LibraryClient books={items} shelves={shelfOptions} client:load />
+  </section>
 </BaseLayout>
+
+<style>
+  .library-head { padding: 3rem 0 1.5rem; }
+  .library-title { font-size: clamp(2.5rem, 5vw, 4rem); margin: 0 0 0.5rem; }
+</style>
