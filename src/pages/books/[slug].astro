@@ -1,0 +1,54 @@
+---
+import { getCollection, render } from 'astro:content';
+import BookLayout from '../../layouts/BookLayout.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { generateTOC } from '../../lib/toc';
+
+export async function getStaticPaths() {
+  const books = await getCollection('books');
+  return books.map((book) => ({
+    params: { slug: book.id },
+    props: { book },
+  }));
+}
+
+const { book } = Astro.props;
+const bookData = book.data;
+const { Content } = await render(book);
+const toc = generateTOC(book.body || '');
+
+// Reading time estimate (~250 words/min)
+const wordCount = (book.body || '').split(/\s+/).length;
+const readingTime = Math.max(1, Math.round(wordCount / 250));
+
+const title = `${bookData.title} by ${bookData.author}`;
+const description = bookData.description || `Read ${bookData.title} by ${bookData.author} - A modernized classic available as EPUB.`;
+const canonicalURL = new URL(`/books/${book.id}/`, Astro.site).toString();
+const image = bookData.coverImage ? new URL(bookData.coverImage.src, Astro.site).toString() : undefined;
+---
+
+<BaseLayout
+  {title}
+  {description}
+  {canonicalURL}
+  image={image}
+>
+  <BookLayout
+    title={bookData.title}
+    author={bookData.author}
+    yearPublished={bookData.yearPublished}
+    yearModernized={bookData.yearModernized}
+    description={bookData.description}
+    downloads={bookData.downloads}
+    audioDownload={bookData.audioDownload}
+    toc={toc}
+    slug={book.id}
+    coverImageAsset={bookData.coverImage}
+    coverAlt={bookData.coverAlt}
+    readingTime={readingTime}
+  >
+    <div class="prose dark:prose-invert max-w-prose mx-auto text-base">
+      <Content />
+    </div>
+  </BookLayout>
+</BaseLayout>

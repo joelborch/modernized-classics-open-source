@@ -1,0 +1,140 @@
+---
+import "../styles/tailwind.css";
+import { Font } from 'astro:assets';
+import { ClientRouter } from 'astro:transitions';
+import Header   from "../components/Header.astro";
+import Footer   from "../components/Footer.astro";
+import SEO      from "../components/SEO.astro";
+import logoImage from '../assets/logo.png';
+
+/* ----------  Props  ---------- */
+interface Props {
+  title:         string;
+  description?:  string;
+  image?:        string;
+  canonicalURL?: string;
+}
+const {
+  title,
+  description  = '',
+  image,
+  canonicalURL
+} = Astro.props as Props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <SEO
+    title={title}
+    description={description}
+    image={image}
+    canonicalURL={canonicalURL}
+  />
+
+  <link rel="icon" href={logoImage.src} type="image/png" />
+  <link rel="apple-touch-icon" href={logoImage.src} />
+
+  <!-- Self-hosted fonts -->
+  <Font cssVariable="--font-robo" preload />
+  <Font cssVariable="--font-serif" preload />
+
+  <!-- View Transitions for smooth page navigation -->
+  <ClientRouter />
+
+  <!-- Apply reader prefs before first paint to avoid late font/spacing swaps impacting LCP -->
+  <script is:inline>
+    (() => {
+      try {
+        const html = document.documentElement;
+
+        const theme = localStorage.getItem('book-theme');
+        if (theme === 'dark') {
+          html.classList.add('dark');
+          html.removeAttribute('data-theme');
+        } else if (theme === 'sepia') {
+          html.classList.remove('dark');
+          html.setAttribute('data-theme', 'sepia');
+        }
+
+        const fontSize = localStorage.getItem('book-font-size');
+        if (fontSize) {
+          html.setAttribute('data-reader-font', fontSize);
+        }
+
+        const spacing = localStorage.getItem('book-line-spacing');
+        if (spacing) {
+          html.setAttribute('data-reader-spacing', spacing);
+        }
+      } catch {
+        // Ignore localStorage access errors (private mode, blocked storage, etc.)
+      }
+    })();
+  </script>
+
+  <!-- GA-4 in a Partytown worker -->
+  <script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-EH1GVEYZLH"></script>
+  <script type="text/partytown" is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-EH1GVEYZLH');
+  </script>
+</head>
+
+<body class="min-h-screen font-sans bg-stone-50 text-stone-900 dark:bg-slate-950 dark:text-white">
+  <Header />
+
+  <main class="flex-1">
+    <slot />
+  </main>
+
+  <Footer />
+
+  <!-- Scroll-triggered reveal animations -->
+  <script>
+    function initScrollReveal() {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('revealed');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+      document.querySelectorAll('.reveal-on-scroll').forEach(el => {
+        observer.observe(el);
+      });
+    }
+
+    // Run on initial load
+    initScrollReveal();
+
+    // Re-run after view transitions
+    document.addEventListener('astro:after-swap', initScrollReveal);
+  </script>
+
+  <style is:global>
+    /* Scroll reveal — subtle, only used on section headings */
+    .reveal-on-scroll {
+      opacity: 0;
+      transform: translateY(12px);
+      transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+    }
+    .reveal-on-scroll.revealed {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* View transition customization */
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+      animation-duration: 0.3s;
+    }
+  </style>
+</body>
+</html>

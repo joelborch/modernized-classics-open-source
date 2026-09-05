@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
+import type { Book } from '../lib/search';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LibraryClient from '../components/LibraryClient.tsx';
+
+const books = (await getCollection('books')).sort(
+  (left, right) => left.data.title.localeCompare(right.data.title, 'en') || left.id.localeCompare(right.id, 'en')
+);
+
+// Process book cover images with getImage for optimization
+const booksData: Book[] = await Promise.all(
+  books.map(async (book) => {
+    let optimizedCover: Book['data']['optimizedCover'] | undefined = undefined;
+
+    if (book.data.coverImage) {
+      try {
+        const optimized = await getImage({
+          src: book.data.coverImage,
+          widths: [200, 400, 600],
+          formats: ['webp', 'jpeg'],
+          quality: 85
+        });
+
+        // Extract the actual attributes we need
+        optimizedCover = {
+          src: optimized.src,
+          width: optimized.attributes.width as number,
+          height: optimized.attributes.height as number,
+          srcSet: (optimized.attributes as any).srcset as string,
+          sizes: '(max-width: 768px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw'
+        };
+      } catch (error) {
+        console.error(`Failed to optimize cover for ${book.data.title}:`, error);
+        // If optimization fails, we'll fall back to the original image in the component
+      }
+    }
+
+    const result: Book = {
+      slug: book.id,
+      data: {
+        title: book.data.title,
+        author: book.data.author,
+        description: book.data.description,
+        tags: book.data.tags,
+        yearPublished: book.data.yearPublished,
+        yearModernized: book.data.yearModernized,
+        coverImage: book.data.coverImage as any,
+        coverAlt: book.data.coverAlt,
+        audioDownload: book.data.audioDownload,
+        optimizedCover
+      }
+    };
+    return result;
+  })
+);
+---
+
+<BaseLayout
+  title="Library - Modernized Books"
+  description="Browse our complete collection of modernized classic books. Filter by format, tags and search to find your next great read in EPUB or audio format."
+>
+  <main class="min-h-screen bg-stone-50 dark:bg-slate-950 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-8">
+        <h1 class="font-serif text-4xl font-bold text-stone-900 dark:text-white mb-4">Book Library</h1>
+        <p class="text-lg text-stone-600 dark:text-slate-400 max-w-2xl mx-auto">
+          Discover our collection of {books.length} modernized classic books available as EPUBs and audiobooks.
+          Use the search and filters below to find books that interest you.
+        </p>
+      </div>
+
+      <LibraryClient books={booksData} client:idle />
+    </div>
+  </main>
+</BaseLayout>

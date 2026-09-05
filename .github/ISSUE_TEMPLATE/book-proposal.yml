@@ -1,0 +1,65 @@
+name: Book Proposal
+description: Propose a new classic work to modernize and publish.
+title: "[Book Proposal]: "
+labels: ["book-proposal", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a new book! Please make sure the source text is in the public domain.
+  - type: input
+    id: book-title
+    attributes:
+      label: Book Title
+      description: The full title of the book.
+      placeholder: e.g. Meditations
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: The author of the original work.
+      placeholder: e.g. Marcus Aurelius
+    validations:
+      required: true
+  - type: input
+    id: source-url
+    attributes:
+      label: Public Domain Source URL
+      description: Link to the public domain source (Standard Ebooks, Project Gutenberg, etc.).
+      placeholder: https://standardebooks.org/ebooks/... or https://www.gutenberg.org/ebooks/...
+    validations:
+      required: true
+  - type: input
+    id: original-year
+    attributes:
+      label: Original Publication / Translation Year
+      description: Year of publication or source translation to confirm public domain status.
+      placeholder: e.g. 1890
+    validations:
+      required: true
+  - type: textarea
+    id: edition-evidence
+    attributes:
+      label: Exact edition and rights evidence
+      description: Name the translator, editor, edition year, selected sections, and evidence for the text and any cover. Separate original text from later introductions and annotations; state unknowns. Do not attach source EPUBs.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why should this book be modernized? How will a modern adaptation benefit readers?
+      placeholder: Describe why this text is a strong candidate for modernization...
+    validations:
+      required: true
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      options:
+        - label: I have verified the source text/translation is in the public domain in the United States.
+          required: true
+        - label: A clean digital EPUB or source text is accessible for pipeline processing.
+          required: true

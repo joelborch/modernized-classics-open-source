@@ -1,0 +1,731 @@
+---
+import BookHeader from '../components/BookHeader.astro';
+import ReadingControls from '../components/ReadingControls.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import '../styles/book.css';
+
+interface Props {
+  title: string;
+  author: string;
+  yearPublished?: number;
+  yearModernized?: number;
+  description?: string;
+  downloads?: {
+    epub?: string;
+  };
+  audioDownload?: string;
+  toc: { title: string; anchor: string; level: number }[];
+  slug: string;
+  coverImageAsset?: ImageMetadata;
+  coverAlt?: string;
+  readingTime?: number;
+}
+
+const {
+  title,
+  author,
+  yearPublished,
+  yearModernized,
+  description,
+  downloads,
+  audioDownload,
+  toc,
+  slug,
+  coverImageAsset,
+  coverAlt,
+  readingTime
+} = Astro.props;
+
+const epubLink = downloads?.epub || `/downloads/${slug}.epub`;
+const fallbackCoverPath = '/default-book-cover.png';
+// const absoluteCoverImageUrl = coverImageAsset ? new URL(coverImageAsset.src, Astro.site).toString() : new URL(fallbackCoverPath, Astro.site).toString();
+
+const bookDescription = description || `Read ${title} by ${author} - A modernized classic available as EPUB.`;
+---
+
+<div class="reading-progress"></div>
+
+<main class="book-container">
+  <div class="book-header-container">
+    <div class="book-cover-container">
+      <div class="book-cover">
+        {coverImageAsset ? (
+          <Image
+            src={coverImageAsset}
+            alt={coverAlt || `Cover for ${title}`}
+            width={200}
+            height={300}
+            format="avif"
+            quality={75}
+            class="rounded shadow-md"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+          />
+        ) : (
+          <div class="w-[200px] h-[300px] bg-gray-200 dark:bg-gray-700 rounded shadow-md flex items-center justify-center">
+            <span class="text-gray-500 dark:text-gray-400">No cover image</span>
+            <p class="absolute bottom-2 text-xs text-gray-500">Expected path: {fallbackCoverPath}</p>
+          </div>
+        )}
+      </div>
+    </div>
+    <BookHeader
+      title={title}
+      author={author}
+      yearPublished={yearPublished}
+      yearModernized={yearModernized}
+      epubLink={epubLink}
+      audioDownload={audioDownload}
+      readingTime={readingTime}
+    />
+  </div>
+  
+  <div class="book-content-wrapper">
+    <!-- Mobile TOC toggle button - removed md:hidden to make sure it works -->
+    <button id="mobile-toc-toggle" class="mobile-toc-toggle">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="12" x2="21" y2="12"></line>
+        <line x1="3" y1="6" x2="21" y2="6"></line>
+        <line x1="3" y1="18" x2="21" y2="18"></line>
+      </svg>
+      <span>Controls</span>
+    </button>
+    
+    <!-- Focus mode toggle -->
+    <button id="focus-mode-toggle" class="focus-mode-toggle" aria-label="Toggle focus mode" title="Hide header & footer for distraction-free reading">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 3H5a2 2 0 0 0-2 2v3"></path>
+        <path d="M21 8V5a2 2 0 0 0-2-2h-3"></path>
+        <path d="M3 16v3a2 2 0 0 0 2 2h3"></path>
+        <path d="M16 21h3a2 2 0 0 0 2-2v-3"></path>
+      </svg>
+    </button>
+
+    <!-- Sidebar with TOC and Reading Controls -->
+    <aside id="book-sidebar" class="book-sidebar">
+      <div class="sidebar-header md:hidden">
+        <h2>Book Navigation</h2>
+        <button id="close-sidebar" aria-label="Close sidebar" type="button">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      
+      <div class="sidebar-content">
+        <ReadingControls />
+        <TableOfContents toc={toc} slug={slug} />
+      </div>
+    </aside>
+    
+    <!-- Main Content -->
+    <article class="book-content prose dark:prose-invert prose-slate max-w-none text-base leading-relaxed">
+      <slot />
+    </article>
+  </div>
+</main>
+
+<script is:inline define:vars={{ slug }}>
+  document.addEventListener('DOMContentLoaded', () => {
+    // console.log("DOM loaded, initializing sidebar controls");
+    
+    // Get sidebar elements
+    const sidebar = document.getElementById('book-sidebar');
+    const mobileTocToggle = document.getElementById('mobile-toc-toggle');
+    const closeSidebarBtn = document.getElementById('close-sidebar');
+    
+    // console.log("Sidebar elements:", {
+    //   sidebar: sidebar ? "Found" : "Not found",
+    //   mobileTocToggle: mobileTocToggle ? "Found" : "Not found",
+    //   closeSidebarBtn: closeSidebarBtn ? "Found" : "Not found"
+    // });
+    
+    // Helper ─ remove any legacy inline transforms/visibility
+    const resetInlineStyles = () => {
+      sidebar.style.removeProperty('transform');
+      sidebar.style.removeProperty('visibility');
+    };
+
+    // Function to close sidebar
+    const closeSidebar = () => {
+      if (sidebar) {
+        sidebar.classList.remove('sidebar-open');
+        document.body.classList.remove('sidebar-active');
+        /* --- force it off‑screen in every viewport --- */
+        sidebar.style.transform  = 'translateX(-100%)';
+        sidebar.style.visibility = 'hidden';
+        // console.log("Sidebar closed");
+      }
+    };
+    
+    // Function to open sidebar
+    const openSidebar = () => {
+      if (sidebar) {
+        resetInlineStyles();               // 👈  make sure we start fresh
+        sidebar.classList.add('sidebar-open');
+        document.body.classList.add('sidebar-active');
+        // console.log("Sidebar opened");
+      }
+    };
+    
+    // Set up mobile TOC toggle
+    if (mobileTocToggle && sidebar) {
+      mobileTocToggle.setAttribute('aria-controls', 'book-sidebar');
+      mobileTocToggle.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        
+        // Check if sidebar is already open
+        const isOpen = sidebar.classList.contains('sidebar-open');
+        // console.log("TOC toggle clicked, sidebar currently:", isOpen ? "open" : "closed");
+        
+        if (isOpen) {
+          closeSidebar();
+          mobileTocToggle.setAttribute('aria-expanded', 'false');
+        } else {
+          openSidebar();
+          mobileTocToggle.setAttribute('aria-expanded', 'true');
+        }
+      });
+    }
+    
+    // Set up close button
+    if (closeSidebarBtn && sidebar) {
+      closeSidebarBtn.setAttribute('aria-controls', 'book-sidebar');
+      closeSidebarBtn.addEventListener('click', (e) => {
+        // console.log('Close button clicked');
+        e.preventDefault();
+        e.stopPropagation();
+        closeSidebar();
+        mobileTocToggle?.setAttribute('aria-expanded', 'false');
+      });
+    }
+    
+    // Close sidebar when clicking outside
+    document.addEventListener('click', (e) => {
+      if (sidebar && 
+          sidebar.classList.contains('sidebar-open') && 
+          !sidebar.contains(e.target) && 
+          e.target !== mobileTocToggle && 
+          !mobileTocToggle?.contains(e.target)) {
+        closeSidebar();
+      }
+    });
+    
+    // Close sidebar on escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && sidebar && sidebar.classList.contains('sidebar-open')) {
+        closeSidebar();
+      }
+    });
+    
+    // Check on resize if we should show/hide based on screen width
+    window.addEventListener('resize', () => {
+      if (window.innerWidth >= 768) {
+        // Reset sidebar styles on desktop
+        if (sidebar) {
+          sidebar.classList.remove('sidebar-open');
+          document.body.classList.remove('sidebar-active');
+        }
+      }
+    });
+    
+    // Initialize based on current screen size
+    if (window.innerWidth < 768) {
+      if (sidebar && !sidebar.classList.contains('sidebar-open')) {
+        sidebar.classList.remove('sidebar-open');
+        document.body.classList.remove('sidebar-active');
+      }
+    }
+    
+    // --- Reading Progress Bar ---
+    let progressBar = document.querySelector('.reading-progress');
+    if (!progressBar) {
+      progressBar = document.createElement('div');
+      progressBar.className = 'reading-progress';
+      document.body.insertBefore(progressBar, document.body.firstChild);
+    }
+
+    const updateProgressBar = () => {
+      if (!progressBar) return;
+
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const docHeight = Math.max(
+        document.body.scrollHeight, document.documentElement.scrollHeight,
+        document.body.offsetHeight, document.documentElement.offsetHeight,
+        document.body.clientHeight, document.documentElement.clientHeight
+      ) - window.innerHeight;
+
+      const scrollPercent = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      progressBar.style.width = scrollPercent + '%';
+      progressBar.setAttribute('data-percent', Math.round(scrollPercent).toString());
+    };
+
+    window.addEventListener('scroll', updateProgressBar);
+    window.addEventListener('resize', updateProgressBar);
+    updateProgressBar();
+
+    // --- Add IDs to Headings for TOC ---
+    const contentElement = document.querySelector('.book-content');
+    if (contentElement) {
+      const headings = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
+      
+      headings.forEach((heading) => {
+        if (!heading.id) {
+          const text = heading.textContent || '';
+          const anchor = text
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, '') // Remove special chars
+            .replace(/\s+/g, '-')     // Replace spaces with hyphens
+            .replace(/-+/g, '-');     // Replace multiple hyphens
+          
+          heading.id = anchor;
+        }
+      });
+    }
+    
+    // Restore saved position if available
+    const savedPosition = localStorage.getItem(`reading-position-${slug}`);
+    if (savedPosition) {
+      window.scrollTo(0, parseInt(savedPosition, 10));
+    }
+    
+    // Save position on scroll (throttled)
+    let timeout;
+    window.addEventListener('scroll', () => {
+      if (!timeout) {
+        timeout = setTimeout(() => {
+          localStorage.setItem(`reading-position-${slug}`, window.scrollY.toString());
+          timeout = null;
+        }, 1000);
+      }
+    });
+    
+    // Check and initialize the theme
+    const storedTheme = localStorage.getItem('book-theme');
+    if (storedTheme) {
+      const html = document.documentElement;
+      
+      if (storedTheme === 'dark') {
+        html.classList.add('dark');
+        html.removeAttribute('data-theme');
+      } else if (storedTheme === 'sepia') {
+        html.classList.remove('dark');
+        html.setAttribute('data-theme', 'sepia');
+      }
+    }
+
+    // --- Focus Mode ---
+    const focusToggle = document.getElementById('focus-mode-toggle');
+    if (focusToggle) {
+      // Restore saved preference
+      if (localStorage.getItem('focus-mode') === 'true') {
+        document.body.classList.add('focus-mode');
+      }
+
+      focusToggle.addEventListener('click', () => {
+        const isActive = document.body.classList.toggle('focus-mode');
+        localStorage.setItem('focus-mode', isActive.toString());
+      });
+    }
+
+    // --- Initial reset (covers hot‑reload & cached DOM) ---
+    resetInlineStyles();
+    sidebar.classList.remove('sidebar-open');
+    document.body.classList.remove('sidebar-active');
+  });
+</script>
+
+<style>
+  /* Book Container */
+  .book-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  /* Book Header with Cover */
+  .book-header-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  @media (min-width: 768px) {
+    .book-header-container {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+  }
+  
+  .book-cover-container {
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  @media (min-width: 768px) {
+    .book-cover-container {
+      margin: 0;
+    }
+  }
+  
+  .book-cover {
+    position: relative;
+    width: 100%;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  
+  .book-cover img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+  }
+  
+  /* Reading Progress Bar */
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background-color: var(--color-primary);
+    width: 0%;
+    z-index: 9999;
+    transition: width 0.1s linear;
+  }
+  
+  /* Focus Mode Toggle */
+  .focus-mode-toggle {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background-color: var(--color-bg-subtle);
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    border-radius: 9999px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 40;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .focus-mode-toggle:hover {
+    background-color: var(--color-bg-hover);
+    color: var(--color-text);
+    transform: scale(1.05);
+  }
+
+  body.focus-mode header,
+  body.focus-mode footer {
+    display: none !important;
+  }
+
+  body.focus-mode .focus-mode-toggle {
+    background-color: #d97706;
+    color: white;
+    border-color: #d97706;
+  }
+
+  /* Reading progress tooltip */
+  .reading-progress {
+    cursor: default;
+  }
+  .reading-progress::after {
+    content: attr(data-percent) '%';
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none;
+  }
+  .reading-progress:hover::after {
+    opacity: 1;
+  }
+
+  /* Mobile TOC Toggle */
+  .mobile-toc-toggle {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background-color: #b45309;
+    color: white;
+    border-radius: 9999px;
+    border: none;
+    box-shadow: 0 4px 10px rgba(180, 83, 9, 0.3);
+    z-index: 40;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  /* Desktop tweaks */
+  @media (min-width: 768px) {
+    /* Hide the floating toggle button on larger screens */
+    .mobile-toc-toggle {
+      display: none;
+    }
+  }
+  
+  .mobile-toc-toggle:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+  }
+  
+  .mobile-toc-toggle:active {
+    transform: translateY(0);
+  }
+  
+  .dark .mobile-toc-toggle {
+    background-color: #1e293b;
+    color: #f1f5f9;
+    border-color: #334155;
+  }
+  
+  [data-theme="sepia"] .mobile-toc-toggle {
+    background-color: #fef3c7;
+    color: #78350f;
+    border-color: #fde68a;
+  }
+  
+  /* Content Layout */
+  .book-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0;
+  }
+  
+  @media (min-width: 768px) {
+    .book-content-wrapper {
+      flex-direction: row;
+      gap: 2rem;
+    }
+  }
+  
+  /* Sidebar */
+  .book-sidebar {
+    width: 280px;
+    flex-shrink: 0;
+  }
+  
+  @media (max-width: 767px) {
+    .book-sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 300px;
+      background-color: white;
+      z-index: 50;
+      overflow-y: auto;
+      height: 100vh;
+
+      /* hidden by default */
+      transform: translateX(-100%);
+      visibility: hidden;
+
+      /* smooth slide */
+      transition: transform 0.3s ease, visibility 0.3s ease;
+    }
+
+    .book-sidebar.sidebar-open {
+      transform: translateX(0);
+      visibility: visible;
+      box-shadow: 4px 0 10px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  .sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  
+  .sidebar-header h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin: 0;
+  }
+  
+  .sidebar-header button {
+    background: none;
+    border: none;
+    color: #64748b;
+    cursor: pointer;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+  }
+
+  #close-sidebar {
+    background: none;
+    border: none;
+    color: #64748b;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    position: relative;
+    z-index: 1;
+  }
+  
+  #close-sidebar:hover {
+    background-color: #f1f5f9;
+    color: #334155;
+    transform: scale(1.1);
+  }
+  
+  #close-sidebar:active {
+    transform: scale(0.95);
+  }
+
+  /* Dark mode adjustments for close button */
+  .dark #close-sidebar {
+    color: #94a3b8;
+  }
+  
+  .dark #close-sidebar:hover {
+    background-color: #334155;
+    color: #f1f5f9;
+  }
+  
+  /* Sepia mode adjustments for close button */
+  [data-theme="sepia"] #close-sidebar {
+    color: #92400e;
+  }
+  
+  [data-theme="sepia"] #close-sidebar:hover {
+    background-color: #fde68a;
+    color: #78350f;
+  }
+  
+  .sidebar-content {
+    padding: 1rem;
+  }
+  
+  @media (min-width: 768px) {
+    .sidebar-content {
+      position: sticky;
+      top: 2rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      scrollbar-width: thin;
+      scrollbar-color: #cbd5e1 transparent;
+    }
+    
+    .sidebar-content::-webkit-scrollbar {
+      width: 5px;
+    }
+    
+    .sidebar-content::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    
+    .sidebar-content::-webkit-scrollbar-thumb {
+      background-color: #cbd5e1;
+      border-radius: 3px;
+    }
+  }
+  
+  /* Main Content */
+  .book-content {
+    flex: 1;
+    font-family: var(--ff-display);
+    margin-bottom: 4rem;
+  }
+  
+  /* Theme Adjustments */
+  .dark .sidebar-header {
+    border-color: #334155;
+  }
+  
+  .dark .sidebar-header button:hover {
+    background-color: #334155;
+    color: #f1f5f9;
+  }
+  
+  .dark .book-sidebar {
+    background-color: #1e293b;
+  }
+  
+  [data-theme="sepia"] .sidebar-header {
+    border-color: #fde68a;
+  }
+  
+  [data-theme="sepia"] .sidebar-header button:hover {
+    background-color: #fde68a;
+    color: #78350f;
+  }
+  
+  [data-theme="sepia"] .book-sidebar {
+    background-color: #fef3c7;
+  }
+  
+  /* Tailwind Typography customizations */
+  .prose {
+    max-width: 100%;
+    font-family: var(--ff-display);
+  }
+  
+  .prose h1, 
+  .prose h2, 
+  .prose h3, 
+  .prose h4, 
+  .prose h5, 
+  .prose h6 {
+    font-family: var(--ff-sans);
+    scroll-margin-top: 5rem;
+  }
+  
+  /* Make sure headings have good spacing */
+  .prose h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+  }
+  
+  .prose h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Improve blockquote styling */
+  .prose blockquote {
+    font-style: italic;
+    border-left-width: 4px;
+    border-left-color: #cbd5e1;
+    padding-left: 1.5rem;
+  }
+  
+  .dark .prose blockquote {
+    border-left-color: #475569;
+  }
+  
+  [data-theme="sepia"] .prose blockquote {
+    border-left-color: #fde68a;
+  }
+</style>

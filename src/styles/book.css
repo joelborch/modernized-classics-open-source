@@ -1,0 +1,225 @@
+/* Book Reader Styles — single source of truth for theme tokens & prose */
+
+/* ----------  Theme Variables  ---------- */
+:root {
+  --color-bg:          #fafaf9;
+  --color-bg-subtle:   #f5f5f4;
+  --color-bg-hover:    #e7e5e4;
+  --color-text:        #1c1917;
+  --color-text-muted:  #78716c;
+  --color-border:      #d6d3d1;
+  --color-primary:     #b45309;
+  --color-accent:      #92400e;
+  --line-height:       1.6;
+  --letter-spacing:    0.01em;
+}
+
+/* Sepia Theme */
+[data-theme="sepia"] {
+  --color-bg:          #fef3c7;
+  --color-bg-subtle:   #fef3c7;
+  --color-bg-hover:    #fde68a;
+  --color-text:        #78350f;
+  --color-text-muted:  #92400e;
+  --color-border:      #fde68a;
+  --color-primary:     #b45309;
+}
+
+/* Dark Theme */
+[data-theme="dark"],
+.dark {
+  --color-bg:          #0f172a;
+  --color-bg-subtle:   #1e293b;
+  --color-bg-hover:    #334155;
+  --color-text:        #f8fafc;
+  --color-text-muted:  #cbd5e1;
+  --color-border:      #334155;
+  --color-primary:     #d97706;
+}
+
+/* Ensure book containers take the theme background */
+.book-container,
+.book-content,
+.book-content-wrapper {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+
+/* ----------  Prose Overrides (scoped to book content)  ---------- */
+/*
+ * These use .book-content specificity to beat @tailwindcss/typography
+ * without needing !important on every rule.
+ */
+.book-content .prose {
+  color: var(--color-text);
+  max-width: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: var(--letter-spacing);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+}
+
+.book-content .prose a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: text-decoration 0.2s;
+}
+.book-content .prose a:hover {
+  text-decoration: underline;
+}
+
+.book-content .prose strong {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+.book-content .prose h1,
+.book-content .prose h2,
+.book-content .prose h3,
+.book-content .prose h4,
+.book-content .prose h5,
+.book-content .prose h6 {
+  color: var(--color-text);
+  font-family: var(--font-robo);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.book-content .prose h1 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.book-content .prose h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+
+.book-content .prose h3 {
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.book-content .prose p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+.book-content .prose blockquote {
+  font-style: italic;
+  color: var(--color-text-muted);
+  border-left-color: var(--color-border);
+  border-left-width: 4px;
+  padding-left: 1rem;
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+.book-content .prose blockquote p:first-of-type::before { content: ""; }
+.book-content .prose blockquote p:last-of-type::after  { content: ""; }
+
+.book-content .prose hr {
+  border-color: var(--color-border);
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.book-content .prose ol,
+.book-content .prose ul {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  padding-left: 1.625em;
+}
+
+.book-content .prose li {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.book-content .prose li::marker {
+  color: var(--color-text-muted);
+}
+
+.book-content .prose img,
+.book-content .prose figure {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.book-content .prose figure > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.book-content .prose figcaption {
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+  line-height: 1.4285714;
+  margin-top: 0.8571429em;
+  text-align: center;
+}
+
+/* First paragraph after headings */
+.book-content .prose h1 + p,
+.book-content .prose h2 + p,
+.book-content .prose h3 + p {
+  margin-top: 0.75em;
+}
+
+.book-content .prose p,
+.book-content .prose li,
+.book-content .prose blockquote {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow-x: hidden;
+}
+
+.book-content .prose pre,
+.book-content .prose code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+}
+
+
+/* ----------  Reading Progress Bar  ---------- */
+.reading-progress {
+  background-color: var(--color-primary);
+}
+
+
+/* ----------  Reader Preferences  ---------- */
+/* Font size */
+html[data-reader-font="small"] .book-content {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+html[data-reader-font="medium"] .book-content {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+html[data-reader-font="large"] .book-content {
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+/* Line spacing */
+html[data-reader-spacing="compact"] .book-content {
+  line-height: 1.375;
+}
+html[data-reader-spacing="normal"] .book-content {
+  line-height: 1.625;
+}
+html[data-reader-spacing="relaxed"] .book-content {
+  line-height: 1.875;
+}
+
+/* Prevent horizontal scroll on book content */
+.book-content {
+  overflow-x: hidden;
+  max-width: 100%;
+}

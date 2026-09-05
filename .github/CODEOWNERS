@@ -1,0 +1,18 @@
+# Global ownership
+* @joelborch
+
+# Infrastructure & CI
+/.github/ @joelborch
+/package.json @joelborch
+/astro.config.mjs @joelborch
+/tailwind.config.cjs @joelborch
+/tsconfig.json @joelborch
+
+# Modernization Pipeline & scripts
+/pipeline/ @joelborch
+/scripts/ @joelborch
+
+# Content & Assets
+/src/content/ @joelborch
+/public/ @joelborch
+/SOURCES.md @joelborch

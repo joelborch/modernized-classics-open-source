@@ -1,0 +1,80 @@
+# Cloudflare Pages redirects (Netlify-style). Placing this file in public/ ensures it is copied to dist/.
+
+# Redirect from old/typo slugs to corrected slugs
+
+# Leviathan: leviathon -> leviathan
+/books/leviathon /books/leviathan 301
+/books/leviathon/* /books/leviathan/:splat 301
+
+# Thus Spoke Zarathustra: karathustra -> zarathustra
+/books/thus-spoke-karathustra /books/thus-spoke-zarathustra 301
+/books/thus-spoke-karathustra/* /books/thus-spoke-zarathustra/:splat 301
+
+# The Consolation of Philosophy: pluralized -> singular
+/books/consolations-of-philosophy /books/consolation-of-philosophy 301
+/books/consolations-of-philosophy/* /books/consolation-of-philosophy/:splat 301
+
+# On the Origin of Species: keep concise slug
+# (no redirect needed; already origin-of-species)
+
+# The Wealth of Nations: keep concise slug
+# (no redirect; canonical is wealth-of-nations)
+
+# The Interpretation of Dreams: keep concise slug
+# (no redirect; canonical is interpretation-of-dreams)
+
+# The Game of Life and How to Play It: old slug (without -it) -> canonical
+/books/the-game-of-life-and-how-to-play /books/the-game-of-life-and-how-to-play-it 301
+/books/the-game-of-life-and-how-to-play/* /books/the-game-of-life-and-how-to-play-it/:splat 301
+
+# Varieties of Religious Experience: missing "of"
+/books/varieties-religious-experience /books/varieties-of-religious-experience 301
+/books/varieties-religious-experience/* /books/varieties-of-religious-experience/:splat 301
+
+# Critique of Pure Reason: missing "of"
+/books/critique-pure-reason /books/critique-of-pure-reason 301
+/books/critique-pure-reason/* /books/critique-of-pure-reason/:splat 301
+
+# The Economic Consequences of the Peace: add missing mappings
+/books/economic-consequences-of-peace /books/economic-consequences-of-the-peace 301
+/books/economic-consequences-of-peace/* /books/economic-consequences-of-the-peace/:splat 301
+# Also support variant with leading article redirecting to concise canonical
+/books/the-economic-consequences-of-the-peace /books/economic-consequences-of-the-peace 301
+/books/the-economic-consequences-of-the-peace/* /books/economic-consequences-of-the-peace/:splat 301
+
+# The Communist Manifesto and Das Kapital: add mappings from older variants
+/books/communist-manifesto-das-kapital /books/communist-manifesto-and-das-kapital 301
+/books/communist-manifesto-das-kapital/* /books/communist-manifesto-and-das-kapital/:splat 301
+/books/the-communist-manifesto-and-das-kapital /books/communist-manifesto-and-das-kapital 301
+/books/the-communist-manifesto-and-das-kapital/* /books/communist-manifesto-and-das-kapital/:splat 301
+
+# Self-Reliance and Other Essays: full title -> concise slug
+/books/self-reliance-and-other-essays /books/self-reliance 301
+/books/self-reliance-and-other-essays/* /books/self-reliance/:splat 301
+
+# The Social Contract & Discourses: full title form -> concise slug
+/books/the-social-contract-discourses /books/the-social-contract 301
+/books/the-social-contract-discourses/* /books/the-social-contract/:splat 301
+
+# Nicomachean Ethics: remove leading article in canonical
+/books/the-nicomachean-ethics /books/nicomachean-ethics 301
+/books/the-nicomachean-ethics/* /books/nicomachean-ethics/:splat 301
+
+# Legacy EPUB filenames (case-only and title-based changes)
+/downloads/Walden.epub /downloads/walden.epub 301
+/downloads/Thus-Spoke-Zarathustra.epub /downloads/thus-spoke-zarathustra.epub 301
+/downloads/the-art-of-war.epub /downloads/art-of-war.epub 301
+/downloads/the-communist-manifesto-and-das-kapital.epub /downloads/communist-manifesto-and-das-kapital.epub 301
+/downloads/the-consolation-of-philosophy.epub /downloads/consolation-of-philosophy.epub 301
+/downloads/the-economic-consequences-of-the-peace.epub /downloads/economic-consequences-of-the-peace.epub 301
+/downloads/an-enquiry-concerning-human-understanding.epub /downloads/enquiry-concerning-human-understanding.epub 301
+/downloads/the-interpretation-of-dreams.epub /downloads/interpretation-of-dreams.epub 301
+/downloads/the-nicomachean-ethics.epub /downloads/nicomachean-ethics.epub 301
+/downloads/on-liberty-utilitarianism-and-other-essays.epub /downloads/on-liberty-utilitarianism-other-essays.epub 301
+/downloads/on-the-origin-of-species.epub /downloads/origin-of-species.epub 301
+/downloads/the-problems-of-philosophy.epub /downloads/problems-of-philosophy.epub 301
+/downloads/self-reliance-and-other-essays.epub /downloads/self-reliance.epub 301
+/downloads/the-social-contract-discourses.epub /downloads/the-social-contract.epub 301
+/downloads/a-vindication-of-the-rights-of-woman.epub /downloads/vindication-rights-of-woman.epub 301
+/downloads/the-wealth-of-nations.epub /downloads/wealth-of-nations.epub 301
+

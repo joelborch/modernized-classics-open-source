@@ -1,0 +1,53 @@
+name: Pipeline Improvement
+description: Suggest an enhancement, optimization, or prompt tuning for the modernization pipeline.
+title: "[Pipeline]: "
+labels: ["pipeline", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to suggest improvements to the Claude modernization pipeline (`pipeline/`).
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Affected Pipeline Area
+      description: Which stage or component of the pipeline does this change impact?
+      options:
+        - Extract (`pipeline/src/stages/extract.ts`)
+        - Select (`pipeline/src/stages/select.ts`)
+        - Rewrite (`pipeline/src/stages/rewrite.ts`)
+        - QA (`pipeline/src/stages/qa.ts`)
+        - Assemble (`pipeline/src/stages/assemble.ts`)
+        - Prompts (`pipeline/prompts/`)
+        - Workspace / CLI / Infrastructure (`pipeline/src/`)
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Current Behavior / Limitation
+      description: What is currently happening or what limitation exists?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-improvement
+    attributes:
+      label: Proposed Improvement
+      description: What changes should be made? Include proposed prompt adjustments or architectural ideas.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected Impact
+      description: How does this improve modernization fidelity, readability, pipeline throughput, or reliability?
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any other approaches considered or tested.
+    validations:
+      required: false

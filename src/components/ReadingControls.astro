@@ -1,0 +1,374 @@
+---
+// Reading Controls Component
+---
+
+<div class="reading-controls">
+    <div class="controls-header">Reading Controls</div>
+    
+    <!-- Font Size Controls -->
+    <div class="control-section">
+      <div class="control-label">Font Size</div>
+      <div class="control-buttons">
+        <button id="font-small" class="control-button font-button" aria-label="Small font size">
+          <span class="text-xs">A</span>
+        </button>
+        <button id="font-medium" class="control-button font-button" aria-label="Medium font size">
+          <span class="text-sm">A</span>
+        </button>
+        <button id="font-large" class="control-button font-button" aria-label="Large font size">
+          <span class="text-base">A</span>
+        </button>
+      </div>
+    </div>
+  
+    <!-- Theme Controls -->
+    <div class="control-section">
+      <div class="control-label">Theme</div>
+      <div class="control-buttons">
+        <button id="theme-light" class="control-button theme-button" aria-label="Light theme" data-theme-value="light">
+          <div class="theme-circle light-theme"></div>
+          <span class="theme-label">Light</span>
+        </button>
+        <button id="theme-sepia" class="control-button theme-button" aria-label="Sepia theme" data-theme-value="sepia">
+          <div class="theme-circle sepia-theme"></div>
+          <span class="theme-label">Sepia</span>
+        </button>
+        <button id="theme-dark" class="control-button theme-button" aria-label="Dark theme" data-theme-value="dark">
+          <div class="theme-circle dark-theme"></div>
+          <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+  
+    <!-- Line Spacing Controls -->
+    <div class="control-section">
+      <div class="control-label">Line Spacing</div>
+      <div class="control-buttons">
+        <button id="spacing-compact" class="control-button spacing-button" aria-label="Compact line spacing" data-spacing-value="compact">
+          <div class="spacing-lines">
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+          </div>
+        </button>
+        <button id="spacing-normal" class="control-button spacing-button" aria-label="Normal line spacing" data-spacing-value="normal">
+          <div class="spacing-lines spacing-normal">
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+          </div>
+        </button>
+        <button id="spacing-relaxed" class="control-button spacing-button" aria-label="Relaxed line spacing" data-spacing-value="relaxed">
+          <div class="spacing-lines spacing-relaxed">
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+            <div class="spacing-line"></div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <style>
+    .reading-controls {
+      position: relative;
+      background-color: white;
+      border-radius: 0.5rem;
+      border: 1px solid #e2e8f0;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      padding: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+  
+    .controls-header {
+      text-align: center;
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: #334155;
+      margin-bottom: 1rem;
+    }
+  
+    .control-section {
+      margin-bottom: 1.25rem;
+    }
+  
+    .control-section:last-child {
+      margin-bottom: 0;
+    }
+  
+    .control-label {
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #64748b;
+      margin-bottom: 0.5rem;
+    }
+  
+    .control-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+  
+    .control-button {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 2rem;
+      border-radius: 0.375rem;
+      border: 1px solid #e2e8f0;
+      background-color: white;
+      color: #64748b;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .theme-button {
+      flex-direction: column;
+      gap: 0.25rem;
+      height: auto;
+      padding: 0.375rem 0.25rem;
+    }
+
+    .theme-label {
+      font-size: 0.625rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.025em;
+      line-height: 1;
+    }
+  
+    .control-button:hover {
+      background-color: #f8fafc;
+      color: #0f172a;
+    }
+  
+    .control-button.active {
+      background-color: #f1f5f9;
+      color: #0f172a;
+      font-weight: 500;
+    }
+  
+    /* Theme circles */
+    .theme-circle {
+      height: 1.25rem;
+      width: 1.25rem;
+      border-radius: 50%;
+    }
+  
+    .light-theme {
+      background-color: white;
+      border: 1px solid #cbd5e1;
+    }
+  
+    .sepia-theme {
+      background-color: #fef3c7;
+      border: 1px solid #fbbf24;
+    }
+  
+    .dark-theme {
+      background-color: #1e293b;
+      border: 1px solid #475569;
+    }
+  
+    /* Theme button active states */
+    .theme-button.active .light-theme {
+      border-color: var(--color-primary);
+    }
+  
+    .theme-button.active .sepia-theme {
+      border-color: var(--color-primary);
+    }
+  
+    .theme-button.active .dark-theme {
+      border-color: var(--color-primary);
+    }
+  
+    /* Spacing line indicators */
+    .spacing-lines {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+    }
+  
+    .spacing-normal {
+      gap: 4px;
+    }
+  
+    .spacing-relaxed {
+      gap: 6px;
+    }
+  
+    .spacing-line {
+      height: 2px;
+      width: 16px;
+      background-color: currentColor;
+    }
+  
+    /* Dark mode adjustments */
+    .dark .reading-controls {
+      background-color: #1e293b;
+      border-color: #334155;
+    }
+  
+    .dark .controls-header {
+      color: #f1f5f9;
+    }
+  
+    .dark .control-label {
+      color: #94a3b8;
+    }
+  
+    .dark .control-button {
+      background-color: #1e293b;
+      border-color: #334155;
+      color: #94a3b8;
+    }
+  
+    .dark .control-button:hover {
+      background-color: #334155;
+      color: #f1f5f9;
+    }
+  
+    .dark .control-button.active {
+      background-color: #334155;
+      color: #f1f5f9;
+    }
+  
+    /* Sepia mode adjustments */
+    [data-theme="sepia"] .reading-controls {
+      background-color: #fef3c7;
+      border-color: #fde68a;
+    }
+  
+    [data-theme="sepia"] .controls-header {
+      color: #78350f;
+    }
+  
+    [data-theme="sepia"] .control-label {
+      color: #92400e;
+    }
+  
+    [data-theme="sepia"] .control-button {
+      background-color: #fef3c7;
+      border-color: #fde68a;
+      color: #92400e;
+    }
+  
+    [data-theme="sepia"] .control-button:hover {
+      background-color: #fde68a;
+      color: #78350f;
+    }
+  
+    [data-theme="sepia"] .control-button.active {
+      background-color: #fde68a;
+      color: #78350f;
+    }
+  </style>
+  
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const html = document.documentElement;
+      
+      // Font Size Controls
+      const fontSmall = document.getElementById('font-small');
+      const fontMedium = document.getElementById('font-medium');
+      const fontLarge = document.getElementById('font-large');
+      const fontButtons = [fontSmall, fontMedium, fontLarge];
+      
+      // Apply font size
+      const applyFontSize = (size) => {
+        html.setAttribute('data-reader-font', size);
+        
+        // Update active button
+        fontButtons.forEach(btn => {
+          btn.classList.toggle('active', btn.id === `font-${size}`);
+        });
+        
+        // Save preference
+        localStorage.setItem('book-font-size', size);
+      };
+      
+      // Default and stored values
+      const defaultFontSize = 'medium';
+      const storedFontSize = localStorage.getItem('book-font-size') || defaultFontSize;
+      
+      // Initialize font size
+      applyFontSize(storedFontSize);
+      
+      // Add event listeners to font size buttons
+      fontSmall?.addEventListener('click', () => applyFontSize('small'));
+      fontMedium?.addEventListener('click', () => applyFontSize('medium'));
+      fontLarge?.addEventListener('click', () => applyFontSize('large'));
+      
+      // Theme Controls
+      const themeLight = document.getElementById('theme-light');
+      const themeSepia = document.getElementById('theme-sepia');
+      const themeDark = document.getElementById('theme-dark');
+      const themeButtons = [themeLight, themeSepia, themeDark];
+      
+      // Default and stored values
+      const defaultTheme = 'light';
+      const storedTheme = localStorage.getItem('book-theme') || defaultTheme;
+      
+      // Apply theme
+      const applyTheme = (theme) => {
+        html.classList.remove('dark');
+        html.removeAttribute('data-theme');
+        
+        // Apply the new theme
+        if (theme === 'dark') {
+          html.classList.add('dark');
+        } else if (theme === 'sepia') {
+          html.setAttribute('data-theme', 'sepia');
+        }
+        
+        // Update active button
+        themeButtons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.themeValue === theme);
+        });
+        
+        // Save preference
+        localStorage.setItem('book-theme', theme);
+      };
+      
+      // Initialize theme
+      applyTheme(storedTheme);
+      
+      // Add event listeners to theme buttons
+      themeLight?.addEventListener('click', () => applyTheme('light'));
+      themeSepia?.addEventListener('click', () => applyTheme('sepia'));
+      themeDark?.addEventListener('click', () => applyTheme('dark'));
+      
+      // Line Spacing Controls
+      const spacingCompact = document.getElementById('spacing-compact');
+      const spacingNormal = document.getElementById('spacing-normal');
+      const spacingRelaxed = document.getElementById('spacing-relaxed');
+      const spacingButtons = [spacingCompact, spacingNormal, spacingRelaxed];
+      
+      // Default and stored values
+      const defaultSpacing = 'normal';
+      const storedSpacing = localStorage.getItem('book-line-spacing') || defaultSpacing;
+      
+      // Apply line spacing
+      const applyLineSpacing = (spacing) => {
+        html.setAttribute('data-reader-spacing', spacing);
+        
+        // Update active button
+        spacingButtons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.spacingValue === spacing);
+        });
+        
+        // Save preference
+        localStorage.setItem('book-line-spacing', spacing);
+      };
+      
+      // Initialize line spacing
+      applyLineSpacing(storedSpacing);
+      
+      // Add event listeners to line spacing buttons
+      spacingCompact?.addEventListener('click', () => applyLineSpacing('compact'));
+      spacingNormal?.addEventListener('click', () => applyLineSpacing('normal'));
+      spacingRelaxed?.addEventListener('click', () => applyLineSpacing('relaxed'));
+    });
+  </script>

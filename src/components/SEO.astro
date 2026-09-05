@@ -1,0 +1,64 @@
+---
+/*  SEO.astro  */
+
+interface Props {
+  title:          string;
+  description:    string;
+  canonicalURL?:  string | URL;
+  image?:         string;
+  type?:          'website' | 'article';
+  publishedTime?: string;      // ISO-8601
+  modifiedTime?:  string;      // ISO-8601
+  author?:        string;
+}
+
+/* ----------  Normalise inputs  ---------- */
+const {
+  title,
+  description,
+  canonicalURL = new URL(Astro.url.pathname, Astro.site).toString(),
+  image        = `${Astro.site}og-image.jpg`,
+  type         = 'website',
+  publishedTime,
+  modifiedTime,
+  author
+} = Astro.props as Props;
+
+const fullTitle = `${title} | Modernized Classics`;
+const canonical = typeof canonicalURL === 'string'
+  ? canonicalURL
+  : canonicalURL.toString();
+---
+
+<!-- Primary Meta -->
+<title>{fullTitle}</title>
+<meta name="title" content={fullTitle} />
+<meta name="description" content={description} />
+
+<!-- Open Graph -->
+<meta property="og:type"        content={type} />
+<meta property="og:url"         content={canonical} />
+<meta property="og:title"       content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image"       content={image} />
+
+<!-- Twitter -->
+<meta property="twitter:card"        content="summary_large_image" />
+<meta property="twitter:url"         content={canonical} />
+<meta property="twitter:title"       content={fullTitle} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image"       content={image} />
+
+<!-- Article-specific -->
+{type === 'article' && publishedTime && (
+  <meta property="article:published_time" content={publishedTime} />
+)}
+{type === 'article' && modifiedTime && (
+  <meta property="article:modified_time"  content={modifiedTime} />
+)}
+{type === 'article' && author && (
+  <meta property="article:author"         content={author} />
+)}
+
+<!-- Canonical -->
+<link rel="canonical" href={canonical} />

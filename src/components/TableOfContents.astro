@@ -1,0 +1,159 @@
+---
+// Define TOC item interface
+interface TocItem {
+  title: string;
+  anchor: string;
+  level: number;
+}
+
+// Define component props
+interface Props {
+  toc: TocItem[];
+  slug: string;
+}
+
+// Get props with defaults
+const { toc = [], slug } = Astro.props;
+---
+
+<!--
+  Pure‑CSS / no‑JavaScript Table of Contents for Astro
+  • Uses native <details>/<summary> for collapse‑expand
+  • “open” attribute keeps it expanded by default; remove if you prefer closed.
+-->
+<details class="toc" open>
+  <summary class="toc-header">
+    <h2>Table&nbsp;of&nbsp;Contents</h2>
+    <svg class="chevron" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <polyline points="6 9 12 15 18 9"></polyline>
+    </svg>
+  </summary>
+
+  <!-- Front‑matter / top‑level headings (h1 & h2) -->
+  <nav class="toc-section">
+    {toc.filter(item => item.level <= 2).map(item => (
+      <a href={`#${item.anchor}`} class="toc-item">{item.title}</a>
+    ))}
+  </nav>
+
+  <!-- More‑detailed headings (h3+) -->
+  {toc.some(item => item.level > 2) && (
+    <>
+      <div class="divider"></div>
+      <nav class="toc-section detailed">
+        {toc.filter(item => item.level > 2).map(item => (
+          <a href={`#${item.anchor}`} class={`toc-item level-${item.level}`}>{item.title}</a>
+        ))}
+      </nav>
+    </>
+  )}
+</details>
+
+<style>
+/***** WRAPPER *****/
+.toc {
+  background:#fff;
+  border:1px solid #e2e8f0;
+  border-radius:0.5rem;
+  box-shadow:0 1px 3px rgba(0,0,0,.1);
+  margin-bottom:1.5rem;
+  overflow:hidden;
+}
+
+/***** SUMMARY (clickable header) *****/
+.toc-header {
+  list-style:none;       /* remove default arrow */
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:1rem;
+  border-bottom:1px solid #e2e8f0;
+}
+.toc-header h2 {
+  margin:0;
+  font-size:1rem;
+  font-weight:600;
+  color:#334155;
+}
+.toc-header .chevron {
+  transition:transform .2s ease;
+  color:#64748b;
+}
+/* rotate when collapsed */
+.toc:not([open]) .chevron { transform:rotate(180deg); }
+
+/***** SECTIONS & ITEMS *****/
+.toc-section {
+  display:flex;
+  flex-direction:column;
+}
+.toc-item {
+  padding:0.5rem 1rem;
+  text-decoration:none;
+  color:#475569;
+  transition:background .1s,color .1s;
+  position:relative;
+}
+.toc-item:hover { background:#f8fafc; color:#0f172a; }
+.toc-item.active {
+  background:#f1f5f9;
+  color:#0f172a;
+  font-weight:500;
+}
+.toc-item.active::before {
+  content:"";
+  position:absolute;
+  left:0; top:0; bottom:0; width:3px;
+  background:var(--color-primary);
+}
+.level-3 { padding-left:2rem; }
+.level-4 { padding-left:3rem; }
+.level-5 { padding-left:4rem; }
+.level-6 { padding-left:5rem; }
+
+.divider { height:1px; background:#e2e8f0; margin:0.5rem 0; }
+
+/***** DARK MODE *****/
+:root.dark .toc { background:#1e293b; border-color:#334155; }
+:root.dark .toc-header { border-color:#334155; }
+:root.dark .toc-header h2 { color:#f1f5f9; }
+:root.dark .chevron { color:#94a3b8; }
+:root.dark .toc-item { color:#cbd5e1; }
+:root.dark .toc-item:hover { background:#334155; color:#f1f5f9; }
+:root.dark .toc-item.active { background:#334155; color:#f1f5f9; }
+:root.dark .divider { background:#334155; }
+
+/***** SEPIA MODE *****/
+[data-theme="sepia"] .toc {
+  background:#fef3c7; border-color:#fde68a;
+}
+[data-theme="sepia"] .toc-header { border-color:#fde68a; }
+[data-theme="sepia"] .toc-header h2 { color:#78350f; }
+[data-theme="sepia"] .chevron { color:#92400e; }
+[data-theme="sepia"] .toc-item { color:#92400e; }
+[data-theme="sepia"] .toc-item:hover { background:#fde68a; color:#78350f; }
+[data-theme="sepia"] .toc-item.active { background:#fde68a; color:#78350f; }
+[data-theme="sepia"] .divider { background:#fde68a; }
+
+/***** SCROLL AREA *****/
+.toc[open] { /* limit height only when expanded */
+  max-height:75vh;
+  overflow-y:auto;
+  scrollbar-width:thin;
+  scrollbar-color:#cbd5e1 transparent;
+}
+.toc[open]::-webkit-scrollbar { width:5px; }
+.toc[open]::-webkit-scrollbar-thumb {
+  background:#cbd5e1; border-radius:3px;
+}
+
+/***** MOBILE *****/
+@media (max-width:768px) {
+  /* Start collapsed on phones: remove [open] via attribute selector */
+  details.toc { /* nothing */ }
+  details.toc[open] {
+    /* override to collapsed by default */
+  }
+}
+</style>

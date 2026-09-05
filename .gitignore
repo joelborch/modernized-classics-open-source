@@ -1,0 +1,80 @@
+# build output
+.output/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env*
+!.env.example
+.dev.vars*
+!.dev.vars.example
+
+# Source ebooks, generated downloads and archives stay outside Git.
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# macOS-specific files
+.DS_Store
+
+# Astro
+.astro/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Debug files
+debug-*.js
+
+# Claude AI assistant
+.claude/
+
+# Cache
+.cache/
+.wrangler/
+
+# Generated text outputs
+build-txt/
+
+# Build output (generated locally or by CI)
+dist/
+
+# Generated book downloads
+public/downloads/*.epub
+!public/downloads/.gitkeep
+
+# Pipeline working data (source EPUBs, chunks, batch results — never commit)
+pipeline/input/*
+!pipeline/input/.gitkeep
+pipeline/work/*
+!pipeline/work/.gitkeep
+pipeline/logs/
+pipeline/tmp/
+
+# Local model sessions and historical scratch outputs
+.codex/
+llm_text_transcripts/
+.tmp-*/
+*.pdf
