@@ -1,371 +1,210 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-const title = "About Modernized Classics";
-const description = "Born from a personal struggle with old English prose, Modernized Classics uses AI technology to make timeless literature accessible in contemporary language, featuring EPUBs and audiobooks.";
+const books = await getCollection("books");
+const title = "Colophon";
+const description = "How Modernized Classics editions are made: public-domain sources, a machine rewrite into modern English, a fail-closed check of every passage against the original, and an open-source pipeline anyone can run.";
+
+const faqs = [
+  {
+    q: 'How faithful is an edition to the original?',
+    a: 'Every passage of the original is rewritten, and every rewrite is compared against its source passage for dropped content, changed meaning, summarizing, and added commentary. A passage that fails is revised and checked again, up to twice; one that still fails is never published. That is a strong check, not a guarantee: the rewriting and the checking are both done by language models. Treat an edition as a way into the work, and go to the original when a sentence will carry weight.',
+  },
+  {
+    q: 'Why not just read the original?',
+    a: 'You should, when you can. These editions exist for the reader who has tried Locke or Kant or Adam Smith in the original and given up on the sentence structure, not the ideas. A modern reading gets you through the whole argument; the original is still there afterwards.',
+  },
+  {
+    q: 'What does it cost?',
+    a: 'Nothing. There is no account, subscription, or newsletter. Read on the site, download the EPUB, or listen to the narration where one exists.',
+  },
+  {
+    q: 'Can I use an edition in a class, a book club, or a project?',
+    a: 'Yes. The originals are in the public domain and the editions are free to read and share. Credit the site and link to the edition so readers can find the source notes.',
+  },
+  {
+    q: 'How are books chosen?',
+    a: 'They are public-domain works of lasting argument, mostly philosophy, politics, economics, and science, whose language is the main thing standing between a modern reader and the ideas. Fiction is not on the shelf yet.',
+  },
+  {
+    q: 'Can I suggest a book, or add one myself?',
+    a: 'Both. Write to us below with a suggestion. If you want to add one yourself, the pipeline is open source: you run it locally with your own model account and open a pull request with the result and its source notes.',
+  },
+];
 ---
 
 <BaseLayout {title} {description}>
-  <!-- Introduction / Mission Section -->
-  <section class="relative overflow-hidden bg-gradient-to-br from-stone-50 via-white to-warm-50 dark:from-slate-900 dark:via-slate-900 dark:to-slate-800 py-16 md:py-24 border-b border-stone-200 dark:border-slate-800">
-    <div class="absolute inset-0 z-0 pointer-events-none" aria-hidden="true">
-      <div class="absolute -left-20 top-1/4 h-[300px] w-[300px] rounded-full bg-warm-200/40 dark:bg-warm-900/20 blur-[100px]"></div>
-      <div class="absolute right-0 top-1/3 h-[250px] w-[250px] rounded-full bg-amber-100/30 dark:bg-amber-900/10 blur-[100px]"></div>
-    </div>
+  <article class="wrap colophon">
+    <header class="colophon-head">
+      <h1 class="t-display colophon-title">A note on the text</h1>
+      <p class="t-text colophon-lede">
+        Every edition on this site is a public-domain work rewritten, sentence by sentence, into
+        clear modern English. This page says how that is done, what it is good for, and where its
+        limits are.
+      </p>
+    </header>
 
-    <div class="container relative z-10 mx-auto px-6">
-      <div class="mx-auto max-w-3xl text-center">
-        <span class="inline-flex items-center rounded-full px-4 py-1.5 text-xs font-semibold tracking-wide bg-warm-600 text-white dark:bg-warm-500 dark:text-slate-900 mb-6 animate-fade-in uppercase">
-          Our Story
-        </span>
-        <h1 class="font-serif mb-8 text-4xl font-bold tracking-tight sm:text-5xl text-stone-900 dark:text-white">The Story Behind <span class="text-warm-700 dark:text-warm-400">Modernized Classics</span></h1>
-        <div class="space-y-5 text-lg text-stone-600 dark:text-slate-300 leading-relaxed">
-          <p>
-            I've always wanted to read the great classics — works like <em class="text-warm-700 dark:text-warm-400 not-italic font-medium">Meditations</em>, <em class="text-warm-700 dark:text-warm-400 not-italic font-medium">The Wealth of Nations</em>,
-            and <em class="text-warm-700 dark:text-warm-400 not-italic font-medium">The Art of War</em>. But every time I tried, I found myself struggling with the old English prose,
-            archaic language, and outdated references that made these timeless works feel impenetrable.
-          </p>
-          <p>
-            The ideas and wisdom in these books are as relevant today as they were centuries ago, but the language
-            barrier was keeping me — and countless others — from accessing them. I realized there had to be a better way
-            to experience these classics without losing their essential meaning and beauty.
-          </p>
-          <p>
-            That's when <strong class="text-stone-800 dark:text-white">Modernized Classics</strong> was born: a project to make timeless literature accessible to modern
-            readers by translating classic public-domain works into contemporary language while preserving their
-            original essence, themes, and profound insights.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
+    <div class="note colophon-body">
+      <h2>Why</h2>
+      <p>
+        The site began with one reader trying, and failing, to get through <em>Meditations</em>,
+        <em>The Wealth of Nations</em>, and <em>The Art of War</em> in their standard English
+        translations. The ideas were not the obstacle; the sentences were. Rewriting a whole work into
+        the prose of a good contemporary essay, without cutting or summarizing anything, turned out to
+        be the difference between abandoning a book and finishing it.
+      </p>
 
-  <!-- Our Process Section — Horizontal Step Timeline -->
-  <section class="bg-white dark:bg-slate-900 py-20 md:py-24 border-b border-stone-200 dark:border-slate-800">
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-16 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">How It Works</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">From Classic to Modern</h2>
-        <p class="mt-4 text-lg text-stone-600 dark:text-slate-400">
-          Three steps transform centuries-old prose into something you'll love reading.
-        </p>
-      </div>
+      <h2>How an edition is made</h2>
+      <p>
+        An edition passes through six stages. The first and fifth are deterministic; the others call a
+        language model that the person running the pipeline supplies from their own account.
+      </p>
+      <ol>
+        <li><strong>Extract.</strong> The public-domain EPUB is parsed into its parts and catalogued.</li>
+        <li><strong>Select.</strong> The author's own chapters are chosen; publisher notes, front matter, and back matter are excluded. Each chapter is cut into passages at sentence boundaries.</li>
+        <li><strong>Rewrite.</strong> Every passage is rewritten into modern English with its neighbouring passages as context for continuity. The instructions ask for authoritative explanatory prose, forbid clichés and commentary, and forbid replacing the author's examples with modern ones.</li>
+        <li><strong>Check.</strong> Every rewrite is compared with its source passage for dropped content, changed meaning, summarizing, and stray commentary. A passage that fails is revised against the specific finding and checked again, at most twice. If it still fails, the edition stops there; nothing unresolved is published.</li>
+        <li><strong>Assemble.</strong> The passages are stitched back into one text and the headings normalised.</li>
+        <li><strong>Publish.</strong> The book's description and metadata are written, the page and EPUB are generated, and a cover is drawn.</li>
+      </ol>
+      <p>
+        The prompts, the stage code, and the checks are all in the
+        <a href="https://github.com/joelborch/modernized-classics-open-source" rel="noopener">public repository</a>,
+        so anyone can read exactly what the model was asked to do and rerun it.
+      </p>
 
-      <!-- Timeline Steps -->
-      <div class="max-w-screen-lg mx-auto">
-        <div class="grid md:grid-cols-3 gap-0 relative">
-          <!-- Connecting line (desktop) -->
-          <div class="hidden md:block absolute top-[52px] left-[16.6%] right-[16.6%] h-[2px] bg-gradient-to-r from-warm-300 via-warm-500 to-warm-300 dark:from-warm-700 dark:via-warm-500 dark:to-warm-700"></div>
+      <h2>What an edition is not</h2>
+      <p>
+        It is not a translation by a scholar and it is not a summary. It is a machine's modern reading
+        of the whole work, checked by a machine against the original. That makes it excellent for
+        understanding an argument from end to end, and wrong for citation. When a sentence matters,
+        quote the original and say which translation you used.
+      </p>
+      <p>
+        The narrations, where they exist, are generated speech from the edition text. They are for
+        listening, not for reference.
+      </p>
 
-          <!-- Step 1 -->
-          <div class="flex flex-col items-center text-center px-6 relative">
-            <div class="relative z-10 mb-6 flex h-[104px] w-[104px] items-center justify-center rounded-full bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/30 dark:to-blue-800/30 border-4 border-white dark:border-slate-900 shadow-lg">
-              <div class="text-center">
-                <span class="block text-2xl font-bold text-blue-600 dark:text-blue-400 font-serif">01</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-500 dark:text-blue-400 mx-auto mt-0.5">
-                  <path d="M12 6V2H8"></path>
-                  <path d="m8 18-4 4V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2Z"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="mb-2 text-xl font-semibold text-stone-900 dark:text-white">AI Translation</h3>
-            <p class="text-stone-600 dark:text-slate-400 mb-4 leading-relaxed">
-              We use Google's <strong class="text-stone-800 dark:text-white">Gemini 2.5 Pro</strong> to carefully translate archaic language into contemporary,
-              readable prose while preserving the original meaning and literary style.
-            </p>
-            <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro"
-               target="_blank" rel="noopener noreferrer"
-               class="text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 font-medium">
-              Learn about Gemini &rarr;
-            </a>
-          </div>
+      <h2 id="contribute">Open source, and how to help</h2>
+      <p>
+        The site, the pipeline, and the {books.length} editions are published under an open licence
+        on GitHub. You can report a passage that reads wrongly, propose a work, or add an edition
+        yourself: run the pipeline locally with your own model account, check the result, and open a
+        pull request with the source notes the contributing guide asks for. Every change is reviewed
+        before it reaches the site.
+      </p>
 
-          <!-- Step 2 -->
-          <div class="flex flex-col items-center text-center px-6 relative mt-8 md:mt-0">
-            <div class="relative z-10 mb-6 flex h-[104px] w-[104px] items-center justify-center rounded-full bg-gradient-to-br from-purple-50 to-pink-100 dark:from-purple-900/30 dark:to-pink-800/30 border-4 border-white dark:border-slate-900 shadow-lg">
-              <div class="text-center">
-                <span class="block text-2xl font-bold text-purple-600 dark:text-purple-400 font-serif">02</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-purple-500 dark:text-purple-400 mx-auto mt-0.5">
-                  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
-                  <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
-                  <line x1="12" y1="19" x2="12" y2="23"></line>
-                  <line x1="8" y1="23" x2="16" y2="23"></line>
-                </svg>
-              </div>
-            </div>
-            <h3 class="mb-2 text-xl font-semibold text-stone-900 dark:text-white">Text-to-Speech</h3>
-            <p class="text-stone-600 dark:text-slate-400 mb-4 leading-relaxed">
-              High-quality audiobooks are generated using the <strong class="text-stone-800 dark:text-white">Kokoro-82M</strong> neural TTS model,
-              creating natural-sounding narrations for every modernized classic.
-            </p>
-            <a href="https://huggingface.co/hexgrad/Kokoro-82M"
-               target="_blank" rel="noopener noreferrer"
-               class="text-sm text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300 font-medium">
-              Explore Kokoro-82M &rarr;
-            </a>
-          </div>
-
-          <!-- Step 3 -->
-          <div class="flex flex-col items-center text-center px-6 relative mt-8 md:mt-0">
-            <div class="relative z-10 mb-6 flex h-[104px] w-[104px] items-center justify-center rounded-full bg-gradient-to-br from-green-50 to-emerald-100 dark:from-green-900/30 dark:to-emerald-800/30 border-4 border-white dark:border-slate-900 shadow-lg">
-              <div class="text-center">
-                <span class="block text-2xl font-bold text-green-600 dark:text-green-400 font-serif">03</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-green-500 dark:text-green-400 mx-auto mt-0.5">
-                  <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-                  <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="mb-2 text-xl font-semibold text-stone-900 dark:text-white">EPUB Generation</h3>
-            <p class="text-stone-600 dark:text-slate-400 mb-4 leading-relaxed">
-              Each edition is packaged as a standards-compliant <strong class="text-stone-800 dark:text-white">EPUB 3</strong> file
-              using the project's local generator, with compatibility checked before publication.
-            </p>
-            <a href="https://github.com/joelborch/modernized-classics/tree/main/scripts"
-               target="_blank" rel="noopener noreferrer"
-               class="text-sm text-green-600 dark:text-green-400 hover:text-green-800 dark:hover:text-green-300 font-medium">
-              View the generator &rarr;
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Mission & Values Section -->
-  <section class="bg-stone-50 dark:bg-slate-950 py-20 md:py-24 border-b border-stone-200 dark:border-slate-800">
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">What We Believe</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Our Mission & Values</h2>
-        <p class="mt-4 text-lg text-stone-600 dark:text-slate-400">
-          Breaking down barriers to timeless wisdom, one classic at a time.
-        </p>
-      </div>
-
-      <div class="grid gap-8 md:grid-cols-3 max-w-screen-lg mx-auto">
-        {[
-          { icon: 'book', title: 'Accessibility', desc: 'We believe everyone should be able to enjoy and learn from classic literature, regardless of their background or language proficiency.' },
-          { icon: 'heart', title: 'Respect', desc: "We honor the original authors' intentions and artistic vision while making their work more accessible to modern readers." },
-          { icon: 'education', title: 'Education', desc: "We're committed to fostering a love of literature and lifelong learning through our modernized classics and educational resources." },
-        ].map((value, i) => (
-          <div class="flex flex-col items-center text-center">
-            <div class="mb-5 flex h-16 w-16 items-center justify-center rounded-2xl bg-warm-100 dark:bg-warm-900/30">
-              {value.icon === 'book' && (
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-warm-700 dark:text-warm-400">
-                  <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-                  <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-                </svg>
-              )}
-              {value.icon === 'heart' && (
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-warm-700 dark:text-warm-400">
-                  <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path>
-                </svg>
-              )}
-              {value.icon === 'education' && (
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-warm-700 dark:text-warm-400">
-                  <path d="M22 10v6M2 10l10-5 10 5-10 5z"></path>
-                  <path d="M6 12v5c0 1.1 2.7 2 6 2s6-.9 6-2v-5"></path>
-                </svg>
-              )}
-            </div>
-            <h3 class="mb-2 text-xl font-semibold text-stone-900 dark:text-white">{value.title}</h3>
-            <p class="text-stone-600 dark:text-slate-400 leading-relaxed">{value.desc}</p>
-          </div>
+      <h2>Questions</h2>
+      <div class="faq">
+        {faqs.map((item) => (
+          <details class="faq-item">
+            <summary class="t-text">{item.q}
+              <svg class="disclosure" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M5 8l5 5 5-5" /></svg>
+            </summary>
+            <p>{item.a}</p>
+          </details>
         ))}
       </div>
+
+      <h2 id="contact">Write to us</h2>
+      <p>
+        Suggestions, corrections, and questions are welcome. A reply may take a few days.
+      </p>
+      <form id="contact-form" method="POST" class="contact">
+        <label>
+          <span class="t-label">Name</span>
+          <input type="text" id="name" name="name" required autocomplete="name" />
+        </label>
+        <label>
+          <span class="t-label">Email</span>
+          <input type="email" id="email" name="email" required autocomplete="email" />
+        </label>
+        <label class="contact-wide">
+          <span class="t-label">Message</span>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </label>
+        <div class="cf-turnstile contact-wide" data-sitekey="0x4AAAAAABRmRR5dqJGZRe6K" data-theme="auto"></div>
+        <div class="contact-wide contact-actions">
+          <button type="submit" id="submit-btn" class="action action-primary">Send</button>
+          <p id="form-feedback" class="t-meta contact-feedback" role="status" hidden></p>
+        </div>
+      </form>
     </div>
-  </section>
-
-  <!-- FAQ Section with CSS-only Accordion -->
-  <section class="bg-white dark:bg-slate-900 py-20 md:py-24 border-b border-stone-200 dark:border-slate-800">
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">Common Questions</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Frequently Asked Questions</h2>
-      </div>
-
-      <div class="mx-auto max-w-3xl space-y-4">
-        {[
-          { q: 'How do you choose which books to modernize?', a: 'We select books based on several criteria: literary significance, educational value, cultural impact, and potential benefit from modernization. We focus on public domain works that are considered classics but may be difficult for contemporary readers to fully appreciate due to archaic language or outdated references.' },
-          { q: 'How much does your service cost?', a: "Our service is completely free! All of our modernized classics are available at no cost in EPUB and audio formats, and you can access our entire library without any subscription fees. We believe in making classic literature accessible to everyone without financial barriers." },
-          { q: 'How faithful are your modernizations to the original works?', a: 'We use AI technology to modernize the language while preserving the core meaning and themes of the original works. Our primary goal is readability for contemporary audiences, so we update archaic language, clarify obscure references, and restructure sentences to make them accessible. While we prioritize readability, we carefully maintain the essence, themes, and key insights that make these works timeless classics.' },
-          { q: 'What formats are your books available in?', a: 'Our modernized classics are available in EPUB format (compatible with most e-readers), as well as online reading through our website. We also provide AI-generated audio versions in MP3 format for each book. All formats are designed to be accessible across devices.' },
-          { q: 'Can I use your modernized versions for educational purposes?', a: "Yes, absolutely! We encourage the use of our modernized classics for educational purposes. Teachers and students are welcome to use our materials for classroom activities, assignments, and learning initiatives. Since all our texts are based on public domain works and are freely available, you can incorporate them into your educational curriculum without restrictions." },
-          { q: 'Do you accept suggestions for books to modernize?', a: "Currently, we don't have a formal process for accepting book suggestions, as we're focusing on completing our initial catalog of classics. However, we're considering implementing a suggestion system in the future that would allow readers to vote on which public domain works they'd like to see modernized next. Stay tuned for updates on this feature!" },
-        ].map((faq, i) => (
-          <div class="faq-item">
-            <input type="checkbox" id={`faq-${i + 1}`} class="faq-toggle" />
-            <label for={`faq-${i + 1}`} class="faq-title bg-stone-50 dark:bg-slate-800 rounded-lg border border-stone-200 dark:border-slate-700 block p-6 cursor-pointer hover:border-warm-300 dark:hover:border-warm-700 transition-colors">
-              <div class="flex justify-between items-center">
-                <span class="text-lg font-medium text-stone-900 dark:text-white pr-4">{faq.q}</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-warm-600 dark:text-warm-400 faq-icon flex-shrink-0">
-                  <path d="m6 9 6 6 6-6"/>
-                </svg>
-              </div>
-            </label>
-            <div class="faq-content bg-stone-50 dark:bg-slate-800 border-x border-b border-stone-200 dark:border-slate-700 px-6 pt-0 overflow-hidden max-h-0 rounded-b-lg">
-              <div class="py-6">
-                <p class="text-stone-600 dark:text-slate-400 leading-relaxed">{faq.a}</p>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Contact Form Section -->
-  <section class="bg-stone-50 dark:bg-slate-950 py-20 md:py-24 border-b border-stone-200 dark:border-slate-800">
-    <div class="container mx-auto px-6">
-      <div class="max-w-xl mx-auto text-center mb-14 reveal-on-scroll">
-        <span class="inline-block text-sm font-semibold uppercase tracking-wider text-warm-700 dark:text-warm-400 mb-2">Get In Touch</span>
-        <h2 class="font-serif text-3xl md:text-4xl font-bold tracking-tight text-stone-900 dark:text-white">Contact Us</h2>
-        <p class="mt-4 text-lg text-stone-600 dark:text-slate-300">
-          Have questions or feedback? We'd love to hear from you.
-        </p>
-      </div>
-
-      <div class="mx-auto max-w-xl">
-        <form
-          id="contact-form"
-          method="POST"
-          class="space-y-6 bg-white dark:bg-slate-900 p-8 rounded-2xl shadow-sm border border-stone-200 dark:border-slate-800"
-        >
-          <div>
-            <label for="name" class="block text-sm font-medium text-stone-700 dark:text-slate-300 mb-1">Name</label>
-            <input
-              type="text"
-              id="name"
-              name="name"
-              placeholder="Your Name"
-              required
-              class="block w-full px-4 py-3 rounded-lg border border-stone-300 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm focus:border-warm-500 focus:ring-warm-500 dark:text-white transition duration-150 ease-in-out"
-            />
-          </div>
-
-          <div>
-            <label for="email" class="block text-sm font-medium text-stone-700 dark:text-slate-300 mb-1">Email</label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder="your@email.com"
-              required
-              class="block w-full px-4 py-3 rounded-lg border border-stone-300 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm focus:border-warm-500 focus:ring-warm-500 dark:text-white transition duration-150 ease-in-out"
-            />
-          </div>
-
-          <div>
-            <label for="message" class="block text-sm font-medium text-stone-700 dark:text-slate-300 mb-1">Message</label>
-            <textarea
-              id="message"
-              name="message"
-              rows="4"
-              placeholder="Your Message"
-              required
-              class="block w-full px-4 py-3 rounded-lg border border-stone-300 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm focus:border-warm-500 focus:ring-warm-500 dark:text-white transition duration-150 ease-in-out"
-            ></textarea>
-          </div>
-
-          <div
-             class="cf-turnstile"
-             data-sitekey="0x4AAAAAABRmRR5dqJGZRe6K"
-             data-theme="auto"
-          ></div>
-
-          <div>
-            <button
-              type="submit"
-              id="submit-btn"
-              class="w-full inline-flex justify-center py-3.5 px-6 border border-transparent shadow-sm text-base font-semibold rounded-lg text-white bg-warm-700 hover:bg-warm-800 dark:bg-warm-500 dark:hover:bg-warm-400 dark:text-slate-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-warm-500 transition duration-150 ease-in-out"
-            >
-              Send Message
-            </button>
-          </div>
-
-          <!-- Success/Error feedback -->
-          <div id="form-feedback" class="hidden rounded-lg p-4 text-center text-sm font-medium"></div>
-        </form>
-      </div>
-    </div>
-  </section>
-
-  <style>
-    /* CSS-only accordion styling */
-    .faq-item {
-      overflow: hidden;
-    }
-
-    .faq-toggle {
-      position: absolute;
-      opacity: 0;
-      z-index: -1;
-    }
-
-    .faq-content {
-      transition: all 0.3s ease;
-    }
-
-    .faq-toggle:checked ~ .faq-title {
-      border-bottom-left-radius: 0;
-      border-bottom-right-radius: 0;
-    }
-
-    .faq-toggle:checked ~ .faq-content {
-      max-height: 100vh;
-    }
-
-    .faq-toggle:checked ~ .faq-title .faq-icon {
-      transform: rotate(180deg);
-    }
-
-    .faq-icon {
-      transition: transform 0.3s ease;
-    }
-  </style>
-
-  <script>
-    function initContactForm() {
-      const form = document.getElementById('contact-form') as HTMLFormElement;
-      const feedback = document.getElementById('form-feedback');
-      const submitBtn = document.getElementById('submit-btn');
-      const encodedAction = 'aHR0cHM6Ly9zdWJtaXQtZm9ybS5jb20vNjhrMHpNSWxx';
-      if (form) form.action = atob(encodedAction);
-
-      form?.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        if (!submitBtn || !feedback) return;
-
-        submitBtn.textContent = 'Sending...';
-        (submitBtn as HTMLButtonElement).disabled = true;
-
-        try {
-          const response = await fetch(form.action, {
-            method: 'POST',
-            body: new FormData(form),
-          });
-
-          if (response.ok) {
-            feedback.textContent = 'Message sent! We\'ll get back to you soon.';
-            feedback.className = 'rounded-lg p-4 text-center text-sm font-medium bg-green-50 dark:bg-green-900/30 text-green-700 dark:text-green-300 border border-green-200 dark:border-green-800';
-            form.reset();
-          } else {
-            throw new Error('Failed');
-          }
-        } catch {
-          feedback.textContent = 'Something went wrong. Please try again.';
-          feedback.className = 'rounded-lg p-4 text-center text-sm font-medium bg-red-50 dark:bg-red-900/30 text-red-700 dark:text-red-300 border border-red-200 dark:border-red-800';
-        }
-
-        submitBtn.textContent = 'Send Message';
-        (submitBtn as HTMLButtonElement).disabled = false;
-      });
-    }
-
-    initContactForm();
-    document.addEventListener('astro:after-swap', initContactForm);
-  </script>
+  </article>
 </BaseLayout>
 
+<script>
+  function initContactForm() {
+    const form = document.getElementById('contact-form') as HTMLFormElement | null;
+    const feedback = document.getElementById('form-feedback') as HTMLParagraphElement | null;
+    const submit = document.getElementById('submit-btn') as HTMLButtonElement | null;
+    if (!form || !feedback || !submit) return;
+    form.action = atob('aHR0cHM6Ly9zdWJtaXQtZm9ybS5jb20vNjhrMHpNSWxx');
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      submit.textContent = 'Sending…';
+      submit.disabled = true;
+      feedback.hidden = true;
+      try {
+        const response = await fetch(form.action, { method: 'POST', body: new FormData(form) });
+        if (!response.ok) throw new Error(String(response.status));
+        feedback.textContent = 'Sent. Thank you; we read everything.';
+        feedback.dataset.state = 'ok';
+        form.reset();
+      } catch {
+        feedback.textContent = 'That did not send. Check your connection and try once more, or email us from the repository page.';
+        feedback.dataset.state = 'error';
+      }
+      feedback.hidden = false;
+      submit.textContent = 'Send';
+      submit.disabled = false;
+    });
+  }
+  initContactForm();
+</script>
+
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer is:inline></script>
+
+<style>
+  .colophon { padding: 3.5rem 0 2rem; }
+  .colophon-head { max-width: 46rem; margin-bottom: 2.5rem; padding-bottom: 2rem; border-bottom: var(--rule); }
+  .colophon-title { font-size: clamp(2.5rem, 5vw, 4rem); margin: 0 0 1rem; }
+  .colophon-lede { font-size: 1.25rem; line-height: 1.5; color: var(--ink-9); margin: 0; max-width: 50ch; }
+  .colophon-body { max-width: var(--measure); }
+
+  .faq { border-top: var(--rule); }
+  .faq-item { border-bottom: var(--rule); }
+  .faq-item summary {
+    list-style: none; cursor: pointer;
+    padding: 0.9rem 2rem 0.9rem 0;
+    font-size: 1.0625rem; font-weight: 500;
+    position: relative;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item .disclosure {
+    position: absolute; right: 0; top: 1.1rem; width: 1rem; height: 1rem;
+    color: var(--ink-6); transition: transform 150ms cubic-bezier(0.2, 0, 0, 1);
+  }
+  .faq-item[open] .disclosure { transform: rotate(180deg); }
+  .faq-item p { margin: 0 0 1.1rem; color: var(--ink-9); font-size: 1rem; }
+
+  .contact {
+    display: grid; grid-template-columns: 1fr; gap: 1.25rem;
+    margin-top: 1.5rem; font-family: var(--font-ui);
+  }
+  @media (min-width: 640px) { .contact { grid-template-columns: 1fr 1fr; } .contact-wide { grid-column: 1 / -1; } }
+  .contact label { display: grid; gap: 0.4rem; }
+  .contact input, .contact textarea {
+    font: inherit; font-size: 1rem; color: var(--ink-10);
+    background: transparent; border: 0; border-bottom: 1px solid var(--ink-5);
+    padding: 0.5rem 0; border-radius: 0; resize: vertical;
+  }
+  .contact input:focus, .contact textarea:focus { outline: none; border-bottom-color: var(--series-rule); }
+  .contact-actions { display: flex; align-items: center; gap: 1.25rem; flex-wrap: wrap; }
+  .contact-feedback { margin: 0; }
+  .contact-feedback[data-state='ok'] { color: var(--series-ink); }
+  .contact-feedback[data-state='error'] { color: #a33327; }
+  :root[data-theme='dark'] .contact-feedback[data-state='error'] { color: #e08b7d; }
+</style>

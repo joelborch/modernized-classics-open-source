@@ -15,22 +15,32 @@ export default defineConfig({
     processor: unified(),
   },
 
-  /* --- Self-host fonts --- */
+  /* --- Self-hosted fonts ---
+     Literata: a serif drawn for long-form screen reading, with optical sizes,
+     true italics and old-style figures. It sets every word of every edition.
+     Atkinson Hyperlegible Next: the apparatus face (labels, running heads,
+     controls), chosen for its legibility research rather than its style. */
   fonts: [
     {
       provider: fontProviders.google(),
-      name: 'Roboto',
-      cssVariable: '--font-robo',
+      name: 'Literata',
+      cssVariable: '--font-literata',
       display: 'swap',
-      weights: ['400','500','700']
+      weights: ['200 900'],
+      styles: ['normal', 'italic'],
+      subsets: ['latin', 'latin-ext'],
+      fallbacks: ['Iowan Old Style', 'Palatino', 'Georgia', 'serif'],
     },
     {
       provider: fontProviders.google(),
-      name: 'Playfair Display',
-      cssVariable: '--font-serif',
+      name: 'Atkinson Hyperlegible Next',
+      cssVariable: '--font-atkinson',
       display: 'swap',
-      weights: ['400','500','600','700','800']
-    }
+      weights: ['200 800'],
+      styles: ['normal', 'italic'],
+      subsets: ['latin', 'latin-ext'],
+      fallbacks: ['system-ui', 'sans-serif'],
+    },
   ],
 
   integrations: [

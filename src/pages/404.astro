@@ -1,14 +1,28 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-const title = "Page Not Found";
-const description = "The page you requested could not be found.";
+const title = "Page not found";
+const description = "There is no page at this address.";
 ---
 
 <BaseLayout {title} {description}>
-  <main class="container mx-auto px-6 py-24 text-center">
-    <h1 class="text-4xl font-bold mb-4">404 - Page Not Found</h1>
-    <p class="mb-6">Sorry, we couldn't find the page you're looking for.</p>
-    <a href="/" class="text-blue-600 dark:text-blue-400 underline">Return to Home</a>
-  </main>
+  <section class="wrap folio">
+    <h1 class="t-display folio-title">This page is blank.</h1>
+    <p class="t-text folio-note">
+      Nothing is printed at this address (error 404). The work you wanted may have moved when we corrected a
+      title, so the library is the surest way back.
+    </p>
+    <p class="folio-actions">
+      <a href="/library/" class="action action-primary">Open the library</a>
+      <a href="/" class="folio-link">Front page</a>
+    </p>
+  </section>
 </BaseLayout>
+
+<style>
+  .folio { padding: 6rem 0 4rem; max-width: 40rem; }
+  .folio-title { font-size: clamp(2.5rem, 6vw, 4.5rem); margin: 0.5rem 0 1.25rem; }
+  .folio-note { font-size: 1.125rem; line-height: 1.55; color: var(--ink-9); margin: 0 0 2rem; max-width: 44ch; }
+  .folio-actions { display: flex; gap: 1.25rem; align-items: center; margin: 0; }
+  .folio-link { font-family: var(--font-ui); font-size: 0.9375rem; }
+</style>

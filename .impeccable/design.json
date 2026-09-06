@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-05T00:00:00Z",
+  "title": "Design System: Modernized Classics",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Wove-White Paper",
+        "canonical": "#f6f7f8",
+        "themes": { "light": "#f6f7f8", "sepia": "#f3ecdc", "dark": "#15161a" },
+        "tonalRamp": ["#15161a", "#3d3429", "#585852", "#75756e", "#96968f", "#d0d3d7", "#eceef0", "#f6f7f8"]
+      },
+      "ink-1": { "role": "neutral", "displayName": "Ink 1, hover wash", "canonical": "#eceef0", "themes": { "light": "#eceef0", "sepia": "#eae1cd", "dark": "#1d1e23" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#d0d3d7", "#eceef0"] },
+      "ink-2": { "role": "neutral", "displayName": "Ink 2, row dividers", "canonical": "#e1e3e6", "themes": { "light": "#e1e3e6", "sepia": "#ded3bb", "dark": "#26272d" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#d0d3d7", "#e1e3e6"] },
+      "ink-3": { "role": "neutral", "displayName": "Ink 3, the hairline", "canonical": "#d0d3d7", "themes": { "light": "#d0d3d7", "sepia": "#ccc0a5", "dark": "#33343b" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-4": { "role": "neutral", "displayName": "Ink 4, quiet stroke", "canonical": "#b9b9b2", "themes": { "light": "#b9b9b2", "sepia": "#b1a48b", "dark": "#4a4b53" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-5": { "role": "neutral", "displayName": "Ink 5, input underline", "canonical": "#96968f", "themes": { "light": "#96968f", "sepia": "#8f826b", "dark": "#67686f" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-6": { "role": "neutral", "displayName": "Ink 6, markers and numbers", "canonical": "#75756e", "themes": { "light": "#75756e", "sepia": "#6f6350", "dark": "#86878e" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-7": { "role": "neutral", "displayName": "Ink 7, label and meta text", "canonical": "#585852", "themes": { "light": "#585852", "sepia": "#554a3a", "dark": "#a5a6ac" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-8": { "role": "neutral", "displayName": "Ink 8, apparatus text", "canonical": "#3e3e39", "themes": { "light": "#3e3e39", "sepia": "#3d3429", "dark": "#c4c5c9" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-9": { "role": "neutral", "displayName": "Ink 9, secondary reading text", "canonical": "#26261f", "themes": { "light": "#26261f", "sepia": "#28211b", "dark": "#dedee1" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "ink-10": { "role": "neutral", "displayName": "Ink 10, the text", "canonical": "#14140f", "themes": { "light": "#14140f", "sepia": "#17120e", "dark": "#f1f1f2" }, "tonalRamp": ["#14140f", "#26261f", "#3e3e39", "#585852", "#75756e", "#96968f", "#b9b9b2", "#d0d3d7"] },
+      "series": {
+        "role": "primary",
+        "displayName": "Series Colour (default ink-blue; per edition from src/data/series-colors.json)",
+        "canonical": "#2f4a7a",
+        "derived": {
+          "series-ink": { "light": "var(--series)", "sepia": "color-mix(in oklab, var(--series) 88%, var(--ink-10))", "dark": "color-mix(in oklab, var(--series) 62%, white)" },
+          "series-rule": { "light": "var(--series)", "sepia": "var(--series)", "dark": "color-mix(in oklab, var(--series) 75%, white)" },
+          "series-tint": { "light": "color-mix(in oklab, var(--series) 12%, var(--paper))", "sepia": "color-mix(in oklab, var(--series) 12%, var(--paper))", "dark": "color-mix(in oklab, var(--series) 22%, var(--paper))" }
+        },
+        "tonalRamp": ["oklch(20% 0.07 262)", "oklch(30% 0.09 262)", "oklch(40% 0.10 262)", "oklch(50% 0.10 262)", "oklch(60% 0.09 262)", "oklch(72% 0.07 262)", "oklch(84% 0.04 262)", "oklch(95% 0.015 262)"]
+      },
+      "series-tint": {
+        "role": "primary",
+        "displayName": "Series Tint (selection, pressed segment)",
+        "canonical": "color-mix(in oklab, var(--series) 12%, var(--paper))",
+        "tonalRamp": ["oklch(20% 0.07 262)", "oklch(30% 0.09 262)", "oklch(40% 0.10 262)", "oklch(50% 0.10 262)", "oklch(60% 0.09 262)", "oklch(72% 0.07 262)", "oklch(84% 0.04 262)", "oklch(95% 0.015 262)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Edition title in the band; masthead at a larger clamp." },
+      "headline": { "displayName": "Headline", "purpose": "h2 inside the text block, sized in em of the reader size." },
+      "title": { "displayName": "Title", "purpose": "h3 inside the text block; section, pick, shelf, and spine titles outside it." },
+      "body": { "displayName": "Body", "purpose": "The text block at a 66ch measure; size and leading follow the reader's saved preference." },
+      "note": { "displayName": "Note", "purpose": "Long-form prose outside the reader: descriptions, colophon, legal." },
+      "ui": { "displayName": "UI", "purpose": "Actions, nav links, chips, download links." },
+      "meta": { "displayName": "Meta", "purpose": "Provenance lines, counts, percentages, captions." },
+      "label": { "displayName": "Label", "purpose": "Tracked uppercase functional labels: running-head author, Contents, menu section names, table headers. Never a kicker." }
+    },
+    "shadows": [
+      { "name": "cover-rest", "value": "0 1px 2px rgba(0,0,0,0.14), 0 12px 28px -12px rgba(0,0,0,0.35)", "purpose": "Every cover at rest; the only object that casts a shadow." },
+      { "name": "cover-rest-dark", "value": "0 1px 2px rgba(0,0,0,0.5), 0 14px 30px -12px rgba(0,0,0,0.8)", "purpose": "Cover at rest on dark paper." },
+      { "name": "cover-lift", "value": "0 2px 3px rgba(0,0,0,0.14), 0 18px 34px -12px rgba(0,0,0,0.4)", "purpose": "Linked cover on hover, with translateY(-3px)." },
+      { "name": "cover-edge", "value": "inset 0 0 0 1px rgba(0,0,0,0.08)", "purpose": "Inset hairline on every cover." },
+      { "name": "swatch-ring", "value": "0 0 0 1px var(--series-rule)", "purpose": "Ring around the current theme swatch; a border on a circle, not a depth cue." },
+      { "name": "dialog-backdrop", "value": "rgba(20,20,15,0.35) + backdrop-filter: blur(2px)", "purpose": "Contents dialog backdrop; rgba(0,0,0,0.6) in dark." }
+    ],
+    "motion": [
+      { "name": "ease-standard", "value": "cubic-bezier(0.2, 0, 0, 1)", "purpose": "The only easing; exponential ease-out." },
+      { "name": "duration-state", "value": "150ms", "purpose": "Colour, background, border, chevron, tick state changes." },
+      { "name": "duration-lift", "value": "200ms", "purpose": "Cover hover lift." },
+      { "name": "duration-progress", "value": "120ms linear", "purpose": "Rail progress line tracking scroll." },
+      { "name": "ribbon-settle", "value": "700ms cubic-bezier(0.2, 0, 0, 1); from translateY(-14px) scaleY(0.6) opacity 0", "purpose": "The one authored motion: the ribbon settling at the saved position on return." },
+      { "name": "reduced-motion", "value": "prefers-reduced-motion: all durations 0.01ms, scroll-behavior auto", "purpose": "Removes travel entirely." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "900px" },
+      { "name": "xl", "value": "1024px" },
+      { "name": "rail-labels", "value": "1100px" }
+    ],
+    "layout": {
+      "wrap": "min(100% - 2.5rem, 78rem); min(100% - 4rem, 78rem) from 768px",
+      "measure": "66ch",
+      "runningHead": "2.75rem",
+      "siteHeader": "3.5rem",
+      "editionBody": "minmax(0,1fr) | minmax(0, 66ch) | minmax(4.5rem, 1fr), column-gap 2rem, from 768px",
+      "readerSize": { "small": "1rem", "medium": "1.125rem", "large": "1.3125rem" },
+      "readerLeading": { "compact": 1.5, "normal": 1.65, "relaxed": 1.85 }
+    }
+  },
+  "components": [
+    {
+      "name": "Action",
+      "kind": "button",
+      "refersTo": "action",
+      "description": "Outline ink action for secondary commands.",
+      "html": "<a class=\"ds-action\" href=\"#\">Choose another edition</a>",
+      "css": ".ds-action { display: inline-flex; align-items: center; gap: 0.5rem; min-height: 2.75rem; padding: 0 1.125rem; font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.9375rem; font-weight: 500; text-decoration: none; border: 1px solid var(--ink-10, #14140f); color: var(--ink-10, #14140f); background: transparent; border-radius: 0; transition: background-color 150ms cubic-bezier(0.2,0,0,1), color 150ms cubic-bezier(0.2,0,0,1); } .ds-action:hover { background: var(--ink-1, #eceef0); } .ds-action:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; }"
+    },
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "action-primary",
+      "description": "Filled ink block with a series underline; one per page (Start reading / Resume).",
+      "html": "<a class=\"ds-action-primary\" href=\"#\">Resume<span class=\"ds-resume-where\">Book 2</span></a>",
+      "css": ".ds-action-primary { display: inline-flex; align-items: center; gap: 0.5rem; min-height: 2.75rem; padding: 0 1.125rem; font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.9375rem; font-weight: 500; text-decoration: none; border: 1px solid var(--ink-10, #14140f); border-bottom: 2px solid var(--series-rule, #2f4a7a); color: var(--paper, #f6f7f8); background: var(--ink-10, #14140f); border-radius: 0; transition: background-color 150ms cubic-bezier(0.2,0,0,1), border-color 150ms cubic-bezier(0.2,0,0,1); } .ds-action-primary:hover { background: var(--ink-9, #26261f); border-color: var(--ink-9, #26261f); border-bottom-color: var(--series-rule, #2f4a7a); } .ds-action-primary:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; } .ds-resume-where { margin-left: 0.35rem; font-weight: 400; opacity: 0.9; } .ds-resume-where::before { content: 'at '; }"
+    },
+    {
+      "name": "Icon Button",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "Bare 2.25rem square for running-head and dialog controls.",
+      "html": "<button class=\"ds-icon-button\" aria-label=\"Contents\"><svg viewBox=\"0 0 20 20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" aria-hidden=\"true\"><path d=\"M3 5h14M3 10h14M3 15h9\"/></svg></button>",
+      "css": ".ds-icon-button { display: inline-flex; align-items: center; justify-content: center; width: 2.25rem; height: 2.25rem; border: 0; border-radius: 0; background: transparent; color: var(--ink-8, #3e3e39); cursor: pointer; transition: color 150ms cubic-bezier(0.2,0,0,1), background-color 150ms cubic-bezier(0.2,0,0,1); } .ds-icon-button svg { width: 1.125rem; height: 1.125rem; } .ds-icon-button:hover { color: var(--ink-10, #14140f); background: var(--ink-1, #eceef0); } .ds-icon-button:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; }"
+    },
+    {
+      "name": "Filter Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Bare text filter with a hairline-underline state.",
+      "html": "<div class=\"ds-chips\"><button class=\"ds-chip\" aria-pressed=\"true\">Philosophy</button><button class=\"ds-chip\">Politics</button><button class=\"ds-chip\">Economics</button></div>",
+      "css": ".ds-chips { display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); } .ds-chip { background: transparent; border: 0; border-radius: 0; padding: 0.2rem 0; font: inherit; font-size: 0.9375rem; color: var(--ink-8, #3e3e39); border-bottom: 1px solid transparent; cursor: pointer; transition: color 150ms cubic-bezier(0.2,0,0,1), border-color 150ms cubic-bezier(0.2,0,0,1); } .ds-chip:hover { color: var(--ink-10, #14140f); border-bottom-color: var(--ink-4, #b9b9b2); } .ds-chip[aria-pressed='true'] { color: var(--ink-10, #14140f); border-bottom-color: var(--series-rule, #2f4a7a); } .ds-chip:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; }"
+    },
+    {
+      "name": "Search Input",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "Literata on a bare underline; the one input in the reading face.",
+      "html": "<label class=\"ds-search\"><span class=\"ds-label\">Search</span><input class=\"ds-search-input\" type=\"search\" placeholder=\"Title, author, or subject\"></label>",
+      "css": ".ds-search { display: grid; gap: 0.4rem; max-width: 34rem; } .ds-label { font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.6875rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-7, #585852); } .ds-search-input { width: 100%; font-family: var(--font-text, 'Literata', Georgia, serif); font-size: 1.25rem; padding: 0.5rem 0; border: 0; border-bottom: 1px solid var(--ink-5, #96968f); background: transparent; color: var(--ink-10, #14140f); border-radius: 0; } .ds-search-input::placeholder { color: var(--ink-6, #75756e); font-style: italic; } .ds-search-input:focus { outline: none; border-bottom-color: var(--series-rule, #2f4a7a); }"
+    },
+    {
+      "name": "Segmented Control",
+      "kind": "input",
+      "refersTo": "segmented-option",
+      "description": "Reader-menu setting group: hairline-bordered equal buttons, series-tint when pressed.",
+      "html": "<div class=\"ds-segmented\" role=\"group\" aria-label=\"Text size\"><button aria-pressed=\"false\">Small</button><button aria-pressed=\"true\">Medium</button><button aria-pressed=\"false\">Large</button></div>",
+      "css": ".ds-segmented { display: flex; border: 1px solid var(--ink-3, #d0d3d7); font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); } .ds-segmented > button { flex: 1; min-height: 2.25rem; display: inline-flex; align-items: center; justify-content: center; background: transparent; border: 0; border-right: 1px solid var(--ink-3, #d0d3d7); border-bottom: 2px solid transparent; border-radius: 0; color: var(--ink-8, #3e3e39); font: inherit; font-size: 0.8125rem; cursor: pointer; } .ds-segmented > button:last-child { border-right: 0; } .ds-segmented > button:hover { background: var(--ink-1, #eceef0); color: var(--ink-10, #14140f); } .ds-segmented > button[aria-pressed='true'] { background: var(--series-tint, #dee2ea); color: var(--ink-10, #14140f); border-bottom-color: var(--series-rule, #2f4a7a); } .ds-segmented > button:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; }"
+    },
+    {
+      "name": "Site Navigation",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "Header links with the hairline-underline state grammar.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\" aria-current=\"page\">Library</a><a href=\"#\">Colophon</a><a href=\"#\">Source</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 1.25rem; font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.9375rem; } .ds-nav a { text-decoration: none; color: var(--ink-8, #3e3e39); padding: 0.25rem 0; border-bottom: 1px solid transparent; transition: color 150ms cubic-bezier(0.2,0,0,1), border-color 150ms cubic-bezier(0.2,0,0,1); } .ds-nav a:hover { color: var(--ink-10, #14140f); border-bottom-color: var(--ink-4, #b9b9b2); } .ds-nav a[aria-current='page'] { color: var(--ink-10, #14140f); border-bottom-color: var(--series-rule, #2f4a7a); } .ds-nav a:focus-visible { outline: 2px solid var(--series-rule, #2f4a7a); outline-offset: 2px; border-radius: 1px; }"
+    },
+    {
+      "name": "Spine Row",
+      "kind": "card",
+      "refersTo": "spine-row",
+      "description": "Library spine view: a hairline row with a 6px series band, in place of a card.",
+      "html": "<a class=\"ds-spine\" href=\"#\" style=\"--series:#38458a\"><span class=\"ds-spine-band\"></span><span class=\"ds-spine-title\">Meditations</span><span class=\"ds-spine-meta\">Marcus Aurelius</span><span class=\"ds-spine-meta\">AD 180</span><span class=\"ds-spine-meta\">11 h 28 min</span></a>",
+      "css": ".ds-spine { display: grid; grid-template-columns: 6px minmax(0, 2fr) minmax(0, 1.4fr) 6rem 6rem; column-gap: 1rem; align-items: baseline; padding: 0.7rem 0; border-top: 1px solid var(--ink-3, #d0d3d7); border-bottom: 1px solid var(--ink-3, #d0d3d7); text-decoration: none; color: var(--ink-10, #14140f); font-family: var(--font-text, 'Literata', Georgia, serif); transition: background-color 150ms cubic-bezier(0.2,0,0,1); } .ds-spine:hover { background: var(--ink-1, #eceef0); } .ds-spine-band { align-self: stretch; background: var(--series-rule, var(--series, #2f4a7a)); } .ds-spine-title { font-size: 1.0625rem; font-weight: 500; } .ds-spine:hover .ds-spine-title { color: var(--series-ink, var(--series, #2f4a7a)); } .ds-spine-meta { font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.8125rem; color: var(--ink-7, #585852); font-variant-numeric: tabular-nums lining-nums; }"
+    },
+    {
+      "name": "Cover",
+      "kind": "custom",
+      "refersTo": "cover",
+      "description": "A 2:3 cover as a physical object: spine edge, inset hairline, the only drop shadow in the system; lifts on hover when linked.",
+      "html": "<a class=\"ds-cover-link\" href=\"#\" style=\"--series:#38458a\"><span class=\"ds-cover\"><span class=\"ds-cover-board\"><span class=\"ds-cover-board-title\">Meditations</span><span class=\"ds-cover-board-author\">Marcus Aurelius</span></span></span></a>",
+      "css": ".ds-cover-link { display: block; width: 150px; text-decoration: none; } .ds-cover { position: relative; display: block; aspect-ratio: 2 / 3; background: var(--ink-2, #e1e3e6); box-shadow: 0 1px 2px rgba(0,0,0,0.14), 0 12px 28px -12px rgba(0,0,0,0.35); transition: transform 200ms cubic-bezier(0.2,0,0,1), box-shadow 200ms cubic-bezier(0.2,0,0,1); } .ds-cover::before { content: ''; position: absolute; inset: 0 auto 0 0; width: 6%; max-width: 14px; background: linear-gradient(to right, rgba(0,0,0,0.22), rgba(0,0,0,0.04) 55%, rgba(255,255,255,0.08) 80%, rgba(0,0,0,0.06)); z-index: 1; } .ds-cover::after { content: ''; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08); z-index: 1; } .ds-cover-link:hover .ds-cover { transform: translateY(-3px); box-shadow: 0 2px 3px rgba(0,0,0,0.14), 0 18px 34px -12px rgba(0,0,0,0.4); } .ds-cover-board { position: absolute; inset: 0; padding: 12% 10% 12% 16%; display: flex; flex-direction: column; justify-content: space-between; background: var(--series, #2f4a7a); color: #fff; font-family: var(--font-text, 'Literata', Georgia, serif); } .ds-cover-board-title { font-size: 1.1rem; line-height: 1.1; font-weight: 500; } .ds-cover-board-author { font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.6875rem; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.85; }"
+    },
+    {
+      "name": "Chapter Rail",
+      "kind": "custom",
+      "refersTo": "rail",
+      "description": "The signature apparatus: hairline track, series progress line, chapter ticks, and the ribbon at the saved position.",
+      "html": "<nav class=\"ds-rail\" aria-label=\"Chapters\" style=\"--series:#38458a\"><div class=\"ds-rail-track\"><div class=\"ds-rail-progress\"></div><div class=\"ds-rail-ribbon\" style=\"--y:46%\"></div><a class=\"ds-tick is-past\" href=\"#\" style=\"--y:10%\" data-chapter=\"1\" data-title=\"Introduction\"></a><a class=\"ds-tick is-past\" href=\"#\" style=\"--y:30%\" data-chapter=\"2\" data-title=\"Book 1\"></a><a class=\"ds-tick is-current\" href=\"#\" style=\"--y:46%\" data-chapter=\"3\" data-title=\"Book 2\"></a><a class=\"ds-tick\" href=\"#\" style=\"--y:64%\" data-chapter=\"4\" data-title=\"Book 3\"></a><a class=\"ds-tick\" href=\"#\" style=\"--y:82%\" data-chapter=\"5\" data-title=\"Book 4\"></a></div></nav>",
+      "css": ".ds-rail { height: 260px; padding-left: 1rem; width: 12rem; } .ds-rail-track { position: relative; height: 100%; width: 1px; background: var(--ink-3, #d0d3d7); } .ds-rail-progress { position: absolute; top: 0; left: 0; width: 1px; height: 100%; background: var(--series-rule, var(--series, #2f4a7a)); transform: scaleY(0.46); transform-origin: top; } .ds-tick { position: absolute; left: -3px; top: var(--y, 0%); width: 7px; height: 7px; border-radius: 50%; background: var(--paper, #f6f7f8); border: 1px solid var(--ink-4, #b9b9b2); transform: translateY(-50%); transition: border-color 150ms cubic-bezier(0.2,0,0,1), background-color 150ms cubic-bezier(0.2,0,0,1); } .ds-tick:hover, .ds-tick:focus-visible { border-color: var(--series-rule, var(--series, #2f4a7a)); outline: none; } .ds-tick.is-past { background: var(--series-rule, var(--series, #2f4a7a)); border-color: var(--series-rule, var(--series, #2f4a7a)); } .ds-tick.is-current { background: var(--paper, #f6f7f8); border: 2px solid var(--series-rule, var(--series, #2f4a7a)); width: 11px; height: 11px; left: -5px; z-index: 1; } .ds-tick::after { content: attr(data-chapter) '. ' attr(data-title); position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); white-space: nowrap; font-family: var(--font-ui, 'Atkinson Hyperlegible Next', system-ui, sans-serif); font-size: 0.75rem; color: var(--ink-7, #585852); opacity: 0; transition: opacity 150ms cubic-bezier(0.2,0,0,1); } .ds-tick:hover::after, .ds-tick:focus-visible::after, .ds-tick.is-current::after { opacity: 1; } .ds-tick.is-current::after { color: var(--ink-10, #14140f); } .ds-rail-ribbon { position: absolute; left: -6px; top: var(--y, 0%); width: 13px; height: 34px; background: var(--series-rule, var(--series, #2f4a7a)); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 78%, 0 100%); z-index: 2; animation: ds-ribbon-settle 700ms cubic-bezier(0.2,0,0,1) both; } @keyframes ds-ribbon-settle { from { transform: translateY(-14px) scaleY(0.6); opacity: 0; } to { transform: translateY(0) scaleY(1); opacity: 1; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Critical Edition",
+    "overview": "The site is a scholarly reading edition brought to the web. Every page is a text block set in Literata on cool wove-white paper, with an apparatus around it (running head, chapter rail, contents, provenance line) that answers \"where am I\" without competing with the text. The apparatus is set small in Atkinson Hyperlegible Next, and it earns its place by being useful, not by being decorated. The world explicitly refuses the category's card-and-sidebar reader with a settings panel and a floating toolbar.\n\nColour is almost entirely grey. Every grey on the site comes from one fixed eleven-step ink ramp that is re-drawn for each of the three papers (light, sepia, dark), so a contributor never picks a grey; they pick a step. The single accent is the series colour: one colour per edition, sampled from its cover at build time, and used only for hairlines, ticks, the ribbon, the spine band, selection, focus, and caret. On surfaces with no edition it falls back to the site's own ink-blue.\n\nDepth is flat. Structure is drawn with 1px hairlines and whitespace; the only shadows are the physical drop under a cover, because the cover is treated as an object on the desk rather than an image in a card. Nothing has a radius except dots (chapter ticks, theme swatches). Density is that of a well-set book: a 66ch measure, generous section padding, and small tracked-caps labels that sit in the margins.",
+    "keyCharacteristics": [
+      "One fixed eleven-step ink ramp per theme; no grey is ever picked outside it.",
+      "One series colour per edition, confined to rules, ticks, ribbon, band, and state.",
+      "Literata for every word the reader reads; Atkinson Hyperlegible Next for every word the apparatus says, at one small size.",
+      "Hairline rules and whitespace instead of cards, panels, or shadows.",
+      "Zero radius on every rectangle; circles only for dots.",
+      "Covers are 2:3 objects with a spine edge and a drop shadow, never cropped or tinted.",
+      "One authored motion (the ribbon settle); everything else is a 150ms exponential ease-out."
+    ],
+    "rules": [
+      { "name": "The One Ramp Rule", "body": "Every grey is one of the eleven ink steps or paper. No rgba greys, no Tailwind greys, no opacity-faded text except the two places the build already uses it (the resume chapter name at 0.9, the cover-board author at 0.85).", "section": "colors" },
+      { "name": "The Margin Accent Rule", "body": "The series colour lives in the margins and on marks: rules, ticks, the ribbon, the spine band, the primary action's underline, and state (focus, selection, pressed, current). Inside the text block it appears only as the hairline under a link. It never fills a panel, colours running text, or tints a heading.", "section": "colors" },
+      { "name": "The Three Papers Rule", "body": "Light, sepia, and dark are not three palettes; they are one ramp re-drawn three times under html[data-theme]. New colour roles must be defined once in tokens.css with a derivation per theme, never per component.", "section": "colors" },
+      { "name": "The Two Voices Rule", "body": "Literata speaks for the book; Atkinson speaks for the apparatus. A word the reader reads is never set in the UI face, and a control, label, or count is never set in the serif, with one deliberate exception: the \"Aa\" settings glyph and the segmented size options, which show the reading face because they are about it.", "section": "typography" },
+      { "name": "The Small Apparatus Rule", "body": "Apparatus type stays small and marginal. Labels are 0.6875rem tracked caps, meta is 0.8125rem, and nothing in the chrome exceeds the wordmark's 1.1875rem. A label names a thing that exists on the page (a section of the menu, a column, a running-head slot); it is never a decorative kicker above a heading.", "section": "typography" },
+      { "name": "The Optical Size Rule", "body": "Every Literata role sets font-variation-settings: 'opsz' explicitly (72, 40, 24, 14) so headings tighten and text opens up as the family intends.", "section": "typography" },
+      { "name": "The Hairline Section Rule", "body": "Sections are separated by a --rule hairline (1px ink-3) and padding, never by a background change, a container, or a heavier line. Series-coloured rules are reserved for the running head.", "section": "layout" },
+      { "name": "The Object Shadow Rule", "body": "A shadow means a physical object. Only covers cast one. Panels, menus, buttons, and rows are flat with a hairline.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do take every grey from --ink-1 through --ink-10 and every ground from --paper; define any new role once in tokens.css with its sepia and dark derivations.",
+      "Do set anything the reader reads in Literata via .t-text (kerning, ligatures, old-style figures) and everything the apparatus says in Atkinson via .t-label, .t-meta, or font-family: var(--font-ui) at 0.9375rem or smaller.",
+      "Do separate sections with a --rule hairline and rem padding (1.75, 2.5, 3.5, 5rem) rather than a background or container.",
+      "Do carry state with a hairline underline: transparent at rest, ink-4 on hover, series-rule when current or pressed.",
+      "Do render covers only through the Cover component, 2:3, uncropped, with the spine edge and the object shadow.",
+      "Do use inline stroke SVGs (viewBox 0 0 20 20, stroke 1.5, round caps) at 1rem or 1.125rem for icons; .action svg and .icon-button svg already size them.",
+      "Do use .wrap for every page column and the 66ch --measure for any long-form prose (.edition-text or .note).",
+      "Do transition state changes at 150ms cubic-bezier(0.2, 0, 0, 1) and nothing else; keep the ribbon settle the only authored motion."
+    ],
+    "donts": [
+      "Don't build cards, tiles, or bordered boxes around content. A shelf item is a cover and two lines of text; a list is hairline rows.",
+      "Don't add border-radius to any rectangle. Circles are for ticks and swatches only.",
+      "Don't cast shadows on anything that is not a cover; menus and dialogs are paper with a 1px border.",
+      "Don't add eyebrows or kickers above headings. .t-label names a thing that exists on the page; a heading stands on its own.",
+      "Don't put the series colour inside the text block beyond a link's underline hairline, and never as a fill, a tint behind text, or the colour of running text or headings.",
+      "Don't use icon fonts, emoji, or glyph characters as icons; the \"Aa\" mark is a typographic label for the type settings and the only text used that way.",
+      "Don't set apparatus text larger than 0.9375rem or reading text in the UI face; the search input at Literata 1.25rem is the one input that takes the reading face because the reader types a title into it.",
+      "Don't add a second filled action to a surface. One filled primary per page is the shipped ceiling, and even that is an open item; secondary actions are outlines or underlined text links.",
+      "Don't invent a fourth theme or override a ramp step inside a component; themes switch only through html[data-theme]."
+    ],
+    "knownGaps": [
+      "The primary action ships as a filled ink block; the direction contract asked for a text link with a hairline underline.",
+      "The library spine view's band is a 6px stripe rather than a fuller spine.",
+      "Contents open in a modal dialog on desktop rather than inline.",
+      "Resume travel uses native smooth scroll rather than an authored eased travel."
+    ]
+  }
+}

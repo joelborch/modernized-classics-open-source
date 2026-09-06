@@ -18,38 +18,31 @@
     "verify": "npm run check:repository && npm run typecheck && npm test && npx astro check && npm run verify:build",
     "check:repository": "node scripts/check-repository.mjs",
     "verify:build": "node scripts/verify-build.mjs",
-    "smoke:model": "tsx scripts/smoke-model.ts"
+    "smoke:model": "tsx scripts/smoke-model.ts",
+    "series-colors": "node scripts/series-colors.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/markdown-remark": "^7.3.0",
     "@astrojs/react": "^6.0.5",
     "@astrojs/sitemap": "^3.7.4",
-    "@radix-ui/react-accordion": "^1.2.7",
-    "@radix-ui/react-slot": "^1.2.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "adm-zip": "^0.6.0",
     "astro": "^7.3.1",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
     "fuse.js": "^7.1.0",
-    "lucide-react": "^0.501.0",
     "node-html-parser": "^7.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
     "remark-stringify": "^11.0.0",
-    "tailwind-merge": "^3.2.0",
-    "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.8.3",
     "xml2js": "^0.6.2",
     "zod": "^4.4.3"
   },
   "devDependencies": {
     "@astrojs/partytown": "^2.1.7",
-    "@tailwindcss/typography": "^0.5.16",
     "@types/adm-zip": "^0.5.7",
     "@types/xml2js": "^0.4.14",
     "autoprefixer": "^10.4.21",
@@ -62,13 +55,16 @@
     "tsx": "^4.7.0",
     "unified": "^11.0.5",
     "vfile-reporter": "^8.1.1",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.0",
+    "wrangler": "^4.129.0"
   },
   "private": true,
   "license": "MIT",
   "allowScripts": {
     "esbuild@0.28.2": true,
-    "fsevents@2.3.3": false
+    "fsevents@2.3.3": false,
+    "esbuild@0.28.1": true,
+    "workerd@1.20260903.1": true
   },
   "engines": {
     "node": "^22.19.0 || ^24.0.0 || >=26.0.0",

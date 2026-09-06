@@ -1,0 +1,87 @@
+/* Design tokens: one fixed eleven-step ink ramp per theme, a paper ground,
+   and one series colour per edition. Every grey on the site comes from this
+   ramp; nothing picks its own. */
+
+:root {
+  /* Paper and ink (light) */
+  --paper: #f6f7f8;
+  --ink-1: #eceef0;
+  --ink-2: #e1e3e6;
+  --ink-3: #d0d3d7;
+  --ink-4: #b9b9b2;
+  --ink-5: #96968f;
+  --ink-6: #75756e;
+  --ink-7: #585852;
+  --ink-8: #3e3e39;
+  --ink-9: #26261f;
+  --ink-10: #14140f;
+
+  /* Series colour: set per edition from src/data/series-colors.json.
+     The default is the site's own ink-blue for surfaces that have no edition. */
+  --series: #2f4a7a;
+  --series-ink: var(--series);
+  --series-tint: color-mix(in oklab, var(--series) 12%, var(--paper));
+  --series-rule: var(--series);
+
+  /* Type */
+  --font-text: var(--font-literata, 'Literata'), 'Iowan Old Style', 'Palatino', Georgia, serif;
+  --font-ui: var(--font-atkinson, 'Atkinson Hyperlegible Next'), system-ui, -apple-system, sans-serif;
+
+  /* Measure and rhythm */
+  --measure: 66ch;
+  --rule: 1px solid var(--ink-3);
+  --hairline: var(--ink-3);
+
+  /* Reader preferences (overridden by data attributes below) */
+  --reader-size: 1.125rem;
+  --reader-leading: 1.65;
+
+  /* Chrome */
+  --running-head-h: 2.75rem;
+  --site-header-h: 3.5rem;
+
+  color-scheme: light;
+}
+
+:root[data-theme='sepia'] {
+  --paper: #f3ecdc;
+  --ink-1: #eae1cd;
+  --ink-2: #ded3bb;
+  --ink-3: #ccc0a5;
+  --ink-4: #b1a48b;
+  --ink-5: #8f826b;
+  --ink-6: #6f6350;
+  --ink-7: #554a3a;
+  --ink-8: #3d3429;
+  --ink-9: #28211b;
+  --ink-10: #17120e;
+  --series-ink: color-mix(in oklab, var(--series) 88%, var(--ink-10));
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  --paper: #15161a;
+  --ink-1: #1d1e23;
+  --ink-2: #26272d;
+  --ink-3: #33343b;
+  --ink-4: #4a4b53;
+  --ink-5: #67686f;
+  --ink-6: #86878e;
+  --ink-7: #a5a6ac;
+  --ink-8: #c4c5c9;
+  --ink-9: #dedee1;
+  --ink-10: #f1f1f2;
+  --series-ink: color-mix(in oklab, var(--series) 62%, white);
+  --series-rule: color-mix(in oklab, var(--series) 75%, white);
+  --series-tint: color-mix(in oklab, var(--series) 22%, var(--paper));
+  color-scheme: dark;
+}
+
+/* Reader size: three steps, chosen by the reader and remembered. */
+:root[data-reader-size='small']  { --reader-size: 1rem; }
+:root[data-reader-size='medium'] { --reader-size: 1.125rem; }
+:root[data-reader-size='large']  { --reader-size: 1.3125rem; }
+
+:root[data-reader-leading='compact'] { --reader-leading: 1.5; }
+:root[data-reader-leading='normal']  { --reader-leading: 1.65; }
+:root[data-reader-leading='relaxed'] { --reader-leading: 1.85; }

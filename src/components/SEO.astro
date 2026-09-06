@@ -24,7 +24,8 @@ const {
   author
 } = Astro.props as Props;
 
-const fullTitle = `${title} | Modernized Classics`;
+const siteName = 'Modernized Classics';
+const fullTitle = title.trim() === siteName ? siteName : `${title} | ${siteName}`;
 const canonical = typeof canonicalURL === 'string'
   ? canonicalURL
   : canonicalURL.toString();
