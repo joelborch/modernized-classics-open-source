@@ -1,0 +1,14 @@
+{
+  // Cloudflare Workers configuration: this site is static assets only.
+  // Workers Builds runs `npm run build` (EPUBs + Astro) and then
+  // `npx wrangler deploy`, which uploads dist/ as the Worker's assets.
+  // public/_redirects and the 404 page are honoured by the assets layer.
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "modernized-classics-open-source",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

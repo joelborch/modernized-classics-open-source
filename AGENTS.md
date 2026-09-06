@@ -27,7 +27,7 @@
   - `pipeline/tests/`: Vitest specs (state lock, slug security, assemble, epub, qa-failclosed).
   - `pipeline/work/`: Per-book working data and `.lock` files (gitignored).
   - `pipeline/input/`: Drop public-domain EPUBs here (gitignored).
-- `dist/`: Static build output (gitignored).
+- `dist/`: Static build output (gitignored). `wrangler.jsonc` describes it to Cloudflare Workers as static assets; Workers Builds runs `npm run build` then `npx wrangler deploy`. Never commit `dist/`.
 
 ## Commands
 - `npm run dev`: Start Astro dev server at `localhost:4321`.
