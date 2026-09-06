@@ -24,7 +24,9 @@ const year = new Date().getFullYear();
   </div>
   <div class="wrap footer-base t-meta">
     <span>© {year} Modernized Classics. Site and pipeline MIT-licensed; the editions are free to read and share.</span>
-    <a href="#main" class="footer-top link-quiet">Back to top ↑</a>
+    <a href="#main" class="footer-top link-quiet">Back to top
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 16V4m0 0L5 9m5-5l5 5" /></svg>
+    </a>
   </div>
 </footer>
 
@@ -58,5 +60,6 @@ const year = new Date().getFullYear();
     gap: 1rem;
     flex-wrap: wrap;
   }
-  .footer-top { color: var(--ink-7); }
+  .footer-top { color: var(--ink-7); display: inline-flex; align-items: center; gap: 0.35rem; }
+  .footer-top svg { width: 0.875rem; height: 0.875rem; }
 </style>

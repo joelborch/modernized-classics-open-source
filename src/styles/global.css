@@ -134,22 +134,14 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .action:hover { background: var(--ink-1); }
 .action-primary {
-  background: var(--series);
-  border-color: var(--series);
-  color: #fff;
+  background: var(--ink-10);
+  border-color: var(--ink-10);
+  color: var(--paper);
+  border-bottom: 2px solid var(--series-rule);
 }
 .action-primary:hover {
-  background: color-mix(in oklab, var(--series) 86%, black);
-  border-color: color-mix(in oklab, var(--series) 86%, black);
-}
-:root[data-theme='dark'] .action-primary {
-  color: var(--paper);
-  background: var(--series-ink);
-  border-color: var(--series-ink);
-}
-:root[data-theme='dark'] .action-primary:hover {
-  background: color-mix(in oklab, var(--series-ink) 88%, white);
-  border-color: color-mix(in oklab, var(--series-ink) 88%, white);
+  background: var(--ink-9);
+  border-color: var(--ink-9);
 }
 .action svg { width: 1rem; height: 1rem; }
 

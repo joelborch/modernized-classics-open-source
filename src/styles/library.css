@@ -108,7 +108,7 @@ a.library-item { display: grid; gap: 0.35rem; }
   }
 }
 .spine:hover { background: var(--ink-1); }
-.spine-band { grid-area: band; align-self: stretch; background: var(--series); }
+.spine-band { grid-area: band; align-self: stretch; background: var(--series-rule); }
 .spine-title { grid-area: title; font-size: 1.0625rem; font-weight: 500; }
 .spine-author { grid-area: author; }
 .spine-year { grid-area: year; text-align: right; }

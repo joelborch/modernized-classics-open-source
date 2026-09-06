@@ -33,7 +33,6 @@ const {
   chapters, chapterDepth, cover, coverAlt,
 } = Astro.props;
 
-const contentsOpen = chapters.length <= 12;
 const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c.text, index: c.index })));
 ---
 
@@ -87,7 +86,7 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
       <div class="menu-section">
         <span class="t-label">Paper</span>
         <div class="segmented" role="group" aria-label="Theme">
-          <button type="button" data-set-theme="light" aria-label="Light"><span class="swatch" style="background:#f8f8f6"></span>Light</button>
+          <button type="button" data-set-theme="light" aria-label="Light"><span class="swatch" style="background:#f6f7f8"></span>Light</button>
           <button type="button" data-set-theme="sepia" aria-label="Sepia"><span class="swatch" style="background:#f3ecdc"></span>Sepia</button>
           <button type="button" data-set-theme="dark" aria-label="Dark"><span class="swatch" style="background:#15161a"></span>Dark</button>
         </div>
@@ -133,10 +132,12 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
       </div>
 
       {chapters.length > 0 && (
-        <details class="contents" open={contentsOpen}>
+        <details class="contents">
           <summary class="contents-summary">
             <span class="t-label">Contents</span>
-            <span class="t-meta">{chapters.length} {chapters.length === 1 ? 'section' : 'sections'}</span>
+            <span class="t-meta contents-count">{chapters.length} {chapters.length === 1 ? 'section' : 'sections'}
+              <svg class="disclosure" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M5 8l5 5 5-5" /></svg>
+            </span>
           </summary>
           <ol class="contents-list t-text">
             {chapters.map((chapter) => (
@@ -264,8 +265,7 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     top: calc(var(--running-head-h) + 0.5rem);
     width: min(20rem, calc(100vw - 2.5rem));
     background: var(--paper);
-    border: var(--rule);
-    box-shadow: 0 8px 28px -10px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--ink-5);
     padding: 1rem;
     display: grid;
     gap: 1rem;
@@ -284,13 +284,14 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     background: transparent;
     border: 0;
     border-right: var(--rule);
+    border-bottom: 2px solid transparent;
     color: var(--ink-8);
     font-size: 0.8125rem;
     cursor: pointer;
   }
   .segmented > button:last-child { border-right: 0; }
   .segmented > button:hover { background: var(--ink-1); color: var(--ink-10); }
-  .segmented > button[aria-pressed='true'] { background: var(--series-tint); color: var(--ink-10); box-shadow: inset 0 -2px 0 var(--series-rule); }
+  .segmented > button[aria-pressed='true'] { background: var(--series-tint); color: var(--ink-10); border-bottom-color: var(--series-rule); }
   .swatch { width: 0.75rem; height: 0.75rem; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.3); }
   .lines { display: inline-block; width: 1rem; height: 0.875rem; background: repeating-linear-gradient(to bottom, currentColor 0 1.5px, transparent 1.5px var(--gap)); }
   .lines-1 { --gap: 4px; }
@@ -320,7 +321,8 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
   .band-title { font-size: clamp(2.25rem, 4.5vw + 0.5rem, 3.5rem); margin: 0 0 0.5rem; color: var(--ink-10); }
   .band-author { font-size: 1.25rem; margin: 0 0 0.75rem; color: var(--ink-9); }
   .band-provenance { display: flex; flex-wrap: wrap; gap: 0 0.5rem; margin: 0 0 1.25rem; }
-  .band-provenance span + span::before { content: '·'; margin-right: 0.5rem; color: var(--ink-5); }
+  .band-provenance span { white-space: nowrap; }
+  .band-provenance span:not(:last-child)::after { content: '·'; margin-left: 0.5rem; color: var(--ink-5); }
   .band-description { font-size: 1.0625rem; line-height: 1.55; color: var(--ink-9); margin: 0 0 1.5rem; }
   .band-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1.25rem; }
   .band-actions [hidden] { display: none; }
@@ -339,8 +341,9 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     padding: 0.75rem 0; cursor: pointer; list-style: none;
   }
   .contents-summary::-webkit-details-marker { display: none; }
-  .contents-summary::after { content: '+'; font-family: var(--font-ui); color: var(--ink-6); margin-left: 0.75rem; }
-  .contents[open] .contents-summary::after { content: '−'; }
+  .contents-count { display: inline-flex; align-items: center; gap: 0.5rem; }
+  .disclosure { width: 1rem; height: 1rem; color: var(--ink-6); transition: transform 150ms cubic-bezier(0.2, 0, 0, 1); }
+  .contents[open] .disclosure { transform: rotate(180deg); }
   .contents-list {
     margin: 0 0 0.5rem; padding: 0; list-style: none;
     columns: 1; column-gap: 2.5rem;
@@ -436,7 +439,7 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     top: var(--y, 0%);
     width: 13px;
     height: 34px;
-    background: var(--series);
+    background: var(--series-rule);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 78%, 0 100%);
     transform-origin: top center;
     z-index: 2;
@@ -459,7 +462,7 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     z-index: 30;
   }
   .edge-rail-progress { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: var(--series-rule); transform: scaleY(0); transform-origin: top; }
-  .edge-rail-ribbon { position: absolute; right: 0; width: 8px; height: 22px; background: var(--series); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%); transform: translateY(-50%); }
+  .edge-rail-ribbon { position: absolute; right: 0; width: 8px; height: 22px; background: var(--series-rule); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%); transform: translateY(-50%); }
   @media (min-width: 768px) { .edge-rail { display: none; } }
 
   /* ---------- Contents dialog ---------- */
@@ -470,7 +473,6 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
     border: var(--rule);
     background: var(--paper);
     color: var(--ink-10);
-    box-shadow: 0 24px 60px -20px rgba(0, 0, 0, 0.45);
   }
   .contents-dialog::backdrop { background: rgba(20, 20, 15, 0.35); backdrop-filter: blur(2px); }
   :root[data-theme='dark'] .contents-dialog::backdrop { background: rgba(0, 0, 0, 0.6); }
@@ -527,25 +529,6 @@ const chaptersJson = JSON.stringify(chapters.map((c) => ({ slug: c.slug, text: c
   .edition-text h4 { font-size: 1.05em; margin: 1.75em 0 0.5em; font-weight: 600; }
   .edition-text > :is(h2, h3):first-child { margin-top: 0.25em; }
 
-  /* Chapter numbering, applied by the reader script to the wayfinding level. */
-  .edition-text [data-chapter]::before {
-    content: attr(data-chapter);
-    display: block;
-    font-family: var(--font-ui);
-    font-size: 0.6875rem;
-    font-weight: 500;
-    letter-spacing: 0.12em;
-    color: var(--series-ink);
-    margin-bottom: 0.6rem;
-    font-variant-numeric: tabular-nums lining-nums;
-  }
-  .edition-text [data-chapter]::after {
-    content: '';
-    display: block;
-    width: 2.5rem;
-    border-top: 1px solid var(--series-rule);
-    margin-top: 0.7em;
-  }
   .edition-text [data-half-title] {
     margin-top: 0;
     font-size: 1.125em;
