@@ -1,5 +1,6 @@
 import { createHash } from 'node:crypto';
 import AdmZip from 'adm-zip';
+import { parseStringPromise as parseXml } from 'xml2js';
 
 export const EPUB_LICENSE_URL = 'https://creativecommons.org/licenses/by/4.0/';
 export const EPUB_RIGHTS =
@@ -16,11 +17,18 @@ export interface EpubCover {
   mediaType: 'image/jpeg' | 'image/png';
 }
 
+export interface EpubImage {
+  href: string;
+  data: Buffer;
+  mediaType: 'image/jpeg' | 'image/png' | 'image/svg+xml';
+}
+
 export interface EpubPackageOptions {
   title: string;
   author: string;
   chapters: EpubChapter[];
   cover?: EpubCover;
+  images?: EpubImage[];
   description?: string;
   language?: string;
   publicationYear?: string;
@@ -66,6 +74,10 @@ function stableIdentifier(options: EpubPackageOptions): string {
         author: options.author,
         chapters: options.chapters,
         coverHash,
+        images: options.images?.map(image => ({
+          href: image.href, mediaType: image.mediaType,
+          hash: createHash('sha256').update(image.data).digest('hex')
+        })),
         description: options.description,
         language: options.language,
         publicationYear: options.publicationYear,
@@ -186,6 +198,9 @@ function packageDocument(options: EpubPackageOptions, identifier: string, langua
     ? `    <item id="cover-image" href="cover.${options.cover.mediaType === 'image/png' ? 'png' : 'jpg'}" media-type="${options.cover.mediaType}" properties="cover-image" />
     <item id="cover-page" href="cover.xhtml" media-type="${XHTML_MEDIA_TYPE}" />\n`
     : '';
+  const imageManifest = (options.images ?? []).map((image, index) =>
+    `    <item id="image-${index + 1}" href="${escapeXml(image.href)}" media-type="${image.mediaType}" />\n`
+  ).join('');
   const chapterManifest = options.chapters
     .map(
       (_, index) =>
@@ -214,13 +229,13 @@ function packageDocument(options: EpubPackageOptions, identifier: string, langua
 ${description}${publicationYear}    <meta property="dcterms:modified">${escapeXml(modifiedYear)}-01-01T00:00:00Z</meta>
     <meta property="dcterms:rights">${escapeXml(EPUB_RIGHTS)}</meta>
     <dc:rights>${escapeXml(EPUB_RIGHTS)}</dc:rights>
-    <link rel="license" href="${EPUB_LICENSE_URL}" />
+    <link rel="dcterms:license" href="${EPUB_LICENSE_URL}" />
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="${XHTML_MEDIA_TYPE}" properties="nav" />
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="style" href="style.css" media-type="text/css" />
-${coverManifest}${chapterManifest}
+${coverManifest}${imageManifest}${chapterManifest}
   </manifest>
   <spine toc="ncx">
 ${coverSpine}${chapterSpine}
@@ -240,6 +255,7 @@ const containerXml = `<?xml version="1.0" encoding="UTF-8"?>
 const stylesheet = `body { font-family: serif; line-height: 1.5; margin: 5%; }
 h1 { break-before: page; font-size: 1.6em; }
 nav ol { padding-left: 1.5em; }
+img { max-width: 100%; height: auto; }
 .cover-page { margin: 0; text-align: center; }
 .cover-page img { height: auto; max-height: 100%; max-width: 100%; }
 `;
@@ -254,9 +270,56 @@ export function detectCover(data: Buffer): EpubCover {
   throw new Error('Unsupported cover image type; expected PNG or JPEG data');
 }
 
+/** Only self-contained SVGs are accepted; original bytes are never transformed. */
+export async function detectInlineImage(data: Buffer): Promise<EpubImage['mediaType']> {
+  try { return detectCover(data).mediaType; } catch { /* Check the remaining supported format. */ }
+  const text = data.toString('utf8');
+  if (!/<svg[\s>]/i.test(text) || /<!DOCTYPE|<!ENTITY|<\?(?!xml\s)/i.test(text)) {
+    throw new Error('Unsupported inline image; expected PNG, JPEG, or self-contained SVG');
+  }
+  const document = await parseXml(text, { explicitChildren: false });
+  if (!document.svg || document.svg.$?.xmlns !== 'http://www.w3.org/2000/svg') {
+    throw new Error('Inline SVG requires its SVG namespace');
+  }
+  const checkCss = (css: string) => {
+    if (/\\|@import|@font-face/i.test(css) || [...css.matchAll(/url\s*\(([^)]*)\)/gi)].some(
+      match => !/^['"]?#[^'"\s)]+['"]?$/.test(match[1].trim())
+    )) throw new Error('External SVG resources are not supported');
+  };
+  const inspect = (node: unknown): void => {
+    if (typeof node !== 'object' || node === null) return;
+    if (Array.isArray(node)) { node.forEach(inspect); return; }
+    for (const [name, value] of Object.entries(node)) {
+      if (/^(?:script|foreignObject|animate|animateMotion|animateTransform|set)$/i.test(name.split(':').at(-1) ?? name)) {
+        throw new Error('Active SVG content is not supported');
+      }
+      if (name === '$') {
+        for (const [attribute, content] of Object.entries(value as Record<string, string>)) {
+          if (/^(?:.*:)?on/i.test(attribute) || attribute === 'xml:base' || /^(?:.*:)?href$/i.test(attribute) && !content.startsWith('#')) {
+            throw new Error('Active or external SVG references are not supported');
+          }
+          checkCss(content);
+        }
+      } else if (name.split(':').at(-1)?.toLowerCase() === 'style') {
+        for (const style of value as Array<string | { _: string }>) checkCss(typeof style === 'string' ? style : style._ ?? '');
+        inspect(value);
+      } else inspect(value);
+    }
+  };
+  inspect(document);
+  return 'image/svg+xml';
+}
+
 export function createEpub(options: EpubPackageOptions): Buffer {
   if (options.chapters.length === 0) throw new Error('An EPUB requires at least one chapter');
 
+  const imagePaths = new Set<string>();
+  for (const image of options.images ?? []) {
+    if (!/^images\/[a-zA-Z0-9_-]+\.(?:png|jpg|svg)$/.test(image.href) || imagePaths.has(image.href)) {
+      throw new Error('Unsafe or duplicate EPUB image path');
+    }
+    imagePaths.add(image.href);
+  }
   const language = options.language ?? 'en';
   const identifier = stableIdentifier(options);
   const zip = new AdmZip(undefined, { noSort: true });
@@ -273,6 +336,8 @@ export function createEpub(options: EpubPackageOptions): Buffer {
     addEntry(zip, `OEBPS/cover.${extension}`, options.cover.data);
     addEntry(zip, 'OEBPS/cover.xhtml', coverDocument(options, extension, language));
   }
+
+  for (const image of options.images ?? []) addEntry(zip, `OEBPS/${image.href}`, image.data);
 
   options.chapters.forEach((chapter, index) => {
     addEntry(

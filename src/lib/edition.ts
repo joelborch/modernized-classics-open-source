@@ -55,7 +55,8 @@ export interface Chapter {
  * Chapters for wayfinding. Editions use `##` for their major divisions; a few
  * carry a single `##` (the work's title) and divide with `###`, so those fall
  * back one level. The opening heading that merely repeats the title is kept
- * out of the list.
+ * out of the list. Source editions can also put a distinct first essay or work
+ * at level one; retain those headings alongside the selected divisions.
  */
 export function chaptersFrom(headings: MarkdownHeading[], title: string): Chapter[] {
   const normalized = (s: string) => s.trim().toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
@@ -66,6 +67,8 @@ export function chaptersFrom(headings: MarkdownHeading[], title: string): Chapte
     picked = headings.filter((h) => h.depth === 3);
     if (picked.length < 2) picked = level2;
   }
+  const divisions = new Set(picked);
+  picked = headings.filter((h) => divisions.has(h) || (h.depth === 1 && !isTitle(h)));
   return picked.map((h, index) => ({ slug: h.slug, text: cleanHeading(h.text), depth: h.depth, index: index + 1 }));
 }
 

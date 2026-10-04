@@ -2,7 +2,7 @@
 title: As a Man Thinketh
 author: 'James Allen, simplified'
 yearPublished: 1903
-yearModernized: 2025
+yearModernized: 2026
 description: >-
   A modernized version of James Allen's classic work exploring the power of
   thought in shaping character, circumstances, health, achievement, and destiny.
@@ -13,303 +13,417 @@ tags:
   - 20th Century
   - Mindfulness
 coverImage: ./cover.png
-coverAlt: >-
-  Cover art for As a Man Thinketh featuring a portrait of James Allen or
-  thematic imagery representing thought and growth
+coverAlt: Illustrated cover of As a Man Thinketh by James Allen
 downloads:
   epub: /downloads/as-a-man-thinketh.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/as-a-man-thinketh.mp3'
 ---
 
-## INTRODUCTION
 
-This book you are holding can change your life. It was written by James Allen in 1902 and is called *As a Man Thinketh*. Since then, it has helped many people learn to control themselves and master their own lives. The book contains timeless wisdom. It is like a guide to thinking and seeing things in the right way. This helps you gain real control over your life's situations. Your circumstances and what happens to you are directly tied to the quality of your thoughts. It might seem like your inner thoughts are separate from the events that happen around you. But in truth, your mind is what brings good or bad events into your life. This book helps protect you from weaknesses in your character and mind. These weaknesses don’t just cause problems inside you; they also attract troubling events from the outside.
+> Mind is the master power that molds and makes,  
+> And Man is Mind, and he forever takes  
+> The tool of Thought, and, shaping what he wills,  
+> Brings forth a thousand joys, a thousand ills:—  
+> He thinks in secret, and it comes to pass:  
+> Environment is but his looking-glass.
 
-For people today, learning to manage and control your thoughts is very important. It's a key step in becoming a truly well-developed person. You might want to be polite and sophisticated. But if you can't control your mind, you can easily become overwhelmed. The constant flow of information from your senses can confuse you. It can throw you off balance and change how you see the world. If your mind isn't strong, you'll find it hard to even appear calm when bad things happen to you. However, people who have true self-control are not simply pushed around by fate or chance. They calmly make things happen according to their own will. Because they have strong character and pure intentions, they attract only good things into their lives.
+### FOREWORD
 
-Reaching this level of mental skill is not difficult. However, not many people today understand the amazing connection between your mind and what actually happens in your life. To help with this, each page in this book offers a single idea. These ideas will guide you to better understand your thoughts and intentions. The book contains short sayings. Some may seem simple, but they hold the key to developing a strong and good character. Study these sayings carefully. Think about them deeply. This is not a book you should read once and then forget. Instead, you should reflect on its messages. If you truly take these ideas to heart, your mind will become stronger. This mental strength will create positive results in your daily circumstances and actions, no matter what you are doing. This is a positive outcome that most people would welcome.
+This little book grew out of meditation and experience. It is not meant to be a complete treatise on the power of thought, a subject many have already written about. It aims to suggest rather than to explain. Its purpose is to encourage men and women to discover and see for themselves the truth that—
 
-## Chapter 1
+"They themselves are makers of themselves."
 
-**Thought and Character**
+They do this through the thoughts they choose and encourage. The mind is the master-weaver of both the inner garment of character and the outer garment of circumstance. Until now they may have woven in ignorance and pain, but they can now weave in understanding and happiness.
 
-Your actions start as thoughts. Joy and suffering are the results, or "fruits," of these thoughts. This means you experience the good and bad outcomes based on what you think.
-What you are today is because of your thoughts. Your thoughts have built you. If you have bad thoughts, pain will follow you, much like a cart follows the animal pulling it. But if you hold onto pure and good thoughts, joy will follow you as surely as your own shadow.
+JAMES ALLEN.  
+BROAD PARK AVENUE,  
+ILFRACOMBE,  
+ENGLAND
 
-There’s an old saying: "As a person thinks in their heart, so they become." This saying applies to every part of a person's being and every situation in their life. It means you are, quite literally, what you think. Your **character** is the complete total of all your thoughts.
+### THOUGHT AND CHARACTER
 
-Think of a plant. It grows from a seed and cannot exist without it. In the same way, every action you take grows from the hidden seeds of your thoughts. No action can happen without a thought coming first. This is true for actions you plan carefully. It is also true for actions that seem spontaneous or unplanned. All of them start with a thought.
+The saying "As a man thinketh in his heart so is he" covers the whole of a man's being, and it reaches further still, extending to every condition and circumstance of his life. A man is literally what he thinks. His character is the complete sum of all his thoughts.
 
-People develop according to natural laws, not by chance or by some trick. The rule of cause and effect is just as real and unchanging in the hidden world of your thoughts as it is in the physical world you can see and touch. Your thoughts (the cause) will always lead to certain results (the effect).
+A plant grows from a seed and could not exist without it. In the same way, every act a man performs grows from hidden seeds of thought and could not have appeared without them. This applies just as much to acts we call "spontaneous" or "unpremeditated" as to acts carried out deliberately.
 
-A good and admirable character doesn’t happen by luck or special favors. It is the natural outcome of ongoing effort to think in good and positive ways. It comes from holding onto uplifting thoughts for a long time. Similarly, a bad or base character is the result of constantly focusing on negative or harmful thoughts.
+Action is the blossom of thought, and joy and suffering are its fruits. In this way a man gathers the sweet and bitter harvest of his own farming.
 
-You make or unmake yourself. In your mind, where your thoughts live, you create the "weapons" that can harm you. But you also create the "tools" to build a wonderful life filled with joy, strength, and peace.
+> "Thought in the mind has made us. What we are  
+> By thought was shaped and built. If a man's mind  
+> Has evil thoughts, pain comes on him as comes  
+> The wheel that follows the ox....  
+>
+> ..If one endures  
+> In purity of thought, joy follows him  
+> As his own shadow—sure."
 
-By choosing your thoughts wisely and using them correctly, you can reach your highest potential. But if you misuse your thoughts or apply them wrongly, you can fall to a very low state of being. All levels of character exist between these two extremes. And you are the one who creates and controls your own character.
+Man grows according to law; he is not a product of artifice. Cause and effect work just as absolutely and unfailingly in the hidden realm of thought as in the world of visible, material things.
 
-Many wonderful truths about the human spirit have been rediscovered in our time. One of the most cheering and hopeful is this: You are the master of your thoughts. You are the shaper of your character. And you are the creator of your life conditions, your environment, and your destiny.
+A noble and Godlike character is not a matter of favor or chance. It is the natural result of continued effort in right thinking, the effect of a long and cherished association with Godlike thoughts. By the same process, an ignoble and bestial character results from continually harboring low, groveling thoughts.
 
-As a person with power, intelligence, and love, you are in charge of your own thoughts. Because of this, you hold the key to handling any situation. You have within you the ability to change and renew yourself. This means you can make yourself into the person you want to be.
+Man makes or unmakes himself. In the armory of thought he forges the weapons with which he destroys himself. There he also shapes the tools with which he builds himself heavenly mansions of joy, strength, and peace.
 
-You are always the master of your thoughts, even when you feel weak or lost. But in such times, you might act like a foolish master who mismanages their own life (their "household"). When you start to think deeply about your situation and search for the basic principles that govern your life, you become a wise master. A wise master directs their energy intelligently. They guide their thoughts to produce good results. This is what it means to be a **conscious master** of your thoughts. You can only become this by discovering the laws of thought within yourself. This discovery comes through:
-* Putting principles into practice.
-* Analyzing yourself honestly.
-* Learning from your experiences.
+By choosing thought rightly and applying it truly, man rises to Divine Perfection. By abusing thought and applying it wrongly, he sinks below the level of the beast. Between these two extremes lie all the degrees of character, and man is their maker and master.
 
-Gold and diamonds are found only after much searching and digging. Similarly, you can find all the truths about yourself if you are willing to dig deep into your own mind and spirit. You can definitely prove that you are the maker of your character, the shaper of your life, and the builder of your destiny. You do this when you:
-* Watch, control, and change your thoughts.
-* Notice how your thoughts affect you, other people, and your life situations.
-* Connect thoughts (causes) with their outcomes (effects) through patient practice and observation.
-* Use every experience, even small daily events, to learn about yourself. This self-knowledge leads to **Understanding, Wisdom, and Power**.
+Many beautiful truths about the soul have been restored and brought to light in this age. None is more gladdening, or more full of divine promise and confidence, than this: man is the master of thought, the molder of character, and the maker and shaper of his condition, environment, and destiny.
 
-There's a firm principle that applies here: "Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you." Only through patience, practice, and constant effort can you enter the "Temple of Knowledge" and truly understand these things.
+Man is a being of Power, Intelligence, and Love, and the lord of his own thoughts. He therefore holds the key to every situation. He carries within himself the transforming and renewing force by which he can make himself whatever he wills.
 
-## Chapter 2
+Man is always the master, even when he is at his weakest and most abandoned. But in weakness and degradation he is a foolish master who mismanages his "household."
 
-**Effect of Thought on Circumstances**
+When he begins to reflect on his condition and to search carefully for the Law on which his being rests, he becomes a wise master. He directs his energies intelligently and shapes his thoughts toward fruitful results. This is the conscious master.
 
-Your mind is like a garden. You can choose to cultivate it carefully, or you can let it run wild. Either way, it will always produce something. If you don’t plant useful seeds (good thoughts), then many useless weed seeds (bad thoughts) will naturally fall in and grow, producing more of their kind.
+A man can become this kind of master only by discovering the laws of thought within himself. That discovery depends entirely on effort, self-analysis, and experience.
 
-Just as a gardener takes care of their plot by removing weeds and growing the flowers and fruits they want, you can tend to the garden of your mind. You can weed out all the wrong, useless, and impure thoughts. At the same time, you can cultivate the “flowers and fruits” of right, useful, and pure thoughts, helping them grow towards perfection. By doing this, you will sooner or later discover that you are the main gardener of your inner self and the director of your own life. You will also uncover the laws of thought within yourself. You will understand with increasing clarity how thought-forces and elements of your mind operate in shaping your character, circumstances, and destiny.
+Gold and diamonds are found only through long searching and mining. In the same way, man can find every truth about his own being if he digs deep into the mine of his soul.
 
-Your thoughts and your character are deeply connected; they are like one thing. Since your character can only show itself and be discovered through your environment and circumstances, the outer conditions of your life will always closely match your inner state. This doesn’t mean your current circumstances show your *entire* character all at once. Rather, it means your current circumstances are very closely linked to some vital thought-element within you. For now, these circumstances are essential for your development.
+He can prove beyond doubt that he makes his character, molds his life, and builds his destiny. To do so, he must watch, control, and change his thoughts, tracing their effects on himself, on others, and on his life and circumstances. He must connect cause and effect through patient practice and investigation.
 
-You are where you are because of the natural law of your being. The thoughts you have built into your character have brought you to your current situation. In the arrangement of your life, there is no element of chance. Everything is the result of a law that cannot make a mistake. This is just as true for those who feel “out of harmony” with their surroundings as it is for those who are content with them.
+He must also use every experience, down to the most trivial everyday event, as a way of gaining the knowledge of himself that is Understanding, Wisdom, and Power.
 
-As a being who is constantly progressing and evolving, you are in your current situation so that you may learn and grow. As you learn the spiritual lesson that any circumstance contains for you, that situation passes away and makes room for other circumstances.
+In this area, as in no other, the law holds absolutely: "He that seeketh findeth; and to him that knocketh it shall be opened." Only through patience, practice, and relentless persistence can a man enter the Door of the Temple of Knowledge.
 
-You are pushed around by circumstances as long as you believe you are merely a creation of outside conditions. But when you realize that you are a creative power, and that you can command the hidden "soil and seeds" of your being (your thoughts) out of which circumstances grow, you then become the rightful master of yourself.
+### EFFECT OF THOUGHT ON CIRCUMSTANCES
 
-Anyone who has practiced self-control and self-improvement for any length of time knows that circumstances grow out of thought. They will have noticed that the changes in their circumstances happened in exact proportion to their changed mental condition. This is so true that when a person earnestly applies themselves to fix the defects in their character and makes swift and clear progress, they pass rapidly through many changes in their life situations.
+A man's mind is like a garden. It can be cultivated intelligently or left to run wild. But whether it is tended or neglected, it must and will produce something. If no useful seeds are planted in it, plenty of useless weed seeds will fall into it, and they will keep producing more of their kind.
 
-Your inner self (your soul) attracts what it secretly harbors – what it loves, and also what it fears. It reaches the heights of its cherished dreams and aspirations. It also falls to the level of its unchastened, or uncontrolled, desires. Circumstances are the means by which your soul receives what is due to it. Every thought-seed sown or allowed to fall into the mind and take root there produces its own kind. Sooner or later, it blossoms into action and bears its own fruit of opportunity and circumstance. Good thoughts bear good fruit; bad thoughts bear bad fruit.
+A gardener works his plot, keeps it free of weeds, and grows the flowers and fruits he needs. In the same way, a man can tend the garden of his mind. He can weed out all wrong, useless, and impure thoughts, and cultivate toward perfection the flowers and fruits of right, useful, and pure thoughts.
 
-The outer world of your circumstances shapes itself to the inner world of your thoughts. Both pleasant and unpleasant external conditions are factors that contribute to your ultimate good. As the reaper of your own harvest, you learn from both suffering and happiness.
+By following this process, a man sooner or later discovers that he is the master-gardener of his soul and the director of his life. He also uncovers the laws of thought within himself. With ever-growing accuracy, he comes to understand how the forces of thought and the elements of mind work to shape his character, circumstances, and destiny.
 
-By following the innermost desires, aspirations, and thoughts that you allow to dominate you – whether you are pursuing the fleeting illusions of impure imaginings or steadfastly walking the path of strong and high goals – you will eventually arrive at their fulfillment in the outer conditions of your life. The laws of growth and adjustment apply everywhere.
+Thought and character are one. Character can show itself and come to be known only through environment and circumstance. For this reason, the outer conditions of a person's life will always be found to correspond to his inner state.
 
-A person does not end up in extreme poverty or in jail because of the tyranny of fate or circumstance. They arrive there by following the pathway of negative thoughts and base desires. Nor does a pure-minded person suddenly fall into crime simply due to some external force; the criminal thought had been secretly nurtured in their heart for a long time, and the moment of opportunity revealed its gathered power.
+This does not mean that a man's circumstances at any given moment reveal his whole character. It means that those circumstances are so closely connected with some vital element of thought within him that, for the time being, they are necessary for his development.
 
-Circumstances do not make you who you are; they reveal you to yourself. You cannot descend into harmful behaviors and the suffering that comes with them unless you already have those negative inclinations. Similarly, you cannot ascend into goodness and its pure happiness without continuously cultivating virtuous aspirations. Therefore, as the lord and master of your thoughts, you are the maker of yourself, and the shaper and author of your environment.
+Every man is where he is by the law of his own being. The thoughts he has built into his character have brought him there. There is no element of chance in how his life is arranged; everything results from a law that cannot err. This is just as true of people who feel "out of harmony" with their surroundings as of those who are content with them.
 
-Even at birth, the soul comes to its own. Through every step of its earthly journey, it attracts combinations of conditions that reveal its nature – conditions that are reflections of its own purity and impurity, its strength and weakness.
-People do not attract what they merely want, but what they fundamentally *are*. Their casual whims, fancies, and ambitions may be blocked at every step. However, their inmost thoughts and desires are always fed with their own kind of results, whether those results are positive or negative.
+Man is a being who progresses and evolves. He is where he is so that he may learn, and so that he may grow. As he learns the spiritual lesson a circumstance holds for him, that circumstance passes away and gives way to others.
 
-The power that shapes your destiny is within you; it is your very self. Only you can hold yourself back. Your thoughts and actions can be like jailers, imprisoning you if they are negative. Or, they can be like angels of freedom, liberating you if they are noble.
+As long as a man believes he is the product of outside conditions, circumstances knock him about. But when he realizes that he is a creative power, and that he can command the hidden soil and seeds of his being from which circumstances grow, he becomes the rightful master of himself.
 
-You do not get what you wish and pray for; you get what you justly earn. Your wishes and prayers are only granted and answered when they harmonize with your thoughts and actions.
+Anyone who has practiced self-control and self-purification for any length of time knows that circumstances grow out of thought. He will have noticed that his circumstances changed in exact proportion to the change in his mental condition.
 
-In light of this truth, what does it mean to “fight against circumstances?” It means that you are continually rebelling against an outer effect, while all the time you are nourishing and preserving its cause in your heart. That cause may take the form of a conscious bad habit or an unconscious weakness. Whatever it is, it stubbornly slows down your efforts and thus clearly calls for a remedy.
+This is so true that when a man earnestly works to correct the flaws in his character and makes rapid, marked progress, he passes quickly through a series of ups and downs.
 
-People are eager to improve their circumstances, but they are often unwilling to improve themselves. Because of this, they remain bound and stuck.
+The soul attracts what it secretly harbors: what it loves, and also what it fears. It rises to the height of its cherished aspirations. It falls to the level of its undisciplined desires. Circumstances are the means by which the soul receives what belongs to it.
 
-The person who does not shrink from deep self-correction and sacrifice can never fail to accomplish the object upon which their heart is set. This is as true of earthly goals as it is of spiritual ones. Even the person whose sole object is to acquire wealth must be prepared to make great personal sacrifices before they can achieve their object. So, how much more sacrifice is needed for someone who wants to realize a strong and well-balanced life?
+Every thought-seed that is planted, or allowed to fall into the mind and take root, produces its own kind. Sooner or later it blossoms into action and bears its own fruit of opportunity and circumstance. Good thoughts bear good fruit; bad thoughts bear bad fruit.
 
-Consider a person who is miserably poor. They are extremely anxious for their surroundings and home comforts to improve. Yet, all the time, they avoid their work and believe they are justified in trying to deceive their employer because they feel their wages are too low. Such a person does not understand the simplest basics of the principles that form the basis of true prosperity. They are not only totally unfitted to rise out of their miserable state but are actually attracting to themselves even deeper misery by dwelling in, and acting out, lazy, deceptive, and weak thoughts.
+The outer world of circumstance shapes itself to the inner world of thought. Both pleasant and unpleasant outer conditions work toward the ultimate good of the individual. As the one who reaps his own harvest, man learns through both suffering and joy.
 
-Now, think of a rich person who is the victim of a painful and persistent disease as a result of overeating. They are willing to give large sums of money to get rid of it, but they will not sacrifice their excessive desires for food. They want to gratify their taste for rich and unhealthy foods and have good health as well. Such a person is totally unfit to have health because they have not yet learned the first principles of a healthy life.
+A man follows the inmost desires, aspirations, and thoughts that he allows to rule him. He may chase the will-o'-the-wisps of impure imaginings. Or he may walk steadily along the highway of strong and high effort.
 
-Consider an employer who uses dishonest methods to avoid paying fair wages. In the hope of making larger profits, this employer reduces the wages of their workers. Such a person is altogether unfitted for prosperity. When they find themselves bankrupt, both in reputation and riches, they blame circumstances, not knowing that they are the sole author of their condition.
+Either way, he finally reaches their fruition and fulfillment in the outer conditions of his life. The laws of growth and adjustment hold everywhere.
 
-People are the cause of their circumstances, though they are nearly always unconscious of this. While aiming for a good end, a person often frustrates its accomplishment by encouraging thoughts and desires that cannot possibly harmonize with that end. Such cases could be multiplied and varied almost indefinitely. However, this is not necessary, as you, the reader, can, if you so choose, trace the action of the laws of thought in your own mind and life. Until this is done, mere external facts cannot serve as a solid ground for reasoning.
+A man does not end up in the almshouse or the jail through the tyranny of fate or circumstance. He arrives there by the path of groveling thoughts and base desires.
 
-Circumstances are very complex, thought is deeply rooted, and the conditions for happiness vary greatly among individuals. Because of this, one person’s entire inner state (although it may be known to themselves) cannot be judged by another person from the external appearance of their life alone.
-A person may be honest in certain ways, yet suffer hardship. Another person may be dishonest in certain ways, yet acquire wealth. The common conclusion that the one person fails because of their particular honesty, and that the other prospers because of their particular dishonesty, is the result of a superficial judgment. This judgment assumes that the dishonest person is almost totally corrupt, and the honest person almost entirely virtuous. In the light of deeper knowledge and wider experience, such a judgment is found to be incorrect. The dishonest person may have some admirable virtues that the other does not possess. The honest person may have negative habits that are absent in the other. The honest person reaps the good results of their honest thoughts and acts; they also bring upon themselves the suffering that their negative habits produce. The dishonest person likewise gathers their own suffering and happiness.
+Nor does a pure-minded man suddenly fall into crime because of some merely external pressure. The criminal thought had long been secretly nourished in his heart, and the moment of opportunity revealed the power it had gathered.
 
-It is pleasing to human vanity to believe that one suffers because of one’s virtue. But not until a person has removed every unhealthy, bitter, and impure thought from their mind, and washed every negative stain from their soul, can they be in a position to know and declare that their sufferings are the result of their good qualities, and not of their bad ones. On the way to, yet long before reaching, that supreme state of inner perfection, they will have found the Great Law working in their mind and life. This Law is absolutely just and cannot, therefore, give good for evil, or evil for good. Possessed of such knowledge, they will then know, looking back upon their past ignorance and blindness, that their life is, and always was, justly ordered. They will understand that all their past experiences, good and bad, were the fair and balanced outcomes of their evolving, yet still imperfect, self.
+Circumstance does not make the man; it reveals him to himself. No one can sink into vice and its accompanying suffering without vicious inclinations. No one can rise into virtue and its pure happiness without steadily cultivating virtuous aspirations.
 
-Good thoughts and actions can never produce bad results; bad thoughts and actions can never produce good results. This is simply saying that nothing can come from corn but corn, nothing from weeds but weeds. People understand this law in the natural world and work with it. However, few understand it in the mental and moral world (though its operation there is just as simple and consistent), and therefore, they do not cooperate with it.
+Man, therefore, as the lord and master of thought, is the maker of himself and the shaper and author of his environment. Even at birth the soul comes into what belongs to it. At every step of its earthly pilgrimage it attracts the combinations of conditions that reveal it, conditions that reflect its own purity and impurity, its strength and weakness.
 
-Suffering is always the effect of wrong thought in some direction. It is an indication that the individual is out of harmony with themselves, with the Law of their being.
+Men do not attract what they want, but what they are. Their whims, fancies, and ambitions are blocked at every turn. Yet their inmost thoughts and desires are fed with their own kind of food, whether foul or clean.
 
-The sole and supreme use of suffering is to purify, to burn out all that is useless and impure. Suffering ceases for the one who is pure. There would be no object in burning gold after all the impurities (dross) have been removed, and a perfectly pure and enlightened being could not suffer.
+The "divinity that shapes our ends" lies within us; it is our very self. Man is chained by no one but himself. Thought and action are the jailers of Fate: when they are base, they imprison. They are also the angels of Freedom: when they are noble, they set free.
 
-The circumstances that a person encounters with suffering are the result of their own mental disharmony. The circumstances that a person encounters with joy and peace are the result of their own mental harmony. True well-being (blessedness), not material possessions, is the measure of right thought. Unhappiness, not the lack of material possessions, is the measure of wrong thought.
-A person can be troubled and rich; they can be content and poor. Contentment and riches are only joined together when the riches are rightly and wisely used. The poor person only descends into unhappiness when they regard their lot as a burden unjustly imposed.
+A man does not get what he wishes and prays for, but what he justly earns. His wishes are granted and his prayers answered only when they agree with his thoughts and actions.
 
-Extreme poverty (indigence) and excessive indulgence are the two extremes of unhappiness. They are both equally unnatural and the result of mental disorder. A person is not in a right condition until they are a happy, healthy, and prosperous being. Happiness, health, and prosperity are the result of a harmonious adjustment of the inner self with the outer world, of the person with their surroundings.
+In light of this truth, what does "fighting against circumstances" mean? It means that a man is constantly rebelling against an outward effect while all along he is nourishing and preserving its cause in his heart.
 
-A person only truly begins to mature when they cease to whine and complain, and instead commence a search for the hidden justice that regulates their life. As they adapt their mind to that regulating factor, they stop accusing others as the cause of their condition and build themselves up in strong and noble thoughts. They cease to fight against circumstances and instead begin to use them as aids for more rapid progress, and as a means of discovering the hidden powers and possibilities within themselves.
+That cause may be a conscious vice or an unconscious weakness. Whatever form it takes, it stubbornly holds back the efforts of the person who has it, and so it cries out to be remedied.
 
-Law, not confusion, is the dominating principle in the universe. Justice, not injustice, is the soul and substance of life. Righteousness, not corruption, is the molding and moving force in the spiritual government of the world.
-A person has only to set themselves right to find that the universe is right. During the process of putting themselves right, they will find that as they alter their thoughts towards things and other people, things and other people will alter towards them. The proof of this truth is in every person, and it therefore allows for easy investigation through systematic self-reflection and self-analysis.
+People are eager to improve their circumstances but unwilling to improve themselves, and so they remain bound. The man who does not shrink from crucifying his own self can never fail to reach the goal his heart is set on. This is as true of earthly matters as of heavenly ones.
 
-If you radically alter your thoughts, you will be astonished at the rapid transformation it will bring about in the material conditions of your life.
+Even a man whose only goal is to gain wealth must be ready to make great personal sacrifices before he succeeds. How much more must someone sacrifice who wants to achieve a strong and well-balanced life?
 
-People imagine that thoughts can be kept secret, but they cannot. Thoughts rapidly crystallize into habit, and habit solidifies into circumstance.
-* Animal-like thoughts crystallize into habits of drunkenness and excessive indulgence, which solidify into circumstances of poverty and disease.
-* Impure thoughts of every kind crystallize into draining and confusing habits, which solidify into distracting and adverse circumstances.
-* Thoughts of fear, doubt, and indecision crystallize into weak, indecisive habits, which solidify into circumstances of failure, poverty, and helpless dependence.
-* Lazy thoughts crystallize into habits of uncleanliness and dishonesty, which solidify into foul conditions and situations of begging.
-* Hateful and condemning thoughts crystallize into habits of accusation and violence, which solidify into circumstances of injury and persecution.
-* Selfish thoughts of all kinds crystallize into habits of self-seeking, which solidify into circumstances that are more or less distressing.
+Here is a man who is wretchedly poor. He badly wants his surroundings and home comforts improved. Yet all the while he avoids his work, and he thinks he is justified in trying to deceive his employer because his wages are too low.
 
-On the other hand:
-* Beautiful thoughts of all kinds crystallize into habits of grace and kindliness, which solidify into pleasant and bright circumstances.
-* Pure thoughts crystallize into habits of moderation and self-control, which solidify into circumstances of calm and peace.
-* Thoughts of courage, self-reliance, and decision crystallize into strong, capable habits, which solidify into circumstances of success, plenty, and freedom.
-* Energetic thoughts crystallize into habits of cleanliness and industry, which solidify into circumstances of pleasantness.
-* Gentle and forgiving thoughts crystallize into habits of gentleness, which solidify into protective and supportive circumstances.
-* Loving and unselfish thoughts crystallize into habits of putting others first, which solidify into circumstances of sure and lasting prosperity and true riches.
+Such a man does not understand even the simplest basics of the principles on which true prosperity rests. He is not only completely unfit to rise out of his misery. By dwelling on and acting out lazy, deceptive, and unmanly thoughts, he is actually drawing a still deeper misery to himself.
 
-A particular train of thought, whether good or bad, if persisted in, cannot fail to produce its results on your character and circumstances. You cannot directly choose your circumstances, but you *can* choose your thoughts, and so indirectly, yet surely, shape your circumstances.
+Here is a rich man who suffers from a painful, persistent disease caused by gluttony. He is willing to pay large sums to be rid of it, but he will not give up his gluttonous desires. He wants to indulge his taste for rich and unnatural dishes and keep his health as well.
 
-Nature helps every person to achieve the results of the thoughts they most encourage. Opportunities are presented that will most speedily bring to the surface both good and evil thoughts, showing their effects.
+Such a man is completely unfit to have health, because he has not yet learned the first principles of a healthy life.
 
-If you cease from harmful (sinful) thoughts, the whole world will soften towards you and be ready to help. If you put away weak and unhealthy thoughts, opportunities will spring up on every hand to aid your strong resolves. If you encourage good thoughts, no hard fate will bind you down to unhappiness and shame.
-The world is your kaleidoscope, and the varying combinations of "colors" which at every succeeding moment it presents to you are the perfectly adjusted pictures of your ever-moving thoughts.
+Here is an employer who uses crooked methods to avoid paying the standard wage, and who cuts his workers' pay in the hope of larger profits. Such a man is entirely unfit for prosperity. When he finds himself bankrupt in both reputation and wealth, he blames circumstances, not realizing that he alone has caused his condition.
 
-Ultimately, you will be what you will to be.
-Let failure find its false comfort in that poor excuse, ‘environment,’ but your spirit looks down on that excuse and is free.
-Your spirit masters time; it conquers space. It tames that boastful trickster, Chance, and orders the tyrant Circumstance to give up its crown and take a servant’s place.
-The human Will, that unseen force, the child of a deathless Soul, can carve a path to any goal, even if walls of granite stand in the way.
-Do not be impatient when there are delays. Instead, wait like one who understands. When your spirit rises and commands, even the powers of the universe (the ‘gods’) are ready to obey.
+I have introduced these three cases only to illustrate a truth: man causes his own circumstances, though almost always without knowing it. While aiming at a good end, he constantly defeats it by encouraging thoughts and desires that cannot possibly agree with that end.
 
-## Chapter 3
+Such cases could be multiplied and varied almost endlessly, but there is no need. If the reader resolves to do so, he can trace the working of the laws of thought in his own mind and life. Until he does, mere external facts cannot provide a basis for reasoning.
 
-**Effect of Thought on Health and the Body**
+Circumstances, however, are very complicated. Thought is deeply rooted, and the conditions of happiness differ greatly from one person to another. For these reasons, no one can judge another man's entire inner condition from the outward appearance of his life alone, even though the man himself may know it.
 
-Your body is like a servant to your mind. It follows your mind's instructions, whether you choose those thoughts on purpose or they happen automatically. When your mind is filled with harmful or negative thoughts, your body can quickly become sick and weak. But when your mind has happy and positive thoughts, your body can reflect youthfulness and beauty.
+A man may be honest in some respects and still suffer hardship. Another may be dishonest in some respects and still grow wealthy. People usually conclude that the first man fails *because of* his particular honesty, and that the second prospers *because of* his particular dishonesty.
 
-Just like your life situations, your health and sickness also start in your thoughts. Unhealthy thoughts will show up as an unhealthy body. Thoughts of fear have been known to affect a person as severely as a physical injury. These fearful thoughts are constantly harming thousands of people just as certainly, though perhaps more slowly. People who constantly live in fear of getting sick are often the ones who do get sick. Anxiety quickly weakens your whole body. It makes your body more vulnerable to illness. Also, impure or negative thoughts, even if you don't act on them physically, can soon damage your nervous system.
+This is a superficial judgment. It assumes that the dishonest man is almost wholly corrupt and the honest man almost wholly virtuous. Deeper knowledge and wider experience show that this judgment is mistaken. The dishonest man may have admirable virtues that the honest man lacks. The honest man may have offensive vices that the dishonest man does not have.
 
-Strong, pure, and happy thoughts build up your body, making it energetic and graceful. Your body is a delicate and flexible instrument. It quickly responds to the thoughts that impress upon it. Your habitual ways of thinking will produce their own effects on your body, whether those effects are good or bad.
+The honest man reaps the good results of his honest thoughts and acts. He also brings on himself the suffering that his vices produce. The dishonest man, likewise, gathers in both his own suffering and his own happiness.
 
-People will continue to have unhealthy blood as long as they keep thinking unclean or negative thoughts. A clean heart and mind lead to a clean life and a clean body. But a polluted mind leads to a polluted life and an unhealthy body. Thought is the source of your actions, your life, and everything that happens. If you make this source pure, then everything that flows from it will also be pure.
+It flatters human vanity to believe that we suffer because of our virtue. But a man must first root out every sickly, bitter, and impure thought from his mind and wash every sinful stain from his soul. Only then is he in a position to know and declare that his sufferings come from his good qualities and not from his bad ones.
 
-Changing your diet alone will not help you if you don’t also change your thoughts. When you make your thoughts pure, you will no longer want unhealthy or impure food.
+Long before he reaches that supreme perfection, while he is still on the way to it, he will have found the Great Law at work in his mind and life. That Law is absolutely just. It therefore cannot return good for evil, or evil for good.
 
-If you want to protect your body, you must guard your mind. If you want to renew your body, make your mind beautiful with positive thoughts. Thoughts of ill will, envy, disappointment, and hopelessness rob your body of its health and grace. A sour-looking face doesn’t just happen by chance; it is created by sour, unhappy thoughts. Wrinkles that spoil your appearance are often drawn by foolishness, uncontrolled emotions, and excessive pride.
+With this knowledge, he will look back on his former ignorance and blindness and see that his life is, and always was, justly ordered. All his past experiences, good and bad, were the fair working-out of a self that was evolving but not yet fully evolved.
 
-For example, I know a woman who is ninety-six years old, yet she has the bright, innocent face of a young girl. I also know a man who is not yet middle-aged, but his face is marked with lines of unhappiness and stress. The woman’s appearance is the result of a sweet and sunny nature. The man’s appearance is the outcome of uncontrolled negative feelings and discontent.
+Good thoughts and actions can never produce bad results. Bad thoughts and actions can never produce good results. This is simply saying that nothing can grow from corn but corn, and nothing from nettles but nettles.
 
-Clean thoughts lead to clean habits. Someone who claims to be holy but doesn't keep their body clean is not truly living a holy life. If you have strengthened and purified your thoughts, you build a natural defense and don't need to constantly worry about harmful germs.
+People understand this law in the natural world, and they work with it. Few understand it in the mental and moral world, though it operates there just as simply and unfailingly. Because they do not understand it there, they do not cooperate with it.
 
-You can't have a pleasant and healthy home unless you let fresh air and sunshine into your rooms. Similarly, a strong body and a bright, happy, or calm appearance can only come from freely welcoming thoughts of joy, kindness, and peace into your mind.
+Suffering is always the effect of wrong thought in some direction. It shows that a person is out of harmony with himself, with the Law of his being. The one supreme use of suffering is to purify, to burn away everything that is useless and impure.
 
-Older people have wrinkles. Some wrinkles are formed by a life of sympathy and understanding. Others are shaped by strong and pure thoughts. Still others are carved by uncontrolled negative feelings. Most people can tell the difference between these kinds of wrinkles.
+Suffering ends for the person who is pure. Gold is heated to burn off its impurities, the dross. Once the dross is gone, there is no point in burning the gold further. In the same way, a perfectly pure and enlightened being could not suffer.
 
-For those who have lived good and upright lives, old age is often calm, peaceful, and gentle, like a beautiful setting sun. I recently saw a wise philosopher on his deathbed. Though he was old in years, his spirit was young. He died as sweetly and peacefully as he had lived his life.
+The circumstances that a man meets with suffering are the result of his own inner disharmony. The circumstances that he meets with blessedness are the result of his own inner harmony.
 
-Cheerful thoughts are the best medicine for healing the body’s problems. There is no better comfort than goodwill and kindness for easing the shadows of grief and sorrow.
+Blessedness, not material possessions, is the measure of right thought. Wretchedness, not a lack of material possessions, is the measure of wrong thought. A man may be cursed and rich, and he may be blessed and poor.
 
-If you constantly live with thoughts of ill will, cynicism, suspicion, and envy, you are trapping yourself in a mental prison you created. But to think well of everyone, to be cheerful with everyone, and to patiently learn to find the good in everyone – these kinds of unselfish thoughts are like gateways to true happiness and peace. Living day by day with peaceful thoughts toward every living being will bring great and overflowing peace to the person who thinks them.
+Blessedness and riches go together only when the riches are used rightly and wisely. And a poor man sinks into wretchedness only when he regards his lot as a burden unjustly laid on him.
 
-## Chapter 4
+Indigence and indulgence, extreme want and excess, are the two extremes of wretchedness. Both are equally unnatural, and both result from mental disorder.
 
-**Thought and Purpose**
+A man is not in his proper condition until he is happy, healthy, and prosperous. Happiness, health, and prosperity come from a harmonious adjustment of the inner life with the outer, of the man with his surroundings.
 
-You can't achieve much intelligently unless your thoughts are connected to a clear purpose. For most people, their thoughts are like a boat left to drift aimlessly on the ocean of life. Not having a purpose (aimlessness) is a bad habit. If you want to avoid serious problems and setbacks, you must stop drifting.
+A man only begins to be truly a man when he stops whining and blaming, and starts searching for the hidden justice that governs his life.
 
-People without a main goal in life easily become victims of small worries, fears, troubles, and self-pity. These are all signs of weakness. This weakness leads to failure, unhappiness, and loss, just as surely as intentional wrongdoings do (though in a different way). This is because weakness cannot last in a world that favors growth and strength.
+As he adapts his mind to that governing principle, he stops accusing others as the cause of his condition. Instead, he builds himself up through strong and noble thoughts. He stops kicking against his circumstances and begins to use them to speed his progress, and as a way of discovering the hidden powers and possibilities within himself.
 
-You should choose a worthwhile goal in your heart and decide to achieve it. You should make this goal the main focus of your thoughts. This goal might be a spiritual aim, or it could be a practical, worldly achievement. It depends on your nature and current situation. Whatever your goal is, you should steadily focus all your mental energy on it. Treat this purpose as your most important duty. Dedicate yourself to achieving it. Don't let your thoughts drift off into daydreams, vague wishes, or fantasies. This is the best way to develop self-control and real concentration. Even if you fail many times to reach your goal (which is likely until you overcome your weaknesses), the strength of character you gain is your real success. This strength becomes a new foundation for future power and achievement.
+Law, not confusion, is the ruling principle of the universe. Justice, not injustice, is the soul and substance of life. Righteousness, not corruption, is the force that shapes and moves the spiritual government of the world.
 
-If you are not ready to take on a very big goal, then focus your thoughts on doing your current duties perfectly. It doesn't matter how small or unimportant your tasks may seem. This is the only way to gather and focus your thoughts. It’s how you develop determination and energy. Once you do this, there is nothing you cannot achieve.
+Since this is so, a man has only to set himself right to find that the universe is right. And while he is putting himself right, he will find that as he changes his thoughts toward things and other people, things and other people will change toward him.
 
-Even the person who feels weakest, if they understand their own weakness and believe that strength only comes from effort and practice, will immediately start to make an effort. By continually adding effort to effort, patience to patience, and strength to strength, they will keep developing. Eventually, they will grow exceptionally strong.
+The proof of this truth lies within every person, so anyone can easily investigate it through systematic introspection and self-analysis. Let a man radically change his thoughts, and he will be astonished at how quickly this transforms the material conditions of his life.
 
-Just as a physically weak person can become strong through careful and patient exercise, a person with weak thoughts can make their thoughts strong by practicing right thinking.
+People imagine that thought can be kept secret, but it cannot. Thought quickly crystallizes into habit, and habit solidifies into circumstance.
 
-When you stop being aimless and weak, and start to think with purpose, you join the group of strong people. These strong individuals see failure only as a stepping stone to achievement. They make all situations work for them. They think with strength, try new things without fear, and achieve their goals skillfully.
+Bestial thoughts crystallize into habits of drunkenness and sensuality, which solidify into circumstances of destitution and disease. Impure thoughts of every kind crystallize into draining and confusing habits, which solidify into distracting and adverse circumstances.
 
-Once you have your purpose in mind, you should mentally draw a straight path to achieving it. Don't look to the right or the left; stay focused on the path. You must firmly shut out all doubts and fears. They are destructive forces that break your focus and your line of effort. They make your attempts ineffective and useless. Thoughts of doubt and fear have never achieved anything, and they never will. They always lead to failure. When doubt and fear enter your mind, your sense of purpose, your energy, your power to act, and all your strong thoughts disappear.
+Thoughts of fear, doubt, and indecision crystallize into weak, unmanly, and irresolute habits, which solidify into circumstances of failure, poverty, and slavish dependence. Lazy thoughts crystallize into habits of uncleanliness and dishonesty, which solidify into circumstances of filth and beggary.
 
-The strong desire and determination to do something (the will to do) comes from knowing that you *can* do it. Doubt and fear are the biggest enemies of this knowledge. If you encourage these enemies, or if you don't get rid of them, you hold yourself back with every step you take.
+Hateful and condemning thoughts crystallize into habits of accusation and violence, which solidify into circumstances of injury and persecution. Selfish thoughts of all kinds crystallize into habits of self-seeking, which solidify into circumstances that are more or less distressing.
 
-If you have overcome doubt and fear, you have overcome failure. Every thought you have is then connected to power. You will meet all difficulties bravely and overcome them wisely. Your goals are set at the right time, like seeds planted in the right season. They will grow, blossom, and produce results that are solid and lasting.
+On the other hand, beautiful thoughts of all kinds crystallize into habits of grace and kindness, which solidify into warm and sunny circumstances. Pure thoughts crystallize into habits of temperance and self-control, which solidify into circumstances of rest and peace.
 
-When thought is fearlessly joined with purpose, it becomes a creative force. Someone who understands this is ready to become more than just a collection of unsteady thoughts and changing feelings. The person who actually does this becomes a conscious and intelligent master of their own mental powers.
+Thoughts of courage, self-reliance, and decision crystallize into manly habits, which solidify into circumstances of success, plenty, and freedom. Energetic thoughts crystallize into habits of cleanliness and hard work, which solidify into pleasant circumstances.
 
-## Chapter 5
+Gentle and forgiving thoughts crystallize into habits of gentleness, which solidify into protective and preserving circumstances. Loving and unselfish thoughts crystallize into habits of forgetting oneself for the sake of others, which solidify into circumstances of sure and lasting prosperity and true riches.
 
-**The Thought-Factor in Achievement**
+A particular line of thought, if persisted in, cannot fail to produce its results on a man's character and circumstances, whether it is good or bad. A man cannot directly choose his circumstances. But he can choose his thoughts, and so, indirectly yet surely, he can shape his circumstances.
 
-Everything you achieve and everything you fail to achieve is a direct result of your own thoughts. In a fairly organized universe, where a loss of balance would lead to total collapse, your personal responsibility must be complete. Your weaknesses and strengths, your good qualities and impurities, belong to you and no one else. You bring them about yourself, not through someone else. Only you can change them; no one else can do it for you. Your situation in life is also your own. Your suffering and your happiness develop from inside you. As you think, that is what you become. As you continue to think in a certain way, that is how you will remain.
+Nature helps every man to satisfy the thoughts he most encourages. Opportunities arise that will most quickly bring both his good and his evil thoughts to the surface.
 
-A strong person cannot help someone weaker unless that weaker person is willing to be helped. Even then, the weaker person must become strong on their own. They must use their own efforts to develop the strength they admire in others. No one but you can change your own situation.
+Let a man give up his sinful thoughts, and the whole world will soften toward him and be ready to help him. Let him put away his weak and sickly thoughts, and opportunities will spring up on every side to support his strong resolutions. Let him encourage good thoughts, and no hard fate will hold him down in wretchedness and shame.
 
-People used to think and say, "Many people are oppressed because one person is an oppressor. Let's hate the oppressor." Now, however, a growing number of people are starting to see it differently. They might say, "One person is an oppressor because many allow themselves to be oppressed. Let's look down on those who allow oppression." The truth is that both the oppressor and the oppressed are partners in ignorance. While they seem to be harming each other, they are actually harming themselves. Someone with perfect understanding sees how natural laws work in the weakness of the oppressed person and in the misused power of the oppressor. Someone with perfect love sees the suffering that both situations cause and doesn't condemn either person. Perfect compassion includes both the oppressor and the oppressed. If you have overcome your own weakness and gotten rid of all selfish thoughts, you don't belong to either group. You are free.
+The world is your kaleidoscope. As you turn that tube of colored glass, it shows you a new pattern at every moment. In the same way, the changing combinations of color the world presents to you are finely adjusted pictures of your ever-moving thoughts.
 
-You can only rise, overcome challenges, and achieve your goals by elevating your thoughts. You will remain weak, hopeless, and miserable only if you refuse to lift your thoughts to a higher level.
+> "So you will be what you will to be;  
+> Let failure find its false content  
+> In that poor word, 'environment,'  
+> But spirit scorns it, and is free.  
 
-Before you can achieve anything, even in everyday worldly matters, you must lift your thoughts above acting only on basic physical desires and impulses. To succeed, you don't necessarily have to give up all basic human drives or every bit of selfishness. But at least some part of these lower impulses must be sacrificed. A person whose main focus is always on satisfying crude physical urges cannot think clearly or plan effectively. They couldn't find and develop their hidden talents and abilities, and they would fail in any project. If you haven't started to strongly control your thoughts, you are not in a position to manage important matters or take on serious responsibilities. You are not ready to act independently or stand on your own. However, you are limited only by the thoughts you choose to have.
+> "It masters time, it conquers space;  
+> It cows that boastful trickster, Chance,  
+> And bids the tyrant Circumstance  
+> Uncrown, and fill a servant's place.  
 
-There can be no progress and no achievement without sacrifice. Your success in the world will match how much you sacrifice your confused, base thoughts and instead focus your mind on developing your plans and strengthening your determination and self-reliance. The higher you lift your thoughts, the stronger, more upright, and more principled you become. Then, your success will be greater, and your achievements will be more positive and long-lasting.
+> "The human Will, that force unseen,  
+> The offspring of a deathless Soul,  
+> Can hew a way to any goal,  
+> Though walls of granite intervene.  
 
-The universe doesn't favor greedy, dishonest, or harmful people, even if it sometimes looks that way on the surface. It helps people who are honest, generous, and good. All the great teachers throughout history have said this in different ways. To prove it and know it for yourself, you just need to keep working on becoming a better person by elevating your thoughts.
+> "Be not impatient in delays  
+> But wait as one who understands;  
+> When spirit rises and commands  
+> The gods are ready to obey."  
 
-Intellectual achievements come from thoughts that are dedicated to searching for knowledge, or for what is beautiful and true in life and nature. These achievements might sometimes be linked with vanity or ambition. But they are not directly caused by those traits. They are the natural result of long and difficult effort, and of pure and unselfish thoughts.
+### EFFECT OF THOUGHT ON HEALTH AND THE BODY
 
-Spiritual achievements are the ultimate fulfillment of high spiritual goals. Someone who constantly focuses on noble and elevated thoughts, and who thinks about all that is pure and unselfish, will become wise and noble in character. This is as certain as the sun reaching its highest point at noon or the moon becoming full. They will also rise to a position of positive influence and true happiness.
+The body is the servant of the mind. It obeys the workings of the mind, whether those workings are deliberately chosen or expressed automatically.
 
-You can rise to great success in the world, and even reach high levels of spiritual understanding. However, you can fall back into weakness and unhappiness if you allow arrogant, selfish, and corrupt thoughts to take control of you.
+When unlawful thoughts give the orders, the body quickly sinks into disease and decay. When glad and beautiful thoughts give the orders, the body becomes clothed with youthfulness and beauty.
 
-Achievement of any kind is the reward of effort and the prize of focused thought. With self-control, determination, purity, principled living, and well-directed thought, you rise higher. But by acting on base impulses, being lazy, having impure thoughts, being corrupt, and having confused thoughts, you go downward.
+Disease and health, like circumstances, are rooted in thought. Sickly thoughts will express themselves through a sickly body.
 
-Successes you gain through right thinking can only be kept through constant awareness and effort. Many people relax too much when success seems certain, and then they quickly fall back into failure.
+Thoughts of fear have been known to kill a man as quickly as a bullet. They are continually killing thousands of people just as surely, though more slowly. The people who live in fear of disease are the people who catch it.
 
-All achievements – whether in business, learning, or spiritual life – are the result of clearly focused thought. They are all governed by the same laws and achieved through the same methods. The only difference is the specific goal you are trying to reach.
+Anxiety quickly weakens the whole body and leaves it open to disease. Impure thoughts, even if they are never physically acted on, will soon shatter the nervous system.
 
-If you want to accomplish a little, you need to sacrifice a little. If you want to achieve a lot, you must sacrifice a lot. If you want to reach very high levels of attainment, you must sacrifice greatly.
+Strong, pure, and happy thoughts build up the body in vigor and grace. The body is a delicate and flexible instrument. It responds readily to the thoughts that impress themselves on it, and habits of thought will produce their own effects on it, good or bad.
 
-## Chapter 6
+People will go on having impure and poisoned blood as long as they keep breeding unclean thoughts. A clean heart produces a clean life and a clean body. A defiled mind produces a defiled life and a corrupt body.
 
-**Visions and Ideals**
+Thought is the source of action, of life, and of everything that shows itself outwardly. Make the source pure, and everything that flows from it will be pure.
 
-People who have big dreams – the dreamers – are like saviors for the world. Just as the physical world we see is supported by unseen forces, people going through difficult times, making mistakes, or doing unpleasant jobs are inspired and uplifted by the beautiful visions of these often solitary dreamers. Humanity cannot forget these dreamers or let their high ideals disappear. Society lives through these ideals and recognizes them as the future realities it will one day experience.
+A change of diet will not help a man who will not change his thoughts. When a man makes his thoughts pure, he no longer desires impure food.
 
-So, dream big dreams. As you dream, that is what you will become. Your vision of yourself is a promise of who you can be one day. Your ideal – your perfect image of what could be – is a prediction of what you will eventually show the world.
+Clean thoughts make clean habits. The so-called saint who does not wash his body is not a saint. The man who has strengthened and purified his thoughts does not need to worry about the malevolent microbe.
 
-If you hold onto a beautiful vision or a high ideal in your heart, you will one day make it real. For example, Columbus cherished a vision of another world, and he found it. Copernicus imagined many worlds and a larger universe, and he shared that idea. Buddha envisioned a spiritual world of pure beauty and perfect peace, and he experienced it.
+If you want to protect your body, guard your mind. If you want to renew your body, make your mind beautiful. Thoughts of malice, envy, disappointment, and despondency rob the body of its health and grace.
 
-So, cherish your own visions. Cherish your ideals. Cherish the inspiring feelings in your heart, the beauty you imagine in your mind, and the loveliness that surrounds your purest thoughts. From these things, all wonderful situations and a positive environment will grow. If you stay true to your visions and ideals, your world will eventually be built according to them.
+A sour face does not come about by chance. It is made by sour thoughts. Disfiguring wrinkles are drawn by folly, passion, and pride.
 
-To truly desire something is to be on the path to getting it. To aspire, or aim high, is to be on the path to achieving it. Should a person's lowest desires get fully satisfied, while their purest hopes and dreams go unsupported? That is not how the universe works. That kind of situation shouldn't happen. The principle is: "Ask, and you will receive."
+I know a woman of ninety-six who has the bright, innocent face of a girl. I know a man well under middle age whose face is drawn into distorted, discordant lines. The first is the result of a sweet and sunny disposition. The second is the outcome of passion and discontent.
 
-Composers, sculptors, painters, poets, prophets, and wise teachers – these are the people who shape the future and create a better world. The world is more beautiful because these people have lived. Without them, ordinary working people would struggle much more and lose hope.
+A home cannot be fresh and wholesome unless air and sunshine are let freely into its rooms. In the same way, a strong body and a bright, happy, or serene face can only come from freely letting thoughts of joy, goodwill, and serenity into the mind.
 
-Every great achievement started as a dream. An oak tree sleeps inside a tiny acorn. A bird waits inside an egg. And in the highest vision of your inner self, an amazing potential is stirring, like an awakening angel. Dreams are the tiny seeds from which realities grow.
+On the faces of the old, some wrinkles are made by sympathy, others by strong and pure thought, and others are carved by passion. Who cannot tell them apart?
 
-Your current situation might be unpleasant, but it won't stay that way for long if you can see an ideal future and work hard to reach it. You cannot make progress in your inner thoughts and dreams without also seeing changes in your outer life.
+For those who have lived righteously, old age is calm, peaceful, and gently mellowed, like the setting sun. I recently saw a philosopher on his deathbed. He was not old except in years. He died as sweetly and peacefully as he had lived.
 
-Imagine a young person facing great poverty and hard work. They might be stuck for long hours in an unhealthy workplace, with no formal education and lacking social graces. But this young person dreams of better things. They think about becoming intelligent, refined, graceful, and surrounded by beauty. They imagine and mentally build an ideal life. A vision of greater freedom and more opportunities takes hold of their mind. A feeling of restlessness pushes them to act. They use all their spare time and any small resources they have to develop their hidden talents and abilities.
+No physician can match cheerful thought for driving away the ills of the body. No comforter can compare with goodwill for dispersing the shadows of grief and sorrow. To live constantly in thoughts of ill will, cynicism, suspicion, and envy is to be locked in a prison cell of one's own making.
 
-Very soon, their mind changes so much that the old workshop no longer fits them. It becomes so different from their way of thinking that it falls away from their life, like an old piece of clothing being thrown out. As new opportunities appear that match their growing abilities, they move beyond that old life forever.
+But to think well of everyone, to be cheerful with everyone, and to patiently learn to find the good in everyone: such unselfish thoughts are the very gates of heaven. And to live day after day in thoughts of peace toward every creature will bring abundant peace to the person who holds them.
 
-Years later, we see this young person as a mature adult. They have become a master of certain mental abilities, using them with worldwide influence and great power. They handle huge responsibilities. When they speak, lives are changed. People listen intently to their words and reshape their own characters. Like the sun, this person becomes a bright, steady center around which many other lives turn. This person has made the vision of their youth real. They have become one with their ideal.
+### THOUGHT AND PURPOSE
 
-And you, the reader, will also make the true vision of your heart real – not just a casual wish. This vision might be for something basic or something beautiful, or a mix. You will always move towards what you secretly love most. You will receive the exact results of your own thoughts. You will get what you earn – no more, no less. No matter what your current situation is, you will fall, stay the same, or rise based on your thoughts, your vision, and your ideal. You will become as limited as your main desire, or as great as your highest aspiration.
+Until thought is linked with purpose, nothing is accomplished intelligently. Most people let the small ship of their thought drift on the ocean of life. Aimlessness is a vice. Anyone who wants to steer clear of disaster and destruction must not go on drifting.
 
-Someone once wrote beautifully about this. They described how you might be doing ordinary work, like keeping accounts. But one day, your inner vision could lead you to walk away from what seemed like a barrier to your dreams, and you could find yourself inspiring a large audience. Or, you might be a shepherd in the countryside. But your inner spirit could guide you to a great master’s studio, and soon you'd become a master yourself, fulfilling the great dreams you had while tending sheep. You might put down your carpenter's tools to take on the task of helping to renew the world. The point is that your current job doesn't define your potential if you have a strong inner vision and drive.
+Those who have no central purpose in life fall easy prey to petty worries, fears, troubles, and self-pity. All of these are signs of weakness.
 
-People who don't think deeply, who are uninformed, or who are lazy, often only see the surface results of things, not the actual causes. They talk about luck, good fortune, and chance. When they see someone get rich, they say, "How lucky!" When they see someone become very knowledgeable, they exclaim, "How fortunate!" And when they notice someone with a good character and wide influence, they remark, "Chance helps them so much!"
+Weakness leads to failure, unhappiness, and loss just as surely as deliberately planned sins do, though by a different route. Weakness cannot last in a universe where power is always evolving.
 
-These observers don't see the difficulties, failures, and struggles that successful people willingly faced to gain experience. They don't know about the sacrifices made, the determined efforts put in, or the faith shown to overcome what seemed like impossible obstacles and make their heart's vision real. They don't know about the dark times and the heartaches. They only see the light and joy and call it "luck." They don't see the long, hard journey, but only the pleasant destination, and call it "good fortune." They don't understand the process, but only see the result, and call it "chance."
+A man should form a legitimate purpose in his heart and set out to accomplish it. He should make this purpose the central point of his thoughts.
 
-In everything people do, there are efforts, and there are results. The strength of the effort determines the size of the result. It's not about chance. Talents, abilities, material goods, knowledge, and spiritual qualities are all the fruits of effort. They are thoughts carried through to completion, goals achieved, and visions made real.
+It may take the form of a spiritual ideal, or it may be a worldly goal, depending on his nature at the time. Whichever it is, he should steadily focus the forces of his thought on the goal he has set before himself.
 
-The vision that you cherish and lift up in your mind, the ideal that you place in the highest position in your heart – this is what you will build your life around. This is what you will become.
+He should make this purpose his supreme duty and devote himself to achieving it. He should not let his thoughts wander off into passing fancies, longings, and daydreams. This is the royal road to self-control and true concentration of thought.
 
-## Chapter 7
+He may fail again and again to accomplish his purpose, as he inevitably must until he has overcome his weakness. Even so, the strength of character he gains will be the measure of his true success. That strength will become a new starting point for future power and triumph.
 
-**Serenity**
+Some people are not yet ready to grasp a great purpose. They should fix their thoughts on doing their duty perfectly, however unimportant their task may seem.
 
-Calmness of mind is a beautiful and valuable part of wisdom, like a precious jewel. It comes from long and patient effort in practicing self-control. When someone is calm, it shows they have mature experience. It also shows they have a deep understanding of how thoughts work and the laws that govern them.
+Only in this way can their thoughts be gathered and focused, and their resolution and energy developed. Once that has been done, there is nothing that cannot be accomplished.
 
-You become calmer as you understand that you are a being who has developed and been shaped by your thoughts. This understanding helps you realize that other people are also the result of their thoughts. As you develop this correct understanding, you see more clearly how things are connected through cause and effect. Then, you stop fussing, getting angry, worrying, and grieving unnecessarily. You remain calm, steady, and peaceful.
+The weakest soul, aware of its own weakness, need only believe one truth: strength can be developed only through effort and practice. Believing this, it will begin at once to exert itself. Adding effort to effort, patience to patience, and strength to strength, it will never stop developing, and in the end it will grow divinely strong.
 
-The calm person, having learned how to control themselves, knows how to get along well with others. Others, in turn, deeply respect their inner strength. They feel they can learn from this calm person and depend on them. The calmer you become, the greater your success, your influence, and your ability to do good will be.
+A physically weak man can make himself strong through careful and patient training. In the same way, a man whose thoughts are weak can make them strong by exercising himself in right thinking.
 
-Even an ordinary businessperson will find their business does better as they develop more self-control and remain even-tempered. This is because people always prefer to do business with someone who behaves in a consistently calm and stable way.
+To put aside aimlessness and weakness and begin to think with purpose is to join the ranks of the strong. These are people who see failure as only one of the paths to achievement. They make every condition serve them. They think strongly, attempt fearlessly, and accomplish masterfully.
 
-A strong, calm person is always loved and deeply respected. They are like a tree that gives shade in a dry, thirsty land, or a rock that offers shelter in a storm. Everyone loves a calm heart and a kind, patient, and balanced life. It doesn't matter if life brings sunshine or rain, or what changes happen to those who have these qualities. They always remain pleasant, peaceful, and calm.
+Once a man has formed his purpose, he should mentally mark out a straight path toward achieving it, looking neither right nor left. He should firmly shut out doubts and fears. These are forces that break things apart. They disrupt the straight line of effort and make it crooked, ineffective, and useless.
 
-That perfect balance of character, which we call serenity, is like the final lesson in personal growth, the mature fruit of the inner self. Serenity is as precious as wisdom. It is more desirable than gold – yes, even more than the finest gold. Trying only to get money seems so unimportant when compared to a serene life. A serene life is one lived in deep truth, far beneath the stormy surface waves of life, in a place of Eternal Calm.
+Thoughts of doubt and fear have never accomplished anything, and they never can. They always lead to failure. Purpose, energy, the power to act, and every strong thought come to an end once doubt and fear creep in.
 
-We know many people who make their own lives bitter. They ruin everything sweet and beautiful with explosive tempers. They destroy their own balanced character and create conflict and anger. It makes you wonder if most people don't ruin their lives and spoil their happiness simply because they lack self-control. We meet so few people in life who are truly well-balanced – who have that perfect inner calm that shows a fully developed and mature character.
+The will to act grows out of the knowledge that we can act. Doubt and fear are the great enemies of that knowledge. Whoever encourages them, instead of destroying them, defeats himself at every step.
 
-Yes, humanity often rushes around with uncontrolled passion. People are thrown into chaos by uncontrolled grief. They are blown about by anxiety and doubt. Only a wise person, whose thoughts are controlled and purified, can make the winds and storms of their inner self obey them.
+Whoever has conquered doubt and fear has conquered failure. Every one of his thoughts is joined to power, and he meets every difficulty bravely and overcomes it wisely. His purposes are planted in their proper season. They bloom and bear fruit, and the fruit does not fall to the ground before it ripens.
 
-To all you people feeling troubled and overwhelmed by life's storms, wherever you are and whatever your situation: know this. In the great ocean of life, there are islands of happiness smiling at you. The sunny shore of your ideal life is waiting for you to arrive. Keep firm control over your thoughts, like a captain steering a ship. Inside you – in your soul, which is like a ship – there is a commanding, powerful inner self, your true Master. This Master might seem to be asleep, but you can awaken this inner guide. Remember: Self-control gives you strength. Right thinking gives you mastery over yourself. Calmness gives you power. So, say to your own heart and mind: "Peace, be still! Be calm!"
+When thought is fearlessly joined to purpose, it becomes a creative force. Whoever knows this is ready to become something higher and stronger than a mere bundle of wavering thoughts and shifting sensations. Whoever does this has become the conscious and intelligent master of his mental powers.
+
+### THE THOUGHT-FACTOR IN ACHIEVEMENT
+
+Everything a man achieves, and everything he fails to achieve, is the direct result of his own thoughts. The universe is justly ordered, and in such a universe any loss of balance would mean total destruction. Individual responsibility must therefore be absolute.
+
+A man's weakness and strength, his purity and impurity, belong to him and not to anyone else. He brings them about himself; no one else does. Only he can change them; no one else ever can. His condition, too, is his own and not another's. His suffering and his happiness develop from within. As he thinks, so he is; as he goes on thinking, so he remains.
+
+A strong man cannot help a weaker one unless the weaker man is willing to be helped. Even then, the weak man must become strong on his own. Through his own efforts, he must develop the strength he admires in the other. No one but himself can change his condition.
+
+People have usually thought and said, "Many men are slaves because one man is an oppressor; let us hate the oppressor." Now, however, a growing few tend to reverse this judgment. They say, "One man is an oppressor because many are slaves; let us despise the slaves."
+
+The truth is that oppressor and slave cooperate in ignorance. They seem to afflict each other, but in reality each is afflicting himself. Perfect Knowledge sees law at work both in the weakness of the oppressed and in the misused power of the oppressor. Perfect Love sees the suffering both conditions bring and condemns neither. Perfect Compassion embraces both oppressor and oppressed.
+
+Whoever has conquered weakness and put away all selfish thoughts belongs to neither side, oppressor or oppressed. He is free.
+
+A man can rise, conquer, and achieve only by lifting up his thoughts. He can remain weak, degraded, and miserable only by refusing to lift them up.
+
+Before a man can achieve anything, even in worldly matters, he must raise his thoughts above slavish animal indulgence. To succeed, he need not give up all of his animal nature and selfishness, not by any means. But he must sacrifice at least some portion of it.
+
+A man whose first thought is brute indulgence could neither think clearly nor plan methodically. He could not find and develop his hidden resources, and he would fail at anything he tried. Because he has not begun to take manly control of his thoughts, he is in no position to control affairs or take on serious responsibilities. He is not fit to act independently and stand on his own. Yet the only limits on him are the thoughts he chooses.
+
+There can be no progress and no achievement without sacrifice. A man's worldly success will match the degree to which he sacrifices his confused animal thoughts and fixes his mind on developing his plans and strengthening his resolution and self-reliance.
+
+The higher he lifts his thoughts, the more manly, upright, and righteous he becomes. And the more he becomes so, the greater his success will be, and the more blessed and lasting his achievements.
+
+The universe does not favor the greedy, the dishonest, or the vicious, though on the surface it may sometimes appear to. It helps the honest, the generous, and the virtuous. All the great Teachers of the ages have declared this in different forms. To prove and know it for himself, a man need only keep making himself more and more virtuous by lifting up his thoughts.
+
+Intellectual achievements come from thought devoted to the search for knowledge, or for what is beautiful and true in life and nature. Such achievements are sometimes linked with vanity and ambition, but they do not come from those traits. They grow naturally out of long, hard effort and out of pure and unselfish thoughts.
+
+Spiritual achievements are the fulfillment of holy aspirations. Someone who lives constantly with noble and lofty thoughts, and who dwells on everything pure and unselfish, will become wise and noble in character. He will rise into a position of influence and blessedness as surely as the sun reaches its highest point and the moon becomes full.
+
+Achievement of any kind is the crown of effort, the diadem of thought. With the help of self-control, resolution, purity, righteousness, and well-directed thought, a man rises. Through animal appetite, laziness, impurity, corruption, and confused thinking, a man falls.
+
+A man may rise to great success in the world, and even to lofty heights in the spiritual realm, and then fall again into weakness and misery. This happens when he lets arrogant, selfish, and corrupt thoughts take hold of him.
+
+Victories won by right thought can be kept only through watchfulness. Many people relax once success seems certain, and they quickly slide back into failure.
+
+All achievements, whether in business, intellectual, or spiritual life, result from thought that is directed toward a definite end. They are governed by the same law and follow the same method. The only difference is the object being pursued.
+
+Whoever would accomplish little must sacrifice little. Whoever would achieve much must sacrifice much. Whoever would reach great heights must sacrifice greatly.
+
+### VISIONS AND IDEALS
+
+The dreamers are the saviors of the world. The visible world is sustained by the invisible one. In the same way, people are nourished, through all their trials, sins, and sordid occupations, by the beautiful visions of their solitary dreamers.
+
+Humanity cannot forget its dreamers. It cannot let their ideals fade and die. It lives in them, and it knows them as the realities it will one day see and know.
+
+The composer, sculptor, painter, poet, prophet, and sage are the makers of the world to come, the architects of heaven. The world is beautiful because they have lived. Without them, laboring humanity would perish.
+
+Whoever cherishes a beautiful vision, a lofty ideal in his heart, will one day make it real. Columbus cherished the vision of another world, and he discovered it. Copernicus nurtured the vision of many worlds and a wider universe, and he revealed it. Buddha saw the vision of a spiritual world of spotless beauty and perfect peace, and he entered it.
+
+Cherish your visions. Cherish your ideals. Cherish the music that stirs in your heart, the beauty that takes shape in your mind, and the loveliness that clothes your purest thoughts. Out of them will grow every delightful condition and every heavenly environment. If you only remain true to them, your world will at last be built from them.
+
+To desire is to obtain; to aspire is to achieve. Should a man's lowest desires be satisfied in full while his purest aspirations starve for lack of nourishment? That is not the Law. Such a state of things can never exist. "Ask and receive."
+
+Dream lofty dreams, and as you dream, so you will become. Your Vision is the promise of what you will one day be. Your Ideal is the prophecy of what you will finally reveal.
+
+The greatest achievement was at first, and for a time, only a dream. The oak sleeps in the acorn; the bird waits in the egg; and in the soul's highest vision, an angel stirs awake. Dreams are the seedlings of realities.
+
+Your circumstances may be unpleasant, but they will not stay that way for long if you perceive an Ideal and strive to reach it. You cannot move forward inwardly and stand still outwardly.
+
+Picture a young man weighed down by poverty and labor. He is shut up for long hours in an unhealthy workshop. He has no schooling and lacks every refinement. But he dreams of better things. He thinks about intelligence, refinement, grace, and beauty.
+
+In his mind he imagines and builds up an ideal way of life. The vision of greater freedom and wider scope takes hold of him. Restlessness drives him to act, and he devotes all his spare time and money, little as they are, to developing his hidden powers and resources.
+
+Very soon his mind has changed so much that the workshop can no longer hold him. It has become so out of tune with his way of thinking that it drops out of his life, as a garment is cast aside. As opportunities arise that match his growing powers, he leaves the workshop forever.
+
+Years later we see this youth as a grown man. We find that he has mastered certain forces of the mind, which he uses with worldwide influence and nearly unequaled power. He holds in his hands the reins of enormous responsibilities. He speaks, and lives are changed. Men and women hang on his words and reshape their characters.
+
+Like the sun, he becomes the fixed and shining center around which countless destinies revolve. He has made the Vision of his youth real. He has become one with his Ideal.
+
+And you too, young reader, will make real the Vision of your heart, as opposed to an idle wish. This holds whether that Vision is base, beautiful, or a mixture of both, because you will always be drawn toward what you secretly love most. The exact results of your own thoughts will be placed in your hands. You will receive what you earn, no more and no less.
+
+Whatever your present surroundings, you will fall, stay where you are, or rise along with your thoughts, your Vision, and your Ideal. You will become as small as your controlling desire, and as great as your dominant aspiration.
+
+In the beautiful words of Stanton Kirkham Davis: "You may be keeping accounts, and soon you will walk out through the door that has so long seemed to you the barrier to your ideals. You will find yourself before an audience, the pen still behind your ear, the ink stains on your fingers, and then and there you will pour out the torrent of your inspiration.
+
+"You may be driving sheep, and you will wander to the city, a country youth gaping at everything. Under the fearless guidance of the spirit, you will wander into the master's studio, and after a while he will say, 'I have nothing more to teach you.' And now you have become the master, you who so recently dreamed of great things while driving sheep. You will lay down the saw and the plane to take on the renewal of the world."
+
+The thoughtless, the ignorant, and the lazy see only the apparent effects of things, not the things themselves, and so they talk of luck, fortune, and chance. Seeing a man grow rich, they say, "How lucky he is!" Seeing another become learned, they exclaim, "How highly favored he is!" Noticing the saintly character and wide influence of a third, they remark, "How chance helps him at every turn!"
+
+They do not see the trials, failures, and struggles these men have willingly faced in order to gain their experience. They know nothing of the sacrifices these men have made, the undaunted efforts they have put forth, or the faith they have exercised in order to overcome what seemed impossible and to make the Vision of their heart real.
+
+They do not know the darkness and the heartache; they see only the light and joy, and call it "luck." They do not see the long, hard journey; they see only the pleasant destination, and call it "good fortune." They do not understand the process; they perceive only the result, and call it chance.
+
+In all human affairs there are efforts and there are results, and the strength of the effort is the measure of the result. Chance does not exist. Gifts and powers, and possessions of every kind, whether material, intellectual, or spiritual, are the fruits of effort. They are thoughts completed, goals accomplished, visions made real.
+
+The Vision you glorify in your mind, the Ideal you enthrone in your heart—by this you will build your life, and this you will become.
+
+### SERENITY
+
+Calmness of mind is one of the beautiful jewels of wisdom. It results from long and patient effort in self-control. Its presence shows ripened experience and a more than ordinary knowledge of the laws and workings of thought.
+
+A man becomes calm to the degree that he understands himself as a being shaped and developed by thought. This knowledge requires him to understand other people the same way, as the result of their own thinking.
+
+As his understanding grows, he sees more and more clearly how things are inwardly connected through cause and effect. He then stops fussing, fuming, worrying, and grieving. He remains poised, steady, and serene.
+
+The calm man has learned how to govern himself, and so he knows how to adapt himself to others. They, in turn, respect his spiritual strength. They feel that they can learn from him and rely on him.
+
+The more tranquil a man becomes, the greater his success, his influence, and his power for good. Even an ordinary merchant will find his business prospering as he develops more self-control and evenness of temper. People will always prefer to deal with someone whose manner is steadily calm.
+
+The strong, calm man is always loved and respected. He is like a tree giving shade in a dry land, or a rock offering shelter in a storm.
+
+"Who does not love a tranquil heart, a sweet-tempered, balanced life? It does not matter whether it rains or shines, or what changes come to those who have these blessings, for they are always gentle, serene, and calm.
+
+"That exquisite balance of character which we call serenity is the last lesson of culture, the fruit of the soul. It is as precious as wisdom, and more to be desired than gold, yes, even than fine gold.
+
+"How small mere money-seeking looks next to a serene life, a life that dwells in the ocean of Truth, beneath the waves, beyond the reach of storms, in the Eternal Calm!
+
+"How many people we know who sour their lives, who ruin all that is sweet and beautiful through explosive tempers, who destroy their balance of character and stir up bad feeling!
+
+"It is an open question whether most people do not ruin their lives and spoil their happiness through a lack of self-control. How few people we meet who are well balanced, who have that exquisite poise that marks a fully developed character!"
+
+Yes, humanity surges with uncontrolled passion. It is thrown into turmoil by ungoverned grief, and it is blown about by anxiety and doubt. Only the wise man, the one whose thoughts are controlled and purified, makes the winds and storms of the soul obey him.
+
+Storm-tossed souls, wherever you may be and under whatever conditions you live, know this: in the ocean of life, the islands of Blessedness are smiling, and the sunny shore of your ideal awaits your arrival.
+
+Keep your hand firmly on the helm of thought. In the boat of your soul lies the commanding Master. He is only sleeping: wake Him.
+
+Self-control is strength. Right Thought is mastery. Calmness is power. Say to your heart, "Peace, be still!"

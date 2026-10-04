@@ -63,6 +63,7 @@ dist/
 
 # Generated book downloads
 public/downloads/*.epub
+public/downloads/*.inputs.sha256
 !public/downloads/.gitkeep
 
 # Pipeline working data (source EPUBs, chunks, batch results — never commit)

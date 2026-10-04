@@ -2,7 +2,7 @@
 title: How to Get What You Want
 author: Wallace D. Wattles
 yearPublished: 1907
-yearModernized: 2025
+yearModernized: 2026
 description: >-
   A modernized version of Wallace D. Wattles' concise and powerful guide to the
   law of attraction. This work explores the mental attitudes and practical steps
@@ -15,376 +15,216 @@ tags:
   - Philosophy
   - Metaphysics
 coverImage: ./cover.png
-coverAlt: >-
-  Cover art for How to Get What You Want, featuring modernized, abstract imagery
-  representing focus, inner power, and manifestation.
+coverAlt: Illustrated cover of How to Get What You Want by Wallace D. Wattles.
 downloads:
   epub: /downloads/how-to-get-what-you-want.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/how-to-get-what-you-want.mp3'
 ---
 
-## 1
 
-### What is Success?
+## CHAPTER 1
 
-Success simply means getting what you want.
+Getting what you want is success, and success is an effect that comes from applying a cause. Success is essentially the same in every case. Successful people differ in the things they want, but not in the success itself.
 
-This is a result that happens when you apply a specific cause. The basic idea of success is the same for everyone. The only difference is *what* each person wants to achieve.
+Success is the same whether it brings health, wealth, personal development, or position. Success is attainment, regardless of what is attained. It is also a law of nature that like causes always produce like effects. Since success is the same in all cases, its cause must also be the same in all cases.
 
-Success is always the same, whether your goal is:
-* Better health
-* More wealth
-* Personal growth
-* A higher position
+The cause of success always lies in the person who succeeds. This must be true, because if the cause lay in nature, outside the person, then everyone in a similar situation would succeed.
 
-Success is just the act of reaching your goal, no matter what that goal is. And in nature, there is a firm law: the same causes always create the same results. Since success is always the same kind of result, the cause of success must also be the same in every case.
+Nor is the cause in a person's environment. If it were, everyone within a certain distance would be successful, and success would depend entirely on the neighborhood. Yet people whose surroundings are practically the same, living in the same neighborhood, show every degree of success and failure. We therefore know that the cause of success must lie in the individual and nowhere else.
 
-### The Cause of Success Is Inside You
+It follows with mathematical certainty that you can succeed if you discover the cause of success, develop it until it is strong enough, and apply it properly to your work. Applying a sufficient cause cannot fail to produce its effect. Wherever failure of any kind occurs, it is because the cause was either too weak or not properly applied.
 
-The cause of success is always found within the person who succeeds.
+The cause of success is some power within you. You are able to develop any power without limit, because there is no end to mental growth. You can strengthen this power indefinitely, until it is strong enough to do what you want to do and get what you want to get.
 
-This has to be true. Think about it: if the cause of success was outside a person, in their environment, then everyone in the same situation would be successful.
+Once it is strong enough, you can learn how to apply it to your work, and so you can certainly succeed. All you have to learn is what the cause of success is and how it must be applied.
 
-But we know that isn't true.
-* The cause isn't your environment. If it were, everyone living in a certain neighborhood would be successful.
-* We see people in the exact same environment, living side-by-side, who experience all different levels of success and failure.
+Developing the special faculties your work requires is essential. We do not expect anyone to succeed as a musician without developing the musical faculty. It would be absurd to expect a machinist to succeed without developing mechanical ability, a clergyman without developing spiritual understanding and skill with words, or a banker without developing a talent for finance.
 
-Therefore, we know the cause of success must be inside the individual, and nowhere else.
+When choosing a business, you should choose one that calls for your strongest faculties. If you have good mechanical ability but are not spiritually minded and have no command of language, do not try to preach. If you have the taste and talent to combine colors and fabrics into beautiful hats and dresses, do not learn typing or shorthand.
 
-### Success Can Be Guaranteed
+Get into a business that will use your strongest faculties, and develop those faculties as far as you can. Even this, however, is not enough to guarantee success.
 
-Because the cause of success is inside you, it is certain that you can succeed.
+There are people with fine musical talent who fail as musicians, and people with good mechanical ability who fail as carpenters, blacksmiths, and machinists. Some with deep spirituality and fluent speech fail as clergymen, and some with keen, logical minds fail as lawyers, and so on.
 
-You just need to do three things:
-1.  Find out what the cause of success is.
-2.  Develop that cause until it is strong enough.
-3.  Apply it correctly to your work.
+The special faculties used in your work are your tools. Success does not depend only on having good tools; it depends more on the power that uses and applies them. Make sure your tools are the best and keep them in the best condition, since you can cultivate any faculty to whatever extent you wish.
 
-Applying a strong enough cause will always produce the result you want. If you fail at anything, it’s for one of two reasons: the cause wasn't strong enough, or you didn't apply it correctly.
+Applying the musical faculty brings success in music. Applying the mechanical faculty brings success in mechanical work, applying the financial faculty brings success in banking, and so on. The something that applies these faculties, or causes them to be applied, is the cause of success.
 
-The cause of success is a power you already have inside you. You can develop any mental power to a limitless extent, because your mind can always keep growing. You can make this power as strong as you need it to be to get what you want. Once it’s strong enough, you can learn how to apply it. This means you can absolutely succeed.
+The faculties are tools, and the user of the tools is you. The cause of success is whatever in you can make you use those tools in the right way, at the right time, and in the right place.
 
-All you need to learn is what this cause is and how to use it.
+What is this something in a person that makes him use his faculties successfully? What it is and how to develop it will be fully explained in the next section. Before turning to that, however, you should read this section several times, so as to fix in your mind the unshakable logic behind the statement that you can succeed.
 
-### Your Skills Are Your Tools
+You can. If you study the argument above carefully, you will be convinced that you can. And becoming convinced that you can succeed is the first requirement for success.
 
-To succeed, you must also develop the specific skills needed for your work.
-* We don’t expect someone to become a successful musician without developing their musical talent.
-* It would be foolish to expect a mechanic to succeed without developing mechanical skills.
-* A public speaker needs to develop their understanding of people and their ability to use words.
-* A banker needs to develop their financial skills.
+## CHAPTER 2
 
-When you choose a career, you should pick one that uses your strongest natural talents. If you are great with your hands but not a great speaker, don’t try to be a motivational speaker. If you have a talent for fashion and design, don't force yourself to do data entry. Choose a business that plays to your strengths and then work to develop those strengths as much as you can.
+The faculties of the human mind are the tools with which success is achieved. Applying these tools rightly to your work or business will carry it through successfully and get you what you want.
 
-### But Good Tools Are Not Enough
+A few people succeed because they use their faculties successfully. The majority, whose faculties are just as good, fail because they use them unsuccessfully. Something in the successful person enables him to use his faculties well, and everyone who succeeds must cultivate it. The question is: what is it?
 
-Even developing your best talents is not enough to guarantee success on its own.
+It is hard to find a word for it that will not mislead. This something is Poise, and poise is peace and power combined. But it is more than poise, because poise is a condition, while this something is an action as well as a condition.
 
-We all know people who fail despite having great talent:
-* Musicians with amazing musical gifts who never succeed.
-* Mechanics with excellent technical skills who fail in their trade.
-* Spiritual leaders with a wonderful command of language who fail to connect with people.
-* Lawyers with sharp, logical minds who fail in their practice.
+This something is also Faith, but it is more than faith as the word is usually understood. In the usual sense, faith is the act of believing things that cannot be proved. The something that causes success is more than that. It is Conscious Power in Action. It is ACTIVE POWER-CONSCIOUSNESS.
 
-Your special skills are the **tools** you use for your work. But success doesn’t just depend on having good tools. It depends more on the **power** that uses and applies those tools. Make sure your tools—your skills—are the best they can be. But remember that you can always cultivate any skill to a higher level.
+Power-Consciousness is what you feel when you know that you can do a thing and you know HOW to do it. If I can make you KNOW that you can succeed, and know that you know HOW to succeed, I have placed success within your reach.
 
-### The Power That Guides Your Tools
+If you know you can do a thing and know that you know how to do it, you cannot fail to do it, provided you really try. When you are in full Power-Consciousness, you will approach the task in a completely successful frame of mind.
 
-Using a musical skill leads to success in music. Using a mechanical skill leads to success in mechanics. But the "something" that actually *applies* these skills is the true cause of all success.
+Every thought will be a successful thought, and every action a successful action. If every thought and action is successful, the sum of all your actions cannot be failure.
 
-Your skills are just tools. You are the one who uses the tools. The cause of success is the part of you that makes you use the right tools, in the right way, at the right time.
+My task in these lessons, then, is to teach you how to create Power-Consciousness in yourself, so that you will know you can do what you want to do. Then I will teach you how to do it.
 
-So, what is this "something" in a person that allows them to use their skills successfully?
+Read the preceding section again. It proves by unanswerable logic that you CAN succeed. It shows that everything found in any mind is also in your mind; the only difference, if there is one, lies in development. It is a fact of nature that what is undeveloped can always be developed. The cause of success, then, is in you, and it is capable of full development.
 
-We will explain exactly what it is and how to develop it in the next section. Before you move on, read this section a few more times. You need to fix in your mind the rock-solid logic that **you can succeed**.
+Having read this, you must believe that it is possible for you to succeed. But believing that you can is not enough. You must know that you can, and your subconscious mind must know it as well as your objective, conscious mind.
 
-You absolutely can. If you think through this argument, you will become convinced of it. And becoming convinced that you can succeed is the very first requirement for achieving success.
+People like to say, "He can who thinks he can," but this is not true. It is not even true that he can who knows he can, if only the objective mind is meant. The subconscious mind will often completely override what the objective mind knows for certain.
 
-## 2
+It is true, however, that he can whose subconscious mind knows that he can. This is especially true if his objective mind has been trained to do the work. People fail because they think, objectively, that they can do things, but do not know, subconsciously, that they can.
 
-### The Real Reason People Succeed or Fail
+Your subconscious mind is very likely impressed even now with doubts about your ability to succeed. These doubts must be removed, or it will hold back its power when you need it most.
 
-Your mind's abilities are the tools you use to achieve success. When you apply these tools correctly to your work, you will get what you want.
+The subconscious mind is the source of the power behind the action of every faculty. A doubt will cause this power to be withheld, and the action will be weak. Your first step, therefore, must be to impress on your subconscious mind the fact that you CAN. This must be done by repeated suggestion.
 
-A few people succeed because they use their skills in the right way. Most people fail, even with the same skills, because they use them in the wrong way.
+Practice the following mental exercise several times a day, and especially just before going to sleep. Think quietly about the subconscious mind, which permeates your whole body the way water permeates a sponge. As you think of this mind, try to feel it. You will soon be able to become conscious of it.
 
-There is a special "something" inside every successful person that allows them to use their skills effectively. Anyone who wants to succeed must develop this quality. The question is, what is it?
+Hold this awareness, and say with deep, earnest feeling: "I CAN succeed! Everything that is possible to anyone is possible to me. I AM successful. I do succeed, for I am full of the Power of Success."
 
-### The Secret Ingredient: Power-Consciousness
+This is the simple truth. Realize that it is true, and repeat it again and again until your whole mind is saturated with the knowledge that YOU CAN DO WHAT YOU WANT TO DO.
 
-It’s hard to find one word that perfectly describes this quality.
-* We could call it **Poise**, which is a mix of peace and power. But it's more than that. Poise is a state of being, while this "something" is also an action.
-* We could call it **Faith**. But it's more than the common idea of faith, which is just believing in things you can't prove.
+You can. Other people have, and you can do more than anyone has ever done, because no one has yet used all the power that is available to be used. It is within your power to achieve greater success in your business than anyone before you.
 
-The true name for this quality is **Active Power-Consciousness**.
+Practice this autosuggestion persistently for a month, and you will begin to KNOW that you have within you something that CAN do what you want to do. Then you will be ready for the next section, which will tell you how to go about doing it.
 
-This is the feeling you get when you absolutely know you can do something, and you also know *how* to do it.
+But remember: it is absolutely essential first to impress on your subconscious mind the knowledge that you CAN.
 
-### Knowing You Can Succeed Guarantees It
+## CHAPTER 3
 
-If I can help you *know* that you can succeed, and *know* that you know how, then success will be within your reach. When you have this total confidence, it is impossible for you to fail, as long as you actually try.
+Once you have filled your mind, both conscious and subconscious, with the faith that you CAN get what you want, the next question is one of method. You know that you can do it if you go about it the right way. But which way is the right one?
 
-When you are filled with Power-Consciousness, you will approach every task with a successful mindset.
-* Every thought will be a successful thought.
-* Every action will be a successful action.
+This much is certain: to get more, you must make constructive use of what you already have. You cannot use what you do not have. Your problem, therefore, is how to make the most constructive use of what is already yours. Do not waste any time imagining how you would use certain things if you had them. Consider only how to use what you have.
 
-If every single thought and action is successful, then the final result cannot possibly be failure. My goal in these lessons is to teach you how to build this Power-Consciousness in yourself. First, you will learn to *know* you can do what you want. Then, you will learn *how* to do it.
+It is also certain that you will progress faster if you make the most perfect use of what you have. In fact, how quickly you reach what you want depends on how perfectly you use what you have. Many people are at a standstill, or find things coming their way very slowly, because they are making only partial use of their present means, powers, and opportunities.
 
-### Your Two Minds: Conscious and Subconscious
+An analogy from nature may make this point clearer. In the process of evolution, squirrels developed their leaping power to its fullest extent. Then a continuous effort to advance produced the flying squirrel. It has a membrane joining its legs that forms a kind of parachute, allowing the animal to glide some distance beyond an ordinary leap.
 
-As the last section proved, you CAN succeed. The potential for success is already inside you, waiting to be developed.
+A slight extension of the flying squirrel's parachute jump produced the bat, which has membranous wings and can truly fly. Continuous flight then produced the bird with feathered wings. Each move from one plane of life to the next was accomplished simply by perfecting and extending existing functions.
 
-But simply believing this is possible isn't enough. You must *know* it. And it’s not just your conscious, thinking mind that needs to know. Your subconscious mind must know it, too.
+If the squirrels had not kept leaping farther and farther, there would have been no flying squirrel and no power of flight. Making constructive use of the leaping power produced flight. If you are only jumping half as far as you can, you will never fly.
 
-There’s a popular saying: "He can who thinks he can." This is not true.
+In nature, we see that life advances from one plane to another by perfecting its function on the lower plane. Whenever an organism contains more life than it can express by functioning perfectly on its own plane, it begins to perform the functions of the next higher, or larger, plane.
 
-It’s not even true if you consciously *know* you can. Your subconscious mind can easily ignore or even block what your conscious mind knows to be true.
+The first squirrel that began to develop the parachute membrane must have been a truly perfect leaper. This is the fundamental principle of evolution, and of all attainment.
 
-The real truth is this: **You can succeed when your subconscious mind knows that you can.** This is especially true if your conscious mind has also been trained for the work.
+In keeping with this principle, you can advance only by more than filling your present place. You must do perfectly everything you can do now. It is the law that by doing perfectly all that you can do now, you will become able to do later the things you cannot do now.
 
-People fail because their conscious mind thinks they can do something, but their subconscious mind doesn't truly believe it. Your subconscious mind is likely filled with doubts about your ability to succeed right now. These doubts must be removed. If they remain, your subconscious will hold back its power just when you need it most.
+Doing one thing perfectly always equips us to do the next larger thing, because it is a principle built into nature that life continuously advances. Every person who does one thing perfectly is immediately presented with an opportunity to begin doing the next larger thing. This is the universal law of all life, and it never fails.
 
-Your subconscious mind is the source of power for all your actions. A single doubt can cause this power to be cut off, making your efforts weak.
+First, do perfectly all that you can do now. Keep on doing it perfectly until it becomes so easy that you have surplus power left over after doing it. With that surplus power, you will get a hold on the work of a higher plane and begin to widen your connection with your environment.
 
-### How to Build Unshakable Belief
+Get into a business that will use your strongest faculties, even if you must start at the bottom. Then develop those faculties to the utmost. Cultivate power-consciousness so that you can apply your faculties successfully. Apply them to doing perfectly everything you can do now, where you are now.
 
-Your first step is to convince your subconscious mind of one fact: **You CAN succeed.**
+Do not wait for a change of environment; it may never come. The only way to reach a better environment is to make constructive use of your present one. Only the most complete use of your present environment will place you in a more desirable one.
 
-This is done through repeated suggestion. You need to talk to your subconscious mind until it gets the message.
+If you want to expand your present business, remember that you can do it only by conducting the business you already have in the most perfect way. When you put enough life into your business to more than fill it, the surplus will bring you more business.
 
-**A Daily Mental Exercise**
+Do not reach out for more until you have life to spare after doing perfectly everything you have to do now. There is no advantage in having more work or more business than you have the life to do perfectly. If that is your situation, increase your vital power first.
 
-Practice this exercise several times a day, especially right before you go to sleep.
+And remember: it is the perfection with which you do what you have to do now that widens your field and brings you into contact with a larger environment.
 
-1.  Quietly think about your subconscious mind. Imagine it filling your entire body, like water filling a sponge.
-2.  As you think about this inner mind, try to *feel* its presence. Soon, you will become aware of it.
-3.  Hold on to that awareness and repeat the following words with deep, honest feeling:
+Keep in mind that the driving force that gets you what you want is life. What you want, in the final analysis, is only an opportunity to live more. Therefore, you can get what you want only through the operation of the universal law by which all life continuously advances into fuller expression.
 
-> “I CAN succeed. All that is possible for anyone is possible for me. I AM successful. I do succeed, for I am full of the Power of Success.”
+That law is this: whenever an organism has more life than it can express by functioning perfectly on a given plane, its surplus life lifts it to the next higher plane. When you put enough of yourself into your present work to do it perfectly, your surplus power will extend your work into a larger field.
 
-This is the simple truth. Feel how true it is. Repeat it over and over until your entire mind is soaked in the knowledge that **YOU CAN DO WHAT YOU WANT TO DO**.
+It is also essential to keep in mind what you want, so that your surplus power is turned in the right direction. Form a clear idea of what you are trying to accomplish, but do not let it interfere with doing perfectly what you have to do now.
 
-### Your First Goal: Make It a Deep Knowing
+Your idea of what you want guides your energies. It also inspires you to apply them to the utmost in your present work. Live for the future now.
 
-You can succeed. Others have done it, and you can achieve even more than anyone has before. No one has ever used all the power they are capable of using. You have the power to be more successful in your work than anyone who came before you.
+Suppose you want to own a department store, but you have only enough capital to start a peanut stand. Do not try to open a department store today on a peanut stand's capital. Instead, start the peanut stand in full faith and confidence that you will be able to develop it into a department store. Look on the peanut stand as simply the beginning of the department store, and make it grow. You can.
 
-Practice the self-suggestion exercise above every day for a month. If you are persistent, you will begin to *know* that you have what it takes to do what you want to do.
+Get more business by using constructively the business you have now. Get more friends by using constructively the friends you already have. Get a better position by using constructively the one you hold now. Get more happiness at home by using constructively the love that already exists in your home.
 
-Then you will be ready for the next section, which will teach you the steps for getting it done. But remember, it is absolutely essential that you first convince your subconscious mind that you CAN.
+## CHAPTER 4
 
-## 3
+You can get what you want only by applying your faculties to your work and your environment. You become able to apply your faculties successfully by acquiring Power-Consciousness. And you move forward by concentrating on today's work and by doing perfectly everything that can be done at the present time.
 
-### Now That You Believe, What's the Method?
+You can get what you want in the future only by concentrating all your energies on the constructive use of whatever you are connected with today. An indifferent or half-hearted use of the elements in today's environment will be fatal to tomorrow's achievement.
 
-You have filled your mind, both conscious and subconscious, with the faith that you CAN get what you want. The next question is about the method. You know you can succeed if you go about it the right way. So, what is the right way?
+Do not desire today what is beyond your ability to get today. But be sure that today you get the very best that can be had. Never accept less than the very best available at the present time, yet do not waste energy wanting what cannot be had at the present time.
 
-One thing is certain: to get more, you must make the best possible use of what you already have.
+If you always have the best that can be had, you will go on having better and better things. This is because it is a fundamental principle of the universe that life must continually advance into more life, and into the use of more and better things. This principle is what causes evolution. But if you are satisfied with less than the best that can be had, you will stop moving forward.
 
-You cannot use what you don’t have. Your challenge is to use what you have right now in the most effective way. Don't waste time thinking about what you would do if you had other things. Instead, focus entirely on how to use what is in your hands today.
+Every transaction and relationship of today, whether in business, at home, or in society, must be made a stepping-stone to what you want in the future. To accomplish this, you must put into each one more than enough life to fill it. There must be surplus power in everything you do.
 
-### Perfection Is the Key to Progress
+This surplus power is what causes advancement and gets you what you want. Where there is no surplus power, there is no advancement and no attainment.
 
-You will move forward much faster if you make the most perfect use of what you have.
+It is the surplus of life, above and beyond what your present environment requires, that causes evolution. And evolution is advancing into more life, which is the same as getting what you want.
 
-In fact, how quickly you get what you want depends entirely on how perfectly you use your current resources. Many people feel stuck or see progress come very slowly. This is because they are only partially using the power, tools, and opportunities available to them right now.
+Suppose, for example, that you are in trade or a profession and want to increase your business. When you sell goods or services, it will not do to treat the sale as a merely routine transaction. You must not simply take the customer's money, give him good value, and let him leave feeling that your only interest was to deal fairly with him and make a profit.
 
-### A Lesson from Nature: How Life Advances
+Unless he feels that you take a personal interest in him and his needs, and that you honestly want to improve his welfare, you have failed and are losing ground. When you can make every customer feel that you are truly trying to advance his interests as well as your own, your business will grow.
 
-Think about how evolution works. This will make the point clearer.
-* **Step 1: Perfecting a Skill.** The first squirrels perfected their ability to leap from branch to branch. They kept pushing to leap farther and farther.
-* **Step 2: A New Ability Emerges.** This constant effort to improve leaping led to the flying squirrel. This animal developed a thin membrane of skin between its legs, like a small parachute, allowing it to glide much farther than a normal leap.
-* **Step 3: From Gliding to Flying.** A small improvement on the flying squirrel's glide eventually led to the bat, which has wings and can truly fly.
-* **Step 4: Mastering the New Ability.** Continuous flight then led to the bird, with feathered wings for even better flight.
+You do not need to give premiums, heavier weights, or better values than others give in order to accomplish this. It is done by putting life and interest into every transaction, however small.
 
-The move from one level to the next was achieved by perfecting and expanding existing abilities. If the first squirrels hadn't kept pushing to leap farther, the flying squirrel and the power of flight would never have developed. Making the best use of their leaping power created the power of flight.
+If you want to change your occupation, make your present business a stepping-stone to the one you want. As long as you remain in your present business, fill it with life. The surplus will tend toward what you want.
 
-If you are only jumping half as far as you can, you will never learn to fly. Nature shows us that life advances to a new level only by first mastering the level it is on. When a living thing has more energy and life than it can express on its current level, it naturally starts performing the functions of the next higher level.
+Take a lively interest in every man, woman, and child you meet, whether in business or socially, and sincerely want the best for them. They will soon begin to feel that your advancement matters to them, and they will unite their thoughts for your good. This will form a battery of power in your favor and will open ways for you to advance.
 
-### How to "More Than Fill" Your Present Role
+If you are an employee and want a promotion, put life into everything you do. Put more than enough life and interest into each piece of work to fill it. But do not be servile; never be a lackey.
 
-This natural law applies to you. You can only advance by becoming bigger than your current position.
+Above all, avoid the intellectual prostitution that is the vice of our times in many trades and most professions. By this I mean being a mere hired apologist for and defender of immorality, graft, dishonesty, or vice in any form. The intellectual prostitute may rise in the service, but he is a lost soul.
 
-You must do everything you can do now, and do it perfectly. When you do today's work perfectly, you will naturally gain the ability to do bigger things tomorrow that you can't do today.
+Respect yourself, and be absolutely just to everyone. Put LIFE into every act and thought, and fix your Power-Conscious thought on the fact that you are entitled to promotion. It will come as soon as you can more than fill your present place every day.
 
-Mastering one task always gives you the tools for the next, bigger task. This is because life is designed to continuously advance. Every person who does one thing perfectly is immediately given a chance to start doing the next bigger thing. This is a universal law that never fails.
+If it does not come from your present employer, it will come from another. It is the law that whoever more than fills his present place must be advanced. Without this law there could be no evolution and no progress. But pay close attention to what follows.
 
-First, do everything you can do now with perfection. Keep doing it perfectly until it becomes so easy that you have **surplus power** left over. With this surplus power, you will be able to take on the work of a higher level and expand your opportunities.
+It is not enough simply to put surplus life into your business relations. You will not advance far if you are a good businessman or employee but a bad husband, an unjust father, or an untrustworthy friend.
 
-### A Practical Plan for Growth
+Failing in these respects will make you incapable of using your success to advance life, and so you will not come under the operation of the constructive law. Many a man who fulfills the law in business is held back because he is unkind to his wife, or falls short in some other relationship of life. To come under the operation of the evolutionary force, you must more than fill EVERY present relationship.
 
-Here is your plan:
-1.  **Choose the Right Field:** Get into a line of work that uses your strongest skills, even if you have to start at the very bottom.
-2.  **Develop Your Skills:** Work on making those skills as strong as they can possibly be.
-3.  **Build Power-Consciousness:** Cultivate that deep, inner knowledge that you CAN succeed.
-4.  **Apply Your Power Now:** Use your skills and your belief to do everything you can do today, right where you are, perfectly.
+A telegraph operator wanted to get away from the telegraph key and onto a small farm. He began moving in that direction by being "good" to his wife. He "courted" her, without any reference to his desire. She had been half indifferent, but she became interested and eager to help.
 
-### Don't Wait for a Better Environment
+Soon they had a little piece of ground at the edge of town. She raised poultry and managed a garden while he "pounded the key," sending messages at his job. Now they have a farm, and he has achieved his desire.
 
-Do not wait for your situation to change. It might never happen on its own. The only way to reach a better environment is by making the most of your current one. Only by completely using what you have now will you be placed in a more desirable situation later.
+You can win the cooperation not only of your wife but of all the people around you by putting life and interest into all your relations with them.
 
-If you want to grow your business, you can only do it by running the business you already have in the most perfect way possible. When you put enough life and energy into your business to more than fill it, that surplus energy will bring you more business. Don’t reach for more work until you have energy to spare after doing your current work perfectly.
+Put into every relationship, whether business, domestic, or social, more than enough life to fill it. Have faith, which is Power-Consciousness. Know what you want in the future, but have today the very best that can be obtained today.
 
-### Hold a Clear Vision, But Master the Present
+Never be satisfied at any time with less than the best that can be had at that time, but never waste energy wanting what cannot be had now. Use all things to advance life, both for yourself and for everyone connected with you in any way.
 
-It is essential that you have a clear picture in your mind of what you want. This goal will help direct your surplus energy in the right direction.
+Follow these principles of action and you cannot fail to get what you want. The universe is so constructed that all things must work together for your good.
 
-However, do not let your long-term goal distract you from doing today's work perfectly. Your vision for the future is a guide and an inspiration. It should motivate you to apply yourself completely to what you are doing right now.
+## CHAPTER 5
 
-Imagine you want to own a large department store, but you only have enough money to open a small food cart. Don't try to open the department store today with the cart's budget. Instead, start the food cart with the full faith that you can grow it into a department store. See the cart as the first step, and focus on making it grow.
+Wealth-culture means making constructive use of the people and things around you. The first step is to form a clear mental picture of what you want.
 
-### How to Get More of Anything
+If your present business or profession is not the one that best suits your talents and tastes, decide which one does. Then resolve to get into that business or profession and to achieve the greatest possible success in it.
 
-This principle applies to every area of your life.
-* **Get more business** by making the most of the business you have now.
-* **Get more friends** by being a great friend to the ones you already have.
-* **Get a better position** by doing the job you have now perfectly.
-* **Create more happiness at home** by building on the love that is already there.
+Get a clear idea of what you want to do. Then form a mental concept of the highest success in that business or profession, and determine that you will reach it.
 
-## 4
+Spend a great deal of time forming this concept, or mental picture. The clearer and more definite it is, the easier your work will be. A man who is not quite sure what he wants to build will put up a wobbly, shaky structure.
 
-### A Three-Part Recipe for Success
+Know what you want, and keep the picture of it in the back of your mind night and day. Let it be like a picture hanging on the wall of your room, always present in your awareness. Then begin to move toward it.
 
-Here is a summary of how to get what you want:
-1.  **Use Your Skills:** Apply your abilities to your work and your daily life.
-2.  **Build Your Confidence:** Become successful by developing **Power-Consciousness**—that deep inner knowledge that you can succeed.
-3.  **Master Your Day:** Move forward by concentrating on today's work and doing everything that can be done right now, perfectly.
+Remember that if you do not have the fully developed talent now, you can develop it as you go. You can certainly do what you want to do.
 
-### Focus All Your Energy on Today
+Quite possibly you cannot do the thing you want right now, because you are not in the right environment and do not have the necessary capital. But this does not stop you from beginning to move toward the right environment, or from beginning to build up capital. Remember that you move forward only by doing what you can in your present environment.
 
-You can only get what you want in the future by focusing all your energy on making the best possible use of everything and everyone around you *today*.
+Suppose you have only enough capital to run a newsstand, and your great desire is to own a department store. Do not imagine there is some magical method that lets you successfully run a department store on a newsstand's capital.
 
-If you give a half-hearted effort today, you will ruin your chances for success tomorrow. This is a fatal mistake.
+There is, however, a mental science method by which you can run a newsstand in such a way that it will certainly grow into a department store. Think of your newsstand as one department of the store you are going to have. Fix your mind on the department store, and begin to take in the rest of it.
 
-### Want the Best of What's Possible Now
+You will get it if you make every act and thought constructive. For every act and thought to be constructive, each one must convey the idea of increase.
 
-Your goals for today should be realistic. Don't wish for things that are beyond your ability to get right now. However, you must be sure that you get the absolute best that *is* available to you today.
+Steadily hold in mind the thought of your own advancement. Know that you are advancing toward what you want, and act and speak in that faith. Then every word and act will convey the idea of advancement and increase to others, and they will be drawn to you. Always remember that what all people are looking for is increase.
 
-Never settle for less than the very best you can have in the present moment. At the same time, don't waste energy wanting things that are currently out of reach.
+First, study the facts about the great abundance that exists until you know that there is wealth for you, and that you do not have to take it from anyone else.
 
-If you always get the best that is available, you will continue to get better and better things. This is because a fundamental principle of the universe is that life is always advancing. This is the principle that drives evolution. But if you are satisfied with less than the best you can get, you will stop moving forward.
+Avoid the competitive spirit. You can easily see that if abundance is limitless, there is enough for you without robbing anyone else.
 
-### The Secret is Surplus Power
+Next, knowing that nature intends you to have what you want, reflect on the fact that you can get it only by acting. Consider that you can act only on your present environment, so do not try to act now on the environment of the future.
 
-Every single interaction you have today—whether in business, at home, or with friends—must become a stepping stone to your future goals. To do this, you must put more than enough life and energy into each action to simply complete it. You must create a **surplus of power**.
+Then remember that in acting on your present environment, you must make every act a success in itself. In doing this, you must also hold the purpose of getting what you want.
 
-This surplus power is what pushes you forward and gets you what you want. Where there is no surplus power, there is no progress and no achievement. The extra life you put into your current situation is what triggers your evolution to the next level.
+You can hold this purpose only if you have a clear mental picture of what you want, so be sure that you have one. Remember, too, that your actions will have no real moving power unless you have unwavering faith that you will get what you want.
 
-### How to Grow Your Business
-
-Let's say you are in business and want to attract more customers.
-* **Don't** just make the sale a basic exchange of money for goods. If the customer leaves feeling you only cared about their money, you have failed and lost ground.
-* **Do** make every customer feel that you are personally interested in them and that you honestly want to help improve their life.
-
-When you can make every customer feel that you are trying to advance their interests as well as your own, your business will grow. This isn't about giving away free things or offering bigger discounts than your competitors. It's about putting genuine life and interest into every single transaction, no matter how small.
-
-### How to Change Your Career
-
-If you want to change your career, use your current job as the stepping stone. Fill your present role with so much life and energy that the surplus begins to pull you toward the work you truly want.
-
-Take a lively, sincere interest in every man, woman, and child you meet. Genuinely wish the best for them. Soon, they will start to feel that your success is important to them, too. Their combined positive thoughts will create a wave of energy in your favor, opening new doors for you.
-
-### How to Get a Promotion (The Right Way)
-
-If you are an employee and want a promotion, put life into everything you do. Put more than enough energy and interest into every task to just get it done.
-
-**A crucial warning:**
-* **Don't be a suck-up.** Never act servile or beneath yourself.
-
-Instead, respect yourself. Be completely fair to everyone. Put positive LIFE into every action and thought. Focus your Power-Consciousness on the fact that you have earned a promotion. It will come as soon as you can more than fill your current role every single day.
-
-If the promotion doesn't come from your current employer, it will come from another. It is a universal law: **whoever more than fills their present place must be advanced.** If this law didn't exist, there could be no progress or evolution.
-
-### Success Requires Balance in All Areas of Life
-
-Pay close attention to this next point. It is not enough to only put surplus life into your job.
-
-You will not get very far if you are a great employee but a bad husband, an unfair father, or an untrustworthy friend. Your failures in these other areas will make you incapable of using your professional success for true advancement. The positive law of growth will not work for you. Many people who follow this law in their business are held back because they are unkind to their spouse or fail in other relationships.
-
-To have the force of evolution work for you, you must more than fill **EVERY** one of your current relationships.
-
-### The Story of the Telegraph Operator
-
-A telegraph operator wanted to quit his job and buy a small farm. He started moving toward his goal by simply being exceptionally good and attentive to his wife. He put surplus energy and life into their relationship, with no other motive than to be a good husband.
-
-His wife, who had been somewhat indifferent, became interested and eager to help him. Soon, they bought a small piece of land on the edge of town. She raised chickens and managed a garden while he continued to work his job. Today, they have the farm he always wanted.
-
-You can gain the cooperation of your spouse and everyone around you by putting life and interest into all your relationships with them.
-
-### Your Action Plan for Getting What You Want
-
-Follow these principles, and you cannot fail, because the universe is designed to help you succeed.
-
-1.  **Give More Than You Take:** Put more than enough life and energy into every relationship—business, family, and social.
-2.  **Believe in Your Power:** Hold on to your faith and Power-Consciousness.
-3.  **Know Your Goal:** Keep a clear vision of what you want in the future.
-4.  **Win the Day:** Focus on getting the very best that is available to you *today*.
-5.  **Never Settle, Never Strain:** Never accept less than the best you can have right now, but don't waste energy desiring what is currently impossible.
-6.  **Lift Everyone Up:** Use everything in your life to advance life for yourself and for everyone you connect with.
-
-## 5
-
-### The Art of Using Your World
-
-Building wealth is the art of making the best possible use of the people and things in your current environment.
-
-### Step 1: Create a Crystal-Clear Mental Blueprint
-
-First, get a perfectly clear mental picture of what you want.
-
-If your current job or career isn't the best fit for your talents, decide on the one that is. Then, make a firm decision to get into that career and achieve the greatest possible success in it. Create a sharp mental image of what that ultimate success looks like, and commit to achieving it.
-
-Spend a lot of time forming this mental picture. The clearer and more specific your vision is, the easier your work will be. A builder who isn't sure what they want to build will create something weak and unstable.
-
-Know exactly what you want. Keep that picture in the back of your mind day and night, like a poster on your wall that you are always aware of.
-
-### Step 2: Start Moving, No Matter Where You Are
-
-Once your vision is clear, begin moving toward it.
-
-Don't worry if you don't have all the skills right now. You can develop them as you go. You can definitely do what you set out to do.
-
-It's likely that you can't achieve your ultimate goal today because you're not in the right environment or you don't have enough money. But that doesn't stop you from *beginning* to move toward the right environment and *beginning* to acquire the money you need.
-
-Remember, you only move forward by doing what you can in your present environment.
-
-### How a Newsstand Becomes a Department Store
-
-Imagine you have only enough money to run a small newsstand, but your great desire is to own a department store. There is no magic trick that will let you run a giant store on a tiny budget.
-
-However, there is a mental method you can use. You can run that newsstand so perfectly that it will certainly grow into a department store.
-* Think of your newsstand as the first department of the store you are going to own.
-* Keep your mind fixed on the vision of the full department store.
-* Begin to mentally draw the rest of the store to you.
-
-You will get it, as long as you make every single thought and action a constructive one.
-
-### The Power of Increase: How to Attract Success
-
-To make every thought and action constructive, each one must project the idea of **increase** and growth.
-
-Constantly hold the thought of advancement for yourself. Know that you are moving toward what you want. Then, act and speak with this faith. Every word you say and every action you take will communicate this feeling of progress to others, and they will be drawn to you.
-
-Always remember that all people, at their core, are seeking increase in their own lives.
-
-### Choose Abundance, Not Competition
-
-First, convince yourself that there is more than enough wealth in the world for you. You do not have to take anything away from anyone else to get what you want.
-
-Avoid a competitive spirit. When you understand that abundance is limitless, you realize there is enough for you without having to beat or rob anyone else.
-
-### The Complete Chain of Action
-
-Think through this logical chain:
-1.  **Nature's Goal:** Know that the universe wants you to have what you want.
-2.  **The Need for Action:** Realize you can only get it by acting.
-3.  **The Field of Action:** Understand you can only act in your *present* environment.
-4.  **Successful Actions:** Make every single act a success in itself by holding the firm purpose to get what you want.
-5.  **The Guiding Purpose:** You can only hold this purpose by keeping a clear mental picture of your goal.
-6.  **The Driving Power:** Your actions will only have force if you have unwavering faith that you will get what you want.
-
-### Your Four Keys to Guaranteed Progress
-
-Form a clear mental picture of what you want. Hold the purpose to get it. Do everything perfectly—not like a servant, but like a master in control of your work. Keep unbreakable faith that you will reach your goal.
-
-If you do these things, you cannot fail to move forward.
-
+Form a clear mental picture of what you want, and hold to the purpose of getting it. Do everything perfectly, not in a servile spirit, but because you are a master mind. Keep unwavering faith that you will finally reach your goal, and you cannot fail to move forward.

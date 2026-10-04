@@ -5,7 +5,7 @@
 - Public collaboration repository: `https://github.com/joelborch/modernized-classics-open-source`.
 - Contributors use forks or collaborator branches and reviewed PRs. Main requires the `test` CI check and one approving CODEOWNER review from `@joelborch`; force pushes and branch deletion are disabled.
 - The owner retains administrator bypass and may push directly to main. Other collaborators have branch write access and use PRs for main.
-- The private production repository is separate and disconnected. Work here must not perform deployments, Cloudflare operations, or changes to that repository.
+- Cloudflare Workers Builds connects this repository to the `modernized-classics-open-source` static-assets Worker. Pushes to `main` run `npm run build` and `npx wrangler deploy` to `modernizedclassicsbooks.com` and `www.modernizedclassicsbooks.com`; non-production branches upload preview versions. Treat a push to `main` as a production release: verify the exact commit and record the current production version for rollback before pushing. Keep credentials out of Git and do not modify the legacy private repository or Pages project.
 - Keep source EPUBs, generated downloads, model workspaces and credentials out of Git. See `CONTRIBUTING.md` and `docs/maintainers.md`.
 
 ## Layout

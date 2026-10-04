@@ -84,9 +84,9 @@ before submitting a change. This runs the file policy, type checks, tests, Astro
 checks, and a full site/EPUB build that must preserve the starting source tree.
 Generated EPUBs, source inputs and intermediate work are never committed.
 
-The public repository is for source and collaboration. It is disconnected from
-the private production repository and does not deploy the live site. Maintainers
-use the separate [release checklist](docs/maintainers.md).
+This public repository contains the site source and deploys the live site through
+Cloudflare Workers Builds when `main` changes. Maintainers follow the
+[release checklist](docs/maintainers.md) before pushing to `main`.
 
 ## Licenses
 

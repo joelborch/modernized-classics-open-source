@@ -2,7 +2,7 @@
 title: The Consolation of Philosophy
 author: 'Boethius, simplified'
 yearPublished: 524
-yearModernized: 2025
+yearModernized: 2026
 description: >-
   A modernized version of Boethius's seminal work, 'The Consolation of
   Philosophy,' offers profound insights into human suffering and the nature of
@@ -15,2859 +15,3004 @@ tags:
   - Religion
 coverImage: ./cover.png
 coverAlt: >-
-  Cover art for the modernized 'The Consolation of Philosophy' featuring a
-  contemplative figure in a classical setting, surrounded by symbolic elements
-  representing wisdom and resilience, with a warm, illuminating glow.
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-consolation-of-philosophy.mp3'
+  Woodcut illustration of a seated philosopher beside an open book and a sunlit
+  window
 downloads:
   epub: /downloads/consolation-of-philosophy.epub
 ---
-## Introduction
 
-### I. Getting to Know *The Consolation of Philosophy*
 
-The book *The Consolation of Philosophy* has meant different things to different people over time. A famous historian named Gibbon called it "a golden volume." He thought it was as good as books by the great thinkers Plato or Tully (also known as Cicero). However, Gibbon didn't think the philosophy in the book was very effective.
+## Book 1: The Sorrows of Boethius
+
+### SONG I. Boethius' Complaint.
+
+I, who once composed my studious verses  
+Smoothly in happier days,  
+Now am forced, in tears and sadness,  
+To learn to raise a mournful song.  
+See, the Muses, disheveled with grief,  
+Guide my pen and give voice to my sorrow;  
+Down their cheeks real tears  
+Flow along with my sad complaints!  
+These alone, in the hour of danger,  
+Proved faithful and dared to follow  
+In the footsteps of the exile  
+To his lonely journey's end.  
+They, who were the pride and pleasure  
+Of my youth and high position,  
+Still remain the only comfort  
+In the old man's mournful fate.  
+Old? Yes; swiftly, before I knew it,  
+Pressed on me by these sorrows,  
+Age has come; see, Grief has told me  
+To wear the clothing that suits her best.  
+Sprinkled on my head too early,  
+These white hairs announce my troubles,  
+And my skin hangs loose and shriveled  
+On this frame that sorrow has shrunk.  
+Blessed is the death that does not intrude  
+On the sweet, sweet years of peace,  
+But comes to the broken-hearted,  
+When they call, and brings release!  
+Yet Death passes by the wretched,  
+Shuts his ears and sleeps deeply;  
+He will not heed the cry of anguish,  
+Will not close the eyes that weep.  
+For while fickle Fortune still  
+Poured out her gifts and all was bright,  
+Death's dark hour almost overwhelmed me  
+In the gloom of endless night.  
+Now, because misfortune's shadow  
+Has clouded over that false face,  
+Cruel Life still stalls and lingers,  
+Though I hate his weary course.  
+Friends, why did you once so lightly  
+Boast that I was happy among men?  
+Surely one who has fallen like this  
+Was never standing firmly then.
+
+### I.
 
-People in the Middle Ages felt differently. They loved *The Consolation of Philosophy*. Many people translated it, wrote explanations about it, and even copied its style.
-Here are some examples of its translation:
-* King Alfred translated it into Old English for his people to learn from and enjoy.
-* Chaucer and John the Chaplain translated it into Middle English.
-* Notker Labeo and Peter von Kastl put it into medieval German.
-* Simun de Fraisne, Jean de Meung, and others translated it into Old French.
-* There were also versions in Greek, Middle Dutch, Old Provencal, Italian, and Spanish.
+While I was silently thinking these things over and recording my sorrowful complaints with my pen, a woman seemed to appear above my head. Her face commanded deep reverence. Her eyes were bright as fire and more than humanly keen. Her complexion was fresh, and her strength showed no sign of weakening. Yet she was clearly very old, and she plainly did not seem to belong to our age and time.
 
-Later, Queen Elizabeth I of England also translated the book. It's said she did it very quickly, in about twenty-four to twenty-seven hours! People still translate *The Consolation of Philosophy* today, though it usually takes them much longer.
+Her height was hard to judge. At one moment she was no taller than an ordinary person; at another her forehead seemed to strike the sky. Whenever she raised her head higher, she began to reach into the heavens themselves, where the eyes of those looking at her could no longer follow.
 
-Boethius, the author of the book, is a figure who connects two important periods in history: the Classical world (ancient Greece and Rome) and the Medieval world (the Middle Ages). Richard Morris, a writer, said that no philosopher was more essential to writers in the Middle Ages than Boethius. Morris pointed out that if you read works from that time, you’ll find Boethius’s ideas and even his exact words. The full story of Boethius's wide-ranging influence has been explored by others.
+Her clothes were made of an imperishable fabric, woven from the finest threads with the most delicate workmanship. As she later told me herself, she had woven them with her own hands. Age and neglect had somewhat dulled the beauty of this garment, giving it the grimy look that marble takes on when it is left exposed to the weather.
 
-Why was *The Consolation of Philosophy* so popular? It was likely because Boethius wrote it differently from a typical, formal philosophy book. He wrote it while he was in prison. In that difficult situation, he wasn't focused on tiny details or complicated arguments. Instead, he wanted to find comfort through broad, general thinking about philosophy. Looking back, we can see him as a "divine popularizer"—someone who made complex ideas understandable for many people. It's unlikely Boethius thought of himself this way.
+On the lowest edge was woven the Greek letter Π (P), and on the topmost edge the letter θ (Th). Between the two, steps could be seen, like a staircase leading from the lower letter to the upper one. This robe had also been torn by violent people, each of whom had snatched away whatever piece he could grab.
 
-This accessible quality of the book was important for two main reasons.
-First, Boethius was also a skilled poet. This, combined with the book's readability, made *The Consolation of Philosophy* appeal to other poets.
-* In Britain, it inspired the author of *The Kingis Quair* to think about the "wheel of Fortune" and write a notable short poem.
-* Almost all the long philosophical thoughts in Chaucer's writings can be traced back to Boethius.
-* In Italy, the famous poet Dante placed Boethius in a special place in heaven (in his work *Paradiso*). Dante praised Boethius as a joyful person who exposed the world's pretenses to anyone who paid attention to his clear words.
+In her right hand she held a notebook, and in her left a staff. When she saw the Muses of Poetry standing by my bed, dictating the words of my lament, she grew angry for a moment, and her eyes flashed sternly.
 
-Dante said that Boethius's words, along with Cicero's book *De Amicitia* (On Friendship), gave him the most comfort after the death of his beloved Beatrice. Dante’s *Paradiso* actually ends with a line that echoes Boethius: "the love that moves the sun and other stars." In fact, Dante's entire masterpiece, *The Divine Comedy*, can be seen as a grand development of Boethius’s ideas. These ideas include the soul’s journey to understand God and its return to its true home, or *patria*, within the universe.
+'Who,' she said, 'has let these theatrical temptresses come near this sick man? Far from giving him medicine to cure his illness, they feed it with sweet poison. They are the ones who kill the rich harvest of reason with the barren thorns of passion. They accustom people's minds to their disease instead of setting them free.
 
-Second, the wide range of topics and the gentle style of *The Consolation of Philosophy* made it "the book of most serene and kindly wisdom that the Middle Ages knew." W. P. Ker, in his clear and brief writing about Boethius, said this book "saved the thought of the Middle Ages."
-Ker explained what made it so special:
-* It was far better than ordinary writings about death and life’s struggles.
-* It revived traditions from Plato and even older, simpler Greek philosophy. This was important because clear thinking was becoming rare due to the complexities of medieval thought.
-* The book offered a lifeline to anyone who felt overwhelmed by the complicated arguments of academic thinkers.
-* *The Consolation of Philosophy* provided a viewpoint from which less important issues faded away, allowing the true nature of the world to become clear.
-* Ker believed Boethius, more than any other philosopher, helped the great thinkers of the Middle Ages (known as the Schoolmen) maintain a broad, overall view of the world, even when they were busy with very specific and detailed research.
+'If it were some ordinary man you were seducing with your charms, as you usually do, I would be less indignant. In such a man, none of my own work would have been undone. But this man was raised on the philosophies of the Eleatics and the Academy. No, go away, you Sirens, whose sweetness does not last! Leave him for my own Muses to care for and heal!'
+
+At these reproaches, the whole group grew sadder still. With lowered eyes and blushes that confessed their shame, they left the room in sorrow.
+
+My sight was dimmed from so much weeping, and I could not tell who this woman of such commanding authority was. I was stunned. Keeping my eyes fixed on the ground, I waited silently to see what she would do next.
+
+Then she came closer and sat on the edge of my bed. Looking into my face, heavy with grief and turned sadly toward the ground, she lamented the disorder of my mind in these words:
+
+### SONG II. His Despondency.
+
+Alas! Into what an abyss his mind  
+Has plunged, how wildly tossed!  
+Still, still toward the outer darkness  
+It sinks, its true light lost,  
+As often as, lashed into turmoil  
+By earthly winds, the waves of care rise high.
+
+Yet once he roamed the open heavens,  
+Traced the sun's bright pathway;  
+Watched how the cold moon waxed and waned;  
+And did not rest until there was missing  
+From his wide knowledge no star that steers  
+Amid the maze of circling spheres.
 
-### II. Boethius’ Life and Writings
+The causes why the blustering winds  
+Disturb the ocean's calm face,  
+Whose hand turns the stable globe,  
+Or why, in his steady race,  
+Out of the ruddy east the sun  
+Runs down into the western waves:
 
-Anicius Manlius Severinus Boethius was born around 480 AD. He belonged to an ancient and noble Roman family called the Anicia. This family had become Christian in the fourth century, which was quite early for a well-established, traditional family. After converting, the Anicia family grew very powerful and wealthy. Among Boethius’s ancestors and relatives were many consuls (high-ranking government officials), two emperors, and even a pope. Boethius's own father had a respected career in public service. He became a consul in 487 AD, serving under King Odoacer, but he died when Boethius was still a boy.
+What it is that skillfully moderates  
+The calm hours of spring,  
+So that it blossoms with the rose  
+To garland the earth;  
+Who loads the year's riper season  
+With clustered grapes in autumn:
 
-After his father's death, Boethius was raised in the home of another noble family. This was the family of Quintus Aurelius Memmius Symmachus. Symmachus was a very famous man. He had been a consul in 485 AD and later became the Prefect (governor) of Rome and the Head of the Senate. It was Symmachus who introduced the young Boethius to literature and philosophy. Boethius later married Symmachus’s daughter, Rusticiana. In *The Consolation of Philosophy*, Boethius speaks of Symmachus and Rusticiana with great respect and admiration.
+All this he knew, and always strove  
+To fathom Nature's deep secrets.  
+Now, robbed of reason's light, he lies here,  
+With chains weighing on his neck;  
+And, forced down by the heavy load,  
+His eyes are chained to this dull earth.
 
-According to Ennodius, a relative of Boethius, Boethius was a child prodigy—he was exceptionally gifted from a very young age. He showed an unusual love for studying early on. He received an excellent education, possibly in Athens, though the location isn't certain. As a young man, Boethius mastered all the **liberal arts**. These were the key subjects of higher education at the time, including rhetoric (the art of effective speaking), logic (the study of reasoning), and astronomy.
+### II.
 
-Both Ennodius and Cassiodorus (another relative of Boethius who was a high official for King Theodoric the Ostrogoth) talked about Boethius's skills. They mentioned his eloquence (his ability to speak persuasively), his perfect writing style, and his complete command of the Greek language. Being fluent in Greek was becoming increasingly rare at the end of the fifth century.
+'But this is a time for healing,' she said, 'rather than for lamenting.' Then, fixing her eyes directly on me, she cried: 'Are you the man who was once fed on my milk and raised on the nourishment that only I can give, until you grew to the full strength of a mature spirit? I had given you armor that would have been an unbeatable defense, if you had not thrown it away first.
 
-At a young age, Boethius caught the attention of Theodoric, the great Ostrogothic king. (Theodoric had defeated and killed the previous ruler, Odoacer, in 493 AD.) We don’t know exactly how Boethius came to Theodoric’s notice. Theodoric praised Boethius highly and gave him several tasks:
-* He asked Boethius to build a water clock and a sundial for Gundobad, king of the Burgundians.
-* He also asked Boethius to choose a skilled lyre player (a musician) for Clovis, king of the Franks.
-Boethius was also asked to investigate a case where the official in charge of paying the king's guards was accused of devaluing the currency. In 510 AD, when Boethius was thirty years old, he was made a consul, serving alone without a colleague. This was traditionally the most honored of all Roman government positions, an honor most men never achieved at any age. However, during Theodoric's rule, the position of consul was largely symbolic and had little real power.
+'Do you know me? Why are you silent? Has shame or astonishment struck you dumb? I wish it were shame. But I can see that a stupor has taken hold of you.'
 
-Later, though the exact year isn't known, Theodoric appointed Boethius as **magister officiorum**. This was a very important position with many serious responsibilities. Boethius became the head of the entire government administration and the chief of all palace officials. Then, in 522 AD, an event occurred that Boethius, even later when he was in prison, considered the happiest moment of his life: his two sons were appointed as consuls together. This was a unique honor for their father, Boethius. It showed that he was highly respected by both King Theodoric in Italy and the Emperor in Constantinople (the capital of the Eastern Roman Empire).
+When she saw that I not only gave no answer but was mute and completely unable to speak, she gently laid her hand on my chest and said: 'There is no danger. These are the symptoms of lethargy, the common sickness of deceived minds. He has forgotten himself for a while.
 
-The years right after Boethius’s own consulship are not well documented. However, it’s likely during this period that he deeply pursued the studies he had started in Symmachus's home. His later duties as **magister officiorum** would have made extensive study difficult. That job would have required him to be away from Rome for long periods, attending Theodoric’s court in cities like Verona or Ravenna. This would have separated him from his library and left him little time for his passionate interest in philosophy, which he called his "chief solace in life."
+'He will easily recover his memory, if only he first recognizes me. So that he can, let me now wipe his eyes, which are clouded by a mist of mortal things.' With that, she used a fold of her robe to dry my eyes, which were swimming with tears.
 
-Boethius’s true calling was not in high-profile public life, but in the study and careful examination of all areas of philosophy. He pursued this passion with incredible focus and a methodical, steady approach. This dedication is amazing, though perhaps less surprising when we remember he was a child prodigy. This scholarly pursuit shows us the real Boethius: a calm, almost unhurried scholar working on his self-chosen task. He wasn't trying to escape from a feeling that the once-great Roman government positions had become insignificant. Instead, he had a deliberate plan as a dedicated student: to give his fellow Romans the solid foundation they needed for a truly scholarly study of philosophy. As one writer, Campenhausen, put it, "Boethius saw himself as the schoolmaster of the West."
+### SONG III. The Mists dispelled.
 
-Boethius himself described his ambitious goal:
-"I wish to translate all of Aristotle’s work that I can access into the Roman way of speaking (Latin). I want to carefully offer all his writings in the Latin language. I will translate everything Aristotle ever wrote on the difficult art of logic, on the important field of moral experience, and on the precise understanding of natural things. I will translate them in the correct order. Furthermore, I will make all of this understandable by adding explanations. I would also like to translate all of Plato’s Dialogues, explain them too, and present them in a Latin version. Once this is done, I will also try to prove that Aristotle’s and Plato’s ideas are in harmony in every way. I want to show they do not completely contradict each other, as many people believe. I will demonstrate that they agree on the most philosophically important points. This is the task I will dedicate myself to, as long as I have life and the time to work. I know this task will be as useful as it is difficult, and it will need the help of powers that are never envious or jealous."
+Then the darkness of night was scattered,  
+And sight returned to my eyes.  
+So, when the rainy northwest wind, Caurus,  
+Rolls the storm clouds through the skies,  
+The sun is hidden; all the heavens  
+Are darkened in starless night.  
+But if Boreas, the north wind, sweeping in with a wild charge,  
+Frees the imprisoned light of day,  
+Suddenly the radiant god streams out  
+And strikes our dazzled eyes with his beams.
 
-Boethius did not manage to complete this huge plan. However, he did finish translating some important works:
-* Porphyry’s *Introduction to the Categories of Aristotle*. This was meant to be an introductory text for students.
-* Aristotle’s writings on logic. These included *De Interpretatione*, *Topics*, *Prior Analytics*, *Posterior Analytics*, and *Sophistical Fallacies*.
-It is also clear that Boethius knew other works by Aristotle, such as *Metaphysics*, *Physics*, *De Generatione et Corruptione*, *De Anima*, and *Poetics*.
-Additionally, Boethius wrote commentaries (detailed explanations) on:
-* Porphyry’s *Introduction*.
-* Probably all the works of Aristotle that he translated.
-* Cicero’s *Topics*.
-But his philosophical work wasn't just about passing on older knowledge. He also wrote five original books of his own on logic.
+### III.
 
-The historical importance of all this work was enormous. It was primarily through Boethius’s translations of Aristotle's logic that knowledge of Aristotle survived in Western Europe during the early Middle Ages. Through his careful, literal translations of philosophical terms, Boethius created a new philosophical vocabulary for the medieval scholars (often called the Schoolmen). His commentaries also provided them with a model for how to write their own explanations of Aristotle. The great medieval debate between Nominalists and Realists (two opposing philosophical views about the nature of reality) actually began with a passage in Boethius’s commentary on Porphyry.
-A phrase often used to describe Boethius is: "The last of the Romans; the first of the scholastics." This sums up his crucial role. He was the channel through whom ancient philosophy, precisely organized and systematized by him, passed to the academic discussions of the later period known as Scholasticism.
+In the same way, the clouds of my melancholy broke apart. I saw the clear sky and regained the ability to recognize my physician's face. So when I lifted my eyes and fixed my gaze on her, I saw my nurse, Philosophy, whose halls I had frequented since my youth.
 
-The liberal arts (subjects like grammar, rhetoric, logic, arithmetic, geometry, music, and astronomy) were also valuable to Boethius, just as they were to St. Augustine. He saw them as a necessary preparation for studying philosophy. Consequently, he wrote books – or rather, translated existing books – on arithmetic, geometry, and possibly on astronomy and mechanics. These works were important in the development of education in the Middle Ages. For instance, his book on music was used as a textbook at Oxford University until the eighteenth century. Boethius also gave us the term **quadrivium**. This referred to a "fourfold way" – the four subjects of arithmetic, geometry, astronomy, and music – which he believed were essential for anyone wanting to reach the highest level of understanding in philosophy.
+'Ah!' I cried. 'Mistress of all excellence, why have you come down from on high into the solitude of my exile? Is it so that you, too, like me, may be persecuted with false accusations?'
 
-Boethius is also credited with writing five small works, or tractates, on theology (the study of God and religious belief). The authenticity of at least four of these is certain. Their teachings are completely orthodox (they align with mainstream Christian doctrine). These tractates are important because they show a philosopher, primarily interested in logic, trying to use the methods of philosophy to support religious truths that are believed to be revealed by God and exist independently. By applying logical methods and Aristotle’s terminology to theological problems, Boethius again stands out as a forerunner of the Scholastic thinkers who came later.
+'Could I abandon you, my child,' she said, 'and not lighten the burden you have taken on because people hate my name, by sharing this trouble with you? Even setting aside that it would be wrong for Philosophy to leave the path of the innocent without company, do you think I would fear being criticized? Would I shrink from it as though something strange and new had happened?
 
-All of this intellectual activity forms the background to Boethius’s last and most famous work, the one for which he is best remembered: *The Consolation of Philosophy*. Yet, this great book is surrounded by many questions:
-* Under what circumstances did he write it?
-* Why did Boethius, who was King Theodoric’s trusted right-hand man, fall from power so suddenly and dramatically?
-* Was Boethius a Christian? If he was, why does *The Consolation of Philosophy* make no mention of the Christian faith, which should have been his greatest comfort while he was imprisoned and awaiting death?
+'Do you think this is the first time, in an evil age, that Wisdom has been put in danger? Long ago, before my servant Plato lived, did I not often fight hard battles against the recklessness of folly? And in Plato's own lifetime, his teacher Socrates, with my help, won the victory of an unjust death.
 
-Only one of these questions can be answered with certainty. Scholars are confident that Boethius was indeed a Christian. This is because he almost certainly wrote the *Theological Tractates* (his religious works), and it would have been impossible for an open non-Christian (a pagan) to achieve such high public office in the early sixth century. So, the fact of his Christianity is not really in doubt. However, the *quality* or nature of his Christian faith is still something people disagree about.
-While the full historical details of his downfall are lost to time, we can create a reasonable hypothesis (a likely explanation) based on Boethius’s own words and testimonies from that period.
+'Afterward, one after another, the Epicurean herd, the Stoics, and the rest each did all they could to seize the inheritance Socrates left. They dragged me off as their plunder while I protested and resisted. They tore apart the garment I had woven with my own hands, and, clutching the torn scraps, went away believing that all of me had become theirs.
 
-To understand Boethius's situation, we need some historical context. Since the beginning of the fourth century, the Roman Empire had an Eastern capital in Constantinople, in addition to Rome in the West. Since the end of that century, the Empire had been governed by two emperors, one in the West and one in the East. In 476 AD, a Germanic leader named Odoacer removed the last Western Roman Emperor. Odoacer then sent the imperial insignia (the symbols of the emperor's power) to Constantinople. In the view of these Germanic peoples, only a Roman could rightfully be emperor (wear "the purple," a symbol of imperial rank). Odoacer seemed content to keep the Roman administrative system running in Rome and to recognize Zeno, the Eastern Emperor, as the sole emperor. In return for this, Odoacer was given the title of "Patricius," a high-ranking noble status.
+'Some of them, because traces of my clothing could be seen on them, were destroyed through the error of the ignorant crowd, who wrongly believed them to be my disciples.
 
-This established a loose working arrangement (a *modus vivendi*) between the Germanic rulers in Italy and the Emperor in Constantinople. In practice, Odoacer ruled Italy as an independent king. But in theory, and especially in the eyes of the Romans, he was seen as a kind of Viceroy—a representative of the Emperor in Constantinople, ruling a part of a single, unified Empire. This system was continued by Theodoric, king of the Ostrogoths, when he took power from Odoacer in 493 AD. Theodoric even wrote to Anastasius, the Emperor in Constantinople, saying: "Our royalty is an imitation of yours, a copy of the only Empire on earth."
+'You may not know about the banishment of Anaxagoras, the poison Socrates drank, or the torture of Zeno, since these things happened in a distant country. But you could have learned the fate of Arrius, of Seneca, and of Soranus, whose stories are neither old nor obscure.
 
-Theodoric was a great military leader of a Germanic people, but he had also been educated in the sophisticated circles of the imperial court at Constantinople. This background gave him the qualities needed to establish firm and peaceful rule in Italy. He managed to act as both king of the Goths and Viceroy of the emperor. He successfully established a peaceful coexistence between the Roman population and the Goths. The government administration was carried out by the existing Roman civil service, but it was directed by Theodoric’s strong and energetic leadership. He was able to attract highly capable Romans to his service, such as Liberius, Cassiodorus, and Boethius himself. Under Theodoric's rule, industry thrived, peace was maintained, and buildings and aqueducts were restored and rebuilt. The success of Theodoric’s rule in Italy was also reflected in his growing prestige and influence in other countries.
+'These men were destroyed for no other reason than this: grounded as they were in my principles, their lives stood in obvious contrast to the ways of the wicked.
 
-In religious matters, Theodoric was a Christian. However, he was an **Arian**. Like most Goths, he belonged to a branch of Christianity that was considered heretical (holding incorrect beliefs) by the main Church. Arians believed that God the Father and God the Son were not of "one substance" or essence. This disagreement had deeply divided the Church. Yet, Theodoric had no difficulty ruling in Rome, the city of the Pope and the center of orthodox (mainstream) Christianity. He firmly supported complete freedom of worship for all groups—except for pagans (followers of the old Roman religions). He also maintained friendly relations with the orthodox clergy. On one occasion, he was even invited to mediate a dispute over a papal election. For the time being, the underlying tensions and potential for future suspicion and hostility remained hidden.
+'So you should not be surprised if we are tossed by storms on the sea of this life, since our chief aim has been to refuse to go along with wrongdoers. The army of the wicked may be large, but it deserves contempt. It has no leadership and is driven this way and that by the blind force of mad error.
 
-Boethius’s decision to serve as Theodoric’s minister, as we have seen, involved a great deal of personal sacrifice. Like his father-in-law Symmachus, Boethius would have preferred a life of quiet study among his books. (Symmachus himself was a scholar, fluent in Greek, a historian, and a brilliant speaker. Although he had served the Germanic rulers, he maintained a certain aloofness and reserve towards them.) Boethius chose to enter politics not out of a desire for fame, but from a strong sense of duty. We learn from his own writings that he was inspired by Plato’s ideal of a state governed by philosophers. He also used the lessons of philosophy as his guide in carrying out his official duties.
+'And if at times they line up against us and attack in overwhelming strength, our leader withdraws her forces into the citadel while they are busy looting the worthless baggage. From our high ground, safe from all this frenzy, we laugh to see them seizing the most worthless things as prizes. We are protected by a fortress that aggressive folly can never hope to reach.'
 
-Given Boethius's strong moral principles and his unselfish honesty, it was inevitable that he would make enemies in the world of politics, which was often filled with hostility, suspicion, deceit, intrigue, and self-promotion. At first, Boethius was successful in opposing the greed and injustice of some Goths, and he had King Theodoric’s support in these efforts. But these favorable circumstances were about to change.
+### SONG IV. Nothing can subdue Virtue.
 
-In 484 AD, a major doctrinal split had occurred between the Eastern Church (centered in Constantinople) and the Western Church (centered in Rome). This was known as the **Acacian Schism**, named after Acacius, the Patriarch of Constantinople, who was condemned by the Pope. This hostility between the Pope and the Italian clergy on one side, and Constantinople on the other, was not entirely unwelcome to King Theodoric. It indirectly strengthened his independence from the Eastern Empire. However, for those who deeply valued the unity of the Roman Empire, the split was a terrible development. This group seems to have included the circle around Symmachus, to which Boethius and many senators belonged. They consistently looked towards the East and valued those connections. Although Boethius himself appears to have stayed out of the direct arguments of these church controversies, it is quite possible that his theological writings (his *Theological Tractates*) were intended as a modest contribution towards resolving the dispute. The Acacian Schism was, in fact, officially healed in 519 AD, though the underlying disagreements did not end immediately.
+Whoever, calm, serene, composed,  
+Sets his foot on haughty fate;  
+Firm and steadfast, come what may,  
+Keeps his bearing still unconquered:  
+Him the rage of furious seas,  
+Tossing high their wild threats,  
+Nor the flames from smoky forges  
+That Vesuvius spews out,  
+Nor the lightning bolt that from the sky  
+Strikes the tower, can terrify.  
+Why, then, should you feel afraid  
+Of a tyrant's feeble power?  
+Do not dread him, fear no harm,  
+And you will disarm his rage;  
+But whoever gives way to hope or fear,  
+Having lost control of his own heart,  
+Has thrown away his shield,  
+Fled the field like a coward;  
+He has forged, all unaware,  
+Chains his own neck must bear!
 
-Boethius supported the Eastern Empire. The special honor given to him in 522 AD might have first been suggested by the Emperor in Constantinople. This may have happened because a female relative of Boethius who lived in Constantinople asked the Emperor.
+### IV.
 
-The end of the religious split (the Acacian Schism) had political results too. The Senate in Rome had been directly involved in discussions. More importantly, the improving relationship between the Western and Eastern parts of the Empire threatened King Theodoric’s power. In the eyes of many Romans, their true leader was once again the orthodox Emperor in Constantinople. This made Theodoric, who ruled Italy, seem like an outside invader and a heretic (someone with unacceptable religious beliefs).
+"Do you understand?" she asks. "Are my words sinking into your mind? Or are you as dull to them 'as a donkey to the sound of the lyre'? Why are you weeping? Why are tears streaming from your eyes?
 
-This mix of circumstances inevitably led to Boethius's downfall. He was a man of strong principles, not a typical politician. His loyalty was clearly with the Roman Empire and its culture. He did not support the pro-Gothic group associated with a man named Cyprian. The royal court was a dangerous place full of corruption. Boethius's enemies saw their chance. They fueled King Theodoric’s suspicions, which were already growing. The king was also very angry because Arians (the Christian group Theodoric belonged to) were facing new persecution in the East.
+"'Speak out; do not hide it in your heart.'
 
-Letters being sent to Constantinople were seized. In these letters, a senator named Albinus had apparently written something unwise. This might have been related to the recent election of Pope John I, who favored closer ties with the Eastern Empire. When Boethius tried to dismiss the seriousness of these letters, evidence was brought forward to connect him to the matter. Boethius claimed this evidence was false, but we don’t know if it was true or not. An additional charge of sorcery was made against him, which seemed like a rather desperate move by his accusers. People likely asked: Wasn't Boethius the same man who had worked against certain Goths like Conigast and Triguilla? Hadn't he himself written against the Arian beliefs?
+"If you want the physician's help, you must show him your wound."
 
-Soon after, Boethius was arrested, found guilty, and sent away into exile to await his execution. The Senate, intimidated by an aging, disillusioned, and suspicious King Theodoric, confirmed the sentence. After being cruelly tortured, Boethius was beaten to death at Pavia, the place of his exile, in the year 524 or 525 AD.
+Then I gathered what strength I could and began. "Is there still any need to tell you? Isn't the cruelty of Fortune toward me obvious enough? Doesn't the very appearance of this place move you?
 
-The complete truth about his case will likely never be known. Boethius may have believed that his loyalty to the idea of the Roman Empire was consistent with his service to the Gothic king, Theodoric. However, from the perspective of the Gothic rulers, his loyalty could understandably have been seen as treason. In any case, Theodoric’s revenge continued even after Boethius’s death. It extended to include Boethius's respected father-in-law, Symmachus, and Pope John I as well. By the time Theodoric died in 526 AD—old and bitter—his entire policy of peaceful coexistence between Romans and Goths lay in ruins. Along with it, the Roman aristocracy, the proud and ancient offices of the Roman state, and the study of philosophy itself virtually disappeared from Italy. Philosophy was only rediscovered much later, during the Carolingian Renaissance in the ninth century, after attacks by Justinian (the Eastern Emperor) and the invasion of the Lombards.
+"Is this the library, the room you chose as your regular retreat in my home? Is this where we so often sat together and discussed everything in heaven and on earth? Did I look and dress like this when I explored nature's hidden secrets with you? Back then you traced the paths of the stars for me with your rod. All the while, you shaped my character and my whole way of life on the pattern of the heavenly order. Is this the reward for my obedience?
 
-On December 15, 1883, the Sacred Congregation of Rites in Rome, together with the Bishop of Pavia, approved the local worship of St. Severinus Boethius. This practice of honoring Boethius as a saint is at least as old as the ninth century. However, it did not become popular until the thirteenth century. At that time, the famous poet Dante knew that Boethius was buried in the church of San Pietro in Cielo d’Oro in Pavia. Thinkers like Peter Abelard and others in the Middle Ages may have been right to honor Boethius, along with Symmachus and Pope John, as orthodox Christian martyrs who died because of Arianism. However, the modern view tends to see this as too simple an explanation.
+"Yet you yourself, speaking through Plato, laid down the principle that 'states would be happy if either philosophers ruled them, or their rulers happened to become philosophers.' Through Plato you also gave the pressing reason why philosophers must enter public life. If the reins of government are left to unprincipled and corrupt citizens, trouble and ruin will fall upon the good.
 
-### The Consolation of Philosophy
+"Following this teaching, I tried to apply in public administration the principles I had learned from you in quiet, leisured seclusion. You are my witness, along with the divinity who planted you in the hearts of the wise, that I brought nothing to my duties except devotion to the public good.
 
-#### Writing in Prison
-There was a period of delay between Boethius’s condemnation and his execution. During this time, he was imprisoned in Pavia. We don’t know the exact conditions of his imprisonment. However, he had enough freedom to think deeply and write *The Consolation of Philosophy*. Some scholars have thought he must have had access to his books while writing. But the book contains many casual references, memories, and quotations. These are not just from philosophers, but also from great literary figures like Catullus, Claudian, Euripides, Homer, Juvenal, Lucan, Menander, Ovid, Seneca (especially his Tragedies), Sophocles, Statius, and Virgil. For a man who spent his youth eagerly reading, and in an age when people’s memories were generally sharper and better at retaining information than ours, recalling these extensive quotes is not so surprising.
+"That is why I became caught up in bitter feuds that could never be reconciled. And as inevitably happens when a man keeps his conscience independent, I had to accept giving offense to the powerful for the sake of justice.
 
-Therefore, unless there is strong evidence to prove otherwise, we must believe Boethius. He wrote in prison, alone, knowing he would eventually be executed. He had no help except for the power of his own memory and genius.
+"How often did I confront Conigastus and block his attacks on the fortunes of the weak? How often did I thwart Trigguilla, the steward of the king's household, even when his wicked schemes were all but accomplished? How often did I risk my position and influence to protect poor wretches from the countless false charges with which the greed and lawlessness of the barbarians constantly harassed them? No one ever drew me away from justice toward oppression.
 
-#### Literary Style and Influences
-In its form, *The Consolation of Philosophy* belongs to an ancient type of writing called a **consolatio**. This was a kind of philosophical writing, part of a broader category called "diatribe," popular in pagan Greece and Rome. All schools of philosophy used this form. By the time of the Roman philosopher Seneca, the art of writing *consolationes* had become, as one scholar J. Martha described it, "a kind of moral medication." One only needed to find the section corresponding to the particular problem to find the best advice for a cure.
-This background explains several features in Boethius's book:
-* The extended metaphor of philosophy as a doctor and Boethius as a patient.
-* Philosophy’s diagnosis of the true nature of Boethius’s "sickness" in Book I.
-* The examination of the nature of Fortune (luck or fate).
-* The use of historical examples to teach lessons.
-* The popular, broad-based philosophy offering common comforts, which is a foundation for much of Book II. This includes a memorable prose passage showing how unimportant and limited earthly fame and glory really are, similar to Cicero's arguments in *The Dream of Scipio*.
+"When the provincials were being ruined by the combined pressure of private plunder and public taxation, I grieved no less than those who suffered. In a time of severe scarcity, a forced sale of grain was proclaimed. It was as disastrous as it was unjustifiable, and it threatened to starve Campania.
 
-But *The Consolation of Philosophy* skillfully combines more than one literary style.
-* Part of it is like a monologue (one person speaking their thoughts).
-* Part of it imitates the question-and-answer method (dialectic) found in Plato’s dialogues.
-* The entire work is structured as a specific type of dialogue known as a **sacred dialogue**. In this form, the author describes how a divine spirit or power, initially unknown, appears and reveals some hidden wisdom. An example of this can be found in the Apocrypha, in the second book of Esdras.
+"For the public's sake I took up the fight against the praetorian prefect. I argued the case before the king's judgment seat, and I succeeded in stopping the sale from being enforced.
 
-The combination of a divine revelation dialogue with **Menippean Satire** already existed before Boethius. Menippean Satire is a literary form, originally Greek and later adopted by Latin writers, which mixes sections of prose with sections of verse (poetry). The most famous earlier example was Martianus Capella’s unusual work, *The Marriage of Philology and Mercury*. Knowing this book might not have helped Boethius much with the content, but it might have inspired his choice of literary form. Boethius then took this form to a much higher level of artistry than ever before.
+"I rescued Paulinus, a former consul, from the gaping jaws of the palace bloodhounds, who in their greedy expectations had already as good as devoured his wealth. Albinus, a man of the same high rank, faced penalties on a charge decided before it was heard. To save him, I exposed myself to the hatred of Cyprian the informer.
 
-#### The Role of Poetry
-So, in *The Consolation of Philosophy*, there is a skillful blend of different literary forms. A similar, or even greater, level of literary skill is shown in the thirty-nine poems that are woven into the prose, enlivening the discussion.
-These poems are an essential part of the work, and they serve various purposes:
-* They offer relief from the intense philosophical arguments, especially when the "patient" (Boethius) is still spiritually weak.
-* As Boethius grows stronger and the arguments become more complex, the poems appear less often. It's not by chance that *The Consolation* begins with a poem and ends with prose.
-* Sometimes the poems summarize or even advance the philosophical discussion.
-* Sometimes their role is like that of the chorus in a Greek tragedy. They offer wise, general comments and provide a sense of distance and perspective on the intense, personal journey of the dialogue.
+"Do you think I had piled up enough enemies for myself? Well, at least among the rest of my fellow citizens my safety should have been secure, since my love of justice had left me no hope of security at court. Yet who brought the charges that struck me down? One of my accusers is Basil. He had been dismissed from the king's household, and his debts drove him to inform against me.
 
-Opinions about the artistic quality of these poems have varied. A writer in the ninth century thought Boethius was as good as Cicero in his prose and as good as Virgil in his poetry. The great scholar Scaliger considered the poetry divine. On the other hand, Hermann Usener felt the poems sounded like the work of a less mature writer compared to the prose. W. P. Ker thought "the verse of *The Consolation* is that of a prosodist – somewhat too deliberate in the choice and combination of metres, not always quite successful, it may be thought."
-While some poems are clever but not extraordinary, quite a few reach greater heights.
-* The poem in Book I, section 5 was already set to music by the ninth century.
-* Book II, section 7 contains the famous reference to the bones of Fabricius (a Roman hero known for his integrity).
-* Books III and IV include several good poems, such as the fine retelling of the story of Orpheus and Eurydice.
-* Everyone is likely to be moved by the majestic and masterful poetry of the ninth poem in Book III. This poem was very famous in the Middle Ages and even had special commentaries written about it by scholars like Bruno of Corvey and Adalbold of Utrecht.
+"Then there are Opilio and Gaudentius. For many different offenses the king had sentenced them to banishment. They refused to obey and tried to save themselves by taking sanctuary. As soon as the king heard of it, he decreed that if they did not leave the city of Ravenna by a set deadline, they would be branded on the forehead and driven out. What could exceed the harshness of that sentence?
 
-In his prose style too, Boethius is much better than many writers of his time. His writing is simpler and more restrained, unlike the typically elaborate and wordy prose of that era.
+"And yet on that same day these very men lodged information against me, and their information was accepted. Just Heaven! Had my way of life earned me this? Did the fact that my condemnation was already decided make them fit accusers? Has Fortune no shame? If she is not ashamed that an innocent man is accused, is she not at least ashamed at how vile the accusers are?
 
-#### Philosophical Foundations
-In one of his commentaries on the philosopher Porphyry, Boethius wrote:
-"This love of wisdom (or philosophy) is the illumination of the intelligent mind by that pure wisdom. Pure wisdom is defined as the self-sufficient living mind and the sole original reason for all things. Philosophy is a kind of return and recall to this pure wisdom. So, it seems that philosophy is at once the pursuit of wisdom, the pursuit of divinity, and the friendship of that pure mind. This wisdom gives to all minds the reward of its own divinity and returns them to their proper state and natural purity."
+"Perhaps you wonder what the charges against me amount to. They say I wished to save the senate. But how? I am accused of preventing an informer from producing evidence that would prove the senate guilty of treason.
 
-This idea forms the philosophical basis of *The Consolation of Philosophy*. In the book, the character of Philosophy comes down to Boethius from above (Book I, section 3) and leads him back to God through various paths. The changing height of Philosophy in Book I, section 1 is symbolic:
-* Sometimes she is of average height, offering the practical philosophy found in Book II.
-* Sometimes she seems to pierce the sky, leading Boethius back to God, from Whom she came.
+"So tell me, my mistress, what do you advise? Shall I deny the charge, so as not to bring shame on you? But I did wish it, and I will never stop wishing it. Shall I admit it? Then my work of blocking the informer will be at an end.
 
-#### Platonic Themes
-The overall plan of the book is undoubtedly **Platonic** (influenced by the ancient Greek philosopher Plato).
-The idea of turning one's gaze from what is false to what is true (Book III, section 1) and realizing that God is the supreme good (Book III, section 10) is based on the soul's ascent in Plato’s famous allegory of the Cave. This allegory is found in the seventh book of Plato’s *Republic*. The ascent, or education, of the soul is compared to a man climbing out of a dark cave. He has been chained there since childhood, only able to see shadows on the wall. When he is freed, he is brought step by step into the light. Eventually, he is able to see the sun itself, which represents the Idea of the Good.
+"Shall I call the wish to preserve that illustrious body a crime? Indeed, the senate itself has made it one by its decrees against me! But blind folly, though it may deceive itself with false names, cannot change the true worth of things. Remembering Socrates' rule, I do not think it right either to hide the truth or to let a falsehood stand.
 
-But the soul's ascent is not just a process of education; it is also one of remembering. The Platonic basis of *The Consolation* is also seen in its reference to the doctrine of **anamnesis**, or recollection. This is discussed in the second poem of Book III. Here, we find a Neoplatonic combination of ideas that Plato himself did not formally link: the ascent of the soul is connected with the doctrine of recollection. Both are seen in terms of the soul turning inward upon itself and being illuminated by its own inner light.
+"However that may be, I leave it to your judgment and to the verdict of those with discernment. And so that the course of events and the real facts will not be hidden from future generations, I have written down an account of the whole affair myself.
 
-The idea of recollection underlies all of Book III. Early on, in chapter 6 of Book I, Philosophy diagnoses Boethius's condition as being due to the loss of memory of his true nature. His mind dreams of true happiness (Book III, section 1), but like other people, his memory is clouded (Book III, section 2). This is because there is a natural attraction of the soul to the Good, but it often gets diverted and frustrated along false paths. However, when Boethius is brought to the point where he is ready to turn away from falsehood and towards truth, the recollection and ascent he prays for in the ninth poem of Book III seem almost to be achieved. This happens through the poetic inspiration and anticipation in the magnificent closing lines of that poem. By the end of Book III, the prose has caught up with the poetry again, and Philosophy has shown the true nature of God. However, there is a hint in the Orpheus allegory that Boethius might still fall back into error.
+"What need is there to mention the forged letters meant to prove that I hoped for Rome's freedom? Their falseness would have been obvious if I had been allowed to use the informers' own confession, the kind of evidence that carries the most weight in every matter. And really, what hope of freedom is left to us? I wish there were some!
 
-#### Theodicy: Justifying God's Ways
-*The Consolation of Philosophy* was written in prison. As the scholar E. K. Rand observed, literature written in prison often takes the form of a **theodicy**. A theodicy is an attempt to "assert eternal Providence, And Justify the ways of God to men," as the poet John Milton wrote. We could compare it, for example, to Sir Thomas More’s *Dialogue of Comfort against Tribulation*, which was also written in prison while under the threat of execution.
-So, Boethius’s bitter experiences led him to reconsider the nature of happiness. The method he uses is Platonic dialectic—a way of reasoning through dialogue by asking and answering questions. He carefully imitates the language and conventions of this style, though the main substance of his argument might be drawn from a different source, perhaps from St. Augustine.
+"If there were, I would have answered with the retort of Canius. When Caligula declared that Canius had known about a conspiracy against him, Canius replied: 'If I had known, you would never have known.'
 
-To the modern reader, this use of dialectic will probably seem the least successful part of *The Consolation*. This is because it tends to treat words as if they had fixed, unchanging values, like symbols in algebra or logic. For this reason, the argument at the end of Book III that "evil is nothing" might not convince many today. This argument is based on the reasoning that "God who can do all things cannot do evil," and therefore "what God cannot do is nothing." The further conclusion that evil men are powerless will also likely fail to persuade. However, this argument contains the seeds for further discussion in Book IV.
+"Grief has not dulled my perception so much that I complain because wicked men plot crimes against the virtuous. What amazes me is that they achieve what they hope for. Evil intentions may perhaps come from the imperfection of human nature. But that scoundrels can carry out their worst schemes against the innocent while God looks on is truly monstrous.
 
-#### Providence, Fate, and Free Will
-Book IV is what the scholar Campenhausen calls "a detailed theodicy developed in the Platonic spirit."
-The first part of Book IV discusses:
-* The strength of good people and the weakness of bad people.
-* Their rewards and punishments.
-* It includes the idea that criminals should be treated like sick people who need healing. This section is based on Plato’s dialogue, *Gorgias*.
+"Not without reason, then, one of your followers asked: 'If God exists, where does evil come from? Yet where does good come from, if He does not exist?'
 
-The second part of Book IV responds to Boethius’s doubts about how God controls the universe. Here, Philosophy starts a fresh line of argument. Chapter 6 marks a shift:
-* It's the end of the Socratic dialogue style and decorative language.
-* It's the end of Boethius’s main reliance on Plato.
-* It's an advance to a higher level of argument.
+"Still, it may well be that wretches who seek the blood of all honest men and of the whole senate should also want to destroy me. They saw me as a bulwark defending the senate and all honest men. But did I deserve such a fate from the senators too?
 
-This higher argument explains two aspects of history:
-1.  **Providence**: God's simple, unchanging plan in His own mind.
-2.  **Fate**: The ever-changing distribution of all the events God has planned, spread out over time.
+"You remember, I think, since you always stood beside me to direct what I should do or say. You remember what happened at Verona. The king, eager for a general destruction, was determined to implicate the entire senatorial order in the treason charge against Albinus. With no concern for my own danger, I defended the innocence of its members, every one of them.
 
-Boethius seems to have combined two ideas here:
-* The idea of a changeable Fate that governs and revolves all things. He likely read about this in a treatise called *On Providence and Fate* by Proclus, a Neoplatonist philosopher from the fifth century.
-* The idea of God as the "still point of the turning world." This concept, already hinted at near the end of Book III, chapter 12, Boethius found in the philosophy of Plotinus.
+"You know that what I say is true, and that I have never boasted of my good deeds out of self-praise. Whenever a man advertises his good deeds and is repaid with fame, he reduces to some degree the secret reward of a good conscience.
 
-The combination of these two ideas is perfect. According to both Proclus and Plotinus, the more the soul frees itself from physical things, the more it frees itself from Fate. As the soul does this, it gets closer to the stability and simplicity of the place of rest at the center. According to Plotinus, this center is God, the hinge upon which everything turns, or Providence. For Boethius, this is the source of freedom and consolation. This is a brilliant example of what H. R. Patch calls Boethius’s "inspired eclecticism"—his skill in blending material from various sources to create a new and harmonious whole.
+"You see what has become of my innocence. Instead of reaping the rewards of true virtue, I suffer the penalties of a guilt falsely charged against me. And worse than that: even an open confession of guilt has never made the judges so unanimously harsh. In such cases, some thought of mere human frailty, or of Fortune's universal instability, has always softened the verdict of at least a few.
 
-The poem that follows this discussion celebrates in verse the truth that has just been explained: God’s loving government of the universe. The question of why evil exists in the world finds its solution in the vision of divine peace.
-This theme of God's governance appears in several poems that deal with how the universe is structured, offering a generally Platonic answer:
-* First, in Book I, poem 5, Boethius praises God’s rule over the universe. But he asks why this rule doesn't seem to apply to human affairs and why people are subject to the whims of Fortune. He ends with a prayer that seems to echo the line "Thy will be done in earth as in heaven" from the Lord’s Prayer.
-* Then, in the last poem of Book II, Philosophy sings about the power of love in the natural world. This love preserves peace and keeps chaos away. She directly answers Boethius by saying that God’s government *does* include human affairs: love creates peace between nations, blesses marriage, and strengthens friendship. But she also implies that humans can rebel against this love and separate themselves from the proper order of things. This is how Boethius lost his way—through a misguided love. But there is a hint of a promise that through true love, he will be brought back to his real home.
-* Book III, poem 9 continues the theme of God’s government and control of the universe. This theme then receives its fullest treatment in Book IV, poem 6. This poem begins, like the first two in this group, with a description of the eternal peace of the heavens, brought about by love. Echoing Book III, poem 9 and Plato’s *Timaeus*, Philosophy moves on to discuss the harmony of the elements, the seasons, and the cycles of birth and death, which include humanity. She connects human affairs with the cosmic power of love. This leads her to describe the author of this love (God), who stabilizes the universe through a triple movement described by Neoplatonists: movement away from God, turning back, and returning to Him.
+"If I had been accused of planning to burn the temples, of slaughtering the priests with an impious sword, or of plotting the massacre of all honest men, I would still have been brought into court. I would have been punished only after confessing or being convicted.
 
-In Boethius’s emphasis on peace and love, some commentators have seen a shift away from purely philosophical expression. They see it as something closer to the writings of Christian authors like Pseudo-Dionysius and St. Augustine. One scholar noted, "These poems have a temper and colouring that harmonises with the Christianity of their author." Whether this is true, or if it's just a philosophical expression of an idea going back to the ancient Greek philosopher Empedocles’ concept of Love, these poems were certainly influential in later times. They contain the seeds of thought found in Dante (for example, Beatrice’s speech at the end of *Paradiso* I). They are also the source of Chaucer’s noble philosophy of love in his work *Troilus and Criseyde*.
+"Instead, for my excessive zeal on behalf of the senate, I have been condemned to outlawry and death, unheard and undefended, nearly five hundred miles away. Oh, my judges, you well deserve that no one should ever again be convicted of a fault like mine!
 
-The final poem of Book IV is a hymn of encouragement. The heroes Agamemnon, Odysseus, and Hercules are celebrated as examples of great achievement. They serve as incentives for the final stage in the ascent to divinity.
-The discussion of Fate and Providence leads directly into Book V. In the first chapter, Philosophy answers Boethius’s inquiry by stating that the chain of causes rules all things, and she denies the existence of pure chance. The doctrine of Fate and Providence, and of secondary causes, comes from Plato. But here, Philosophy uses an Aristotelian development of this idea—analyzing contingency (things that might or might not happen) into absolute and incidental causes—and she uses an Aristotelian example.
+"Even my accusers saw how honorable the charge against me was. To cover it with some appearance of guilt, they falsely claimed that in pursuit of my ambition I had stained my conscience with sacrilegious acts. But your spirit, living within me, had driven every craving for earthly success out of my soul. With your eye always on me, there was no room left for sacrilege.
 
-In the second chapter, freedom is asserted based on the Platonic tradition: the more one shares in the divine, the more freedom one achieves. But the assertion that the choices of an individual soul are already known to Providence raises another difficulty for Boethius. This is the apparent incompatibility between divine foreknowledge (God knowing what will happen) and freedom of the will.
+"Every day you repeated in my ear and planted in my mind the Pythagorean maxim, 'Follow God.' It was hardly likely, then, that I would seek the help of the vilest spirits while you were shaping me toward an excellence that would make me like God.
 
-It's hard to accept that God's plan, or **Providence**, could be flawed or change based on events in time. Yet, if God truly knows the future (has foreknowledge), this seems to make all future events and actions completely unavoidable. If everything is unavoidable, then it seems strange or unfair for God to reward or punish people for their actions.
+"Besides, the purity of my private household protects me from even the suspicion of sacrilege. So do my friends of the highest integrity, and my father-in-law, who is revered both for his blameless character and for his active generosity.
 
-Boethius didn't find much comfort in St. Augustine’s answer to this problem. Augustine suggested that human free will depends on God’s will. Boethius also wasn't satisfied by believing in predestination—the idea that God has already decided everything that will happen. So, Boethius pushed the argument further. He wanted to find a way to justify a belief in human freedom that was strong enough to make people morally responsible for their choices.
+"Yet, outrageous as it is, they even draw support for this charge from *you*. I am likely to be thought involved in wickedness for this very reason: that I am steeped in *your* teachings and established in *your* ways. So it is not enough that my devotion to you has gained me nothing. You too must be attacked because of the hatred I have brought upon myself.
 
-His solution comes from combining two main ideas:
-1.  First, the quality of knowledge depends on the ability of the knower to know, not on the ability of the object to be known.
-2.  Second, he compared God’s ability to know with human ability to know.
+"This is truly the crowning misfortune. Most people judge not by real merit but by outcomes. They recognize foresight only where Fortune has rewarded the result with her approval. As a result, reputation is the first thing to abandon the unfortunate.
 
-This leads to Boethius’s classic definition of **eternity**, found at the beginning of the very last chapter of his book. The ultimate source for this idea, once again, is Plato’s dialogue *Timaeus*, where Plato discusses time as a moving image of eternity. Boethius likely encountered this idea through the writings of the later philosopher Proclus. However, Boethius expressed this concept with such clarity and conciseness that his definition—like several others he created—was accepted as authoritative by St. Thomas Aquinas and other medieval scholars.
+"I remember with bitterness how perverse public opinion is, how varied and conflicting people's judgments are. I will say only this: the most crushing burden of misfortune is that once a charge is pinned on the unhappy, everyone believes they deserved their suffering. As for me, I have been banished from all of life's blessings, stripped of my honors, and stained in reputation. I am being punished for doing good.
 
-Boethius explains eternity not as a long quantity of life, but as a special quality of life:
-* God is eternal because He possesses everlasting life completely, all at once (simultaneously), and perfectly. For God, there is no past or future, only a timeless present.
-* The world, on the other hand, is merely **perpetual**. It experiences an endless series of moments, where each moment is lost as soon as it is gained.
-In trying to explain this, Boethius is pushing the limits of what language can express.
+"And now I think I see the vile dens of the wicked surging with joy and celebration. The most reckless and unscrupulous are threatening a fresh crop of lying accusations. The good lie flattened with terror at my danger. Every thug is spurred to new daring because he goes unpunished, and to success by the profits his boldness brings.
 
-This definition of eternity, along with his theory of knowledge and Aristotle’s theory of two kinds of necessity (simple and conditional), forms the core of Boethius’s explanation of how God’s perfect knowledge and human free will can coexist.
-Boethius uses an analogy: God is like a spectator at a chariot race.
-* The spectator watches the actions the charioteers perform.
-* But the spectator's watching does not *cause* those actions.
-Similarly, God’s vision of events is eternal, meaning He sees all things simultaneously—past, present, and future—in one timeless moment, without causing them. This allows God to have knowledge of events that, from the human perspective in time, seem uncertain.
+"The innocent are robbed not only of their peace of mind but of every means of defense. That is why I long to cry out:
 
-Of course, this solution answers a particular kind of objection from Boethius's time. He cannot be blamed for not addressing difficulties that might be raised today. Few thinkers have struggled more honestly with the problems of good and evil, fate, and free will. If Boethius’s answers are not entirely satisfying, Philosophy’s own words in the book may remind us that "it is not allowed to man to comprehend in thought all the ways of the divine work." This is the traditional Christian attitude, going back to St. Paul, regarding mysterious aspects of its doctrine that seem beyond human explanation. By firmly insisting on both human freedom and God’s complete knowledge (omniscience), Boethius maintains a position that is perfectly in line with Christian belief.
+### SONG V. Boethius' Prayer.
 
-With a touch of deliberate artistry, the book leaves us at the end with Philosophy’s final encouragement. We are left on a high plane of thought, with our gaze directed upwards, forgetting the prison walls.
+"Builder of that starry dome,  
+You who, throned forever, whirl  
+Heaven's swift globe, and as they roam  
+Guide the stars by laws on high:  
+So, in full-orbed splendor dressed,  
+Cynthia, the Moon, dims the lamps of night,  
+But drawn closer to her brother Sun,  
+Loses all her light.
 
-### IV. The Christianity of Boethius
+"The star that, as the evening falls,  
+Shows its cold radiance as Hesper,  
+As Lucifer then hides its beams,  
+Paling as the sunlight grows.  
+Brief, while winter's frost holds sway,  
+By your will, is the span of day;  
+Swift, when summer's heat is glowing,  
+The hours of night speed away.
 
-And so we come back to a question raised earlier: What was the true nature of Boethius’s Christianity?
-It would not be hard to show that, despite his reliance on ideas borrowed from Stoicism, Plato, Aristotle, and Neoplatonism, there is little in *The Consolation of Philosophy* that openly contradicts basic Christian teachings.
-The few elements that might conflict are:
-* The doctrine of **anamnesis** (recollection), which implies that the soul existed before birth.
-* The idea of the world’s perpetuity (that the world has always existed and will always exist), found in the poem based on Plato's *Timaeus*. This implicitly denies the Christian doctrine of **creation ex nihilo** (creation out of nothing).
-However, these points are not fundamentally significant within *The Consolation*.
+"You rule the changing year:  
+When rough Boreas bears down,  
+The leaves fall; they reappear,  
+Coaxed back by Zephyr's soft caress.  
+Fields that Sirius scorches, thick with grain,  
+Were sown while Arcturus kept watch:  
+Each thing acknowledges the reign of law,  
+And keeps the place that is its own.
 
-Indeed, there are important differences between Boethius’s thought and the Neoplatonism that influenced him so much. For example, the God of Plotinus (a key Neoplatonist) was absolutely transcendent and impossible to describe. From this supreme being, the variety of finite things in the world "emanated" or flowed out through a hierarchy of powers like Mind, World-Soul, and Nature. Plotinus’s Neoplatonic successors actually increased the number of these intermediary beings between God and physical objects. They did this to emphasize the remoteness of the supreme Godhead. One critic described their system as an "amazing metaphysical museum, with all the entities and super-entities neatly labelled and arranged on their proper shelves."
+"Sovereign Ruler, Lord of all!  
+Can it be that You scorn  
+Only man? Against him, poor slave,  
+Wanton Fortune plays her emptiest games.  
+The punishment that guilt deserves  
+Falls upon the innocent;  
+Raised on high, the most profane  
+Vent their malice on the just.
 
-All of this, however, is quite different from Boethius’s view.
-* He speaks not of a remote supreme essence, but of **God**.
-* He does not fill the gap between God and His world with a complicated series of "graded abstractions" or intermediary beings.
-Boethius’s God is a personal God—a God to whom one can and should pray, as he reminds us in the final words of *The Consolation*.
+"Virtue cowers in dark hiding places,  
+The righteous bear the foul stain of crime,  
+Perjury and false deceit  
+Do no harm to the one who dares the wrong;  
+But whenever the wicked trust  
+In evil strength to work their will,  
+Kings whom nations hold in awe  
+As mighty grovel in the dust.
 
-It is tempting, therefore, to argue that *The Consolation of Philosophy* doesn't mention Christ, Christianity, or the Bible explicitly because Boethius was writing a *philosophical* comfort, not a *theological* one. The writer C. S. Lewis suggested Boethius might say: "Did you not read my title? I wrote philosophically, not religiously, because I had chosen the consolations of philosophy, not those of religion, as my subject. You might as well ask why a book on arithmetic does not use geometrical methods."
+"Look, oh look upon this earth,  
+You who on law's sure foundation  
+Framed all things! Have we no worth,  
+We poor men, of all creation?  
+Hard we toss on Fortune's tide;  
+Master, bid the waves subside!  
+And bring earth's ways to the completion  
+Of Your heaven's order, and guide them!"
 
-It is true that an author would be expected to distinguish between different fields of study and avoid mixing their methods. For instance, Boethius praises Philosophy (the character in his book) for presenting her arguments from "within the bounds of the matter we have been discussing," not from outside sources. This seems to commend her for sticking to philosophical methods and not bringing in anything from religious revelation. Here, as in Boethius’s other works, we seem to find a clear distinction between faith and reason.
+### V.
 
-Nevertheless, it seems strange that Boethius, writing while facing death, still prefers reason to faith. It is puzzling that he makes no mention of what should be the most meaningful consolation for a Christian: the Incarnation of Christ (God becoming human) and the doctrine of grace (God’s free help). For St. Augustine, since humans could achieve nothing good on their own, their absolute dependence on God’s grace was, at the same time, their true freedom and happiness.
-But Boethius's doctrine of salvation—the ascent of the unaided individual to the knowledge of God through philosophical self-reflection and meditation—is essentially pagan in its inspiration. This is true despite the closeness between Neoplatonic philosophy and the Christianity of Boethius's time (post-Augustinian Christianity). This is the reason why Sir Thomas More, in his *Dialogue of Comfort*, rejected the ancient philosophers. It is also interesting that even in the Middle Ages, when Boethius was accepted as a saint, commentators and scholars like Bruno of Corvey and John of Salisbury noticed the absence of Christian doctrine from *The Consolation*.
+When I had poured out my griefs in this long, unbroken lament, she remained calm. My complaints did not disturb her in the least, and she spoke to me as follows:
 
-It is hard to avoid the conclusion that Boethius practiced a kind of "neutralized Christianity" (or *christianisme neutralisé*). As one scholar put it: "Boethius needs neither word nor Spirit nor mercy, neither church nor fellow-Christians in order to be what he is. It is therefore no accident but entirely appropriate that his last confession does not speak about Christ." He lived in an age when ancient classical culture had been blended with Christianity, but not completely absorbed by it. The schools, for example, were still largely pagan in their curriculum. And Boethius had not undergone the kind of profound inner religious conversion experienced by figures like Sidonius or Ennodius. The ancient learning still held a strong, undiminished grip on him.
+'When I saw you sorrowful and in tears, I knew at once that you were miserable and an exile. But I would not have known how far your exile had taken you if your own words had not revealed it.
 
-It may be, however, that the question of Boethius’s Christianity has not been framed correctly. If more were known about the intellectual atmosphere of Roman society at that time, the problem might appear in a different light.
+'Yet how far you are from your homeland! You have not been banished. You have wandered away. Or, if you insist on calling it banishment, then you have banished yourself. No one else could ever have lawfully held such power over you.
 
-The scholar David Knowles suggests that the explanation may lie in a changed attitude towards philosophy since the later Middle Ages.
-Knowles proposes that:
-* Between the time of St. Augustine (early 5th century) and Siger of Brabant (13th century), serious thinkers universally believed there was a single, true, rational explanation of humanity, the universe, and an all-powerful, provident God. This philosophical truth was considered as valid in its own way as the revealed truths of Christianity.
-* It was believed that the great thinkers of ancient times, even if they were pagan, had reached and expressed this truth in their philosophy. If one could faithfully reproduce their teaching, philosophy could provide true and sufficient answers to the problems of human life and destiny.
-* With these philosophical answers, a thinking person could face the world and all its disasters.
-* Behind these rational arguments, in the unseen realm of the soul, an individual could still personally encounter the love and grace of Christ.
+'Remember the country you come from. It is not ruled, as Athens once was, by the sovereignty of the crowd. Instead, "one is its Ruler, one its King." This Ruler delights in the number of His citizens, not in sending them into exile. To submit to His government and to obey His laws is perfect freedom.
 
-## Book I
+'Do you not know the most ancient law of your country? It decrees that no one who has chosen to make his home there may ever be sent into exile. There is no danger that anyone sheltered within its walls and defenses should deserve exile. But whoever stops wishing to live there also stops deserving to live there.
 
-### I. A Grieving Man's Song
+'So it is not so much the appearance of this place that troubles me as your appearance. What I miss is not your library, with its walls adorned with glass and ivory, but the chamber of your mind. There I once placed, not books, but what gives books their value: the teachings my books contain.
 
-Boethius speaks:
-I used to write songs with joy and passion.
-Now, sorrow drives me into a state of weeping.
-Look, the Muses, their faces streaked with tears, tell me what to write.
-They make my own face wet with sad poems.
-At least no fear could stop them
-From accompanying me on my path.
-They were the light of my happy youth,
-And they still comfort me in my unfortunate old age.
-Old age came too quickly, sped up by suffering.
-Then grief began its rule over me.
-My hair has turned white too soon.
-I am just a worn-out bag of bones, loosely covered with flesh.
-Death would be a blessing if it spared the happy
-And instead listened to the pleas of the miserable.
-But now, Death is deaf to hopeless cries.
-His hands refuse to close poor, weeping eyes.
-When false Fortune smiled on me with success,
-Not even an hour of sadness could have brought me down.
-But now her untrustworthy face has darkened.
-The days that lengthen my life are not welcome.
-Those friends who called me happy then were foolish.
-For a man's fall shows he was never truly secure.
+'What you have said about your services to the public good is true, though it falls short of how much you actually deserve. The charges brought against you, which you mentioned, are publicly known, whether they are to your credit or simply false.
 
-### The Vision of Philosophy
+'As for the crimes and deceptions of the informers, you were right to pass over them lightly. Public opinion has already judged them better and more fully than you could.
 
-While I was quietly thinking about these things and expressing my sorrow with my pen, I suddenly realized a woman was standing over me. She had an awe-inspiring appearance. Her eyes were burning and sharper than usual human eyes. She seemed so ancient that I could hardly think of her as being from my own time, yet she had a vibrant color and seemed full of energy. It was hard to be sure of her height. Sometimes she seemed of average human size. At other times, she seemed to touch the very sky with the top of her head. And when she lifted herself even higher, she pierced the sky and disappeared from human sight.
+'You complained bitterly about the injustice of the Senate. You grieved that I myself have been slandered, and you lamented the damage to my good name. Finally, your anger blazed out against Fortune, and you complained that your merits had been unfairly rewarded. Last of all, your frantic Muse composed a prayer that the peace that rules in heaven might rule the earth as well.
 
-Her clothes were made of a material that would never wear out. They were woven from the finest thread with the most delicate skill. (She later told me she had made them with her own hands.) However, their beauty was dimmed by a kind of film, as if from long neglect, like statues covered in dust. On the bottom hem of her dress, the Greek letter **Pi (Π)** was embroidered. On the top hem, the Greek letter **Theta (Θ)** was embroidered. Between these two letters, a series of steps like a ladder rose from the lower letter to the higher one. Her dress had been torn by the hands of violent people, who had each carried off whatever pieces they could grab. She held some books in her right hand and a scepter in her left.
+'But a crowd of turbulent passions has assailed your soul. You are torn apart by anger, pain, and grief. In this present mood, strong remedies are not right for you.
 
-When she saw the Muses of Poetry at my bedside, helping me find words for my tears, she became angry.
-"Who," she demanded, her piercing eyes flashing, "has allowed these hysterical women to approach this sick man’s bedside? They have no medicine to ease his pains, only sweetened poisons that will make them worse. These are the very ones who destroy the rich and fruitful harvest of Reason with the useless thorns of Passion. They make men used to their sickness of mind instead of curing them. If you were, as usual, seducing some ordinary man, it would matter little to me – my work would not be harmed. But this man has been nourished by the philosophies of Zeno and Plato! Sirens is a better name for you and your deadly charms. Go away, and leave him for my own Muses to heal and cure."
+'So for a while I will use gentler methods. The swellings that have hardened under this flood of disturbing passion must first be softened by mild treatment, until they can bear the force of sharper cures.'
 
-These sharp words made the Muses blush with shame. With their eyes cast down, they left in a sad group. My own tears had partly blinded me, so I couldn't make out who this woman with such commanding authority was. Overcome with surprise, I could only stare at the ground and wait silently for what she would do next. She came closer and sat down on the edge of my bed. I felt her eyes looking at my face, which was lowered and marked by grief. Then, sadly, she began to recite the following lines about my confused state of mind.
+### SONG VI. All Things have their Needful Order.
 
-### II. Philosophy's Song of a Lost Mind
+Whoever trusts the stubborn furrows  
+With his generous grain  
+When the Crab with deadly fever  
+Scorches all the plain,  
+Will find his granary stripped bare,  
+With acorns for his meager fare.
 
-Philosophy speaks:
-"This is how the mind sinks into deep despair,
-And its vision grows dim.
-When life’s storms increase the weight of earthly worries,
-The mind forgets its own inner light
-And turns to trust the darkness outside.
+Do not go to gather violets  
+From the purple hillside steep  
+While the furious winds of winter  
+Through the valleys sweep;  
+Nor rush the grapes too soon to bring  
+To the winepress in the spring.
 
-This was the man who once was free
-To explore the heavens with devoted passion,
-To study the red sun,
-And the cold beauty of the moon.
-He was an astronomer who once took joy
-In understanding and connecting
-With the planets on their wandering paths.
+For to each thing God has given  
+Its appointed time;  
+He permits no confusing changes  
+In His plan sublime.  
+So whoever breaks the order set  
+Will meet an outcome to regret.
 
-This man, this very man, searched for the source
-Of storms that roar and stir up the seas.
-He sought the spirit that turns the world,
-The reason why the sun moves
-From the shining East to the watery West.
-He sought the reason why spring hours
-Are mild and filled with flowers,
-And who enriched ripe autumn
-With plentiful grapes at the peak of the year.
+### VI.
 
-Now look: that mind which searched
-And made all Nature’s hidden secrets clear
-Lies helpless, a prisoner of darkness.
-His neck is bent low, forced into shackles,
-And he is compelled by the weight
-To look only at the lowly dust."
+'First, then, will you let me ask you a few questions to test the state of your mind? Then I will know how to go about curing you.'
 
-### Philosophy Begins to Heal
+'Ask whatever you like,' I said. 'I will answer any question you choose to put to me.'
 
-"But this is a time for healing, not for more sorrow," she continued. Then, fixing her eyes intently on me, she said, "You are the man, are you not, who was raised on the milk of my learning? You were fed my own food until you reached full maturity. I gave you weapons to protect you and keep your strength whole, but you threw them away. Surely you recognize me? And yet you do not speak. Is it shame or amazement that keeps you silent? I would prefer it to be shame, but I see that it is not."
+Then she said: 'This world of ours—do you think it is governed by random chance, or do you believe there is some rational guidance in it?'
 
-When she saw that I was not refusing to speak, but was so dumbstruck that I *could not* speak, she gently laid her hand on my chest. "It is nothing serious," she said. "He is only suffering from a touch of amnesia, the common illness of confused minds. He has forgotten for a while who he is, but he will soon remember once he has recognized me. To make it easier for him, I will wipe a little of the blinding cloud of worldly concerns from his eyes."
-As she spoke, she gathered her dress into a fold and wiped the tears from my eyes.
+'I could never think,' I said, 'that motions so regular could be determined by random chance. I know that God the Creator presides over His work. The day will never come that drives me from holding firmly to the truth of this belief.'
 
-### III. Clarity Returns
+'Yes,' she said. 'You even affirmed it in your song just now, when you lamented that human beings alone had no share in God's care. You did not doubt that everything else was ruled by reason. Yet I am deeply puzzled how you could have fallen ill while holding so firmly to this belief.
 
-Boethius speaks:
-The night was driven away, the darkness fled,
-And my eyes regained their former strength.
-It was like when the wild west wind gathers
-Black clouds, and a stormy darkness fills the sky:
-The sun hides before the stars are due to shine,
-And night covers all the earth.
-But if the North wind rushes out from its Thracian cave,
-Lashes the darkness, and frees the imprisoned day,
-The sun suddenly shines out, filled with light,
-And dazzles the blinking eye with its rays.
+'But let us probe more deeply. Something is missing, I think. Now tell me: since you do not doubt that God governs the world, do you see by what means He rules it?'
 
-### Boethius Recognizes His Teacher
+'I hardly understand what you mean,' I said, 'let alone how to answer your question.'
 
-In the same way, the clouds of my grief scattered, and I took in the light. With my thoughts gathered, I turned to look at the face of my physician. I fixed my gaze upon her, and I saw that it was my nurse, Philosophy, in whose house I had been cared for since my youth.
-I asked her, "Why have you come down from the heights of heaven to my lonely place of exile? Is it to suffer false accusations along with me?"
+'Was I not right to say that something was missing? Through that gap, as through a breach in a city's walls, disease has crept in to disturb your mind. But tell me, do you remember the universal goal toward which all of nature is directed?'
 
-"My child," she replied, "why should I abandon you? Why should I not share your work and the burden you carry because people hate my name? Should I be frightened of being accused? Or should I cower in fear as if this were something new? This is hardly the first time wisdom has been threatened with danger by evil forces. In ancient times too, even before my servant Plato, I fought many great battles against the reckless forces of foolishness. And then, in Plato’s own lifetime, his master Socrates was unjustly put to death—a victorious death he won with me by his side. After that, groups of Epicureans, Stoics, and others each tried their best to seize the inheritance of wisdom that Socrates left behind. As part of their looting, they tried to carry me off. But I fought and struggled, and in the fight, the robe which I had woven with my own hands was torn. They ripped off little pieces from it and went away, foolishly believing they had obtained all of philosophy. The sight of scraps of my clothing on them made ignorant people think they were my close followers. As a result, many of them became corrupted by the ignorance of the uninformed crowd."
+'I once heard it,' I said, 'but grief has dulled my memory.'
 
-"But even if you do not know the stories of foreign philosophers—how Anaxagoras was banished from Athens, how Socrates was put to death by poisoning, and how Zeno was tortured—you do know of Romans like Canius, Seneca, and Soranus. Their memory is still fresh and celebrated. The only reason for their tragic suffering was their obvious and complete contempt for the pursuits of immoral men, a contempt my teaching had instilled in them. So, it’s hardly surprising if we are driven by the blasts of storms when our main goal in this sea of life is to displease wicked men. And though there are many of them, we can afford to despise them. They have no one to lead them and are carried along only by ignorance, which distracts them randomly, first one way and then another. When their forces attack us in greater numbers, our general wisely withdraws our forces to a strong position. They are left to weigh themselves down with useless stolen goods. Safe from their furious activity, high on our ramparts, we can smile at their efforts to collect the most useless treasures. Our citadel cannot fall to the assaults of folly."
+'And yet you know where all things came from.'
 
-### IV. A Song of Inner Strength
+'Yes, I know that,' I said, 'and I have answered that they come from God.'
 
-Philosophy speaks:
-"Let people compose themselves and live in peace.
-Let them set proud fate beneath their feet.
-Let them look, unmoved, on good fortune and bad,
-And keep an unchanging expression.
-They will stand unmoved before the ocean’s rage,
-As it churns up waves from deep below.
-They will stand unmoved by restless Mount Vesuvius,
-When its furnace bursts and hurls flames.
-They will stand unmoved by fiery thunderbolts in flight,
-Which sweep down and destroy high towers.
-
-Why then are miserable people in awe
-When tyrants rage so powerlessly?
-If you first get rid of hope and fear,
-You have disarmed the tyrant’s anger.
-But whoever trembles in fear or hope,
-Drifting and losing self-control,
-Has thrown away his shield, has abandoned his post,
-And is tying the very chain that will bind him."
+'Then how is it possible that you do not know the purpose of existence, when you understand its source and origin? Still, disturbances of mind like these can shake a person's footing. They cannot pull him up and uproot him from himself entirely. But answer this too, please: do you remember that you are a human being?'
 
-### Philosophy Asks Boethius to Speak
+'How could I not?' I said.
 
-"Do you understand this?" she went on. "Have my words truly reached your mind? Or are you like the proverb says, a donkey deaf to the sound of the lyre? Tell me, why are you weeping? Why are your eyes full of tears? As Homer says, 'Speak out and do not hide it within.' If you want the doctor’s help, you must show your wound."
+'Then can you tell me what a human being is?'
 
-I gathered my thoughts and replied with energy, "Surely the harshness of Fortune’s attack on me needs no further explanation; it is obvious. Just look at this place! Is this the library in my house, which you yourself chose as a place of sure rest, and where you so often used to sit with me, discussing all topics of philosophy? Are my clothes the same, and is my face the same, as when I used to explore the secrets of nature with you? Back then, you would use your stick to describe the various paths of the planets, and you would connect human ethics and all of human life to the patterns of the stars.
+'Is this your question: whether I know myself to be a rational and mortal creature? Certainly I acknowledge that I am such a being.'
 
-This, then, is how you reward your followers! And yet, it was you who praised Plato’s opinion that countries would be blessed if they were ruled by philosophers, or if their rulers happened to have studied philosophy. You followed his idea and said that philosophers needed to take part in government. This was to prevent the control of government from falling into the hands of wicked and unprincipเพื่อled men, which would lead to the ruin and destruction of good people. It was based on this authority that I decided to apply what I had learned from you in our private studies to public administration. You and God, who planted you in the minds of wise men, are my witnesses: the only reason I took any office was a general desire to do good. This was why I had no choice but to grimly resist evil. In the struggle to defend justice, I have always been indifferent to the hatred I received from men who were more powerful than I. This indifference came from knowing I had freely followed my conscience.
+Then she asked: 'Do you know nothing else that you are?'
 
-Countless times I have opposed the attacks of Cunigast on the property of some defenseless person. Countless times I have stopped Triguilla, the Prefect of the Palace, from an injustice he had begun or already carried out. And countless times I have used my authority to protect miserable people from danger when they were hounded by the endless false accusations of greedy officials, driven by their continuous and unpunished lust for wealth. Nothing has ever moved me from justice to injustice. I have felt as much pain as the provinces themselves to see their fortunes ruined by private looting and public taxes. When the terrible famine came, a disastrous and inexplicable measure for a forced sale of food supplies was announced. It seemed designed to crush the province of Campania with poverty. I took up the fight against the Praetorian Prefect for the common good. Although the king knew of my actions, I succeeded in the struggle to block that sale.
+'Nothing.'
 
-Again, the corrupt officials at the palace, in their hope and ambition, had already practically swallowed up the wealth of an ex-consul named Paulinus. But I snatched him from their very jaws. Another ex-consul, Albinus, had been presumed guilty. I had to stand against the hatred of the Public Prosecutor, Cyprian, to save Albinus from punishment. You must surely agree that the opposition I stirred up against myself was considerable. But I should have been safer than others, because my love of justice meant I didn't try to gain favors among the courtiers to protect myself.
+'Now,' she said, 'I know another cause of your illness, and a serious one. You have stopped knowing your own nature. So I have fully discovered both the causes of your sickness and the means of restoring your health.
 
-Yet who were the informers who struck me down? One was Basilius. He had previously been dismissed from the royal service and was forced by his debts into accusing me. Two others were Opilio and Gaudentius. A royal decree had sentenced them to exile because of their countless frauds. To avoid this, they had sought protection by hiding in a sanctuary. When the king heard this, he proclaimed that unless they left the city of Ravenna by a certain day, they would be driven out with their foreheads branded. There could hardly be a more severe punishment than that! Yet on that very same day, they made accusations against me, and their charges were accepted. Surely my actions didn’t deserve that? And surely the fact that my conviction was decided in advance didn’t make my accusers just men? Fortune should have blushed to see an innocent man accused, or at least at the wickedness of my accusers.
+'Because you have forgotten yourself, your mind is bewildered. That is why you have mourned as an exile, as a man stripped of the good things that were his. Because you do not know the purpose of existence, you believe that vile and wicked people are happy and powerful.
 
-But you want to know the main point of the charge against me. I am accused of having desired the safety of the Senate. And as for how I did this, I am accused of having prevented an informer from delivering certain papers. He intended to use these papers to show the Senate was guilty of treason. My Lady, tell me your advice: should I deny the charge to avoid causing you shame? But the fact is, I *did* desire the safety of the Senate, and I will never stop desiring it. Perhaps I should confess, except that my attempt to prevent the informer was not completed. Should I consider it a crime to have desired the safety of the Senate? They, at any rate, by their own decrees against me, have made it a crime. Foolishness may deceive itself, but it cannot change the true value of things. And the ruling of Socrates—that it is quite wrong to agree to falsehood and conceal truth—forbids me from either hiding the truth or being part of an untruth. But I leave it to you and to the wise to judge these events. I have committed them to writing to ensure they are remembered, and to preserve for future generations the true sequence of events.
+'And because you have forgotten by what means the world is governed, you think that the changes of fortune ebb and flow with no guiding hand to restrain them.
 
-As for the forged letters mentioned as evidence that I had hoped for the freedom of Rome, there is little point in speaking of them. It would have been obvious that they were forgeries if I had been allowed to use what carries the greatest weight in all such matters: the confession of the very informers themselves.
+'These errors are serious enough to cause not just sickness but even death. But thanks be to the Author of our health, the light of nature has not yet left you entirely.
 
-But there is no freedom left to hope for. If only there were! I would have replied with the same sharp answer that Canius gave to the Emperor Caligula. When Canius was accused of being involved in a plot against Caligula, he said, "If I had known of it, you would not have." (Meaning, if he had known, Caligula would never have found out, implying either the plot's success or Canius's silence.)
+'You judge truly about the government of the world. You believe it is subject not to the random drift of chance but to divine reason. That belief is the divine spark from which we may hope for your recovery.
 
-Grief has not dulled my mind so much that I complain that wicked people have piled up their crimes against virtue. But what does fill me with wonder is that they have actually succeeded in their hopes. It may be a part of human weakness to have evil wishes. But it is nothing short of monstrous that God should look on while every criminal is allowed to achieve his purpose against the innocent. If this is so, it was hardly without reason that one of your own followers once asked: If there is a god, where does evil come from? And if there isn’t a god, where does good come from?
+'So have no fear. From these weak embers the warmth of life will be kindled in you once again. But it is not yet time for strong remedies. The mind is clearly made in such a way that whenever it throws off true opinions, it immediately takes on false ones. From these false opinions rises a cloud of confusion that disturbs its true vision.
 
-Even supposing there might have been some justice in the fact that the evil men who are out for the blood of all good men and of all the Senate also sought my own death when they saw me defending them. But surely I did not deserve the same treatment from the members of the Senate themselves? You remember, I am sure—since you were always present to guide me when I was preparing a speech or planning some action—you remember how at Verona a charge of treason was made against Albinus. You remember how the king, eager to see the total destruction of the Senate, tried to extend the charge to all of them, despite their universal innocence. And you remember how I defended them with complete indifference to any personal danger. You know that I am telling the truth and have never boasted about any of my good deeds. For whenever a man receives the reward of fame for his boasting, the conscience that indulges in self-congratulation loses some of its secret merit.
+'So I will now try to scatter these mists with mild and soothing treatment. Then the darkness of misleading passion may be dispersed, and you may come to see the splendor of the true light.'
 
-Boethius continues his lament to Philosophy:
-"And now you see what has come of my innocence. Instead of a reward for true goodness, I receive punishment for a crime I did not commit. Yet, even when a crime is confessed very clearly, no jury is ever so united in demanding the harshest penalty that some members aren't softened. They might think of human weakness or how uncertain everyone's luck can be. If I had been charged with planning to burn down sacred buildings, or plotting the sacrilegious murder of priests, or aiming to kill all worthy men, I would still have been brought to court. I would have either confessed or been found guilty before the sentence was carried out. But here I am, nearly five hundred miles away, condemned to death and to have my property taken away. I am silenced and have no opportunity to defend myself, all because I was perhaps too willing to support the Senate. They certainly deserve that no one should ever be convicted on a similar charge!
-
-Even those who informed against me could see the dignity this charge gave me. To hide this dignity by adding some other charge, they falsely claimed that in my ambition for high office, I had stained my conscience with sacrilegious acts (acts disrespectful to God). But you, Philosophy, had taken up your dwelling within me. You used to drive every thought of human advancement from my mind. There could be no place for sacrilege when you were watching. You used to daily repeat in my ears and thoughts that Pythagorean maxim: ‘Follow God.’ And since you were there, lifting me up to such a high level of excellence as to make me like a god, it was hardly fitting for me to seek the help of the lowest kinds of spirits. Then there is my blameless life at home, my friendship with the most honorable men, and the holiness of Symmachus, my father-in-law—a man worthy of the same respect as you. All these things protect me against suspicion of this charge.
-
-But the truly wicked thing is that they gain credibility for this terrible accusation because of you yourself, Philosophy! The very fact that I am soaked in your teaching and trained in your morality seems to them to prove that I have been engaged in evil practices. It is not enough that my devotion to you has not helped me at all. Now, you are made the victim of the hatred that should be directed at me alone.
-On top of all this, another burden is added to my load of troubles: the world does not judge actions on their merit, but on their chance results. People believe that only actions blessed with a happy outcome were undertaken with sound advice. It is always the unfortunate who are first abandoned by the goodwill of others.
+### SONG VII. The Perturbations of Passion.
 
-I don’t want to recall all the rumors that are circulating and the clash of their many different opinions. I will just say that the final burden adversity heaps on its victims is this: when some accusation is made against them, people believe they deserved everything they suffer. And so, stripped of every possession, pushed out of my offices, and with my reputation in ruins, I have received punishment for doing a favor.
-I seem to see the wicked hideouts of criminals overflowing with happiness and joy. I seem to see all the most desperate men threatening new false accusations. I seem to see good men lying helpless with fear at the danger I am in. Meanwhile, all abandoned villains are encouraged to attempt every crime, expecting to get away with it or even hoping for a reward. And I seem to see the innocent deprived of peace and safety, and even of any chance to defend themselves."
+Stars give no light  
+Through the black night  
+When the clouds hide;  
+And the lashed wave,  
+When the winds rave  
+Over ocean's tide—
 
-### V. Boethius's Prayer to the Creator
+Though once serene  
+As day's bright sheen—  
+Soon fouled and spoiled  
+By the storm's spite,  
+Shows to the sight  
+Muddy and soiled.
 
-"Creator of the starry heavens,
-Lord on your everlasting throne,
-Your power turns the moving sky
-And makes the stars obey fixed laws.
-You make lesser stars grow dim
-Before the Moon’s reflected rays
-When she is opposite her bright kinsman, the Sun.
-Then, as she moves closer to the Sun,
-She loses all her borrowed light.
-You cause the Evening Star to rise,
-Cold and clear in the early night,
-And then, as the Morning Star, to change its role,
-Growing pale before the new sun’s light.
+Often the clear stream,  
+Down the steep hill  
+Wandering seaward,  
+Some tumbled block  
+Of fallen rock  
+Halts and holds still.
 
-When Winter’s cold has stripped the trees of leaves,
-You keep the daylight hours short.
-When Summer comes with burning heat,
-You give swifter hours to the night.
-Your power rules the changing year:
-The tender leaves the North wind stole,
-The Spring West wind makes reappear.
-The seeds that Winter saw newly sown,
-The Summer burns as crops fully grown.
+Do you, then, long  
+Clearly and plainly  
+Truth to discern,  
+On the right road  
+Firmly to stay,  
+And never to turn?
 
-All things obey their ancient law,
-And all perform their proper tasks.
-You hold all things within strict bounds.
-Only human actions are denied
-Your fitting control as Lord of all.
-Why else does slippery Fortune change
-So much, and punishment more fit
-For crime oppress the innocent?
-Corrupt men sit enthroned on high;
-By a strange reversal, wickedness
-Treads down the necks of holy men.
-Bright virtue lies in dark eclipse,
-Hidden by clouds, and unjust men
-Heap condemnation on the just.
-There is no punishment for perjury
-Or lies dressed up with attractive words.
-Wicked men use their power when they please,
-And love to bring down great kings
-Whose rule holds countless people in fear.
+Let joy, hope, and fear  
+Never come near;  
+Drive grief away:  
+Shackled and blind  
+And lost is the mind  
+Where these hold sway.
 
-Oh You, who bind all things together,
-Look down on all earth’s wretchedness.
-Of this great work of Yours, is humanity so mean
-A part, to be tossed about by Fortune?
-Lord, hold the rushing waves of misfortune in check,
-And with the same bond You use to rule the stars,
-Make stable all the lands of earth."
-
-### Philosophy Responds to Boethius's Lament
-
-Throughout this long and emotional outpouring of grief, Philosophy remained calm and undisturbed. When I had finished, she looked at me serenely and said:
-"The moment I saw your sad and tear-stained face, I knew you had been reduced to the misery of exile. But unless you had told me, I still would not have known how far you had been exiled. However, it is not simply that you have been banished far from your home. You have wandered away yourself. Or, if you prefer to think you were banished, it is you yourself who caused it. No one else could ever have done that to you.
-For if you remember the true country you come from, it is not governed by majority rule like ancient Athens. Instead, to quote Homer, ‘One is its lord and one its king.’ This King prefers to have many subjects rather than banishing them. Submitting to His governance and obeying His laws is true freedom. You seem to have forgotten the oldest law of your community: any person who has chosen to make his home there has the sacred right never to be banished. So, no one within its walls and defenses need fear exile. On the other hand, if anyone stops wanting to live there, he automatically stops deserving to be there.
-
-And so, it is not the sight of this place that concerns me, but your own appearance. It is not the walls of your library, with their glass and ivory decorations, that I am looking for, but the seat of your mind. That is the place where I once stored away—not my books, but—the thing that gives them any value: the philosophy they contain.
-
-As for what you said about your services to the common good, it was a small account considering the great number of things you have done. Your talk about whether the charges against you are true or false is already known to many. You were right to think that the crimes and deceptions of your accusers needed only a brief mention, since they are the constant talk of the people, who know every detail even better. Then you spoke with great passion about the Senate’s unjust behavior, and you spoke with grief about my name being included in the accusations. You wept tears at the damage done to my injured reputation. And last of all, with your anger flaring up against Fortune, you bitterly complained that rewards are not given out according to merit. In your final angry verses, you prayed that the same peace that rules in the heavens should also rule on earth.
-
-In your current state of mind, while this great storm of emotion has overcome you, and you are torn in different directions by waves of grief, anger, and anguish, it is hardly the time for the more powerful remedies. I will use gentler medicines first. It is as if your mind has become swollen and hardened under the influence of these disturbing passions. These gentler medicines, by their mild action, will prepare you to receive the strength of a sharper treatment later."
+## Book 2: The Vanity of Fortune’s Gifts
 
-### VI. Philosophy's Song of Right Timing
+### I.
 
-"If, when the summer sun is at its peak,
-Bringing scorching heat with the sign of the Crab,
-The farmer sows his wheat in furrows
-That refuse the seed because the ground is too dry,
-No crops will spring up to make him happy,
-And he will have to eat acorns instead.
+Then for a while she was silent. When a short pause in her speaking had restored my flagging attention, she began:
 
-You would not search the cheerful woods
-To pick a springtime flower
-When all the shivering countryside groans
-Before the North Wind’s power.
+'If I have fully understood the nature and causes of your sickness, you are wasting away with regretful longing for your former fortune. You believe that the change in this fortune is what has so disturbed your mind.
 
-Nor would you seek with a greedy hand
-To pluck your grapes from the vines in May;
-The wine god Bacchus gives his gift of grapes
-When Autumn is on its way.
+'I understand very well the many tricks of that Siren. I know the deadly charm of the friendship she pretends to feel for her victims while she is scheming to trap them. And I know how she abandons them without warning and leaves them overwhelmed with unbearable grief.
 
-For God has fixed the tasks for every season,
-And each season receives its proper due.
-No power is free to disrupt
-The order God has established.
-If, then, some being should rashly try
-To leave its proper place or act out of turn,
-The Lord would not allow its rebellion
-To meet with success."
+'Consider her nature, her character, and what she deserves, and you will soon admit that in her you neither possessed nor lost anything of value. I do not think I need to work hard to remind you of this. Even when she was still with you, even while she was flattering you, you used to attack her in strong, manly terms and rebuke her with maxims drawn from my sacred treasury.
 
-### Philosophy Begins Her Diagnosis
+'But every sudden change of circumstances inevitably unsettles the spirit. That is how you, too, have lost your mind's calm for a while. It is time now for you to take and drink a mild, pleasant-tasting medicine. As it works its way inward, it can prepare the way for stronger remedies.
 
-"First, then, will you let me discover your state of mind and test it with a few simple questions? That way I can find the best method to cure you."
-"Ask what you like," I replied, "and I will answer."
+'So I call to my aid the sweet persuasion of Rhetoric, who walks the right path only when she does not abandon my teaching. And I tell Music, my servant, to join her in song, sometimes in a lighter key, sometimes in a graver one.
 
-"Do you believe," Philosophy asked, "that this life consists of haphazard and chance events, or do you think it is governed by some rational principle?"
-"I could never believe," I said, "that events with such regularity are due to the randomness of chance. In fact, I know that God the Creator watches over His creation. The day will never come when I abandon this true belief."
+'What is it, then, poor mortal, that has thrown you into lament and mourning? I suppose your eyes have seen something strange and unfamiliar. You think Fortune has changed toward you. You are mistaken. These were always her ways; this was always her nature. In her very changeability she has kept her true constancy toward you.
 
-"That is true," she said. "And indeed, it is the very thing you were singing about just now when you were complaining that only humankind is outside God’s care. It was your firm conviction that all other things were governed by reason. So, how you can be sick when you hold such a healthy belief is quite beyond my understanding. However, let us examine this more deeply. I feel there is something missing somewhere. Tell me, then, since you have no doubts that the world is governed by God, by what means do you think He guides it?"
+'She was exactly the same when she showered you with affection and deceived you with the attractions of a false happiness. You have discovered how changeable the face of the blind goddess is. She still hides herself from others, but she has revealed her whole character to you.
 
-"I can’t answer that question," I replied, "because I don’t understand what it means."
+'If you like her, take her as she is and do not complain. If you hate her treachery, turn away from her in contempt and give her up, for her illusions do harm. The very thing that now causes your great grief should have brought you peace. You have been abandoned by someone whom no one can trust not to abandon him.
 
-"I was right, then," she said, "in thinking that something was missing. Your defenses have been breached, and your mind has been invaded by the fever of emotional distraction. So tell me, do you remember what is the end and purpose of all things, and the goal to which the whole of Nature is directed?"
-"I did hear it once," I said, "but my memory has been dulled by grief."
+'Or do you really value a happiness that is certain to leave? I ask again: is Fortune's presence dear to you when she cannot be trusted to stay, and when she will bring sorrow once she is gone? If she cannot be kept at will, and if her departure overwhelms you with disaster, what is this passing visitor but a sign of trouble to come?
 
-"Well, do you know the source from which all things come?"
-"Yes," I replied, and said that it was God.
+'It is not enough to look only at what lies in front of your eyes. Wisdom measures how things will turn out. Fortune's changeability has two sides, and that very changeability makes her threats nothing to fear and her flattery little to be desired.
 
-"How can it be, then, that you know the beginning of things but don’t know their end? The strange thing about these mental disturbances is that they have just enough power to move a person from his usual position, but they can’t quite throw him over and totally uproot him. I want you to answer this too: do you remember that you are a man?"
-"Why shouldn’t I remember that?" I said.
+'Finally, once you have placed your neck under her yoke, you ought to accept whatever happens within the borders of Fortune's territory. You freely chose her as your mistress. If you now want to impose on her a rule about when she must stay and when she may go, are you not acting wrongly? Are you not making a lot you cannot change more bitter through your impatience?
 
-"Can you, then, tell me what a man is?"
-"Are you asking me if I know that man is a rational and mortal animal? I do know it, and I acknowledge that that is what I am."
+'If you trusted your sails to the winds, you would travel not where you meant to go but where the winds drove you. If you trusted your seed to the fields, you would weigh the fruitful years against the barren ones. You have given yourself over to Fortune's rule, so you must submit to your mistress's whims.
 
-"Are you sure you are not something more?"
-"Quite sure."
+'What! Are you really trying to stop the turning wheel from spinning? You most foolish of mortals—if it stands still, it is no longer the wheel of Fortune.'
 
-"Now I know the other cause, or rather the major cause, of your illness: you have forgotten your true nature. And so, I have found out in full the reason for your sickness and the way to approach the task of restoring you to health. It is because you are confused by loss of memory that you wept and claimed you had been banished and robbed of all your possessions. And it is because you don’t know the end and purpose of things that you think wicked and criminal people have power and happiness. And because you have forgotten the means by which the world is governed, you believe these ups and downs of fortune happen randomly. These are grave causes, and they lead not only to illness but even to death.
-Thanks, however, to the Author of all health, your true nature has not quite abandoned you. In your correct belief about the world’s government—that it is subject to divine reason and not the randomness of chance—there lies our greatest hope of rekindling your health. So, you need have no fears, now that this tiny spark has blazed with the fire of life.
-Still, as it is not yet time for stronger medicine, I will try to lessen this fog little by little. It is generally believed that the nature of the mind is such that for every true belief it rejects, it accepts a false one. From these false beliefs, the fog of distraction rises and blocks out true insight. I will apply gentle remedies of only medium strength. In this way, the darkness of the ever-treacherous passions may be dispelled, and you will be able to see the splendid light of truth."
+### SONG I. Fortune's Malice.
 
-### VII. Philosophy's Song on Clearing the Mind
+Mad Fortune sweeps along in reckless pride,  
+As restless as Euripus' surging tide;  
+Now tramples mighty kings beneath her feet,  
+Now sets the conquered in the victor's seat.  
+She takes no notice of the cries of woe,  
+But mocks the griefs that from her mischief flow.  
+This is her game; this way she shows her power;  
+And great the wonder when, in one brief hour,  
+She shows her favorite lifted high in bliss,  
+Then hurled headlong in misery's abyss.
 
-"When hidden in dark clouds,
-The stars can shed no light.
-If boisterous winds
-Stir up the sea,
-Causing a storm,
-Waves once crystal clear
-Like peaceful days,
-Soon turn murky
-And thick with mud,
-Preventing the eye
-From piercing the water.
+### II.
 
-Streams that wander
-From high hills,
-Flowing downwards,
-Often dash
-Against a rock
-Torn from the hillside.
+'Now I would also like to reason with you a little in Fortune's own words. Notice whether her arguments are fair.
 
-If you desire
-To look upon truth
-And follow its path
-With an unswerving course,
-Rid yourself
-Of joy and fear,
-Put hope to flight,
-And banish grief.
-The mind is clouded
-And bound in chains
-Where these emotions hold sway."
+'"Man," she might say, "why do you chase me with your daily complaints? What wrong have I done you? What goods of yours have I taken? Choose a judge, if you like, and let us argue before him about who rightfully owns wealth and rank. If you can show that any one of these things truly belongs to mortal man, I will freely grant that what you claim is yours.
 
-## Book II
+'"When nature brought you out of your mother's womb, I took you in, naked and with nothing. I nourished you from my own resources. Because I favored you, I raised you somewhat too indulgently, and that is what now makes you rebel against me. I surrounded you with a royal abundance of everything in my power.
 
-### I. Philosophy Diagnoses Boethius's Longing for Lost Fortune
+'"Now it pleases me to withdraw my hand. You have reason to thank me for the use of what was never yours. You have no right to complain as if you had lost what was entirely your own. Why, then, do you lament? I have done you no violence.
 
-After this, Philosophy fell silent for a moment. Her calm silence made me pay closer attention to her. Then she began to speak again.
+'"Wealth, honor, and all such things are under my control. My servants know their mistress: they come with me and leave when I go. I could boldly claim that if the things whose loss you mourn had really been yours, you could never have lost them. Am I alone to be forbidden to do as I wish with what is mine?
 
-"If I have correctly understood the cause and nature of your condition," she said, "you are wasting away because you long for your former good fortune. It is the loss of this good fortune, as your mind dwells on it, that has so corrupted your thinking. I know the many disguises of that monster, **Fortune**. I know how much she charms people with friendship, the very people she plans to cheat. She does this until she suddenly abandons them, overwhelming them with unbearable grief.
+'"No one rebukes the sky when it now shows the brightness of day and now covers the daylight in the darkness of night. The year may now crown the face of the earth with flowers and fruit, and now spoil it with storms and cold. The sea is allowed to invite you today with a smooth, calm surface and tomorrow to turn rough with waves and storm.
 
-If you can remember her character, her methods, and the kinds of favors she offers, you will see that you didn't have anything valuable in her, and so you didn't lose anything of value when she left. I am sure it won't take much effort for me to help you recall all this. It used to be your way, whenever she came near with her flattery, to attack her with strong arguments. You would criticize her with statements taken from my own wise teachings. However, no sudden change in circumstances ever happens without some disturbance in the mind. That is why you, too, have temporarily lost your usual calmness.
+'"Shall man's endless greed bind *me* to a constancy that is foreign to my nature? This is my art; this is the game I never stop playing. I turn the spinning wheel. I enjoy seeing the high come down and the low rise up. Climb, if you wish, but only on condition that you will not consider it unfair to come down when the rules of my game require it.
 
-So, it is time for you to take a little mild and pleasant nourishment. This nourishment, when absorbed, will prepare you for stronger medicine later. Let us use the persuasive powers of sweet-sounding rhetoric—though these powers quickly go off the true path unless they follow my instructions. And let us also have Music, the servant-girl of my house, sing us melodies with different moods.
+'"Did you not know my character? Did you not know how Croesus, King of the Lydians, once the feared rival of Cyrus, was later pitiably placed on the flames of a pyre and saved only by a shower sent from heaven? Have you missed how Paullus shed tears of sincere pity over the misfortunes of King Perseus, his prisoner?
 
-What is it, then, O mortal man, that has thrown you down into this swamp of grief and despair? You must have seen something strange and unexpected. But you are wrong if you think Fortune has changed in how she treats you. Change is her normal behavior; it is her true nature. In the very act of changing, she has kept her own particular kind of consistency toward you. She was exactly the same when she was flattering you and luring you with the promise of a false kind of happiness. You have now discovered the changing faces of this random goddess. To other people, she still hides her true self, but to you, she has revealed herself completely. If you are satisfied with her ways, you must accept them and not complain. But if you tremble to think of her unreliability, you must turn away and have nothing more to do with her dangerous games.
+'"What else do tragedies cry out over so mournfully, except the overthrow of kingdoms by Fortune's indiscriminate blows? Did you not learn as a child that at the threshold of Zeus stand 'two jars,' 'one full of blessings, the other of calamities'?
 
-She has caused you immense sorrow, even though she should have been a source of peace. She has left you, and no one can ever trust her to stay. Do you really hold dear a kind of happiness that is destined to pass away? Do you really value the presence of Fortune when you cannot trust her to remain, and when her departure will plunge you into sorrow? If it is impossible to keep her when you want to, and if her leaving brings people to ruin, what else is such a fleeting thing except a warning of coming disaster? It will never be enough just to notice what is right in front of you; true wisdom considers what the outcome of things will be. Either way, Fortune’s constant changing deprives her threats of their terror and her attractions of their appeal.
+'"What if you have drawn too generously from the good jar? What if I have not even now left you entirely? What if my very changeability is a fair reason to hope for better things?
 
-And last of all, once you have bowed your neck under her control, you ought to bear with calmness whatever happens in Fortune’s playground. If, after freely choosing her as the mistress to rule your life, you now want to create a law to control her coming and going, you will be acting without any justification. Your very impatience will only worsen a situation that you cannot change. If you commit your boat to the winds, you must sail whichever way they blow, not just where you want to go. If you were a farmer who entrusts his seeds to the fields, you would balance the bad years against the good ones. So now that you have committed yourself to the rule of Fortune, you must accept her ways. If you are trying to stop her wheel from turning, you are the most foolish of all men. For if it once begins to stop, it will no longer be the wheel of chance."
+'"But listen now. Stop letting your heart waste away in fretting, and do not expect to live on your own terms in a realm that belongs to everyone."'
 
-#### Fortune's Turning Wheel (A Poem)
+### SONG II. Man's Covetousness.
 
-Philosophy continued with a song:
-"With a controlling hand, she moves the turning wheel,
-Like currents in a dangerous bay, always shifting.
-Her ruthless will has just overthrown once-feared kings,
-While, still untrustworthy, she lifts a conquered person from a low state.
-She hears no cries of misery, she pays no attention to tears,
-But with a heart of steel, she laughs at the groans her actions have caused.
-Such is the game she plays, and so she tests her strength.
-She makes a show of her mighty power when, in one short hour,
-Happiness grows out of utter desolation."
+What though Plenty pours her gifts  
+With a lavish hand,  
+Numberless as are the stars,  
+Countless as the sand,  
+Will the human race, content,  
+Cease to grumble and lament?
 
-### II. Philosophy Speaks as Fortune
+No—though God, so generous, gives  
+Gold at man's desire—  
+Honors, rank, and fame—content  
+Comes not any nearer;  
+But an all-devouring greed  
+Gapes with ever-widening need.
 
-"I would like to continue our discussion for a while by using Fortune’s own arguments," Philosophy said. "I would like you to consider whether her demands are just."
+Then what limits can restrain  
+This wild lust for having,  
+When, with each new bounty fed,  
+Grows the frantic craving?  
+He is never rich whose fear  
+Sees grim Want forever near.
 
-Then, speaking as if she were Fortune herself, she said:
-"Why do you burden me each day with your complaining accusations, mortal man? What harm have I done you? What possessions of yours have I stolen? Choose any judge you like and sue me for ownership of wealth and rank. If you can show that any part of these truly belongs by right to any mortal man, I will willingly agree that what you are trying to regain really did belong to you.
+### III.
 
-When nature brought you out of your mother’s womb, I received you naked and lacking everything. I fed you from my own resources. I was inclined to favor you. I brought you up with a good deal of indulgence, surrounding you with all the splendor and wealth I could command—and this is what makes you lose patience with me now. Now, I have decided to take back my hand. You have been receiving a favor, like someone who has had the use of another’s possessions. You have no right to complain as if what you have lost was fully your own. You have no reason to start groaning at me; I have done you no violence. Wealth, honors, and similar things are all under my control. They are my servants and they know their mistress. When I come, they come with me, and when I go, they leave as well. I can say with confidence that if the things whose loss you are mourning were really yours, you could never have lost them.
+'If Fortune pleaded with you in this way, you would surely have not a single word to say in reply. Or, if you can find some justification for your complaints, you must show what it is. I will give you room to speak.'
 
-Surely I am not the only one who should be denied the use of my own rights? The heavens are allowed to bring forth bright daylight and then let it rest in the darkness of night. The year is allowed to decorate the face of the earth with fruit and flowers, and then to make it ugly with clouds and cold. The sea is allowed to be calm and inviting, or to rage with storm-driven waves. Shall humanity’s endless greed bind me to a consistency that is foreign to my ways? Inconsistency is my very essence; it is the game I never stop playing as I turn my wheel in its ever-changing circle. I am filled with joy as I bring the top to the bottom and the bottom to the top.
+Then I said: 'Your arguments are certainly persuasive. They are soaked in the honeyed sweetness of music and rhetoric. But their charm lasts only while they are sounding in the ear. The wretched feel their misfortunes at a deeper level, in the heart. So when the sound stops vibrating in the air, the sorrow living in the heart returns with fresh bitterness.'
 
-Yes, rise up on my wheel if you like. But don’t consider it an injury when, by the same logic, you begin to fall, as the rules of the game will require. You must surely have been aware of my ways. You must have heard of Croesus, king of Lydia. He was once able to terrorize his enemy Cyrus, but later he was reduced to misery and condemned to be burnt alive; only a shower of rain saved him. And you must have heard of Aemilius Paulus and how he wept with pity for all the disasters that had overwhelmed his prisoner, Perses, the last king of Macedonia. Isn’t this what tragedy writes about with its tears and drama—the overthrow of happy kingdoms by the random strokes of Fortune? When you were a little boy, you must have heard Homer’s story of the two jars standing in God’s house, one full of evil and the other of good.
+Then she said: 'It is just as you say, for we have not yet reached the cure of your sickness. So far these are only soothing remedies that help in treating an illness that has been stubborn until now. I will apply the remedies that go deep at the proper time.
 
-Now, you have had more than your share of the good things. But have I completely deserted you? Indeed, my very changeable nature gives you good reason to hope for better things. So you should not wear yourself out by insisting on living according to a law of your own, in a world that is shared by everyone."
+'Still, to argue against your determination to be considered wretched, I ask you: have you forgotten the extent and limits of your happiness? I say nothing of how, when you were orphaned and alone, you were taken into the care of distinguished men.
 
-#### Humanity's Insatiable Greed (A Poem by Fortune)
+'Nor do I dwell on how you were chosen for alliance by marriage with the highest in the state. Even before you were joined to their house, you were already dear to their love, which is the most precious of all bonds. Did not everyone call you most happy because of your wife's virtues, her father's splendid honors, and the blessing of sons?
 
-Fortune continued her song:
-"If Plenty, from her well-stocked horn,
-With a generous hand, should distribute
-As many gifts as grains of sand
-The sea churns up when strong winds blow,
-Or as many as stars that shine on starlit nights,
-The human race would still repeat
-Its complaining cries.
+'I pass over the distinctions, often denied to older men, that you enjoyed in your youth, since I do not care to speak of blessings that others have also shared. I prefer to come to the unmatched peak of your good fortune. If the enjoyment of any earthly success carries weight in the scale of happiness, can any rising flood of troubles sweep away the memory of that splendor?
 
-Though God should satisfy their prayers
-With open-handed gifts of gold
-And adorn their greed with high rank,
-All that God gave would seem like nothing.
-Greedy desire soon swallows everything
-And opens other gaping mouths.
-No reins will serve to hold in check
-The headlong course of appetite,
-Once such generosity has fanned the flames
-Of lust to have and to hold.
-No man is rich who shakes and groans,
-Convinced that he needs more."
+'Remember that day when you saw your two sons ride out from home as joint consuls, followed by a procession of senators and welcomed by the goodwill of the people. The two of them sat in the curule chairs in the Senate-house, and your speech in praise of the king earned you fame for eloquence and ability.
 
-### III. Boethius Responds; Philosophy Recounts His Past Fortunes
+'In the Circus you sat between the two consuls and satisfied the crowd pressing around you with the triumphal gifts they expected. On that day, I think, you outwitted Fortune while she was flattering you and making you her darling. You carried off a gift she had never before granted to any private person.
 
-"If Fortune herself had been speaking," Philosophy said to Boethius, "she would have left you without a single word you could say in reply. But if there is some argument you can offer as a just defense for your complaints, you must present it, and we will listen."
+'Do you, then, want to settle accounts with Fortune? This is the first time she has cast a jealous glance at you. If you compare the extent and limits of your blessings and your misfortunes, you cannot deny that you are still fortunate.
 
-And so, it was my turn to speak.
-"Everything you have said," I began, "is certainly believable and well-sweetened with the honey of rhetoric and music. But it is only while one is actually listening that one feels pleasure. For those who are wretched, the pain of their suffering goes deeper. So as soon as your words stop sounding in our ears, the mind is weighed down again by its deep-seated sadness."
+'Or, if you do not consider yourself favored by Fortune because your former apparent prosperity has gone, do not consider yourself wretched either. What you now believe to be disaster is also passing away.
 
-"That is true," she replied. "None of this is meant to be a cure for your condition. It is simply a kind of treatment to help soothe a grief that is still resistant to stronger remedies. When the time comes, I will apply something designed to penetrate deep inside. In the meantime, stop thinking of yourself as plunged in misery. Have you forgotten how fortunate you have been in many ways? I will not focus on it, but when you were orphaned as a child, you were taken into the care of men of the highest rank. You were chosen to marry into families that boasted the state’s most distinguished citizens. Even before you became their relative, you had begun to win their love, and that is the most precious kind of kinship of all. Everyone would have called you the luckiest man in the world, considering the glory reflected from your new connections, the modesty of your wife, and the blessings your two sons proved to be.
+'What! Have you only now arrived on the stage of this life, suddenly and as a stranger? Do you think there is any stability in human affairs, when man himself vanishes in the swift course of time? It is true that we can have little confidence that the gifts of chance will last. Yet the last day of life is, in a way, the death of whatever Fortune remains.
 
-I don’t want to waste time on ordinary matters, so I will pass over the various honors you received while still a young man—honors that are denied to most men at any age. I want to come straight to the outstanding peak of your fortune. If the enjoyment of any earthly blessing brings any amount of happiness, the memory of that splendid day can never be destroyed by the burden of growing evil, no matter how great that burden is. I mean the day that you saw your two sons carried forth from your house to become consuls together, surrounded by crowding senators and the joyful people. That was the day they took their official seats in the senate chamber to listen to you delivering the speech of congratulation to the king. It was the day they saw your brilliant public speaking receive its highest recognition. On that same day, you sat in the stadium between the two consuls and, as if it were a military triumph, your generosity fulfilled the wildest expectations of the people packed in their seats around you.
+'What difference, then, do you think it makes whether you leave her by dying or she leaves you by running away?'
 
-In my opinion," Philosophy continued, "you charmed Fortune with flattering words as long as you had her affection and she cherished you as her favorite. And you went away with a gift never before given to any private individual. Perhaps you would like to settle your account with her? You will find this is the very first time she has looked at you with an unfriendly eye. If you thought about all the things that have happened to you—what kind of things they were, and whether they were happy or unhappy—you would not be able to say you have not been fortunate up to now. On the other hand, if you do not consider yourself to have been lucky because your past reasons for rejoicing have disappeared, then you cannot now think of yourself as miserable, because the very things that seem miserable are also passing away.
+### SONG III. All passes.
 
-Why behave like a stranger newly arrived on the stage of life? You know there is no constancy in human affairs, when a single swift hour can often bring a man to nothing. Even if you can’t expect any permanence in a life full of chance events, on the last day of one’s life, Fortune effectively ‘dies’ too, even if she seems to stay with you, because her influence ends. What difference do you think it makes whether you leave her by dying, or she leaves you by abandoning you?"
+When, in rosy chariot drawn,  
+Phoebus starts to light the dawn,  
+By his flaming beams assailed,  
+Every glimmering star grows pale.  
+When the grove, by Zephyrs fed,  
+With rose-blossom blushes red—  
+Once harsh Auster's breath has blown,  
+Bare it stands, its glory flown.  
+Smooth and tranquil lies the deep  
+While the winds are hushed in sleep.  
+Soon, when angry tempests lash,  
+Wild and high the billows crash.  
+So, if Nature's changing face  
+Holds not still a moment's space,  
+Count man's fortunes fleeting; deem  
+Bliss as passing as a dream.  
+One law only stands fast:  
+Things created cannot last.
 
-#### The Law of Constant Change (A Poem)
+### IV.
 
-Philosophy sang:
-"When Phoebus, the sun, in his ruby chariot
-Begins to spread his light through heaven,
-Then every pale-faced star
-Grows dim before his bright radiance.
+Then I said: 'Your warnings are true, you who nurture every excellence. I cannot deny how remarkably fast my fortune rose. Yet that is exactly what hurts me more cruelly when I remember it. For in bad fortune, the worst sting of misery is to *have been* happy.'
 
-The woodlands, at the breath of spring,
-Wear crimson-colored roses.
-But if the cold wind blows its icy blasts,
-The thorns will be left bare of beauty.
+'Well,' she said, 'if you are paying the penalty for a mistaken belief, you cannot fairly blame your circumstances for it. If what moves you is the happiness Fortune gives, though it is happiness in name only, then come and count up with me how rich you are in the number and weight of your blessings.
 
-Often the sea lies calm and still,
-Its shimmering waves at rest.
-And often the north wind churns the deep
-With raging storms and mad unrest.
+'Suppose that, by the blessing of Providence, you still keep safe and untouched the very thing you would have considered your most precious possession, however you valued the rest of your fortune. Then what right do you have to talk about bad fortune while you keep all of Fortune's better gifts?
 
-The world rarely stays the same for long,
-So great is its instability.
-So, should you put your faith in fleeting luck,
-And trust in wealth that cannot last?
-It is decreed by eternal law
-That nothing is ever free from change."
+'Symmachus, your wife's father, is safe and unharmed. He is a man whose splendid character does honor to the human race. This rare nature, in whom wisdom and virtue are so nobly combined, mourns the wrongs done to you while he himself is out of danger. You would have gladly bought his safety at the price of your own life.
 
-### IV. The Nature of True Happiness and Misery
+'Your wife is still alive. She has a gentle disposition and unequaled modesty and virtue. The sum of all her graces is this: she is her father's true daughter. She lives, I say, and keeps breathing only for your sake, though she hates life itself. She wastes away in grief and tears because you are gone. In this, if in nothing else, I would admit that your happiness is somewhat spoiled.
 
-"Everything you say is true," I agreed. "You truly are the mother of all virtues, and I cannot deny how quickly I rose to prosperity. It is that very fact, in fact, that makes me burn with grief as I remember it. In all the hardships of fortune, the most wretched kind of misery is to have once been happy."
+'What shall I say of your sons and their rank as consuls? In them, as far as is possible in young men their age, the example of their father's and grandfather's character already shines out.
 
-"But you are suffering because of your misguided belief, and you can’t blame events for that," she replied. "If you are really so moved by the empty name of chance happiness, you can count up with me now the many very great blessings you still enjoy. And if you find that you still possess the thing that, among all the gifts of Fortune, was most precious to you—and find it, through God’s power, unharmed and still untouched—you will hardly be able to talk about misfortune with any justice while you still possess such outstanding blessings.
+'The chief concern of mortals is to preserve their life. How happy you are, then, if only you could recognize your blessings! Even now you possess what no one doubts is dearer than life. So dry your tears.
 
-Take your father-in-law, Symmachus. He is one of the most precious treasures of the human race. He is still full of energy and—something you would willingly pay for with your own life—he is a man wholly composed of wisdom and virtue. He disregards his own sufferings and weeps for yours. Your wife, too, is alive. She is a lady unsurpassed in nobility and modesty of character. To sum up all her qualities in a word, I would say she is the mirror image of her father. She is, as I say, still alive. In her weariness with this life, she draws every breath for you alone. She longs for you and is consumed with tears and suffering—this is one thing in which I would admit that your happiness is diminished. I don’t know what more to add about your sons, who are consuls. Now, just as when they were boys, they reflect the good character of their father and grandfather.
+'Fortune's hatred has not reached all those you love. The storm that has struck you is not unbearably severe, because some anchors are still holding firm. They ensure that you lack neither comfort in the present nor hope for the future.'
 
-You are a happy man, then, if you know where your true happiness lies. Since the chief concern of mortal men is to keep their hold on life, you even now possess blessings which no one can doubt are more precious than life itself. So dry your tears. Fortune has not yet turned her hatred against all your blessings. The storm has not yet broken upon you with too much violence. Your anchors are holding firm, and they allow you both comfort in the present and hope in the future."
+'I pray that they keep holding. As long as they remain, I will ride out the storm, whatever happens. Yet you see how much of the splendor of my fortunes has been cut away.'
 
-"And I pray that they will hold," I said. "As long as they do, we will ride the storm out. But look how much things have changed since the time of my glory."
+'We are gaining a little ground,' she said, 'if there is something in your situation that you are not yet entirely unhappy with. But I cannot tolerate your fussiness. You complain with such violent grief and anxiety simply because your happiness falls short of being complete.
 
-"If you are no longer dissatisfied with your entire fortune, we have made a little progress," she said. "But I can’t put up with your delaying and the way you dramatize your care-worn, grief-stricken complaints that something is lacking from your happiness. No person is so completely happy that something, somewhere, does not clash with their condition. It is the nature of human affairs to be filled with anxiety; they never prosper perfectly, and they never remain constant.
-* In one person’s case, you will find riches offset by the shame of a humble birth.
-* In another’s, noble birth is offset by unwelcome public attention because of crippling family poverty.
-* Some people are blessed with both wealth and noble birth but are unhappy because they have no wife.
-* Some are happily married but have no children, and they save their money for an heir who is not their own blood.
-* Some again have been blessed with children, only to weep over their misdeeds.
+'Who enjoys such settled happiness that he has no quarrel with some part of his situation? The conditions of human happiness are a troubled business. Either they are never fully achieved, or they never last.
 
-No one finds it easy to accept the lot Fortune has assigned them. There is something in each of our situations that escapes the notice of someone who has not experienced it, but causes horror to the person who has. Remember, too, that all the most fortunate people are overly sensitive. They have never experienced adversity. So, unless everything obeys their slightest whim, they are devastated by every minor upset. That shows how trivial the things are that can detract from the complete happiness of a person at the peak of fortune. How many people do you think would believe themselves almost in heaven if they possessed even the smallest part of the luck you still enjoy? This very place, which is exile to you, is home to those who live here. So, nothing is miserable except when you think it so. Conversely, all luck is good luck to the person who bears it with calmness. No one is so happy that they would not want to change their situation if they give in to impatience. Such is the bittersweet nature of human happiness. To the one who enjoys it, it may seem full of delight, but they cannot prevent it from slipping away when it chooses to. It is clear, therefore, how miserable the happiness of human life is: it does not stay long with those who are patient, and it doesn’t satisfy those who are troubled."
+'One man has great riches but is ashamed of his low birth. Another is distinguished by noble birth but is so troubled by poverty that he would prefer to be unknown. A third, well supplied with both, laments the loneliness of an unmarried life. Another is happily married but has no children, and he builds up his wealth for a stranger to inherit. Yet another has children but sadly laments the misdeeds of a son or daughter.
 
-"Why then do you mortal people seek happiness outside yourselves, when it actually lies within you? You are led astray by mistakes and lack of knowledge. I will briefly show you what complete happiness depends on. If I ask you whether there is anything more precious to you than your own self, you will say no. So, if you are in possession of yourself, you will possess something you would never wish to lose. It would also be something Fortune could never take away.
+'So it is not easy for anyone to be completely at peace with his situation. Every person's lot hides something that people who have not experienced it know nothing about, but that makes the one who suffers it wince.
 
-To see that happiness cannot consist in things governed by chance, think about it this way:
-* Happiness is the highest good for a rational being.
-* Anything that can be taken away is not the highest good. This is because something that *cannot* be taken away is better.
-* Therefore, Fortune, because she is so changeable, cannot lead to true happiness.
+'Besides, the more Fortune favors a man, the more delicately sensitive he becomes. Unless everything goes as he wishes, the smallest misfortunes overwhelm him, because he has had no training in adversity. That is how petty the trifles are that rob the most fortunate people of perfect happiness!
 
-Again, consider a man who is carried along by a happiness that can fail at any time. He either knows or does not know that this happiness is unreliable.
-* If he does not know it, what kind of happiness can there be in the blindness of ignorance?
-* If he does know it, he cannot avoid being afraid of losing what he knows can be lost. So, a continuous fear prevents him from being happy.
-* And if he thinks the possibility of losing it doesn't matter much, then the good whose loss can be borne so calmly must be very small indeed.
+'How many people do you suppose would think themselves close to heaven if even a small part of what is left from the wreck of your fortune fell to them? This very place you call exile is home to the people who live here.
 
-Furthermore, I know you are a man who has been fully convinced by countless proofs that the human mind cannot die. It is also clear that happiness depending on chance ends when the body dies. So, it seems certain that if this chance-dependent happiness is all that can bring pleasure, then the entire human race falls into misery at death. Yet we know that many people have sought the enjoyment of happiness through death, and even through suffering and torment. It seems that a happiness which cannot make people unhappy when it ends, also cannot make them truly happy when it is present."
+'So true is it that nothing is wretched unless you think it so. And on the other hand, every situation is happy if it is borne with a calm mind. Who is so blessed by Fortune that he would not want to change his condition, once he gives free rein to a rebellious spirit?
 
-#### Building a Secure Home (A Poem)
+'How much bitterness is mixed in with the sweetness of human happiness! And even if that sweetness seems delightful while one enjoys it, no one can stop it from leaving whenever it pleases. How plainly wretched, then, is the happiness of earthly fortune. It does not last forever even for those with a calm temperament, and it can give no complete satisfaction to the anxious.
 
-Philosophy then sang:
-"A careful person will want
-To build a lasting home,
-One that cannot be shaken by winds
-That thunder from the East.
-They will avoid the open sea
-That threatens with its waves.
-They will choose no mountain peaks
-Which are battered by all the strength
-Of winds from the South.
-They will choose no thirsty sands
-That sink and shift away
-Beneath a building’s weight.
+'Why, then, you children of mortality, do you look outside yourselves for a happiness whose home is only within you? Error and ignorance confuse you. I will show you briefly the hinge on which perfect happiness turns.
 
-They will flee the dangerous situation
-Of sites that only please the eye,
-And build securely on low, solid rock.
-Though thunderous winds may roar
-And stir up the churning sea,
-You will be hidden away in peace,
-Sure of your strong-built walls.
-You will lead a calm life
-And smile at the raging storm."
+'Is there anything more precious to you than yourself? Nothing, you will say. If, then, you are master of yourself, you will possess something you will never want to lose, and which Fortune cannot take from you.
 
-### V. The True Value of Fortune's Gifts
+'Now consider why happiness cannot possibly consist in these things that are the playthings of chance. Happiness is the highest good of a creature that lives according to reason. Anything that can be taken away in any way is not the highest good, because whatever cannot be taken away is better than it. So it is clear that Fortune, because it is unstable, cannot hope to give happiness.
 
-"But the ways of reasoning I have been using on you are beginning to sink in," Philosophy continued. "The time has come, I think, for something rather stronger. So then, even if the gifts that Fortune offers were not fleeting and short-lived, tell me: which of them can ever truly belong to you? Or which of them does not show its worthlessness after a moment’s thoughtful consideration?
+'Besides, a man carried along by this passing happiness either knows that it is unstable or does not know. If he does not know, how poor is a happiness that depends on blind ignorance! If he does know, he must fear losing a happiness that he believes he can lose. So constant fear prevents him from being happy.
 
-#### What Makes Riches Precious?
-Are riches precious because they belong to you, or because of some quality they have on their own? And which is better: the gold itself, or the power that comes from hoarded wealth? Yet, being stingy always makes people hated, while being generous wins them popularity. So, it is by spending rather than hoarding that people win a better reputation. Now, if something that is transferred to another person cannot remain with its first owner, it is only when money is transferred to others through generosity—and stops being possessed—that it becomes valuable. If all this same money were ever collected from wherever it is among people into the possession of one man, it would make all the rest poor. When you speak, your whole voice fills the ears of many listeners equally. But your riches cannot be shared equally among many people without becoming smaller. When riches are shared among many, it is inevitable that they make poorer those from whom they pass. How poor and empty riches really are, then, is clear. It is impossible for many to share them undiminished, or for one person to possess them without reducing all others to poverty.
+'Or does he think the possibility of this loss is a small matter? Then the good whose loss he can bear so calmly must be insignificant.
 
-#### The Allure of Precious Stones
-Perhaps your eyes are attracted by the way precious stones reflect light. But if there is any special quality in this brilliance, it is in the light of the stones themselves, not of men. So, I am astonished that men can admire them. Surely there is nothing that lacks life to give it movement, and lacks structure, which a living, rational being can justifiably consider beautiful. Such things may be works of the Creator and may draw some minimal beauty from their own decorative nature. But they are of a lower rank than you, a more excellent creature, and cannot in any way deserve your admiration.
+'Further, I know that you firmly believe that human souls do not die with their bodies, and that many proofs have convinced you of this. It is also clear that the happiness Fortune gives ends with the death of the body. So there can be no doubt: if happiness came in this way, the whole human race would sink into misery when death brought everything to an end.
 
-#### The Beauty of the Countryside
-Perhaps, again, you find pleasure in the beauty of the countryside. Creation is indeed very beautiful, and the countryside is a beautiful part of creation. In the same way, we are sometimes delighted by the appearance of the sea when it’s very calm. We also look up with wonder at the sky, the stars, the moon, and the sun. However, not one of these has anything to do with you. You dare not take credit for the splendor of any of them. The fact that flowers blossom in spring gives no special distinction to you. The swelling fullness of the autumn harvest is not your work. You are, in fact, carried away by empty joys. You embrace blessings that are foreign to you as if they were your own. I ask you, why? For Fortune can never make yours what Nature has made foreign to you. Of course, the fruits of the land are intended as food for living beings. But if you wish only to satisfy your needs—and that is all Nature requires—there is no need to seek an excess from Fortune. Nature is content with few and little. If you try to force unnecessary additions upon what is sufficient for Nature, your excess will become sickening, if not harmful.
+'But we know that many people have sought the joy of happiness not only through death, but also through pain and suffering. How, then, can this life make people happy by its presence, when its loss does not make them wretched?'
 
-#### Splendid Clothing and Attendants
-Perhaps you think that beauty means being magnificent in clothing of every variety. But if the clothing catches my eye, my admiration will be for either the quality of the material or the skill of the tailor, not for you. If you take pleasure in having a long line of attendants to wait on you, there are two points to consider:
-* Either they are dishonest, in which case your household is nothing less than a dangerous burden and a positive threat to its master.
-* Or they are honest, and other people’s honesty can hardly be counted among your own possessions.
+### SONG IV. The Golden Mean.
 
-From all this, it is obvious that not one of those things which you count among your blessings is in fact any blessing of your own at all. And if, then, they don’t contain a spark of beauty worth seeking, why weep over their loss or rejoice at their preservation? If Nature gives them their beauty, how does that involve you? They would still have been pleasing by themselves, even if separated from your possessions. It isn’t because they are part of your wealth that they are precious. It is because you thought them precious that you wanted to add them to the sum of your riches.
+Whoever, founded firm and sure,  
+Would always live secure,  
+In spite of storm and blast  
+Unmoved and holding fast;  
+Whoever would laugh to scorn  
+The ocean's threatening tide—  
+Should never build his home  
+On sands or mountain peak.  
+Upon the mountain's height  
+The storm winds vent their spite;  
+The shifting sands refuse  
+To hold the weight they bear.  
+So flee these dangers, you,  
+However fair the view,  
+And set your resting place  
+On some low rock's sure base.  
+Then, though the tempests roar,  
+And seas thunder on the shore,  
+You, blessed in your stronghold,  
+Will rest undisturbed;  
+Live all your days serene,  
+And mock the anger of the heavens.
 
-#### The True Nature of Wanting
-What, in fact, are you looking for in all this outcry against Fortune? Are you trying to drive away poverty with plenty? If so, it has turned out the very opposite. The more varied your precious possessions are, the more help you need to protect them. The old saying is proved correct: he who has much, wants much. And the contrary is true as well: he needs least who measures wealth according to the needs of nature, and not according to the excesses of showing off.
+### V.
 
-It seems as if you feel a lack of any true blessing of your own inside you. This feeling is driving you to seek your blessings in things separate and external to yourself. And so, when a being who is endowed with a godlike quality because of his rational nature thinks that his only splendor lies in possessing lifeless goods, it is an overthrow of the natural order. Other creatures are content with what is their own. But you, whose mind is made in the image of God, seek to decorate your superior nature with inferior objects. You are oblivious of the great wrong you do to your Creator. It was His will that the human race should rule all earthly creatures. But you have degraded yourself to a position beneath the lowest of all. If every good is agreed to be more valuable than whatever it belongs to, then by your own judgment, when you consider the most worthless objects as *your* goods, you make yourself lower than those very things. And that is no less than you deserve.
+'But since my arguments are beginning to soothe your mind, I think I may use somewhat stronger remedies. Suppose, then, that the gifts of Fortune were not fleeting and temporary. What is there in them that could ever truly become yours? And what in them does not lose value when looked at steadily and weighed fairly?
 
-Indeed, the condition of human nature is just this: a man towers above the rest of creation as long as he recognizes his own nature. But when he forgets it, he sinks lower than the beasts. For other living things to be ignorant of themselves is natural; but for man, it is a defect. What an obvious mistake to make—to think that anything can be enhanced by decoration that does not truly belong to it! It’s impossible. For if there is anything striking in the decoration, that is what is praised, while the veiled and hidden object continues just the same in all its unattractiveness.
+'Are riches precious, I ask you, because of your nature or because of their own? What are they but mere gold and piles of money? Yet these fine things show their quality better when they are spent than when they are hoarded. For I suppose it is plain that greed always makes people hated, while generosity brings fame.
 
-My point is that no truly good thing harms its owner—a statement you won’t deny. But wealth very often does harm its owners. All the most criminal elements of the population, who are therefore all the more greedy for other people’s property, are convinced that they alone are worthy to possess all the gold and precious stones there are. You are shuddering now at the thought of being attacked with a club or a knife. But if you had set out on the path of this life with empty pockets, you would whistle your way past any highwayman. How splendid, then, is the blessing of mortal riches! Once you have them, they never leave you carefree again."
+'But what is transferred to another cannot remain in one's own possession. If that is so, money is precious only when it is given away. And by being transferred to others, it stops being one's own.
 
-#### A Song of a Simpler Age
+'Again, if all the money in the world were piled up in one man's possession, everyone else would be made poor. Sound fills the ears of many people at the same time without being broken into parts. But your riches cannot pass to many people without being reduced in the process. When this happens, they must impoverish those they leave behind.
 
-Philosophy then sang:
-"Oh, happy was that long-lost age,
-Content with nature’s faithful fruits,
-Which knew no lazy luxury.
-They would not eat before it was time,
-Their meal of acorns quickly found.
-They did not know the clever trick
-Of making honey sweeten wine,
-Or how the power of Tyrian dyes
-Could color shining silken cloth.
+'How poor and cramped a thing riches are, then! More than one person cannot possess them whole and undivided, and they do not come to any one person without impoverishing everyone else.
 
-A grassy couch gave healthy sleep,
-A gliding river, healthy drink.
-The tallest pine tree gave them shade.
-Men did not plunder all the world
-And cut a path across the seas
-With merchandise for foreign shores.
-War horns were silent in those days,
-And blood was not spilt in bitter hate
-To horrify the reddening earth.
-What reason then for hatred,
-To seek the frenzied clash of arms,
-When all men saw were gaping wounds
-Without any return for blood so spilt?
+'Or is it the glitter of gems that attracts your eye? However rare and excellent their brilliance may be, remember that the flashing light is in the jewels, not in the man. Indeed, I am greatly amazed that people admire them. What can rightly seem beautiful to a being gifted with life and reason, if it lacks the movement and structure of life?
 
-Would that our age could now return
-To those pure ways of leading life!
-But now the passion to possess
-Burns fiercer than Mount Etna’s fire.
-Alas for the man, whoever he was,
-Who first dug up heaps of buried gold
-And diamonds that were content to hide,
-And gave us perils of such great price!"
+'It is true that such things do eventually gain some beauty from their Maker's care and from their own brilliance. Even so, they do not in any way deserve your admiration, because their excellence ranks lower than your own.
 
-### VI. The True Nature of Power and High Office
+'Does the beauty of the fields delight you? Certainly it does. It is a beautiful part of a truly beautiful whole. It is right for us at times to enjoy the calm stillness of the sea, and to admire the sky, the stars, the moon, and the sun. Yet does any of these belong to you? Do you dare to boast of the beauty of any one of them?
 
-"I should like to say something about the honors of high office and the exercise of power," Philosophy continued. "But I am at a loss because, in your ignorance of the true nature of power and honors, people like you praise yourselves to high heaven because of the offices they hold. Now, whenever high office has fallen into the hands of wicked men, the disaster has been greater than a flood or a volcanic eruption. You remember, I am sure, how your ancestors wanted to abolish the consulship—even though it had been a principle of freedom—because of the arrogance of the consuls. Just as before that, the same arrogance had led them to abolish the title of king. If, on the other hand, the very rare case arises when these offices fall to honest men, surely the only aspect of them which is approved is the honesty of the men who hold the offices. It follows, if this is so, that honor is not given to virtue because of the office held, but to the office because of the virtue of the holder.
+'Are *you* adorned with the flowers of spring? Is it *your* fertility that swells in the fruits of autumn? Why are you stirred by empty excitement? Why do you embrace an excellence that belongs to something else as though it were your own? Fortune will never make yours what the nature of things has excluded from your ownership.
 
-However, let us examine this much-praised and much-sought-after power of yours. You creatures of earth, don’t you stop to consider the people over whom you think you exercise authority? You would laugh if you saw a community of mice and one mouse claiming power and jurisdiction over the others. Again, think of the human body: could you discover anything more feeble than a human being, when often even a tiny fly can kill him, either by its bite or by creeping into some internal part of him? The only way one man can exercise power over another is over his body and what is inferior to it—his possessions. You cannot impose anything on a free mind. You cannot move from its state of inner calm a mind that is at peace with itself and firmly founded on reason.
+'No doubt the fruits of the earth are given to feed living creatures. But if you are content to supply your needs as far as nature requires, you have no need to turn to Fortune's generosity. Nature is satisfied with few things, and with very little of those. If you try to force extras on her when she is already satisfied, what you add will turn out either unpleasant or harmful.
 
-The tyrant Nearchus thought he would be able to torture the philosopher Zeno into betraying his fellow conspirators in a plot against him. But Zeno bit off his own tongue and threw it in the face of the enraged tyrant. Nearchus had thought the tortures would be an occasion for cruelty, but Zeno made them an opportunity for heroism. There is nothing, in fact, that one man can do to another, which he cannot himself suffer at the hands of someone else. We have the story of how the Egyptian king Busiris used to put strangers to death, until he himself was killed by a stranger—Hercules. And in the First Punic War, your general Regulus put chains on many Carthaginian prisoners of war. But not long afterwards, he himself was holding out his own hands to receive a conqueror’s chains. Can you, then, consider it power at all, when a man cannot ensure that someone else does not inflict on him what he can inflict on others?
+'Now, you think it fine to shine in clothing of many colors. Yet if there is any pleasure in looking at such things, it is the fabric or the artist's skill that I will admire.
 
-Furthermore, if there was some natural and inherent good in these honors and powers, they would never fall into the hands of evil men. Incompatible things do not usually associate, and nature rejects the combination of opposites. There is no doubt, then, that for the most part, it is evil men who hold these offices. It is therefore clear that these positions are not inherently good, since they allow themselves to be associated with evil men. The same may be properly concluded in the case of all Fortune’s gifts, since they fall in greater abundance on all the most wicked people.
+'Or perhaps it is a long line of servants that makes you happy? If they behave badly, they are a ruinous burden on your household and a great danger to their own master. And if they are honest, how can you count other men's virtue as part of your possessions?
 
-There is another point to be considered about them. No one doubts that a man in whom he has seen evidence of bravery is brave. A man gifted with speed is clearly speedy. In the same way, music makes a man a musician, medicine makes him a doctor, and rhetoric makes him an orator. For it is the nature of anything to perform the function proper to it. It does not get mixed up in the operations of contrary things and actually repels opposites. But riches are unable to satisfy endless greed. Power does not make a man master of himself if he is imprisoned by the unbreakable chains of wicked desires. And when high office is given to unworthy men, far from making them worthy, it only betrays them and reveals their unworthiness. The reason for this is that you are accustomed to using the wrong words to refer to things which are by nature otherwise. This is easily proved by their very effects. So, neither riches, power, nor high office can properly be called by these grand names.
-And lastly, we may reach the same conclusion about Fortune as a whole. She has nothing worth pursuing and no trace of inherent good. She never associates with good men, and she does not turn into good men those with whom she does associate."
+'All of this plainly proves that not one of the things you count among your possessions is really yours. And if there is no beauty in them worth desiring, why should you either grieve at losing them or rejoice in keeping them?
 
-#### Nero's Destructive Power (A Poem)
+'And if they are beautiful by their own nature, what does that have to do with you? They would have been no less pleasing in themselves if they had never been counted among your possessions. They do not gain their value from being counted among your riches. Rather, you chose to count them among your riches because they seemed valuable to you.
 
-Philosophy then sang of Nero:
-"We know the ruin Nero caused
-When Rome was set on fire and great men killed.
-By a brother’s hand his own brother was slain.
-He dripped with blood from his mother, whom he also spilled.
-He rolled a practiced eye over her corpse
-With never a tear to wet his cheek,
-A cool connoisseur of beauty cold.
+'What, then, are you all looking for with all this noisy outcry about fortune? To drive away poverty by means of abundance, I suppose. Yet you find the result is exactly the opposite. This varied collection of precious furnishings needs still more equipment to protect it.
 
-The empire that he held in his control
-Extended then from the eastern dawn
-To where the sun sinks at the close of day.
-Its northern reach was where the two Bears constellations stand,
-Its southern bounds where the parched south wind
-Burns and bakes the arid sand.
-Could this high power, stretched east and west,
-Check Nero’s frenzied lunacy?
-Too often Fate, hated by all,
-To savage poison adds the sword."
+'There is a true saying that those who possess the most need the most. And on the other hand, those need very little who measure their abundance by what nature requires, not by the excess of empty display.
 
-### VII. The Emptiness of Fame
+'Have you no good of your own planted within you, that you look for your good in things outside and apart from you? Is the nature of things so turned upside down that a creature made divine by its reason can only seem splendid to itself by owning lifeless goods?
 
-Then I spoke to her and said that she was well aware of how little I had been governed by worldly ambition. I had sought the opportunity to engage in politics so that virtue should not grow old without being praised.
+'Other things are content with what is their own. But you, who are godlike in your intellect, look to the lowest things for decoration for a nature of supreme excellence. You do not see how great a wrong you do to your Maker. His will was that humankind should surpass everything on earth. Yet you push your own worth down beneath the lowest things.
 
-"And that," she replied, "is the one thing that could attract minds gifted with natural excellence, though not yet perfected with the finishing touch of complete virtue—the desire for glory, the thought of being famous for the noblest services to the state. But just think how puny and insignificant such fame really is.
-It is well known, and you have seen it demonstrated by astronomers, that beside the vast extent of the heavens, the entire circumference of the earth has the size of a mere point. That is to say, compared with the magnitude of the celestial sphere, the earth may be thought of as having no extent at all. The surface of the world, then, is small enough. And of this small surface, as you have learned from the geographer Ptolemy, approximately only one quarter is inhabited by living beings known to us. If from this quarter you subtract in your mind all that is covered by sea and marshes, and the vast area made desert by lack of moisture, then scarcely the smallest of regions is left for people to live in.
+'For whatever a thing finds its good in is clearly more precious than the thing whose good it is. So when you consider these worthless things to be your good, by your own judgment you place yourselves beneath the most worthless things of all. Nor does this happen undeservedly.
 
-This is the tiny point within a point, shut in and hedged about, in which you think of spreading your fame and extending your renown. Can glory constricted within such tight and narrow confines truly have any breadth or splendor? Remember, too, that this same narrow enclosure in which we live is the home of many nations. These nations differ in language, customs, and their whole way of life."
+'Human beings are so made that they surpass other things only when they know themselves. But if they lose this self-knowledge, they sink lower than the beasts. For other creatures, ignorance of themselves is natural. In human beings, it appears as a defect.
 
-"Why then do you mortal people seek happiness outside yourselves, when it actually lies within you? You are led astray by your mistakes and your lack of knowledge. I will briefly show you what complete happiness really depends on. If I ask you whether there is anything more precious to you than your own self, you will say no. So, if you are in true possession of yourself, you will possess something you would never wish to lose. It would also be something Fortune could never take away from you.
+'How extravagant, then, is this error of yours, in thinking that anything can be made more beautiful by decorations that are not its own. It cannot be done. If such additions give off any brilliance, it is the additions that get the praise. What they hide and cover remains as ugly as it was before.
 
-To understand that happiness cannot consist in things governed by chance, think about it this way:
-* True happiness is the highest good for a rational being.
-* Anything that can be taken away from you is not the highest good. This is because something that *cannot* be taken away is obviously better.
-* Therefore, Fortune, simply because she is so changeable, cannot lead to true happiness.
+'And again I say: nothing that harms its owner is a *good*. Is this untrue? No, you say, it is quite true. And yet riches have often harmed those who owned them. The worst people, who are all the more greedy because of their wickedness, think that only they deserve to possess all the gold and gems in the world.
 
-Again, think about a person who relies on a type of happiness that can disappear at any moment. That person either knows or does not know that this happiness is unreliable.
-* If they do not know it, what kind of happiness can exist in the blindness of ignorance?
-* If they do know it, they cannot avoid being afraid of losing something they know can be lost. So, a constant fear prevents them from being happy.
-* And if they think the possibility of losing it doesn't matter much, then the 'good' whose loss can be accepted so calmly must be very small indeed.
+'So you, who now fear the spear and the sword, could have sung a carefree song "in the robber's face" if you had set out on the road of life with empty pockets. Oh, the wonderful blessedness of perishable wealth, which robs you of your security the moment you gain it!'
 
-Furthermore, I know you are a man who has been fully convinced by many proofs that the human mind cannot die. It is also clear that happiness which depends on chance ends when the body dies. So, it seems certain that if this chance-dependent happiness is the only kind that can bring pleasure, then the entire human race falls into misery at death. Yet we know that many people have sought the enjoyment of happiness through death, and even through suffering and torment. This suggests that a 'happiness' which does not make people unhappy when it ends, also cannot truly make them happy when it is present."
+### SONG V. The Former Age.
 
-#### Building a Secure Home (A Poem)
+Too blessed the former age, whose people  
+Lived contented in the fields,  
+And, still unspoiled by luxury,  
+Made frugal meals of acorns.
 
-Philosophy then sang:
-"A wise person will want
-To build a lasting home,
-One that cannot be shaken by winds
-That thunder from the East.
-They will avoid the open sea
-That threatens with its waves.
-They will choose no mountain peaks
-Which all the strength of winds
-Batter and beat from the South.
-They will choose no thirsty sands
-That sink and melt away
-Beneath the building’s weight.
+They had no art to mix the luscious grape  
+With honey's sweetness,  
+Nor to steep China's soft and shining silks  
+In splendid Tyrian purple.
 
-They will flee the dangerous appeal
-Of sites that only please the eye,
-And build securely on low, solid rock.
-Though thunderous winds may roar
-And churn the seething sea,
-You will be hidden away in peace,
-Sure of your strong-built walls.
-You will live a calm life
-And smile at the raging storm."
+The grass their wholesome bed, their drink  
+The stream, their roof the tall pine's shade;  
+They did not cut across the deep, nor seek  
+The spoils of trade in strange, far lands.
 
-### V. The True Worthlessness of Fortune's Gifts
+The trumpet of war was not yet heard,  
+No fields were stained with blood;  
+For why should war's fierce madness take up arms  
+When fighting brought wounds but brought no gain?
 
-"But the kinds of reasoning I have been using on you are beginning to sink in," Philosophy continued. "The time has come, I think, for something rather stronger. So then, even if the gifts that Fortune offers were not temporary and short-lived, tell me: which one among them can ever truly belong to you? Or which one’s worthlessness is not revealed by just a moment’s thoughtful consideration?
+Ah, if only our hearts could still return  
+To following those ancient ways!  
+But now the greed for getting burns  
+More fiercely than Etna's fiery blaze.
 
-#### The Illusion of Riches
-What makes riches precious? Is it the fact that they belong to you, or some quality they have on their own? And which is better: the gold itself, or the power that comes from hoarded wealth? Yet, if being stingy always makes people hated, while being generous wins them popularity, it is by spending rather than hoarding that people earn a better reputation. Now, if something that is transferred to another person cannot remain with its first owner, it is only when money is given to others through generosity—and is no longer possessed—that it becomes valuable. If all this same money were ever collected from everyone who has it into the possession of one single person, it would make all the rest poor. When you speak, your whole voice fills the ears of many listeners to an equal extent. But your riches cannot be shared equally among many people without becoming smaller. When riches are divided among many, they inevitably make poorer those from whom they pass. So, it's clear how poor and barren riches really are. It is impossible for many to share them without diminishing them, or for one person to possess them without reducing all others to poverty.
+Woe, woe to him, whoever he was,  
+Who first revealed gold's hidden store,  
+And dug out (a dangerous treasure)  
+The gems that wished to stay concealed!
 
-#### The Deception of Jewels
-Perhaps your eyes are attracted by the way precious stones reflect light. But if there is any special quality in this brilliance, it is in the light of the stones themselves, not of people. So, I am astonished that people can admire them. Surely there is nothing without life to give it movement, and without structure, that a living, rational being can justifiably consider beautiful? Such things may be works of the Creator and may get some minimal beauty from their own decorative nature. But they are of a lower rank than you, a more excellent creature, and cannot in any way deserve your admiration.
+### VI.
 
-#### The Fleeting Beauty of Nature and Possessions
-Perhaps, again, you find pleasure in the beauty of the countryside. Creation is indeed very beautiful, and the countryside is a beautiful part of creation. In the same way, we are sometimes delighted by the appearance of the sea when it’s very calm. We also look up with wonder at the sky, the stars, the moon, and the sun. However, not one of these has anything to do with you personally. You dare not take credit for the splendor of any of them. The fact that flowers blossom in spring gives no special distinction to you. The swelling fullness of the autumn harvest is not your work. You are, in fact, carried away with empty joys. You embrace blessings that are foreign to you as if they were your own. I ask you, why? Fortune can never make yours what Nature has made foreign to you. Of course, the fruits of the land are meant as food for living beings. But if you wish only to satisfy your needs—and that is all Nature requires—there is no need to seek an excess from Fortune. Nature is content with few and simple things. If you try to force unnecessary additions onto what is sufficient for Nature, your bounty will become unpleasant, if not harmful.
+'What shall I say now about rank and power? Because you do not know what true power and dignity are, you hope these will raise you to the sky. Yet when rank and power have fallen to the worst of men, has any Etna, pouring out flame and fiery floods, ever done such damage?
 
-Perhaps you think that beauty means wearing all sorts of fancy clothes. But if the clothing catches my eye, my admiration will be for either the quality of the material or the skill of the tailor, not for you. If you take pleasure in having a long line of attendants to wait on you, consider two points:
-* If they are dishonest, your household is a dangerous burden and a real threat to its master.
-* If they are honest, other people’s honesty can hardly be counted as one of your own possessions.
+'Surely, I think, you remember how your ancestors wanted to abolish the consulship, which had been the foundation of their liberty, because of the arrogant pride of the consuls. You remember too that, because of that very same pride, they had already abolished the title of king.
 
-From all this, it is obvious that not one of those things you count among your blessings is actually your own blessing at all. And if, then, they don’t contain a spark of beauty worth seeking, why weep over their loss or rejoice when you keep them? If Nature gives them their beauty, how does that involve you? They would still have been pleasing by themselves, even if they were separated from your possessions. They aren’t precious because they are part of your wealth. Instead, it was because you thought them precious that you wanted to add them to your collection of riches.
+'And if, as rarely happens, these privileges are given to good men, what pleases us is only the goodness of those who use them. So it appears that honor does not come to virtue from rank. It comes to rank from virtue.
 
-#### The Emptiness of Chasing Wealth
-What exactly are you looking for in all this complaining against Fortune? Are you trying to escape poverty by having plenty? If so, it has turned out the very opposite. The more varied your precious possessions are, the more help you need to protect them. The old saying is proved correct: "He who has much, wants much." And the contrary is also true: "He needs least who measures wealth according to the needs of nature, and not by the desire to show off."
+'Look, too, at the nature of the power you find so attractive and glorious. Creatures of earth, do you never consider what you are, and over whom you exercise your imagined lordship? Suppose that among mice one should rise up and claim rights and powers for himself above all the rest. Wouldn't you laugh heartily?
 
-It seems as if you feel a lack of any real blessing of your own inside you. This feeling is driving you to seek your blessings in things that are separate and external to yourself. And so, when a being gifted with a godlike quality because of his rational nature thinks that his only splendor lies in owning lifeless goods, it is a disruption of the natural order. Other creatures are content with what is their own. But you, whose mind is made in the image of God, seek to decorate your superior nature with inferior objects. You are unaware of the great wrong you do to your Creator. It was His will that the human race should rule all earthly creatures. But you have lowered yourself to a position beneath the lowest of all. If every good thing is agreed to be more valuable than whatever it belongs to, then by your own judgment, when you consider the most worthless objects as *your* goods, you make yourself lower than those very things. And that is exactly what you deserve.
+'Yet if you look at the body alone, what creature can you find weaker than man? He is often killed by the bite of a fly, or by some insect crawling into the inner passages of his body.
 
-Indeed, the nature of humanity is this: a man stands above the rest of creation as long as he recognizes his own nature. When he forgets it, he sinks lower than the beasts. For other living things to be ignorant of themselves is natural; but for a human, it is a flaw. What an obvious mistake to think that anything can be improved by decorations that do not truly belong to it! It’s impossible. For if there is anything striking in the decoration, that is what is praised. Meanwhile, the object hidden underneath remains just as it was, in all its unattractiveness.
+'And what rights can one person exercise over another, except over the body and over what is lower than the body, by which I mean fortune? Will you bind the free spirit with your commands? Can you force a mind that reason has made firm and composed out of its proper calm?
 
-My point is that no truly good thing harms its owner—a statement you won’t disagree with. But wealth very often does harm its owners. All the most criminal people, who are therefore even more greedy for other people’s property, are convinced that they alone are worthy to possess all the gold and precious stones there are. You are shuddering now at the thought of being attacked with a club or a knife. But if you had started on the path of this life with empty pockets, you would whistle your way past any highwayman. How splendid, then, is the blessing of mortal riches! Once you get them, they never leave you carefree again."
+'A tyrant once thought he could force a freeborn man to reveal his fellow conspirators. But the prisoner bit off his own tongue and threw it in the furious tyrant's face. The tortures the tyrant meant as instruments of his cruelty, the wise man turned into an opportunity for heroism.
 
-#### A Song of a Simpler, Happier Age
+'Moreover, what can one man do to another that he may not have to suffer himself in his turn? We are told that Busiris, who used to kill his guests, was himself killed by his guest, Hercules. Regulus had put many Carthaginians captured in war into chains. Soon afterward he himself held out his hands to be chained by those he had defeated.
 
-Philosophy then sang:
-"Oh, happy was that long-lost age,
-Content with nature’s faithful fruits,
-An age that knew no lazy luxury.
-They would not eat before it was time,
-Their simple meal of acorns quickly found.
-They did not know the cleverness
-Of making honey sweeten wine,
-Or how the power of Tyrian dyes
-Could color shining silk fabrics.
+'Do you think, then, that a man has any power when he cannot prevent another from doing to him what he can do to others?
 
-A grassy couch gave them healthy sleep,
-A gliding river gave healthy drink.
-The tallest pine tree offered them shade.
-People did not plunder all the world
-And cut paths across the seas
-With goods for foreign shores.
-War horns were silent in those days,
-And blood was not spilt in bitter hate
-To horrify the reddening earth.
-What reason then for hatred,
-To seek the frenzied clash of weapons,
-When all people saw were terrible wounds
-With no reward for the blood that was spilt?
+'Besides, if rank and power contained any natural and proper good, they would never come to people who are utterly bad, since opposites do not usually go together. Nature does not allow contraries to unite. There is no doubt that wicked wretches are often placed in high positions. So it is also clear that things which allow themselves to be associated with the worst of men cannot be good by their own nature.
 
-Would that our age could now return
-To those pure ways of leading life!
-But now the passion to possess
-Burns fiercer than Mount Etna’s fire.
-Alas for the man, whoever he was,
-Who first dug up heaps of buried gold
-And diamonds that were content to hide,
-And gave us dangers of such great price!"
+'Indeed, this judgment can reasonably be made about all the gifts of fortune, since they fall so plentifully to the most wicked of all.
 
-### VI. The Illusion of Power and High Office
+'Here, I think, something else should be considered. No one doubts that a man is brave once he has seen a brave spirit living in him. Clearly, someone gifted with speed is swift-footed. In the same way, music makes people musicians, the art of healing makes them physicians, and rhetoric makes them public speakers.
 
-"I should like to say something about the honors of high office and the exercise of power," Philosophy continued. "But I am somewhat at a loss because, in your ignorance of the true nature of power and honors, people like you praise yourselves to the skies because of the offices they hold. Now, whenever high office has fallen into the hands of wicked men, the disaster has been greater than any flood or volcanic eruption. You remember, I am sure, how your ancestors wanted to abolish the consulship—even though it had been a source of freedom—because of the arrogance of the consuls. Just as before that, the same arrogance had led them to abolish the title of king. If, on the other hand, in very rare cases, these offices fall to honest men, surely the only aspect of them that is admired is the honesty of the men who hold the offices. It follows, if this is so, that honor is not given to virtue because of the office held. Instead, honor is given to the office because of the virtue of the holder.
+'Each of these naturally has its own proper effect. It is not mixed up with the effects of contrary things. In fact, by its own nature it rejects whatever is incompatible with it.
 
-However, let us examine this much-praised and much-sought-after power of yours. You creatures of earth, don’t you stop to consider the people over whom you think you have authority? You would laugh if you saw a community of mice and one mouse claiming power and control over the others. Again, think of the human body: could you find anything weaker than a human being? Often even a tiny fly can kill a person, either by its bite or by crawling into some internal part of them. The only way one person can exercise power over another is over their body and what is less important than the body—their possessions. You cannot force anything on a free mind. You cannot disturb the inner peace of a mind that is at peace with itself and firmly grounded in reason.
-
-The tyrant Nearchus thought he could torture the philosopher Zeno into betraying his fellow conspirators in a plot against him. But Zeno bit off his own tongue and threw it in the face of the enraged tyrant. Nearchus had intended the tortures to be an occasion for cruelty, but Zeno made them an opportunity for heroism. In fact, there is nothing that one person can do to another that he cannot also suffer himself at the hands of someone else. We have the story of how the Egyptian king Busiris used to kill strangers, until he himself was killed by a stranger—Hercules. And in the First Punic War, your general Regulus put chains on many Carthaginian prisoners of war. But not long afterwards, he himself was holding out his own hands to receive a conqueror’s chains. Can you, then, consider it power at all, when a person cannot ensure that someone else does not do to him what he can do to others?
+'And yet wealth cannot put out insatiable greed. Power has never made a man master of himself when vicious desires held him in unbreakable chains. And dignity given to the wicked not only fails to make them worthy. On the contrary, it reveals and displays their unworthiness.
 
-Furthermore, if there was some natural and inherent good in these honors and powers, they would never fall into the hands of evil men. Incompatible things do not usually mix, and nature rejects the combination of opposites. There is no doubt, then, that it is mostly evil men who hold these offices. It is therefore clear that these positions are not inherently good, since they can be associated with evil men. The same can be properly concluded about all of Fortune’s gifts, since they are given in greater abundance to all the most wicked people.
-
-There is another point to consider about them. No one doubts that a man in whom we have seen evidence of bravery is brave. A person gifted with speed is clearly speedy. In the same way, music makes a person a musician, medicine makes them a doctor, and rhetoric makes them an orator. For it is the nature of anything to perform its proper function. It does not get mixed up with the operations of contrary things and actually repels opposites. But riches cannot satisfy endless greed. Power does not make a person master of himself if he is imprisoned by the unbreakable chains of wicked desires. And when high office is given to unworthy men, far from making them worthy, it only betrays them and reveals their unworthiness. The reason for this is that you are used to using the wrong words for things that are by nature different. This is easily proved by their very effects. So, neither riches, power, nor high office can properly be called by these impressive names.
-And lastly, we may reach the same conclusion about Fortune as a whole. She has nothing worth pursuing and no trace of inherent good. She never associates with good men, and she does not make good those with whom she does associate."
-
-#### Nero's Destructive Reign (A Poem)
-
-Philosophy then sang of the Roman Emperor Nero:
-"We know the ruin Nero brought
-When Rome was set on fire and great men were killed.
-By his own brother’s hand, his brother was slain.
-He was stained with blood from his mother, whom he also had killed.
-He coolly examined her corpse
-With no tear to wet his cheek,
-A detached judge of cold beauty.
-
-The empire that he controlled
-Stretched then from the eastern dawn
-To where the sun sets at the close of day.
-Its northern border was where the constellations of the two Bears stand,
-Its southern limits where the scorching south wind
-Burns and bakes the dry sand.
-Could this high power, stretching east and west,
-Check Nero’s crazed madness?
-Too often Fate, hated by all,
-To savage poison adds the sword."
-
-### VII. The Insignificance of Earthly Fame
-
-Then I spoke to her and said that she was well aware of how little I had been motivated by worldly ambition. I had sought opportunities to engage in politics so that virtue should not grow old without being praised.
-
-"And that," she replied, "is the one thing that could attract minds gifted with natural excellence, though not yet perfected with the finishing touch of complete virtue—the desire for glory, the thought of being famous for the noblest services to the state. But just think how small and insignificant such fame really is.
-It is well known, and you have seen it demonstrated by astronomers, that compared to the vastness of the heavens, the entire circumference of the earth is like a tiny point. That is to say, compared with the immense size of the celestial sphere, the earth can be thought of as having no real size at all. The surface of the world, then, is small enough. And of this small surface, as you have learned from the geographer Ptolemy, only about one quarter is inhabited by living beings known to us. If, from this quarter, you subtract in your mind all that is covered by sea and marshes, and the vast areas made desert by lack of water, then hardly the smallest of regions is left for people to live in.
-
-This is the tiny point within a point, enclosed and confined, in which you dream of spreading your fame and extending your reputation. Can glory squeezed into such tight and narrow limits truly have any breadth or splendor? Remember, too, that this same narrow enclosure where we live is home to many nations. These nations differ in language, customs, and their entire way of life. Because of the difficulty of travel, the differences in speech, and how infrequently trade occurs, even the renown of great cities does not reach them, let alone the fame of individuals. Cicero mentions somewhere that in his time, the fame of Rome had still not reached the Caucasus mountains, even though the empire was then fully grown and feared by the Parthians and other peoples in the east.
-
-Surely you see, then, how cramped and limited is the fame that you are working so hard to spread and increase. You cannot expect the reputation of one Roman citizen to succeed in reaching regions where even the glorious name of Rome itself cannot reach. And what about the fact that the manners and customs of different peoples are so unalike? This means that different peoples will consider the same thing praiseworthy or punishable. A person may be pleased when their fame is published abroad. But among many peoples, it may not be beneficial at all to have their reputation spread. So, a person will have to be content when they are famous only among their own people. Their bright, immortal fame will be confined within the borders of a single nation.
-
-Many people have been famous in their time, but their memory has vanished because there were no historians to write about them. And yet, even written histories are of little use when they, like their authors, become lost in the depths of time, which makes all things obscure. When you think of your future fame, you imagine you are creating for yourself a kind of immortality. But if you think of the infinite expanse of eternity, you have little reason to take pleasure in any continuation of your name. The span of a single second can be compared with ten thousand years. But even though a second is tiny, it still has some value in proportion, because each is a finite measure of time. However, ten thousand years, or any multiple of it no matter how great, cannot be compared with unending eternity. For while finite things can be compared with one another, the finite and the infinite can never be compared. So, however long the life of your fame may be, when compared with unending eternity, it is shown to be not just little, but nothing at all.
-
-You, however, don’t know how to act uprightly except with an eye toward popular approval and empty reputation. You ignore those excellent qualities—a good conscience and virtue—and you chase your reward in the common gossip of people. Listen while I tell you how cleverly someone once ridiculed the shallowness of this kind of pride. A certain man once harshly criticized another man for falsely claiming the title of ‘philosopher.’ The critic said the man did this more to satisfy his excessive pride than to practice true virtue. The critic added that he would accept the title was justified if the man could suffer attacks against him with patience and calmness. For a time, the accused man did show patience. After accepting the insults, he asked with a sneer whether the other now agreed that he was a philosopher. ‘I would have,’ came the reply, ‘if you had not spoken.’ (Implying that his impatient, sneering question showed he lacked true philosophical composure.)
-
-But we are considering great men, men who seek fame for their virtue. What do they care about reputation when the body grows lifeless in death, which ends all things? If the whole of a person dies, body and soul—a belief which our reason forbids us to accept—then fame is nothing at all, since the person who is said to have won it doesn’t exist. But if the mind stays conscious when it is freed from its earthly prison and seeks out heaven in freedom, surely it will despise every earthly affair. In the experience of heaven, it will rejoice in its liberation from earthly things."
-
-#### The Futility of Earthly Fame (A Poem)
-
-Philosophy then sang:
-"Let him whose headstrong thoughts have no other end
-Than praise, nor contemplate a higher purpose
-Than fame, look at the width and breadth of heaven
-And compare its magnitude with the narrow earth.
-This narrow circle of the world
-– Oh, what a shame! – his spreading glory cannot fill.
-Why do the proud try so hard to escape
-The destined yoke of human mortality?
-
-Fame may spread to peoples far away,
-And as she spreads, may loosen the tongues of men.
-The house may shine with radiant honors.
-But Death, who levels all, despising glory’s pride,
-In scorn of rank, brings down all alike,
-The mighty made equal to the humble.
-Where now are the bones of staunch Fabricius?
-Where lies unbending Cato, where is Brutus?
-A little fame lives on, inscribed in stone,
-A line or two of empty reputation.
-We know their splendid names, but not their selves.
-You, too, lie utterly unknown to people,
-And no renown can make you truly well-known.
-For if you think that fame can lengthen life,
-By being made immortal through mortal famousness,
-The day will come that takes your fame as well,
-And there a second death awaits for you."
-
-### VIII. The Unexpected Benefits of Bad Fortune
-
-"But I don’t want you to think I am rigidly opposed to Fortune," Philosophy said. "There are times when she stops deceiving and actually helps people. I mean when she reveals herself, when she throws off her disguise and admits what game she is playing. Perhaps you still don’t understand what I’m saying. What I want to say is a paradox, a contradiction, so I am hardly able to put it into words. For I think that bad fortune is actually more useful to a person than good fortune.
-
-Good fortune always seems to bring happiness, but she deceives you with her smiles. Bad fortune, on the other hand, is always truthful because by changing, she shows her true fickleness. Good fortune deceives, but bad fortune enlightens. With her display of false riches, good fortune enslaves the minds of those who enjoy her. Bad fortune, however, gives people release by helping them recognize how fragile a thing happiness truly is. And so, you can see Fortune in one way as unpredictable, wayward, and ever-changing. But in another way, you can see her as serious, prepared, and made wise by the experience of her own adversity.
-
-And lastly, good fortune, with her flattery, lures people away from the path of true good. But adverse fortune frequently draws people back to their true good, like a shepherdess guiding her flock with her crook. Do you think it is a small thing that this harsh and terrible misfortune has revealed to you those friends whose hearts are loyal to you? She has shown you the friends whose smiles were true smiles, and those whose smiles were false. In deserting you, Fortune has taken her so-called friends with her and left those who are really yours. If you had remained untouched and, as you thought, blessed by Fortune, you would have been unable to gain such knowledge at any price. So, you are weeping over lost riches when you have really found the most precious of all riches—friends who are true friends."
-
-#### The Cosmic Harmony of Love (A Poem)
-
-Philosophy concluded Book II with this song:
-"The world, in constant change,
-Maintains a perfect harmony.
-And elements, whose nature is to war,
-Keep peace among themselves.
-The sun, in its golden chariot,
-Draws forth the rosy day,
-And evening brings the night
-When Luna, the moon, holds her sway.
-The tides, in fixed limits,
-Confine the greedy sea;
-No waves shall overflow
-The rolling fields and meadows.
-
-And all this chain of things
-In earth and sea and sky,
-One ruler holds in hand: Love.
-If Love relaxed the reins,
-All things that now keep peace
-Would wage continual war
-And wreck the great machine of the universe,
-Which Love maintains with unity
-And beautiful motions.
-
-Love, too, holds peoples joined
-By the sacred bond of treaties,
-And weaves the holy knot
-Of marriage’s pure love.
-Love proclaims the laws
-For friendship’s faithful bond.
-Oh, happy race of men,
-If Love, who rules the sky,
-Could rule your hearts as well!"
-
-## Book III
-
-### I. The Journey to True Happiness Begins
-
-Philosophy had stopped singing. The magic of her song left me completely spellbound. I was captivated and wanted to keep listening. After a moment, I spoke to her.
-"You are the greatest comfort for tired spirits," I said. "Your wise ideas and your delightful singing have refreshed me so much that I now feel capable of facing Fortune's attacks. You were talking earlier about cures that were rather sharp. The thought of them no longer makes me shudder. In fact, I’m so eager to hear more that I strongly beg you to share them."
-
-"I knew it," she replied. "Once you began to hang on my words in silent attention, I was expecting you to feel this way. Or rather, to be more exact, I myself created this feeling in you. The remedies that are still to come do, in fact, taste bitter on the tongue at first, but they grow sweet once they are absorbed.
-But you say you are eager to hear more. You would be more than eager if you knew the destination I am trying to bring you to."
-
-I asked what that destination was.
-She told me, "It is **true happiness**."
-"Your mind dreams of it," she said, "but your vision is clouded by mere shadows of happiness, so you cannot see the reality."
-I begged her to lead on and show me the nature of true happiness without delay.
-"For you," she said, "I will do so gladly."
-
-"But first," she continued, "I will try to describe and sketch an idea of what causes happiness. Then, with a proper understanding of that, you will be able to turn your gaze in a different direction and recognize the pattern of true happiness."
-
-#### Preparing the Mind for Truth (A Poem)
-
-Philosophy then sang:
-"Whoever wants to plant seeds in new soil
-First clears the fields of weeds and bushes.
-They cut back thick ferns and brambles with a scythe
-And clear the way for crops of healthy wheat.
-
-The tongue that first has tasted bitter food
-Finds honey, gathered by bees, even sweeter.
-And stars shine out more pleasingly to the eye
-After the rain-bringing south wind has stopped.
-
-First, the morning star chases away the night,
-Then beautiful day drives in his rosy chariot.
-You, too, have seen the face of false good.
-You are starting to lift your neck from its painful grip.
-And now, true good shall enter your mind."
-
-### II. The Common Goal: Happiness and Its False Paths
-
-Philosophy stood looking at the ground for a while, as if she had retreated deep into her thoughts. Then she began to speak again.
-
-"In all the careful effort with which they work at countless tasks, mortal people travel by different paths. However, all are striving to reach one and the same goal: **happiness**. Happiness, or **beatitude**, is a good which, once you obtain it, leaves nothing more to be desired. It is the perfection of all good things and contains in itself everything that is good. If anything were missing from it, it couldn’t be perfect, because something would remain outside it which could still be wished for. It is clear, therefore, that happiness is a state made perfect by the presence of everything that is good. It is a state which, as we said, all mortal people are striving to reach, though by different paths. The desire for true good is planted by nature in human minds; only error leads them astray towards false good.
-
-#### Mistaken Roads to Happiness
-Some people believe that perfect good consists in having no wants. So, they work hard in order to end up surrounded by great wealth.
-* Some think that the true good is that which is most worthy of respect. So, they struggle for important positions in order to be respected by their fellow citizens.
-* Some decide that true good lies in the highest power. They either want to be rulers themselves or try to become close to those in power.
-* Others think that the best thing is fame. They busy themselves to make a name for themselves in the arts of war or peace.
-* But most people measure the possession of good by the amount of enjoyment and delight it brings. They are convinced that being abandoned to pleasure is the highest form of happiness.
-
-Others confuse ends and means regarding these things. For example, some people desire riches for the sake of power and pleasure. Others want power for the sake of money or fame. So, it is in these and similar goals that the aim of human activity and desire is found. People seek fame and popularity, which seem to give a kind of renown. They seek a wife and children for the sake of the pleasure they provide. As for friendship, the purest kind is counted as a mark of moral worth, not good fortune. But all other kinds of friendship are pursued for the sake of power or pleasure.
-
-Now, it is clear that physical gifts are aspects of higher blessings:
-* Bodily strength and size clearly give a person might.
-* Beauty and speed bring renown.
-* Health brings pleasure.
-
-Through all of this, it is clear that the only thing people truly desire is happiness. Each person considers whatever they desire above all else to be the supreme good. We have already defined the supreme good as happiness. So, the state that each person desires above all others is judged by them to be a state of happiness.
-So, here you have the general pattern of what humans consider happiness: wealth, position, power, fame, and pleasure. Taking only these into account, the philosopher Epicurus very consistently stated that pleasure was the highest good, because all the other things ultimately bring enjoyment to the mind.
-
-But to return to what people pursue. Despite a clouded memory, the human mind seeks its own good, though like a drunkard, it cannot find the path home.
-* No one would say that people who strive to have everything they want are wrong. In fact, there is nothing else that could so successfully create happiness as a condition supplied with everything that is good—a condition of self-sufficiency, with no wants.
-* No one, again, would say those people are wrong who think that that which is most worthy of respect and honor is the best. It is no cheap or worthless thing that almost all humankind works so hard to possess.
-* Power, too, must be counted among the things that are good. For something that is agreed to be superior to all things can hardly be considered weak and powerless.
-* And again, fame can’t be considered valueless. It can’t be ignored because anything that is of great excellence is also greatly renowned.
-* It is obviously true that happiness is a state free from anxiety, sadness, and the burden of grief and suffering. Even in small matters, what people look for is something that gives delight when they possess and enjoy it.
-
-These, then, are the things people long to obtain. They want riches, position, property, glory, and pleasures because they believe that through these things they will achieve self-sufficiency, respect, power, celebrity, and happiness. This is the good that people are looking for in such a variety of pursuits. And it is not difficult to see the hand of nature in this. Despite the variety and difference of their opinions, people agree in choosing the good as their goal."
-
-#### Nature's Unbreakable Laws (A Poem)
-
-Philosophy then sang:
-"It is my pleasure to sing with gentle strings
-How mighty Nature holds the reins of all things,
-And how she makes her laws in careful providence,
-Which keep the immense globe in fixed movements.
-How she binds and restrains each thing individually
-With such a bond that nothing can disturb.
-
-Although the lion may wear decorated chains,
-Although he is subject to the whip’s pains,
-Although he may fear his tamer and will stand
-To catch at pieces of food from an outstretched hand,
-Let blood just once touch his bristling jaws,
-His hidden spirit will return and cause
-Him, with a roar, his old self to recall,
-And break the chains that from his neck will fall.
-First, limb from limb, the tamer then is torn,
-Whose newly spilt blood increases the rage reborn.
-
-A bird which chattered noisily when free
-Is taken from the tree and put into a cage.
-Though cups are set there, all sweet with honey,
-And food in plenty is given with the sweetest care
-By men in their delight,
-It flutters in the cage and catches sight
-Of where the pleasant woodland shade is cast.
-The food beneath its feet is quickly scattered.
-Now, for the woods alone she sadly longs;
-For the woods alone she sings her whispered songs.
-
-Forced by strong hands, the flexible young tree branch obeys;
-Its bended head down to the ground it lays.
-But when those hands stop bending the branch,
-Its head springs up again to face the sky.
-
-The sun into the western waves descends,
-Where underground a hidden way it travels.
-Then to its rising in the east it comes again.
-All things seek the place that best suits them.
-Each thing rejoices when this place is found again.
-For nothing keeps the order it first received
-Unless its rising eventually bends to its fall,
-And makes itself a circle without end."
-
-### III. Examining False Paths: Wealth
-
-"You earthly creatures," Philosophy continued, "you also dream of your origin, however faint the vision. You do have some sort of notion, unclear as it is, of the true goal of happiness. So, an instinctive sense of direction actually guides you towards the true good; only various errors lead you astray.
-Consider, therefore, whether people really can reach their chosen goal by the means with which they think they are going to win happiness or blessedness. If money or position or the other common pursuits do bring about some sort of condition which doesn’t seem to lack any of the good things, I will join you in admitting that some people do become happy through possessing them. But if money and the rest can’t achieve what they promise, and are actually lacking in the greater number of good things, it will be quite obvious that in them, people are grasping at a false appearance of happiness.
-
-#### Wealth Cannot Bring True Self-Sufficiency
-So first I will ask you a few questions, since you yourself were a wealthy man not long ago. In the midst of all that great store of wealth, was your mind never troubled by worry that came from a feeling that something was wrong?"
-"Yes, it was," I replied. "In fact, I can’t remember when my mind was ever free from some sort of worry."
-
-"And that worry was either because something was missing that you didn’t want to be missing, or because something was present that you would have preferred not to be present?"
-"Yes, that's right."
-"So you wanted the presence of one thing and the absence of another?"
-"Yes."
-"Now, a person must be lacking something if they miss it, mustn’t they?"
-"Yes."
-"And if a person lacks something, they are not in every way self-sufficient?"
-"No, they are not."
-"And so you felt this lack of sufficiency even though you were supplied with wealth?"
-"Yes, I did."
-
-"So, wealth cannot make a person free of want and self-sufficient, though this was the very promise we saw it offering. And this, too, I think, is a point of great importance: money has no natural quality that stops it from being taken away from those who possess it, against their will."
-I had to agree.
-
-"You can hardly do otherwise," she continued. "It often happens that someone stronger takes money from another against his will. What else are lawsuits for, except to recover money that has been stolen by fraud or violence?"
-"That is true," I said.
-"So, a person will need outside help to protect their money?"
-"Yes."
-"But they wouldn’t need that help if they didn’t possess any money that could be lost?"
-"No, they wouldn't."
+'Why does this happen? Because you like to call things by false names that do not fit their nature at all, names easily proved false by the very effects of the things themselves. That is exactly how it is: these riches, that power, this dignity, none of them deserves its name.
 
-"So the situation has been reversed. Wealth, which was thought to make a person self-sufficient, actually makes them dependent on outside help. In that case, how do riches remove want? If you say that rich people do have the means to satisfy hunger and drive away thirst and cold, I will reply that although want can be temporarily relieved in this way by riches, it can’t be entirely removed. Every hungry and demanding want may be satisfied with the help of riches, but the basic condition of *wanting*—the capacity to want something—necessarily still remains. There is no need for me to mention that nature is satisfied with little, whereas greed is satisfied with nothing. So, if riches, far from being able to remove want, actually create a want of their own (the want to protect them or get more), there is no reason for you to believe that they provide self-sufficiency."
+'Finally, we may draw the same conclusion about the whole realm of Fortune. Plainly there is nothing in it truly worth desiring, nothing excellent in itself. For she does not always attach herself to good people, and she does not make good people of those she attaches herself to.'
 
-#### The Anxieties of Riches (A Poem)
+### SONG VI. Neros' Infamy.
 
-Philosophy then sang:
-"Though a strong desire for gold urges the rich man on
-To gather wealth that cannot satisfy his greed,
-Though heavy pearls from Persia weigh down his head in adornment,
-And scores of oxen till his acres of land,
-Each day he lives, he’ll ache with gnawing care,
-And when he’s dead, his fickle fortunes will forsake him."
+We know the dreadful harm he did:  
+Rome set ablaze, the senators slain.  
+His hand, still wet with his brother's blood,  
+Was stained with his mother's blood as well.
 
-### IV. Examining False Paths: High Office
+No tear of pity wet his cheek  
+As he gazed upon her corpse;  
+That mother's beauty, once so fair,  
+He judged with a critic's voice.
 
-"But it is said," Philosophy continued, "that when a man comes to high office, that makes him worthy of honor and respect. Surely such offices don’t have the power of planting virtue in the minds of those who hold them, do they? Or of removing vices? No, the opposite is true. More often than removing wickedness, high office brings it to light. This is why we are angry at seeing how often high office has been given to the most wicked of men. It's why the poet Catullus called a certain official named Nonius a kind of 'malignant growth,' despite the office he held.
+Yet far and wide, from East to West,  
+The nations bow to his rule;  
+The scorching South and icy North  
+Obey his will alone.
 
-Surely you can see how much disgrace high office heaps upon evil people? If they don’t become famous because of appointments to high office, their unworthiness will be less noticeable. And was it possible that so much danger could lead you, too, eventually to think of taking office alongside someone like Decoratus? Surely you could see he had a thoroughly evil mind, the mind of a hanger-on and an informer? We can scarcely consider men worthy of respect on account of the offices they hold, if we judge them unworthy of those very offices! But if you saw a man endowed with wisdom, you would hardly think him unworthy of respect, or unworthy of the wisdom he possessed, would you?"
-"No, I wouldn't," I replied.
-
-"That's because virtue has her own individual worth," Philosophy explained. "She immediately transfers that worth to whoever possesses her. But since public offices cannot do this, it is clear that they have no beauty or worth of their own.
+Did high power, then, set any curb  
+On Nero's frenzied will?  
+Ah, woe when to the evil heart  
+Is joined the sword to kill!
 
-There is another point we should especially note: if a man is more worthless the more widely he is despised, then high office makes men more despised. This is because high office displays men to the public gaze but cannot make them worthy of respect. But this does not happen without consequences. Wicked men give a similar return to the offices they hold: they discredit them through contact with themselves.
+### VII.
 
-But I want you to see how true respect cannot be obtained through the flimsy honors of high office. Take the example of a man who has been consul many times and happens to travel among foreign peoples. Would his offices make him respected by them? If being respected were a natural property of high offices, they would never fail to have this effect anywhere in the world, just as fire is always hot anywhere on earth. But since it is the false opinion of men that connects offices with this function, and not some inherent property, as soon as these officials reach people who don’t consider their positions as honors, their status comes to nothing.
+Then I said: 'You know yourself that ambition for worldly success has had little hold on me. Yet I have wanted opportunities for action, so that virtue would not waste away for lack of exercise.'
 
-This is what happens among foreigners. But do these honors last forever even in their country of origin? There was a time when the praetorship was an office of great power. But now it is no more than an empty name and a heavy burden on the finances of the senatorial class. And once upon a time, if a man was in charge of the corn supplies, he was considered a great man. But now, no office is lower. For as we said just now, if a thing has no beauty of its own, its dignity varies at different times according to the opinion of the people who use it.
+Then she said: 'This is that "last infirmity" that can tempt minds which, though noble in quality, have not yet been shaped to perfect refinement by the full development of the virtues. I mean the love of glory, and of fame for great services to the commonwealth.
 
-If, therefore, high offices cannot make people worthy of respect, and if, furthermore, they become tarnished by contact with evil men; if their splendor can disappear with the change of time, and if they become cheap in the estimation of foreign peoples—then, without even asking what beauty they can give, what beauty worth desiring do they even possess?"
+'Yet consider with me how poor and insubstantial this glory is. As you have learned from the proofs of astronomy, the whole globe of the earth, compared with the expanse of the heavens, is no bigger than a point. Measured against the vastness of heaven's sphere, it is judged to take up no space at all.
 
-#### The Stain of Wicked Rulers (A Poem)
+'Of this tiny portion of the universe, only about a fourth part, as Ptolemy's proofs have taught us, is inhabited by living creatures known to us. If you mentally subtract from this fourth everything taken up by seas and marshes, or lying as vast, waterless desert, barely a very narrow area is left for people to live in.
 
-Philosophy then sang:
-"Although the proud lord Nero clothed himself
-In purple robes and white gemstones,
-Yet Nero grew to be hated by all people,
-A wild and cruel pleasure-seeker.
-At times, this evil man would give
-Lowly office to respected elders;
-But who could think those honors good
-Which wretched men bestowed on them?"
+'You, then, who are shut in and imprisoned in the smallest fraction of a point, do you really concern yourselves with proclaiming your fame and spreading your reputation? What breadth or grandeur can glory have when it is confined within such narrow and petty limits?
 
-### V. Examining False Paths: Power and Royal Favor
-
-"Can being a king or being the friend of a king give a man power?" Philosophy asked. "If the answer is ‘Yes, because their happiness lasts without interruption,’ I shall reply that history, and our own times too, are full of examples of kings who exchanged happiness for ruin. What a splendid thing power is, when we find it insufficient even for its own preservation!
-
-Now, if kingly power is a source of happiness, any lack in it means a reduction of happiness and the introduction of unhappiness, doesn’t it? Whatever the size of human empires, it is inevitable that many people are left unruled by any king. And wherever the power that makes men happy comes to an end, lack of power enters and makes them miserable. So, it necessarily follows that kings have a larger share of misery. Dionysius, the Tyrant of Syracuse, knew well enough the dangers of his position. He illustrated the fears of kingship to Damocles by making a sword dangle over his head by a single hair.
-
-What is this power, then, which cannot banish the nagging of worry or avoid the pin-prick of fear? Kings would like to live free from worry, but they can’t. And then they boast of their power! Do you think of a man as powerful when you see him lacking something which he cannot achieve? Do you consider powerful a man who goes about with a bodyguard because he is more afraid than the subjects he terrorizes, and whose claim to power depends on the will of those who serve him?
-
-And what should I say about the friends of kings, when I can show that kingship itself is full of such weakness? They are often brought down while the royal power remains unharmed, but often too when it collapses. The decision to commit suicide was forced upon Seneca by the very Nero whose friend and mentor he had been. And Papinian, who had long been a powerful figure in the court, was thrown to the soldiers’ swords by the emperor Caracalla."
-
-Each of them was willing to give up his power. Seneca even tried to give his money to Nero and go into retirement. But like men who lose their footing and are pulled down by their own weight, neither was able to achieve what he wanted.
-
-What sort of power is it, then, that strikes fear into those who possess it? What power confers no safety on you if you want it, and which cannot be avoided when you want to give it up? There is no support, either, in friends you acquire because of your good fortune rather than because of your personal qualities. The friend that success brings you becomes your enemy in times of misfortune. And there is no evil more able to do you injury than a friend who has turned into an enemy."
-
-#### The True King is Master of Himself (A Poem)
-
-Philosophy then sang:
-"Whoever wants to wield high power
-Must first tame his own fierce passions.
-His heart must not cower before evil
-Or bow to the terrible grip of lust.
-
-For even if distant India may tremble
-Beneath your mighty rule,
-And even if Thule, far in the Northern sea,
-May bow beneath your control,
-If you are a prey to care and want,
-You are no king, but a slave."
-
-### VI. The Emptiness of Fame and Nobility
-
-"Fame, in fact, is a shameful thing, and so often deceptive," Philosophy said. "The playwright Euripides was right to make Andromache cry out: 'Oh Fame, oh Fame! You have lifted up many a man of no real account to a high position before now.'
-
-Indeed, many men have wrongly acquired fame through the false opinions of the people. There is nothing more shameful than that. Men who are praised without justification cannot help but blush at the praise they receive. And even if the praise is deserved, it cannot add anything to a philosopher’s feelings. A philosopher measures happiness not by popularity, but by the true voice of his own conscience.
-
-If it is thought a fine achievement to have spread this fame far and wide, it follows that it must be judged shameful not to have spread one’s fame. But, as I said just a little while ago, there must necessarily be many peoples to whom the reputation of one single man can never reach. So, you may consider a man famous, but people in the next part of the globe will never even have heard of him. This is why I don’t consider popularity worth mentioning in this list of supposed goods. Its acquisition is based on chance, and keeping it is continuously uncertain.
-
-As for the claim to nobility, no one is blind to how vain and worthless that is. If nobility comes from fame, it is a borrowed nobility. It is clearly a kind of praise that comes from the deeds of one’s parents. Fame is the product of praise, and it is logical that it is those who are praised who become famous. Therefore, the praise of someone else cannot make you noble unless you are famous in your own right. If there is anything good in nobility, I think it is only this: that a necessary condition is placed upon noble people not to fall short of the virtue of their ancestors."
-
-#### True Nobility Comes from God (A Poem)
-
-Philosophy then sang:
-"From one single beginning rises all mankind;
-For one Lord rules and is the father of all things born.
-He gave the sun his light, and the moon her horns (crescent shape).
-He gave men to the earth and stars to decorate the sky.
-He enclosed in bodies minds that He brought down from high,
-A noble origin for all mortal people.
-
-Why then do you proclaim your family and your ancestry?
-Look to where you came from and see who made you: God.
-No person is lowly except when, through sin, they abandon
-Their proper source to cherish lesser things."
-
-### VII. The Deception of Bodily Pleasure
-
-"Of bodily pleasure, I can think of little to say," Philosophy stated. "Its pursuit is full of anxiety, and its fulfillment is full of remorse. Frequently, like a kind of reward for wickedness, it causes great illness and unbearable pain for those who make bodily pleasure their source of enjoyment. I do not know what happiness lies in its passions. But everyone who cares to recall his own excesses knows that the end of pleasure is sorrow. If bodily pleasure can produce happiness, then there is no reason to deny that animals are happy, since their whole aim in life is directed towards fulfilling bodily needs.
-
-The pleasures derived from a wife and children are indeed usually honest and good. But there is a story, all too natural, that a certain man found his own children to be tormentors. How painful the condition of every such man is, there is no need to remind you, since you have experienced such conditions yourself, and are still not free from anxiety. So I agree with my Euripides when he said that the childless man was fortunate in his misfortune."
-
-#### The Sting of Pleasure (A Poem)
-
-Philosophy then sang:
-"All pleasures have one quality that is alike:
-They drive their devotees onward with sharp prods.
-And like a swarm of bees upon the wing,
-They first pour out their honey loads,
-Then turn and strike their victim’s heart
-And leave behind their deep-set sting."
-
-### VIII. The Failure of False Goods and the Illusion of Bodily Beauty
-
-"There is no doubt, then," Philosophy declared, "that these roads to happiness are mere side-tracks. They cannot bring us to the destination they promise. The evils with which they are troubled are great, as I will briefly show you.
-* If you try to hoard money, you will have to take it by force from others.
-* If you want to shine in the honors of high office, you will have to grovel before the person who gives out those honors. In your desire to outdo others in high honor, you will have to cheapen and humiliate yourself by begging.
-* If you want power, you will have to expose yourself to the plots of your subjects and run dangerous risks.
-* If fame is what you seek, you will find yourself on a hard road, drawn this way and that until you are worn out with care.
-* If you decide to lead a life of pleasure, there will be no one who will not reject you with scorn as the slave of that most worthless and fragile master, the human body.
-
-For think how tiny and fragile a thing people strive to possess when they set the good of the body before them as their aim. As if you could surpass the elephant in size, the bull in strength, or the tiger in speed! Look up at the vault of heaven. See the strength of its foundation and the speed of its movement, and stop admiring things that are worthless. Yet the heavens are less wonderful for their foundation and speed than for the divine order that rules them.
-
-The sleek looks of physical beauty are fleeting and temporary, more short-lived than blossoms in spring. If, as Aristotle said, we had the piercing eyesight of the mythical Lynceus and could see right through things, even the body of an Alcibiades—so fair on the surface—would look thoroughly ugly once we had seen the organs inside. Your own nature doesn’t make you look beautiful. It is due to the weak eyesight of the people who see you. Think how excessive this desire for the good of the body is, when, as you know, all that you admire can be reduced to nothing by just three days of burning fever.
-
-The sum of all this is that these things—wealth, office, power, fame, and pleasure—are not the way to happiness. They cannot by themselves make people happy because they can neither produce the good they promise, nor can they achieve perfection by the combination of all good things."
-
-#### Mankind's Misguided Search (A Poem)
-
-Philosophy then sang:
-"Alas, what wretched ignorance leads
-Mankind astray from the true path!
-Who looks on spreading branches for gold,
-Or on vines for precious jewels?
-What man sets nets on mountain-tops
-For feasts of rich sea-food?
-What huntsman has pursued the wild goat
-Upon the sea?
-
-Men know the very depths of the ocean
-Beneath the waves on high.
-They know which shore is rich with pearls,
-Which shores offer purple dye.
-They know the bays for tender fish,
-And where to try for shellfish.
-But in their blindness, they do not know
-Where the good they truly seek lies.
-That which is higher than the sky,
-They seek on earth below.
-
-What can I wish for you foolish men?
-Go on, pursue wealth and fame!
-And when great toil wins you a false reward,
-Then may you finally see what is true!"
-
-### IX. Unveiling True Happiness as a Unified Good
-
-"I have said enough to give a picture of false happiness," Philosophy stated. "If you can see that clearly, the next thing is to show what true happiness is like."
-"I do indeed see," I replied, "that self-sufficiency has nothing to do with riches, power has nothing to do with kingship, respect with honors, glory with fame, or true joy with pleasures."
-"But have you grasped the reasons for this?" she asked.
-"I think I can see a glimmer of them," I said, "but I would like to learn of them more clearly from you."
-
-"The reason is very clear," Philosophy explained. "That which is naturally one and undivided is mistakenly subdivided and removed by people from the state of truth and perfection to a state of falseness and imperfection. Do you consider self-sufficiency to be a state that is lacking in power?"
-"Not at all," I said.
-"Of course not," she agreed. "For if a being had some weakness in some respect, it would necessarily need the help of something else."
-I agreed.
-"So, self-sufficiency and power are of one and the same nature."
-"So it seems," I replied.
-
-"Would you then consider a being of this kind—self-sufficient and powerful—beneath contempt, or, on the contrary, supremely worthy of veneration and respect?"
-"The latter, there is no doubt about it."
-"Then let us add the state of being revered to self-sufficiency and power, so that we may judge all three to be one."
-"We must," I said, "if we care to admit the truth."
-
-"What do you think, then?" she asked. "Would such a combination be unrecognized and unknown, or famous and renowned? Granted that it lacks nothing, possesses all power, and is supremely worthy of honor, ask yourself whether it would lack a glory which it cannot provide for itself, and therefore whether it seems of only qualified merit."
-"I can only say," I responded, "that given its nature, it would be unsurpassed in fame and glory."
-"And consequently," she said, "we may say that fame, glory, and renown are nothing different from the three qualities we have already discussed."
-"Yes," I agreed.
-
-"If there were, then, a being that is self-sufficient, able to accomplish everything from its own resources, glorious, and worthy of reverence, surely it would also be supremely happy?"
-"How any sorrow could approach such a being is inconceivable," I said. "It must be admitted that provided the other qualities are permanent, it will be full of happiness."
-"And for the same reason," Philosophy concluded, "this conclusion, too, is inescapable: self-sufficiency, power, glory, reverence, and happiness differ in name but not in substance. They are all one."
+'Besides, the cramped limits of this small dwelling place are home to many nations that differ widely in language, customs, and way of life. Because travel is difficult, languages differ, and trade is lacking, the fame not only of individual men but even of cities cannot reach many of these peoples.
+
+'In Cicero's day, as he himself points out somewhere, the fame of the Roman Republic had not yet crossed the Caucasus, even though by then her name had become fearsome to the Parthians and other nations in those regions. Do you see, then, how narrow and confined is the glory you work so hard to spread and extend? Can the fame of a single Roman reach where the glory of the Roman name cannot pass?
+
+'Moreover, the customs and institutions of different peoples do not agree, so that what is thought praiseworthy in one country is thought punishable in another. So if anyone loves the applause of fame, it will do him no good to make his name known among many peoples.
+
+'Each person, then, must be content to have his glory limited to his own people. The splendid immortality of fame must be confined within the borders of a single nation.
+
+'Again, how many who were famous in their own times have been lost to oblivion for want of anyone to record them! And what good are written records themselves? After a somewhat longer time, they too, along with their authors, are overtaken by the dimness of age.
+
+'Yet when you think about future fame, you imagine that you are creating an immortality for yourselves. But if you consider the infinite spaces of eternity, what room is left for you to rejoice in how long your name will last?
+
+'If a single moment is compared with ten thousand years, it has a certain relative duration, however small, since each period is definite. But that same number of years, and even a number many times greater, cannot even be compared with endless duration. Finite periods can in a way be compared with one another, but a finite period can never be compared with an infinite one.
+
+'So fame, however many years it may extend across, seems not merely short-lived but nothing at all when compared with eternity, which never grows less.
+
+'But you do not know how to act rightly unless it is to court the breeze of popularity and win the empty applause of the crowd. Indeed, you abandon the supreme worth of conscience and virtue, and ask for your reward from the poor words of others.
+
+'Let me tell you how cleverly someone once mocked the shallowness of this kind of arrogance. A certain man attacked another who had taken on the name of philosopher as a cover for pride and vanity, not in order to practice real virtue. He added: "Now I shall know whether you are a philosopher, if you bear insults calmly and patiently."
+
+'For a while the other put on a show of patience. After enduring the abuse, he cried out mockingly: "*Now* do you see that I am a philosopher?" The first man replied with biting sarcasm: "I would have, if you had kept quiet."
+
+'Moreover, what concern do exceptional spirits have with fame after the body has been dissolved in death's final hour? It is such men we are speaking of: men who seek glory through virtue.
+
+'If men die completely, which our reasoning forbids us to believe, then there is no such thing as glory at all, since the person to whom the glory is said to belong does not exist at all. But if the mind, aware of its own uprightness, is released from its earthly prison and seeks heaven in free flight, does it not despise all earthly things as it rejoices in its release from earthly bonds and enters the joys of heaven?'
+
+### SONG VII. Glory may not last.
+
+Let the one who longs for glory's reward,  
+Thinking glory all in all,  
+Look and see how wide the heavens stretch,  
+And how small the earth's enclosing bounds!
+
+It is shameful if your proud, swelling glory  
+Cannot even fill this narrow room!  
+Why, then, do you strive so vainly, proud ones,  
+To escape your mortal fate?
+
+Though your name, reported in distant regions,  
+Spreads widely over the earth,  
+Though many lofty-sounding titles  
+Shed their luster on your house,
+
+Death scorns all this pomp and glory  
+When his hour draws near,  
+Shrouds alike the exalted and the humble,  
+Levels the lowest and the highest.
+
+Where now are the bones of steadfast Fabricius?  
+Brutus, Cato: where are they?  
+Lingering fame, with a few carved letters,  
+Displays their empty names.
+
+But we cannot know the great dead  
+From a gilded name alone;  
+No, you all alike must lie forgotten;  
+It is not *you* that fame makes known.
+
+Foolishly you think life's little hour  
+Is lengthened by fame's mortal breath;  
+But when this too is taken from you,  
+A second death waits at the last.
+
+### VIII.
+
+'But so that you will not think I am waging relentless war against Fortune, I admit there is a time when the deceitful goddess serves people well. I mean when she reveals herself, uncovers her face, and confesses her true character.
+
+'Perhaps you do not yet grasp my meaning. What I am trying to express is strange, and for this reason I can hardly find words to make my thought clear. For I truly believe that Ill Fortune is more useful to people than Good Fortune.
+
+'Good Fortune, when she takes on the appearance of happiness and seems most affectionate, is always lying. Ill Fortune is always truthful, since by changing she shows how inconstant she is. The one deceives; the other teaches.
+
+'The one binds the minds of those who enjoy her favor with the appearance of a false good. The other sets them free by teaching them how fragile happiness is. So you can see the one fickle, shifting like the breeze, and always deceived about herself. The other is sober-minded, alert, and wary, trained by the very discipline of hardship.
+
+'Finally, Good Fortune, by her temptations, draws people far from the true good. Ill Fortune often drags them back to the true good as if with grappling hooks.
+
+'Again, do you think it should be counted a small gift that this cruel, hateful Fortune has revealed to you the hearts of your faithful friends? The other Fortune hid from you the faces of true friends and false alike. But in departing, this one has taken away *her* friends and left you *yours*.
+
+'What price would you not have paid for this service at the height of your prosperity, when you thought yourself fortunate? Stop, then, seeking the wealth you have lost, since in true friends you have found the most precious of all riches.'
+
+### SONG VIII. Love is Lord of all.
+
+Why are Nature's changes bound  
+To a fixed and ordered cycle?  
+What has bent into allied peace  
+Every warring element?  
+Why does the rosy dawn  
+Rise carried on Phoebus' chariot?  
+Why should Phoebe, the moon, rule the night,  
+Led by Hesperus, the evening star?  
+What power holds back  
+The restless sea in its place,  
+So that it keeps within fixed limits  
+And does not sweep across the earth in flood?  
+It is Love that holds the chains,  
+Love that reigns over sea and earth;  
+Love—who else but sovereign Love?—  
+Love, high lord in heaven above!  
+Yet if he should relax his care,  
+All that is now so closely joined  
+In sweet love and holy peace  
+Would never again cease from conflict,  
+But with the rough shock and clash of strife  
+Would wreck the world's beautiful fabric.
+
+Love unites tribes and nations  
+Through the sacred rites of just treaties;  
+He makes the bonds of marriage holy  
+With the gentlest ties of affection.  
+Love lays down, as is right,  
+Faithful laws for loyal companions.  
+Love, all-sovereign Love! Oh, then,  
+You are blessed, you children of humankind,  
+If the love that rules the sky  
+Is enthroned on high within your hearts!
+
+## Book 3: True Happiness and False
+
+### I.
+
+She stopped singing, but I stood motionless, held by the sweetness of the song. I was full of wonder and eager expectation, and my ears were still straining to listen. After a little while I said: "You are the supreme comfort of a wounded soul! How much you have refreshed me, as much by the sweetness of your singing as by the weight of your arguments!
+
+"I truly no longer think I will be unable to withstand the blows of Fortune. So I no longer dread the remedies that you said were somewhat too harsh for my strength. On the contrary, I am eager to hear them, and I ask for them with all my heart."
+
+She replied: "I noticed you taking in my words silently and intently. I expected this state of mind in you. To be more accurate, I produced it in you myself. What remains is the kind of medicine that bites on the tongue but turns sweet once it has been swallowed.
+
+"You say you want to hear it. But how much more eagerly you would burn for it if you could see where it is my task to lead you!"
+
+"Where?" I asked.
+
+"To true happiness," she said. "Your spirit already sees it in dreams. But your spirit cannot see happiness as it truly is while your eyes are occupied with mere appearances of it."
+
+Then I said: "I beg you, show me its true form without a moment's delay."
+
+"I will gladly do so, for your sake," she said. "But first I will try to sketch in words and describe a subject more familiar to you. Once you have examined it carefully, you can turn your eyes in the other direction and recognize the beauty of true happiness."
+
+### SONG I. The Thorns of Error.
+
+Whoever wants to sow the fallow field,  
+And see the growing grain,  
+Must first remove the useless weeds,  
+The bramble and the thorn.
+
+After a bitter taste, honey's taste  
+Is sweeter to the mouth;  
+After the storm, the twinkling stars  
+More cheerfully greet the eyes.
+
+When night has passed, the bright dawn comes  
+In her rosy chariot;  
+So drive the false happiness from your mind,  
+And you will see the true.
+
+### II.
+
+For a short while she kept her gaze fixed, as if she had withdrawn into the noble inner chamber of her mind. Then she began:
+
+"All mortal creatures are occupied with anxious efforts in many different pursuits. They take many paths, yet all of them strive to reach one goal: happiness. Now, *the good* is that which leaves a person lacking nothing further once he has it. This is the supreme good, and it contains every particular good within itself. If anything were still missing from it, it could not be the supreme good. Something would be left outside it that might still be desired.
+
+"Clearly, then, happiness is a state made perfect by bringing all good things together. As we have said, everyone tries to reach this state, but by different paths. The desire for the true good is naturally planted in human minds. Only error leads people off the road and sends them chasing what is false.
+
+"Some believe the highest good is to want for nothing, so they spare no effort to become wealthy. Others judge the good to be whatever most deserves respect. They try to win the reverence of their fellow citizens by attaining high office. Some place the chief good in supreme power. These people either want to hold sovereignty themselves or try to attach themselves to those who hold it.
+
+"Those who consider fame to be supremely excellent hurry to spread the glory of their name, either through the arts of war or through the arts of peace. A great many measure their success in reaching the good by joy and gladness of heart. They think the height of happiness is to give themselves over to pleasure.
+
+"Still others confuse ends and means in their aims. For instance, some want riches for the sake of pleasure and power. Others crave power either for the sake of money or to make their name famous.
+
+"These are the ends on which human actions and wishes are centered, along with others like them. Noble birth and popularity, for instance, seem to bring a certain fame. A wife and children are sought for the sweetness of having them. The most sacred kind of friendship is counted among the virtues, not among the gifts of fortune. But other kinds of friendship are entered into for the sake of power or enjoyment.
+
+"Bodily excellences obviously belong in the same list. Strength and stature display power. Beauty and speed of foot bring celebrity. Health brings pleasure. It is plain, then, that the only thing sought in all these ways is *happiness*. Whatever each person seeks above everything else is, in that person's judgment, the supreme good. We have defined the supreme good as happiness. Therefore, the state each person wishes for above all others is, in that person's judgment, a happy state.
+
+"So you have before your eyes something like an outline of human happiness: wealth, rank, power, glory, and pleasure. Epicurus considered these things alone. From them he concluded, with some consistency, that the highest good is pleasure, because all the other objects seem to bring some delight to the soul.
+
+"But let us return to human pursuits and aims. The human mind seeks to recover its proper good, even though its memory of that good is clouded. Like a drunk man, however, it does not know which path leads home.
+
+"Do you think those who try to escape want are wrong? Not at all. Nothing can complete happiness as well as a state that abounds in all good things, needs nothing from outside, and is entirely self-sufficient. Are those mistaken who think that what is best also deserves the most reverence? Not at all. What nearly all of humanity strives to attain cannot possibly be vile and contemptible.
+
+"Then should power not be counted among good things? How could something plainly more effective than anything else be considered weak and lacking strength? Or should fame be considered worthless? No. No one can ignore that the highest fame is constantly linked with the highest excellence.
+
+"Is there any need to say that happiness is not haunted by worry and gloom, nor exposed to trouble and annoyance? We ask that much even of the smallest things when we expect their possession and enjoyment to bring us delight.
+
+"So these are the blessings people want to win. They want riches, rank, sovereignty, glory, and pleasure because they believe these will give them independence, reverence, power, fame, and joy of heart. It is therefore *the good* that people seek by such different routes. This easily shows the strength of Nature's power. People's opinions are varied and conflicting, yet they agree in holding *the good* as their end."
+
+### SONG II. The Bent of Nature.
+
+How the might of Nature sways  
+All the world in ordered ways,  
+How unstoppable laws control  
+Every smallest portion of the whole—  
+This I gladly would rehearse  
+On my pliant strings in sounding verse.
+
+See the lion, taken captive,  
+Meekly wear his gilded chain;  
+Yet though he is fed by hand,  
+Though he dreads a master's whip,  
+If the taste of blood just once  
+Whets his cruel lips again,  
+At once his sleeping fierceness wakes,  
+With one roar his bonds he breaks,  
+And first unleashes his revenge  
+On his trainer's mangled corpse.
+
+And the woodland songbird, shut  
+In lonely imprisonment,  
+Though his mistress, lavish in her care,  
+Stores up honeyed treats for him;  
+Yet if, inside his narrow cage,  
+As he hops from bar to bar,  
+He should glimpse the woods afar,  
+Cool with sheltering leaves,  
+He will spurn all these delicacies,  
+And his heart will turn to the woods;  
+For the woods alone he longs,  
+Sings of the woods in all his songs.
+
+The sapling bends to brute force  
+While the hand presses down on it;  
+If the hand eases its pressure,  
+The supple wood springs straight back.  
+Phoebus, the sun, sinks into the western sea;  
+But swiftly, by a secret path,  
+His chariot is carried back again  
+To the familiar gates of morning.
+
+So all things can be seen to yearn  
+In due time for their due return;  
+And no fixed order can endure  
+Except the one that, in the appointed way,  
+Joins the end to the beginning  
+In a steady, spinning cycle.
+
+### III.
+
+"You too, creatures of earth, have some glimmering of your origin, however faint. Your vision is dim and clouded, yet you still somehow make out the true goal of happiness. The aim of nature leads you toward it, toward the true good, while error in its many forms leads you away from it.
+
+"Consider whether people can actually win happiness by the means through which they expect to reach this goal. Certainly, suppose wealth, rank, or any of the rest brought something that seemed to lack no good at all. Then we too would admit that some people are made happy by acquiring them.
+
+"But suppose these things cannot keep their promises and, in addition, lack many good things. Then is it not clear that the happiness people seek in them is a false show?
+
+"So I first ask you yourself, since until recently you were living in affluence. Amid all that abundance of wealth, was your mind never troubled by some wrong done to you?"
+
+"I cannot remember ever being so completely at peace that I felt no pang of uneasiness," I said.
+
+"Wasn't that because something you wanted present was missing, or something you wanted gone was present?"
+
 "Yes," I said.
 
-"Human perversity, then," she continued, "makes divisions of that which by nature is one and simple. In attempting to obtain part of something which has no parts, people succeed in getting neither the part—which is nothing—nor the whole, which they are not interested in."
-"How does that happen?" I asked.
-
-"If a man pursues wealth by trying to avoid poverty," Philosophy explained, "he is not working to get power. He prefers being unknown and unrecognized. He even denies himself many natural pleasures to avoid losing the money he has acquired. But certainly, no self-sufficiency is achieved this way, since he is lacking in power and troubled by anxieties. He is of no account because of his low esteem and is buried in obscurity.
-And if a man pursues only power, he spends his wealth, despises pleasures and honor that come without power, and considers glory of no importance. But you can see how much this man also lacks. At any given time, he lacks the necessities of life and is consumed by worry, from which he cannot free himself. So, he ceases to be what he most of all wants to be—that is, powerful.
-A similar argument can be applied to honor, glory, and pleasures. Since any one of them is the same as the others, a man who pursues one of them to the exclusion of the others cannot even acquire the one he wants."
-
-"But suppose," I said, "someone should want to obtain them all at one and the same time?"
-"Then he would be seeking the sum of happiness," Philosophy replied. "But do you think he would find it among these things, which we have shown to be unable to deliver what they promise?"
-"No, I don’t," I admitted.
-"So, it is impossible to find happiness among these things, which are thought to provide each of the desired states individually?"
-"I agree," I said, "and no truer word could be spoken."
-
-"Then there you have both the nature and the cause of false happiness," Philosophy concluded. "Now turn your mind’s eye in the opposite direction, and you will immediately see the true happiness that I promised."
-"Even a blind man could see it," I said. "You revealed it just now when you were trying to show the causes of false happiness. For unless I’m mistaken, true and perfect happiness is that which makes a man self-sufficient, strong, worthy of respect, glorious, and joyful. And to show you that I have more than a superficial understanding, without a shadow of doubt I can see that happiness to be true happiness which, since all these qualities are all the same thing, can truly bestow any one of them."
-
-"You are blessed in this belief, my child," Philosophy said, "provided you add one thing."
-"What is that?" I asked.
-"Do you think there is anything among these mortal and decaying things which could bring about such a state of perfect happiness?"
-"No, I don’t," I replied, "and you have proved it as well as anyone could wish."
-"Clearly, therefore," she said, "these earthly things offer people only shadows of the true good, or imperfect blessings. They cannot bring true and perfect good."
-"Yes," I agreed.
+"So you wanted the presence of one thing and the absence of the other?"
 
-"Since then you have realized the nature of true happiness and seen its false imitations," Philosophy stated, "what remains now is that you should see where to find this true happiness."
-"That is the very thing I have long and eagerly been waiting for," I said.
-"But," Philosophy cautioned, "since in his *Timaeus*, my servant Plato was pleased to ask for divine help even over small matters, what do you think we ought to do now in order to be worthy of discovering the source of that supreme good?"
-"We ought to pray to the Father of all things," I replied. "To omit to do so would not be laying a proper foundation."
-"Right," she said, and immediately began the following hymn.
-
-#### Hymn to the Creator, the Source of True Good
-
-"O You who rule by everlasting reason,
-Creator of the planets and the sky,
-Who bring time from timelessness, You are the unchanging Mover.
-No external cause drove You to mold unstable matter, but
-The perfect form of the highest good, set within You, was Your guide.
-(5) All things You bring forth from Your high, perfect model.
-You, the height of beauty, in Your mind carry the beautiful world,
-And shaping it in that ideal likeness,
-You order perfect parts to frame a perfect whole.
-(10) You constrain the elements by harmony,
-So that hot and cold, and wet and dry are made equal,
-So that fire does not grow too light, or earth too heavy with weight.
-You made the soul a bridge of threefold nature, which spreads
-Through nature’s harmonious limbs and moves all things.
-(15) The soul, once divided, joins its motion in two circles,
-Goes round and to itself returns, encircling the divine Mind,
-And turns the firmament (heavens) in a similar pattern.
-From like causes You bring forth souls and lesser lives,
-Which from above, in swift chariots, You disperse
-(20) Through sky and earth. And by Your loving law they turn
-And back to You they come, through fire that brings them home.
-
-Grant, Father, that our minds may look upon Your majestic seat.
-Grant us the sight of the source of true good, and grant us light
-That we may fix on You our mind’s unblinded eye.
-(25) Disperse the clouds of earthly matter’s clinging weight.
-Shine out in all Your glory! For You are rest and peace
-To those who worship You. To see You is our end,
-You who are our source and maker, lord and path and goal."
-
-### X. Locating Perfect Happiness in God
-
-"Since, then, you have seen the form of both imperfect good and perfect good," Philosophy said, "I think we now have to show where this perfect happiness is to be found.
-
-The first question to ask is, I think, whether any good of the kind I defined a moment ago—perfect happiness—can actually exist in the natural world. This will prevent our being led astray from the truth of the matter before us by false and poorly founded reasoning. But the existence of this perfect good, and its function as a kind of fountain-head of all good things, cannot be denied. For everything that is said to be imperfect is considered so because of the absence of perfection. So, if a certain imperfection is visible in any category of things, it follows that there is also a measure of perfection in it. For if you do away with perfection entirely, it is impossible to imagine how that which is considered imperfect could even exist. The natural world did not take its origin from something that was damaged and incomplete. Instead, it issues from that which is unimpaired and perfect, and then it degenerates into this fallen and worn-out condition. But we showed just now that there is a certain imperfect happiness in perishable goods. So, there can be no doubt that a true and perfect happiness exists."
-
-"That is a very sound and true conclusion," I said.
-
-"As to where it is to be found, then," Philosophy continued, "you should think as follows. It is the universal understanding of the human mind that God, the author of all things, is good. Since nothing can be conceived that is better than God, everyone agrees that that which has no superior is good. Reason shows that God is so good that we are convinced His goodness is perfect. Otherwise, He couldn’t be the author of creation. If His goodness were not perfect, there would have to be something else possessing perfect goodness over and above God, which would seem to be superior to Him and older. For all perfect things are obviously superior to those that are imperfect. Therefore, to avoid an unending argument, it must be admitted that the supreme God is, to the highest degree, filled with supreme and perfect goodness. But we have already agreed that perfect good is true happiness. So, it follows that true happiness is to be found in the supreme God."
-
-"I accept that," I said. "There is nothing in any way open to contradiction."
-
-"But," she said, "I must ask you to make sure that your approval of our statement—that the supreme God is to the highest degree filled with supreme good—is unqualified and final."
-"What do you mean?" I asked.
+"Agreed."
 
-"You must avoid the assumption," she explained, "that this Father of creation has received this supreme good (with which He is said to be filled) from some outside source. You must also avoid thinking that He possesses it by nature, but in such a way that would lead you to suppose that the substance of God the possessor was a separate thing from the substance of the happiness He possesses. If you thought that He received it from outside Himself, you would then be able to consider the giver superior to the receiver."
+"But a person lacks whatever he is in want of?"
 
-"But we agree that it is right to consider God the most excellent of all things.
+"He does."
 
-On the other hand, if goodness is a natural property of God, but something logically separate from Him, then whenever we speak of God as the author of creation, a clever mind might be able to imagine the existence of some power responsible for bringing together the two things that were separate (God and His goodness).
+"And someone who lacks something is not completely self-sufficient?"
 
-Finally, if one thing is distinct and separate from another, it cannot *be* the thing from which it is perceived to be distinct. So, that which by its own nature is something distinct from the supreme good cannot *be* the supreme good. But this is something we may not believe about God, to whom we agree there is nothing superior. It is impossible for anything to be by nature better than that from which it came. I would therefore conclude with perfect logic that the Being which is the origin of all things is, in His own substance, the supreme good."
-"Perfectly right," I said.
+"No, certainly not," I said.
 
-"But we have agreed that the supreme good is the same as happiness," Philosophy reminded me.
-"Yes."
-"So, we have to agree that God *is* the very essence of happiness."
-"Your starting points are undeniable," I replied, "and I see that this conclusion follows from them."
+"So even in the fullness of your wealth, you were putting up with this insufficiency?"
 
-"Then consider whether this, too, can be firmly accepted," she said. "It is impossible for two supreme goods to exist separate from one another. For it is clear that if the two goods are separate, the one cannot be the other. In that case, neither could be perfect, because each would be lacking the other. But that which is not perfect is obviously not supreme. It is therefore impossible for there to be two separate supreme goods. However, we deduced earlier that both happiness and God are supreme goodness. So, it follows that supreme happiness is identical with supreme divinity (God)."
-"There could scarcely be a conclusion more true to reality, or more sure in its reasoning, or more worthy of God," I declared.
+"I must have been."
 
-"I will add something to it," Philosophy continued. "Just as in geometry, some additional idea may be drawn from a theorem that has been proved—called in technical language a *porisma* in Greek, or a corollary in Latin—I too will give you a kind of corollary, or additional insight. Since it is through possessing happiness that people become happy, and since happiness is in fact divinity, it is clear that it is through possessing divinity that they become happy. But by the same logic that people become just through possessing justice, or wise through possessing wisdom, so those who possess divinity necessarily become divine. Each happy individual is therefore divine. While only God is divine by His very nature, as many people as you like may become divine by participation."
-"What you say is beautiful and valuable," I responded, "whether you call it a *porisma* or a corollary."
+"Then wealth cannot make its owner independent and free of all want, yet this is what it seemed to promise. I also think something else deserves serious consideration. Nothing in the particular nature of money prevents it from being taken from its owners against their will."
 
-"But the most beautiful thing," she said, "is what logic leads us to add to all this."
-"What is that?" I asked.
-"Are all the many things we see included under the word 'happiness' like parts combining to form a single body, yet separate in their variety? Or is there any one of them which can fully supply the essence of happiness, and under which the others may be classified?"
-"Could you clarify the question by being more specific?" I requested.
+"I admit it."
 
-"Well," she said, "we consider happiness something good, don’t we?"
-"Yes, the supreme good," I affirmed.
-"You could say the same of all of them," she continued. "Absolute self-sufficiency is judged to be the same as happiness. So too are power, reverence, glory, and pleasure. Well, the question is this: are all these things—self-sufficiency, power, and the others—good as if happiness were a body of which they were parts? Or is goodness something above them all, to which they belong?"
-"I understand the question you are proposing we should ask," I said, "but I should like to hear what your answer would be."
+"Of course you do, since every day the stronger seize it from the weaker without their consent. Otherwise, where do lawsuits come from? They arise from attempts to recover money that was taken from its owners against their will by force or fraud."
 
-"This is how I would resolve it," Philosophy explained. "If all these were related to happiness like limbs to a body, they would differ from one another. This is because it is the nature of parts that the body is one, but the parts that make it up are diverse. But all these things—self-sufficiency, power, reverence, glory, and pleasure—have been proved to be identical. So, they are not like limbs. Moreover, if they were, it would appear that happiness was a body made up of a single limb, which is impossible."
-"There is no doubt of that," I said. "But I am eager for what is to come."
+"True," I said.
 
-"It is clear," she went on, "that the other properties are classified under 'good.' It is precisely because self-sufficiency is judged to be a good thing that people want it. And it is precisely because power, too, is believed to be a good thing that it is sought after. The exact same conclusion may be reached about reverence, glory, and pleasure.
+"Then everyone will need some outside means of protection to keep his money safe."
 
-The chief point and reason, therefore, for seeking all things is **goodness**. For it is quite impossible for that which contains no good in itself, whether real or apparent, to be an object of desire. On the other hand, things which are not good by nature are sought after if they nevertheless *seem* as if they were truly good.
+"Who could dare deny it?"
 
-The result is, therefore, that there is justice in the belief that goodness is the main point upon which the pursuit of everything depends and by which it is motivated. What seems most to be desired is the thing that motivates the pursuit of something else. For example, if a man wants to go riding for the sake of his health, it is not so much the motion of horse-riding he desires as the resulting good health. Since, therefore, all things are desired for the sake of the good in them, no one desires those things as much as they desire the good itself. But we have agreed that the reason for desiring things is happiness. So, it is clearly obvious that the good itself and happiness are identical."
-"I can see no reason for anyone to disagree," I said.
+"Yet he would not need that protection unless he owned money that could be lost."
 
-"But we have shown that God and happiness are one and the same thing," Philosophy reminded me.
-"Yes."
-"We may safely conclude, then," she stated, "that God is to be found in goodness itself and nowhere else."
+"No, he certainly would not."
 
-#### An Invitation to True Goodness (A Poem)
+"Then we have come around to the opposite conclusion. Wealth was thought to make a person independent, but instead it makes him need further protection. How in the world, then, can riches drive want away? Can't the rich feel hunger? Can't they feel thirst? Aren't the limbs of the wealthy sensitive to the winter cold?
 
-Philosophy then sang:
-"Come here now, all you who are captive,
-Whom false desire chains in wicked bonds,
-Desire that makes its home in earthly minds.
-Here you will find release from heavy toil,
-Here you will find a haven blessed with peaceful calm,
-An ever-open refuge from distress.
+"'But,' you will say, 'the rich have the means to satisfy their hunger and to get rid of thirst and cold.' True enough. Riches can soothe want in this way, but they cannot remove it entirely. Suppose this ever-gaping, ever-craving want is filled up by wealth. Then the want that can be filled in this way must still remain.
 
-Not all the gold that the river Tagus bestows,
-That the river Hermus sheds upon its glittering banks,
-Or that Indus, on whose torrid shores are scattered
-Green emeralds mixed with dazzling pearls,
-May sharpen and make bright the intellect.
-Instead, wealth in its own darkness clouds the thoughts.
+"I say nothing of how very little is enough for nature, while nothing is enough for greed. If wealth cannot get rid of want, and even creates new wants of its own, how can you believe that it bestows independence?"
 
-For all that thus excites and charms the mind,
-Dim earth has nurtured in her caverns deep.
-While that bright light which rules and animates
-The sky, will shun such dark and ruined souls.
-Whoever once shall see this shining light
-Will say the sun’s own rays are not so bright."
-
-### XI. Unity as the Essence of Goodness
-
-"I agree," I said, "for all that you have said is established and connected by the soundest of reasoning."
-Then she asked, "How valuable would you think it if you could come to know the good itself?"
-"Infinitely valuable," I replied, "if I should also be able to see God, who is the good."
+### SONG III. The Insatiableness of Avarice.
 
-"I will make it clear with undeniable reasoning," she said, "provided our recent conclusions still stand."
-"They do," I confirmed.
+Though the greedy man, grown wealthy,  
+Sees his piles of gold rise high;  
+Though he gathers stores of treasure  
+That can never satisfy;  
+Though his collar blazes with pearls,  
+The rarest that the ocean yields;  
+Though a hundred head of oxen  
+Labor in his spacious fields;  
+Gnawing worry will never leave him  
+While he draws the breath of life,  
+And his riches will not go with him  
+When his eyes are closed in death.
 
-"We have proved, then, haven’t we," Philosophy continued, "that the various things the majority of people pursue are not perfect and good? This is because they differ from one another, and because they are lacking to one another and therefore cannot provide full and perfect good. On the other hand, true good *does* come about when they are all brought together into one form and effective power, as it were. This happens so that self-sufficiency becomes identical with power, reverence, glory, and pleasure. Unless all these are one and the same thing, they have no claim to be included among worthwhile objects of pursuit."
-"You have proved it," I said, "and there is no room at all for doubt."
-
-"When these objects differ from one another, they are not good," she explained. "But when they begin to be one, they become good. So, it comes about that it is through the acquisition of **unity** that these things are good, doesn’t it?"
-"It seems so," I agreed.
+### IV.
 
-"But do you or do you not agree that everything that is good is so through participation in goodness?"
-"I do agree."
-"Then you are obliged to agree by the same argument that **unity and goodness are identical**. For things whose natural effect is identical must have the same essential substance in common."
-"I cannot deny it," I said.
+"But surely, you will say, high office brings honor and respect to whoever receives it! Do public offices, then, have the power to plant virtue in the minds of those who hold them, and to drive out vice? No. They usually put wickedness on display rather than remove it. That is why we feel indignant that honors so often go to the most wicked of men.
 
-"You know, then," Philosophy went on, "that everything that *is* remains and continues to exist just so long as it is *one*. But it perishes and dissolves immediately it ceases to be one?"
-"How is that?" I asked.
-
-"It is just as with living creatures," she explained. "When soul and body come together and remain united, we speak of a living being. But when this unity breaks up through the separation of either part, it is clear that the living being perishes and no longer exists. The very body, too, as long as it remains in one form through the combination of its members, you see a human figure. But if the parts are divided up and separated, and the body’s unity is destroyed, it ceases to be what it was. You may run through every other thing, and it will be clear beyond a shadow of doubt that everything continues to exist as long as it is one, but perishes when its unity ceases."
-"Yes," I said, "I can think of many things of which this is true."
-
-"Now, is there anything," Philosophy asked, "which in the course of its natural activity loses the will to exist and desires to obtain death and decay?"
-"If I confine my thoughts to living creatures gifted by nature with freedom of choice," I replied, "I can find nothing which, in the absence of external force, would give up the intention to live and willingly rush towards death. For every kind of animal works hard to guard its own safety and shuns death and destruction. But in the case of plants and trees, I am in some doubt as to what I would agree with."
+"This is why Catullus calls Nonius an 'ulcer-spot,' even though he was 'sitting in the curule chair,' the seat reserved for Rome's high magistrates. Don't you see what disgrace high position brings on bad men? Their unworthiness would surely be less obvious if their rank did not draw public attention to them.
 
-"And yet there is no room for indecision here either," she responded. "You can see how, in the first place, plants and trees grow up in places suitable to them, where it would be unnatural for them quickly to wither and die. Some grow in fields, some on hills, some in marshes. Some cling to rocky ground, and the barren desert is full of others. If you tried to transplant them into other environments, they would wither away. Nature gives each one whatever suits it and, as long as life is possible, works to prevent them from dying. Just think how they all draw nourishment through their roots, as if they were burying their mouths in the earth, and how strength spreads through their core (pith) and bark. And how the softest part, like the pith, is always buried inside, while the covering of bark, with the strength of the wood, is set on the outside to withstand the harshness of the weather, like a protector capable of enduring such harm. And think how painstaking Nature is to ensure that all things are propagated by the multiplication of their seed. Everyone knows that plants and trees are like a kind of machine, not only for the duration of their own lifetime but also for the almost everlasting continuation of their species.
+"Consider your own case. Could all these dangers ever have pressured you into sharing office with Decoratus, once you had recognized in him the character of a rascally hanger-on and informer? No. We cannot think men worthy of respect because of their office when we think them unworthy of the office itself.
 
-Even things which are believed to be without life also desire, in a similar way, that which is their own and proper to them, don’t they? Otherwise, why is flame carried upwards by its lightness, and solid things carried down by their weight, except because these positions and motions suit the individual things? Furthermore, they preserve that which is suitable to each thing, just as they destroy what is harmful. Things that are hard, like stone, stick together with great tenacity throughout their parts and resist being easily broken up. But fluids, like air and water, easily give way before a dividing force and easily reunite again with the parts that have been cut off. And fire doesn’t allow itself to be cut at all.
+"But if you saw a man gifted with wisdom, could you suppose him unworthy of respect, or unworthy of the wisdom he possessed?"
 
-We are not dealing here with willed motions of the conscious mind, but with instinctive motions. These are like the way we digest the food we have eaten without thinking about it, and the way we breathe in our sleep without being conscious of it. Not even in living things is the love of self-preservation due to the wishes of their mind, but to the principles of their nature. For often, when there are reasons which force death upon a creature, Nature turns away in horror, but the will accepts it. And on the other hand, the work of procreation—which alone gives mortal creatures their continuity and which Nature always desires—is sometimes curbed by the will. To such an extent does this love of self-preservation stem not from conscious desire, but from natural instinct. Providence has given its creatures one great reason to go on living: the instinctive desire for the greatest possible self-preservation. There is no reason, therefore, for you to have any doubt that all things have an instinctive desire to preserve their life and avoid destruction."
+"No, certainly not."
 
-"I admit," I said, "that what just now seemed uncertain to me, I can now see without any doubt."
+"Virtue has a dignity of her own, which she immediately passes on to those she is united with. Public honors cannot do this, so it is clear that they lack the true beauty of dignity.
 
-"Now," Philosophy continued, "whatever seeks to exist and remain alive desires to be *one*. Take unity away from a thing, and its existence also ceases."
-"That is true," I replied.
-"So, all things desire unity."
-"Yes."
-"But we proved that unity is identical with goodness."
-"Yes."
-"So, all things seek the good. You could describe this by saying that it is goodness itself which all things desire."
-
-"No truer conclusion could be discovered," I exclaimed. "For either all things are inclined to no single thing and will wander about aimlessly, as though lacking any head or helmsman to guide them; or, if there is something to which all things are inclined, it will be the sum of all good."
-
-"I am very happy, my son," Philosophy said, "for you have fixed in your mind the very mark of the central truth. And in this, you have revealed the very thing you were just now saying you did not know."
-"What was that?" I asked.
-"What the end or purpose of all things was," she answered. "For certainly, it is the same as that which all things desire. We have deduced that that is goodness, and so we must agree that the end of all things is the good."
-
-#### The Seed of Truth Within (A Poem)
-
-Philosophy then sang:
-"Whoever deeply searches for the truth
-And will not be lured down false side-paths,
-Shall turn his inward gaze unto himself,
-Shall bring his wandering thoughts in a circle home,
-(5) And teach his heart that what it seeks outside
-It holds in its own treasuries within.
-What error’s gloomy clouds have hidden before
-Will then shine clearer than the sun itself.
-
-Not all its light is banished from the mind
-(10) By the body’s matter, which makes men forget.
-The seed of truth lies hidden deep within,
-And teaching fans the spark to take new life.
-Why else, unaided, can a man answer truly,
-Unless deep in the heart the potential for truth burns?
-(15) And if the muse of Plato speaks the truth,
-A man only recalls what once he knew and lost."
-
-### XII. God's Governance Through Goodness
-
-Then I said, "I agree very strongly with Plato. This is the second time you have reminded me of these matters. The first time was because I had lost my memory through the influence of the body. This second time is because I lost it when I became overwhelmed by the weight of my grief."
-
-"If you look at what we have already agreed upon," Philosophy said, "you won’t be far from remembering what you said you did not know just now."
-"What was that?" I asked.
-"The manner in which the world is governed."
-"I remember admitting my ignorance," I replied. "But even though I have some idea of it now, I should like to hear more plainly what arguments you would present."
-
-"Just now, you thought it was beyond doubt that this world was ruled by God," she reminded me.
-"I still do think it is beyond doubt, and I will always think so," I affirmed. "I will briefly explain the arguments which convince me in this matter.
-This world would never have come together into one form out of such diverse and opposing parts if there had not been One who could unify such diversity. Their very diversity, in turn, would make them break out into disagreement and tear apart and destroy the unity of the world, unless there were a power capable of holding together what He had once woven together. Nature’s fixed order could not proceed on its path, and the various kinds of change could not exhibit motions so orderly in place, time, effect, distance from one another, and nature, unless there was one unmoving and stable power to regulate them. For this power, whatever it is, through which creation remains in existence and in motion, I use the word which all people use: God."
-
-Then she said, "Since this is your opinion, I think little remains for me to do before you acquire happiness and return safe and sound to your true homeland.
-But let us look at the arguments we have set forth. We have included self-sufficiency under the definition of happiness, haven’t we? And we have agreed that God is happiness itself?"
-"Yes."
-"So, in regulating the universe, He will need no external assistance—otherwise, if He needs anything, He won’t have complete self-sufficiency."
-"That conclusion is inescapable," I agreed.
-"So, He regulates all things by Himself?"
-"It cannot be denied."
-"Now, we have proved that God is the good itself."
-"Yes, I remember."
-"So, it is by goodness that He rules all things, since He rules them by Himself, and we have agreed that He is the good. This goodness is the helm and rudder, so to speak, by which the fabric of the universe is kept constant and unimpaired."
-"I strongly agree," I said. "And this is exactly what I thought you were going to say, although I wasn’t sure of my guess."
-
-"I believe you," she said, "for now, I think, you are bringing your eyes to look with greater care upon the truth. And what I am going to say is no less clear to the sight."
-"What is that?" I asked.
-
-"Since we are right in thinking that God controls all things by the guiding principle of goodness," Philosophy continued, "and since all things, as I have said, have a natural inclination towards the good, it can hardly be doubted, can it, that they are willingly governed? They willingly obey the desires of Him who controls them, like things that are in harmony and agreement with their guide."
-
-"That is necessarily so," I agreed. "A happy government would hardly seem like a heavy burden forced upon unwilling necks. Instead, it would be a willing acceptance of salvation."
-
-"There is nothing, therefore," she stated, "that could preserve its own nature if it tried to go against God."
-"Nothing at all," I said.
-"If it did try," Philosophy added, "it wouldn’t make any progress against Him. We have agreed that He is, because of His happiness, supreme in power."
-"No, it would be completely powerless."
-"Is there anything, then," she asked, "which might either wish to be, or be able to be, an obstacle to this supreme good?"
-"I don’t think so," I replied.
-"It is the supreme good, then," she concluded, "which powerfully and sweetly orders all things."
-
-Then I said, "The conclusion of this highest of arguments has made me very happy. I am even happier because of the words you used. I am now ashamed of the stupidity of all my angry complaints."
-
-"You have no doubt heard the myths about how the giants began attacking heaven," Philosophy said. "And as was right, they, too, were kindly but firmly put in order. But would you like us to bring about a conflict of arguments now? Perhaps from such a collision, some beautiful spark of truth might leap forth."
-"Whatever you decide," I said.
-
-"No one could doubt that God is all-powerful (omnipotent), could they?" she began.
-"No one, at any rate, who is in his right mind would have any doubt about it."
-"But there is nothing that an omnipotent power could not do?"
-"No, nothing."
-"Then, can God do evil?" she asked.
-"No," I replied.
-"So, evil is nothing," Philosophy stated, "since that is what He cannot do, and He can do anything."
-
-"You are playing with me, aren’t you?" I asked. "You are weaving a labyrinth of arguments from which I can’t find the way out. At one moment you go in by a path where you’ll later come out, and at another moment, you come out by a path where you previously went in. Or are you creating a wonderful circle of divine simplicity? Just now, you began with happiness and said it was the highest good, and you said it was to be found in God. Then you began arguing that God Himself was also the supreme good and perfect happiness. You added as a kind of bonus that no one could be happy unless he was also divine. You said that the very form of the good was identical with the substance of God and of happiness. And you taught us that unity itself was the same as the good, because all things had a natural inclination towards it. Then you argued that God rules the universe by the guiding principle of goodness, that all things obey willingly, and that evil is nothing. You unfolded all of which without the help of any external aid, but with one internal proof built upon another, so that each drew its believability from the one that came before."
-
-Then she replied, "I am not mocking you. Through the favor of God, whom we prayed to a moment ago, we have achieved the greatest of all things. The form of the divine substance is such that it does not spread out into outside things, nor does it take up into itself anything from them. As the philosopher Parmenides says of it, God is 'like the mass of a sphere well-rounded in all ways.' He rotates the moving sphere of the universe while remaining Himself unmoved. If we have been dealing with arguments not sought from outside sources but found within the boundaries of the matter we have been discussing, there is no reason for you to be surprised. You have learned on the authority of Plato that we must use language that is appropriate to the subject matter of our discussion."
-
-#### The Story of Orpheus and Eurydice (A Poem)
-
-Philosophy then sang this story:
-"Happy the man whose eyes once could
-Perceive the shining fountain of good;
-Happy is he whose unchecked mind
-Could leave the chains of earth behind.
-
-(5) Once, when Orpheus sadly mourned
-For his wife, Eurydice, beyond death’s realm,
-His tearful melody began to play.
-It made the motionless trees begin to run,
-It made the rivers halt their flow.
-(10) It made the lion, the deer’s fierce foe,
-Walk side by side with her in peace.
-It made the hare accept the hound,
-Now subdued by the music’s sound.
-
-But Orpheus’s own passions, unrepressed,
-(15) Burned even more fiercely in his breast.
-Though his song subdued all other things,
-It could not calm its master’s mood.
-Complaining of the gods above,
-Down to hell he went for love.
-
-(20) There, on sweetly sounding strings,
-Songs that soothe he plays and sings.
-All the inspiration once drawn from song,
-From the springs where the Muses throng,
-All the strength of helpless grief,
-(25) And of love, which doubled his grief,
-Give their weight then to his weeping,
-As he stands before the lords of the underworld, beseeching
-Them for grace.
-
-The three-headed porter, Cerberus, stands amazed,
-(30) By Orpheus’ singing tamed and dazed.
-The Furies, who avenge men’s sin,
-Who grin at the terror of the guilty,
-Now let tears of sorrow from them steal.
-No longer does the turning wheel
-(35) Send Ixion’s head whirling round.
-Old Tantalus, hearing the sound,
-Forgets the waters and his thirst.
-And while the music is performed,
-The vulture stops tearing flesh.
-
-(40) At last, the monarch of the dead (Pluto)
-In a tearful voice, ‘We yield,’ he said:
-‘Let him take with him his wife,
-By song redeemed and brought to life.
-But let him, too, this law obey:
-(45) Look not back on her along the way
-Until from night she reaches day.’
-
-But who to love can give a law?
-Love unto itself is its own law.
-Alas, close to the borders of night,
-(50) Orpheus backwards turned his sight
-Upon Eurydice, and looking, lost her twice to fate.
-
-This legend I relate for you,
-You who seek the upward way
-To lift your mind into the light of day.
-(55) For whoever gives in and turns his eye
-Back to darkness from the sky,
-Loses, while he looks below,
-All the good that up with him may go."
-
-## Book IV
-
-### I. Boethius's Great Doubt: Why Does Evil Exist?
-
-Philosophy delivered her sweet and gentle song with a dignified face and a serious expression. But I had still not forgotten the grief within me. I interrupted her just as she was preparing to say something else.
-
-"You," I said, "who are my leader towards the true light, everything you have poured forth in your speech up to now has been clearly both divine to think about and powerfully supported by your arguments. You have spoken of things I had forgotten because of the pain of what I had suffered. But before this, they were not entirely unknown to me.
-
-But the greatest cause of my sadness is really this: the fact that even though a good guide (God) steers the world, evil can still exist and even go unpunished. This fact alone you must surely think is a reason for considerable wonder. But there is something even more bewildering. When wickedness rules and flourishes, not only does virtue go unrewarded, it is even trampled underfoot by the wicked and punished as if it were a crime. That this can happen in the realm of an all-knowing and all-powerful God who wills only good—this is beyond perplexity and complaint."
-
-"It would indeed be a matter of infinite wonder," Philosophy said. "It would be something more horrible than any outrage if, as you believe, in the well-ordered house of so great a Father, the worthless items were looked after while the precious ones were neglected and grew filthy. But it is not so.
-
-If your recent conclusions about true happiness and God can remain intact, you can learn from the Creator Himself—since it is His realm we are speaking of—that:
-* The good are always strong.
-* The wicked are always humbled and weak.
-* Sin never goes unpunished.
-* Virtue is never unrewarded.
-* What happens to good people is always happy in some way.
-* What happens to bad people is always a misfortune.
-
-There are many other points like these which, once your complaints have been calmed, will give you firm and solid strength.
-You have seen the form of true happiness when I showed it to you just now, and you saw where it is to be found. When we have gone through everything that I think we should clear out of the way beforehand, I will show you the path that will bring you back home. I will give your mind wings on which to lift itself. All your unease shall be driven away, and you will be able to return safely to your true homeland. I will be your guide, your path, and your means of travel."
-
-#### The Mind's Ascent to Its True Home (A Poem)
-
-Philosophy then sang:
-"For I have swift and speedy wings
-With which to climb the lofty skies.
-And when the mind has put them on,
-It will look down upon the earth below with scorn.
-(5) It mounts through the air beneath the moon,
-And far behind, it leaves the clouds.
-It passes through the sphere of fire,
-Which receives its heat from the higher ether,
-Until it rises to the stars,
-(10) With Phoebus (the Sun) there to join its ways,
-Or sail with cold and ancient Saturn,
-As a soldier of his shining rays.
-Wherever the night is spangled bright,
-It follows the orbit of a star.
-(15) And when that orbit’s path is done,
-It leaves behind the outmost pole of heaven.
-It treads beneath the speeding ether,
-Now possessing the holy light.
-For here the King of kings holds power,
-(20) Holding the reins of all things tight.
-Himself unmoving, He moves the chariot of the universe fast,
-The lord of all things, shining bright.
-
-If that pathway brings you back there –
-The path you lost and now seek anew –
-(25) Then, ‘I remember,’ you will say,
-‘My true home, my source, my ending too.’
-And if you then choose to look again
-At the lightless earth which you have left,
-Dictators whom the people fear
-(30) Will seem like outcasts, homeless and bereft."
-
-### II. The Power of Good and the Weakness of Evil
-
-Then I cried out in wonder at the greatness of her promises. "It's not that I don’t think you can do it," I said. "Only please do not keep me waiting, now that you have made me so eager."
-
-"First then," she said, "you will be able to see these facts: that the good are always strong, and that the wicked are always deprived of all power. One of these facts is proved by the other. For since good and evil are opposites, the weakness of evil is shown by establishing the strength of good, and the strength of good is shown by establishing the weakness of evil. So, to strengthen your confidence in my teaching, I will proceed along both paths and prove my points doubly.
-
-Now, there are two things on which all performance of human activity depends: **will** and **power**. If either of them is lacking, no activity can be performed.
-* In the absence of will, a person is unwilling to do something and therefore does not undertake it.
-* In the absence of power to do it, the will is useless.
-So, if you see someone who wants to get something but cannot get it, you can be sure that what they lacked was the power to get what they wanted."
-"That is obvious," I said, "and cannot be denied."
-
-"And if you see a person who has done what they wanted to do, you will hardly doubt that they had the power to do it, will you?"
-"No, I wouldn't."
-"Therefore," Philosophy continued, "people’s power or ability is to be judged by what they *can* do, and their weakness by what they *cannot* do."
-"I agree."
-
-"Do you, then, remember how earlier in our argument we reached the conclusion that the instinctive direction of the human will—shown through a variety of pursuits—was entirely towards happiness?"
-"I remember that this was also proved."
-"And you recall that happiness is the good itself? And similarly, that since all people seek happiness, all people desire the good?"
-"I don’t just recall it," I said, "I hold it fixed in my mind."
-"So, without any difference in basic instinct, all people, good and bad alike, strive to reach the good."
-"Yes, that follows."
-"But surely people become good by acquiring goodness?"
-"Yes."
-"So, good people obtain what they are looking for?"
-"It seems so."
-"But if the wicked obtained what they want—that is, goodness—they could not be wicked?"
-"No, they couldn't."
-"Since, then, both groups want goodness, and one group obtains it while the other doesn’t, surely there can be no doubt about the power of the good and the weakness of the bad?"
-"Anyone who does doubt it," I said, "is no judge either of reality or of logical argument."
-
-"Again," she said, "suppose there were two people who are set the same natural task. One of them performs and completes it by natural action. The other cannot manage the natural action but uses another method that is contrary to nature. This second person does not actually complete the task but only imitates someone completing it. Which of these two would you say had more power?"
-"I can guess what you mean," I said, "but I would like to have it put more clearly."
-
-"You will not deny that the action of walking is natural and human, will you?"
-"No."
-"And presumably you have no doubt that walking is the natural function of the feet?"
-"No, indeed."
-"If, then, one person is able to walk on their feet and does so, and another person lacks the natural function of feet and tries to walk on their hands, which of them may properly be considered more able or powerful?"
-"Ask me another!" I exclaimed. "No one could doubt that the person who can do the natural action is more able than the one who can’t."
-
-"Well," Philosophy explained, "the supreme good is the goal of good people and bad people alike. The good seek it by means of a natural activity—the exercise of their virtues. The bad, however, strive to acquire the very same thing by means of their various desires, which is *not* a natural method of obtaining the good. Or don’t you agree?"
-"Yes, I do," I said. "For what follows is also obvious. From what I have already admitted, it follows that the good are powerful and the bad are weak."
-
-"You anticipate correctly," she said. "As doctors like to think, it is a sign of a strong constitution that is fighting back. But since you are so quick to understand, I will pile on the arguments. Just think how great the weakness is that we see in wicked people: they can’t even reach the goal to which their natural inclination leads them, almost by force! What if they were abandoned by this great and almost invincible help from nature, and nature stopped showing them the way?
-
-Think of the extent of the weakness holding back the wicked. It is not as if the prizes they failed to win were mere sports trophies. The quest in which they fail is the quest for the highest and most important of all things. Success is denied these wretched people in the very pursuit they work at night and day, to the exclusion of all else. This is the same pursuit in which the strength of the good stands out.
-
-If a person, by walking, could reach a point beyond which there was nowhere further for them to go, you would consider them the champion at walking. In the same way, you must judge the person who achieves the goal of all endeavors—beyond which there is nothing—to be supreme in power. The opposite of this is also true: those who do not gain it are obviously lacking in all power.
-
-For I ask you, what is the cause of this flight from virtue to vice?
-* If you say it is because they do not know what is good, I shall ask: what greater weakness is there than the blindness of ignorance?
-* If you say that they know what they ought to seek, but pleasure sends them chasing off the wrong way, then in this way too, they are weak through lack of self-control, because they cannot resist vice.
-* And if you say they abandon goodness and turn to vice knowingly and willingly, then in this way they not only cease to be powerful, but they cease to *be* at all.
-
-People who give up the common goal of all things that exist, thereby cease to exist themselves. Some may perhaps think it strange that we say that wicked people, who form the majority of humanity, do not exist; but that is how it is. I am not trying to deny the wickedness of the wicked. What I do deny is that their existence is absolute and complete existence. Just as you might call a corpse a 'dead man,' but couldn’t simply call it a 'man,' so I would agree that the wicked are wicked, but I could not agree that they have unqualified, full existence. A thing exists when it keeps its proper place and preserves its own nature. Anything which departs from this ceases to exist, because its existence depends on the preservation of its nature.
-
-To the objection that evil people *do* have power, I would say that this power of theirs comes from weakness rather than strength. For they would not have the power to do the evil they can do if they could have retained the power of doing good. This so-called power only makes it clearer that they can really do nothing. For if, as we concluded a short time ago, evil is nothing, it is clear that since they can only do evil, the wicked can truly do nothing."
-"That is obvious," I said.
-
-"But I want you to understand the exact nature of the power we are talking about," Philosophy continued. "A moment ago, we decided that there is nothing with greater power than the supreme good."
-"That is so."
-"But supreme goodness cannot do evil."
-"No."
-"Now, no one thinks of human beings as all-powerful, do they?"
-"Not unless they are mad."
-"But humans can do evil?"
-"I only wish they couldn’t," I sighed.
-
-"It is obvious, therefore," she concluded, "that since a power that can only do good is all-powerful, while human beings who can also do evil are not, these same human beings who can do evil are less powerful. In addition to this, we have shown that all forms of power are to be included among those things worth pursuing, and that all these worthwhile objects of pursuit are related to the good as to a kind of supreme example of their nature. Now, the ability to commit a crime cannot be a form of goodness, and is therefore not worth pursuing. But all true forms of power are worth seeking. So, it is obvious that the ability to do evil is not a true form of power.
-
-From all this, the power of good people is obvious, and beyond all doubt, so is the weakness of bad people. And it is clear that what Plato said in his dialogue *Gorgias* is true: only the wise can achieve what they truly desire, while the wicked keep themselves busy with what gives them pleasure but are unable to achieve their real objective. Their actions depend on the belief that they are going to obtain the good they desire through the things that give them pleasure. But they do not obtain it, because evil things cannot lead to happiness."
-
-#### The Inner Tyranny of Wicked Rulers (A Poem)
-
-Philosophy then sang:
-"High kings you see sit proudly on thrones,
-In bright purple robes, protected by sober arms,
-Making savage threats in passion’s breathless rage.
-But once you strip from their pride the robes of empty show,
-You will see within the tightening chains they wear:
-Here, lust overthrows the heart with poisonous greed,
-Here, like a wave, wrath whips and carries off sense,
-Here, captive sorrow sits, or hope torments.
-Here, in one heart, so many tyrants rule,
-The king’s own will is overthrown; the enslaver is enslaved."
-
-### III. The Inherent Rewards of Goodness and Punishments of Wickedness
-
-"You can see, therefore," Philosophy said, "the filth in which crime wallows and the light in which goodness shines. It is clear that good deeds never lack their reward, nor do crimes lack their appropriate punishment. The proper way of looking at it is to regard the goal of every action as its reward, just as the prize for running in the stadium is the wreath of laurels for which the race is run. Now, we have shown that happiness is the very same good which motivates all activity. So, goodness itself is set as a kind of common reward for human activity. But goodness cannot be removed from those who are good; therefore, goodness never fails to receive its appropriate reward. So despite all the raging of the wicked, the wise person’s crown of laurels will never fall from them or wither away. The wickedness of others can never steal their individual glory from good people. If it was a borrowed glory that we prided ourselves upon, other people—including the very one who gave it to us—could take it away. But since the glory is given to each one by their own goodness, they will only lose their reward when they stop being good.
-
-Finally, since every reward is desired because it is believed to be good, no one will consider a person endowed with goodness to be without reward. But what kind of reward? The greatest and most beautiful of all. Think again of that additional insight—the corollary—I emphasized to you a short time ago, and consider it this way: Goodness is happiness, and therefore it is obvious that all good people obtain happiness simply by virtue of their being good. But we agree that those who attain happiness are divine. The reward of the good, then—a reward that can never be decreased, that no one’s power can diminish, and no one’s wickedness can darken—is to become like gods. This being so, no wise person can be in any doubt about the inevitability of the punishment of the wicked. Like good and evil, reward and punishment are opposites. The reward we see is due to the good must be balanced by a corresponding punishment of the wicked. Therefore, just as goodness is its own reward, so the punishment of the wicked is their very wickedness. Now, no one who suffers a punishment doubts that they suffer something evil. So, if they are willing to examine themselves, I do not think people can consider themselves free from punishment when they suffer the worst evil of all: for wickedness is not so much an external affliction as it is a deep-set infection within them.
-
-Again, think of the punishment that follows the wicked from the opposite point of view—that of the good. A short while ago, you learned that all that exists is in a state of unity, and that goodness itself is unity. From this, it follows that we must see everything that exists as good. This means that anything which turns away from goodness ceases to truly exist, and thus the wicked cease to be what they once were. That they used to be human is shown by the human appearance of their body, which still remains. So it was by falling into wickedness that they also lost their human nature. Now, since only goodness can raise a person above the level of humankind, it follows that it is fitting that wickedness thrusts down to a level below humankind those whom it has removed from the condition of being human.
-
-The result is that you cannot think of anyone as truly human whom you see transformed by wickedness.
-* You could say that someone who robs with violence and burns with greed is like a **wolf**.
-* A wild and restless person who is forever using their tongue in lawsuits could be compared to a yapping **dog**.
-* A person whose habit is to lie hidden in an ambush and steal by trapping people would be likened to a **fox**.
-* A person of quick temper only has to roar to gain the reputation of having a **lion's** heart (though here, implying uncontrolled rage).
-* The timid coward who is terrified when there is nothing to fear is thought to be like a **deer** (hind).
-* The person who is lazy, dull, and stupid lives an **ass’s** life.
-* A person of whimsy and fickleness who is forever changing their interests is just like a **bird**.
-* And a person wallowing in foul and impure lusts is occupied by the filthy pleasures of a **sow**.
-So what happens is that when a person abandons goodness and ceases to be truly human, being unable to rise to a divine condition, they sink to the level of being an animal."
-
-#### The Transformation of Ulysses's Crew (A Poem)
-
-Philosophy then illustrated this with a story from mythology:
-"The sails of the lord of Ithaca, Ulysses,
-And his wandering sea-borne ships
-Were blown from the East to the island
-Where a beautiful goddess lives,
-Circe, daughter of the sun.
-
-For her newly-arrived guests, she mixes
-Cups she has touched with a spell.
-In various shapes they are changed
-By her hands, skilled in herb-lore.
-One takes the form of a boar.
-Another, with fang and claw,
-Becomes a lion of Africa.
-Another becomes a wolf;
-He can’t weep, he can only howl.
-And here, like an Indian tiger,
-One gently pads around.
-
-Perils surround lord Odysseus (Ulysses),
-But the winged Arcadian god (Mercury)
-Takes pity on his plight,
-And saves him from Circe’s curse.
-Odysseus’s crew have drunk
-The evil-powered potions,
-And they leave the bread that men eat
-To seek for husks, like pigs.
-Nothing is left intact;
-Their voice and body are changed.
-Only the mind remains
-To mourn their monstrous plight."
-
-"But Circe’s hand was weak," Philosophy continued her song.
-"Her herbs were powerless.
-They changed the body’s limbs,
-But they could not change the heart.
-Safe in a secret, inner fortress,
-The true strength of a person lies hidden.
-Those poisons of vice, though, are stronger.
-They creep deep within
-And remove a person's true self from power.
-They do not harm the body,
-But they cruelly wound the mind."
-
-### IV. The Unhappiness of Wickedness and the Justice of Punishment
-
-Then I said, "I agree. I see the justice in saying that wicked people, though they keep the outward appearance of a human body, change into animals with regard to their state of mind. But I could have wished that no freedom was allowed to the fury of cruel and wicked-minded men to bring destruction upon good people."
-
-"It’s not really a question of freedom for them to do evil," she said, "as I will show you at the appropriate point. But suppose for a moment that the freedom they are believed to enjoy was actually taken away. This would, to a large extent, mean relieving criminals of their punishment. It may seem incredible to some, but it must be the case that the wicked are less happy if they achieve their evil desires than if they are unable to do what they want. For, if desiring something wicked brings misery, then having had the power to actually do it brings even greater misery. Without that power, the unhappy desire would go unfulfilled. So, since each stage has its own degree of misery, if you see people with the desire to do something wicked, the power to do it, and who then achieve it, they must necessarily suffer a triple degree of misfortune."
-
-"Yes, I agree," I said. "But I hope very much that they will soon be released from this misfortune by losing the power to do evil."
-
-"They will be released from that power sooner than perhaps you would wish, or even sooner than they themselves expect," Philosophy replied. "For in the very short span of a human life, nothing can be so late in coming that it seems long to wait for to an immortal mind. Their great hope and their ambitious blueprint for crime are often destroyed by a sudden and unexpected end. This, at least, imposes a limit on their misery. For if wickedness is the cause of their misery, it follows that their wickedness makes them more wretched the longer it lasts. If death did not at last end their evil deeds, I would count them the unhappiest of all people. For obviously, if our conclusions about the misfortune of wickedness are true, then any misery which is agreed to be everlasting must be infinite."
-
-"That is a strange thing to conclude and hard to accept," I admitted. "But I do see that it fits in with what we have previously agreed upon."
-
-"You are right," she said. "But if someone thinks a particular conclusion is hard to accept, they ought to show either that some false assumption was made before it, or that the way the arguments have been put together does not necessarily lead to that conclusion. Otherwise, provided they agree with what has come before, there is absolutely no ground for arguing about the conclusion. What I am going to say next may also seem no less strange, but it is an equally necessary conclusion from our assumptions."
-"What is it?" I asked.
-
-#### The Paradox of Punishment
-"It is that the wicked are happier if they suffer punishment than if they are unrestrained by any just consequence," she stated. "And I am not thinking of what you may assume—namely, that wickedness is corrected by punishment, and people are returned to the path of right by the fear of punishment, and that punishment also serves as an example to others to avoid punishable actions. No, I think there is another way in which the wicked are more unhappy if they go unpunished, apart from any consideration of the corrective effect of punishment or its value as a warning to others."
-"What other way is there?" I asked.
-
-"Well," she began, "we have agreed, haven’t we, that good people are happy and bad people are unhappy?"
-"Yes."
-"Now, if someone’s misery is balanced by something good, he is happier than someone else whose misery is pure and not mixed with any good, isn’t he?"
-"So it seems."
-"What if that same unhappy person, who has no share of anything good, should receive some further evil in addition to those that have already caused his unhappiness? He would have to be considered far more unhappy, wouldn’t he, than the one whose misfortune is lessened by sharing in some good?"
+"Something else deserves notice here. A man is scorned more as more people despise him. So high position not only fails to win respect for the wicked; it actually heaps more contempt on them by drawing more attention to them. But this does not go unpunished. The wicked pay back the dignities they put on in kind, by polluting them with their touch.
+
+"Perhaps another consideration will also lead you to admit that true respect cannot come through these counterfeit dignities. Suppose a man who had been consul many times happened to visit barbarian lands. Would his office win him the respect of the barbarians?
+
+"Yet if respect were the natural effect of dignities, they would not fail to produce it anywhere in the world, just as fire never fails anywhere to give off heat. But this effect does not come from their own power. The mistaken opinion of mankind attaches it to them. So it vanishes at once when they are presented to people who do not regard them as dignities.
+
+"That is how things stand with foreign peoples. But does the reputation of these offices last forever, even in the land where they arose? The prefecture was once a great power; now it is an empty name, merely a burden on a senator's fortune. The commissioner of the public grain supply was once an important figure; now what office is more contemptible?
+
+"As we said a moment ago, something with no true beauty of its own gains luster and loses it at the whim of those who deal with it. So if dignities cannot win men respect, if they are actually soiled by contact with the wicked, if they lose their splendor as times change, and if they fall into contempt merely because the public no longer values them, what precious beauty do they have in themselves, let alone any to give to others?"
+
+### SONG IV. Disgrace of Honours conferred by a Tyrant.
+
+Though royal purple soothes his pride,  
+And snow-white pearls adorn his neck,  
+Nero, in all his reckless excess,  
+Lives as the target of everyone's scorn.
+
+Yet he bestowed on honored heads  
+The shameful honors of the state.  
+Shall we, then, think them truly blessed  
+Whom such promotion has made great?
+
+### V.
+
+"Well, then, can sovereignty and closeness to kings give a man power? Surely the happiness of kings lasts forever? Yet history is full of examples, and our own times too, of kings whose happiness turned into disaster. What a glorious power, which cannot even manage to preserve itself!
+
+"But if happiness comes from sovereign power, then wherever that power falls short of completeness, happiness is reduced and misery takes its place. And however far human rule extends, there must still be many peoples left over whom any given king has no authority.
+
+"Now, wherever the power on which happiness depends comes to an end, powerlessness creeps in and creates wretchedness. By this reckoning, a king's lot must contain a surplus of wretchedness.
+
+"The tyrant who had tested the dangers of his position pictured the fears that haunt a throne as a sword hanging over a man's head. What sort of power is this, then, that cannot drive away gnawing anxiety or escape the stings of terror? Kings would gladly have lived securely, but they cannot. And then they boast of their power!
+
+"Do you consider a man powerful when you see him wanting what he cannot achieve? Do you consider him powerful who surrounds himself with a bodyguard, who fears those he terrifies more than they fear him, and who, to keep up the appearance of power, is himself at the mercy of his slaves?
+
+"Need I say anything about the friends of kings, when I have shown royal rule itself to be so completely and miserably weak? Often the royal power, at its height, brings them low. Often it drags them down with it when it falls.
+
+"Nero forced his friend and teacher Seneca to choose the manner of his own death. Antoninus exposed Papinianus, long powerful at court, to the soldiers' swords. Yet both men were willing to give up their power. Seneca even tried to hand over his wealth to Nero and retire. But neither succeeded. When they began to totter, their very greatness pulled them down.
+
+"What kind of thing, then, is this power? It keeps men afraid while they have it. When you want to keep it, you are not safe, and when you want to lay it aside, you cannot get rid of it.
+
+"And are friends any protection, when fortune rather than virtue has bound them to you? No. The man whom good fortune made your friend, bad fortune will make your enemy. And what plague does more harm than an enemy within one's own household?"
+
+### SONG V. Self-mastery.
+
+Whoever sets his aim on power  
+Must first subdue his own spirit;  
+He must refuse to thrust his neck  
+Beneath the unholy yoke of lust.  
+For though the far-off land of India  
+Bows before his wide command,  
+And farthest Thule pays him homage,  
+If he cannot drive away  
+Haunting care and dark distress,  
+For all his power, he is powerless.
+
+### VI.
+
+"Again, how deceptive, and how base, glory often is! The tragic poet rightly exclaims:
+
+> "O foolish Fame, how many times  
+> Have you raised the lowborn wretch high in pride!"
+
+"Many have won a great name through the mistaken beliefs of the crowd, and what could be more shameful than that? Those who are falsely praised must blush at their own praises.
+
+"And even when praise is earned by merit, what does it add to the good conscience of the wise man? He measures his good not by popular reputation but by the truth of his own inner conviction.
+
+"And if it does seem a fine thing to have one's fame spread widely, it follows that failing to spread it is considered shameful. But as I explained just now, there must be many tribes and peoples whom no single man's fame can reach. So the man you consider glorious seems entirely without glory in a neighboring region of the world.
+
+"As for popular favor, I do not think it even worth mentioning here, since it never comes from judgment and never lasts steadily.
+
+"Then again, who does not see how empty and foolish the fame of noble birth is? If nobility rests on renown, the renown belongs to someone else. Nobility seems to be a kind of reputation that comes from the merits of one's ancestors. But if praise is what creates renown, then necessarily it is those who are praised who are famous.
+
+"So another person's fame does not clothe you with splendor if you have none of your own. If there is any excellence in noble birth, I think it is only this: it seems to place on the nobly born an obligation not to fall short of their ancestors' virtue."
+
+### SONG VI. True Nobility.
+
+All people come from one family stock, though scattered far and wide;  
+For One is Father of us all, and One for all provides.  
+He gave the sun his golden beams, the moon her silver horn;  
+He placed mankind upon the earth, as stars adorn the skies.  
+He enclosed a soul, a heaven-born soul, within the body's frame;  
+Every mortal may lay claim to the noble origin he gave.  
+Why, then, do you boast so loudly of your race and lofty line?  
+If you consider where your being comes from, and God's supreme design,  
+No one is degenerate, no one base, unless by taint of sin  
+And cherished vice he foully stains his heavenly origin.
+
+### VII.
+
+"Then what shall I say of bodily pleasures? Craving them is full of restlessness; satisfying them is full of regret. What illnesses, what unbearable pains, they tend to bring on the bodies of those who indulge in them, like the fruits of wickedness!
+
+"I do not know what sweetness the thrill of pleasure may hold. But anyone who cares to recall his own bodily lusts can understand that the outcomes of pleasure are painful.
+
+"Indeed, if these things could create happiness, there would be no reason the beasts should not be happy too, since all their efforts are eagerly directed toward satisfying bodily needs.
+
+"I know, of course, that the delight of a wife and children ought to be a fine thing. Yet what was said of one man is all too true to nature: he found his sons to be his tormentors.
+
+"I must remind you how painful such a situation would be, since you have never suffered anything of the kind and are not troubled by it now. In such a case, I agree with my servant Euripides, who said that a man without children was fortunate in his misfortune."
+
+### SONG VII. Pleasure's Sting.
+
+This is the way of Pleasure:  
+She stings those who plunder her;  
+And like the wingèd worker  
+Who has lost her honeyed treasure,  
+She flies off, but leaves her sting  
+Festering deep within the heart.
+
+### VIII.
+
+"There is no doubt, then, that these paths do not lead to happiness. They cannot guide anyone to the promised goal. Now I will show very briefly what serious evils come with following them.
+
+"Just consider. Are you trying to pile up money? You must wrest it from whoever has it now. Do you want to put on the splendor of official dignity? You must beg from those who have it to give. You who long to outshine others in honor must lower yourself to the humble posture of a petitioner.
+
+"Do you long for power? You must face dangers, for you will be at the mercy of your subjects' plots. Is glory your aim? You are drawn on through every kind of hardship, and your peace of mind is finished. Do you want a life of pleasure? Yet who does not scorn and despise someone who is the slave of the weakest and vilest of things, the body?
+
+"Again, those who set their hearts on bodily excellences rely on a slight and perishable possession! Can you ever exceed the elephant in size or the bull in strength? Can you outrun the tiger?
+
+"Look at the vastness, the solidity, and the swift motion of the heavens, and for once stop admiring mean and worthless things. And yet the heavens deserve admiration less for these qualities than for the reason that guides them.
+
+"Then how fleeting the luster of beauty is, and how soon it is gone! It passes faster than the fading bloom of spring flowers.
+
+"And suppose, as Aristotle says, that people could see with the eyes of Lynceus, so that their sight could pierce through solid obstacles. Would not even the body of Alcibiades, so splendidly beautiful on the outside, appear utterly repulsive once all its inner parts lay open to view?
+
+"So it is not your own nature that makes you seem beautiful, but the weakness of the eyes that look at you. Still, value the body's excellences as excessively as you like, so long as you know this: what you admire, whatever its worth, can be dissolved by the feeble flame of a three-day fever.
+
+"From all these considerations we may draw a general conclusion. These things cannot deliver the advantages they promise, and they are never made perfect by bringing all good things together. They therefore neither lead to happiness as side paths, nor do they themselves make people completely happy."
+
+### SONG VIII. Human Folly.
+
+Alas, how far astray  
+Does Ignorance lead these wretched mortals  
+From Truth's own way!  
+For you do not look for gold  
+On leafy branches in the green wood,  
+Nor strip the vine for gems;
+
+You do not spread your nets  
+Upon the hilltops so that the heavy-laden table  
+May be supplied with fish;  
+If you want to hunt  
+The leaping goat, you do not sweep in vain search  
+Across the ocean's ruffled face.
+
+They know the sea's far depths,  
+Each hidden nook where the waves wash over  
+The pearl as white as snow;  
+Where the Tyrian purple shell lies hidden,  
+Where fish and prickly urchins abound—  
+All this they know full well.
+
+But not to know or care  
+Where the good that all hearts long for lies hidden—  
+This blindness they can bear;  
+With eyes bent low upon the earth,  
+They search for what reaches far beyond  
+The starry sky.
+
+What curse shall I call down  
+On hearts so dull? Let them keep running the race  
+For wealth and high renown!  
+And when, after great effort,  
+They have grasped the false good—ah, then too late!—  
+May they recognize the true!
+
+### IX.
+
+'This should be enough to describe the form of false happiness. If you now see it clearly, the next step is to show what true happiness is.'
+
+'Indeed,' I said, 'I see clearly enough that independence cannot be found in wealth, nor power in sovereignty, nor reverence in high office, nor fame in glory, nor true joy in pleasures.'
+
+'Have you also seen the reasons why this is so?'
+
+'I think I have some idea, but I would like you to explain it more fully.'
+
+'The reason is close at hand. *Human error takes what is by nature simple and indivisible and splits it apart*, turning it from the true and perfect into the false and imperfect. Do you suppose that something which lacks nothing could lack power?'
+
+'Certainly not.'
+
+'Right. If anything has any weakness in its strength, it must necessarily need protection from outside itself.'
+
+'That is so.'
+
+'So independence and power are one and the same in nature.'
+
+'It seems so.'
+
+'Well then, do you think that something of this kind could be regarded with contempt? Or is it, of all things, the most worthy of reverence?'
+
+'There can be no doubt about that.'
+
+'Then let us add reverence to independence and power, and conclude that these three are one.'
+
+'We must, if we are to acknowledge the truth.'
+
+'Next, do you think this combination of qualities is obscure and undistinguished, or famous and widely renowned? Consider this. We have agreed that it lacks nothing, is supreme in power, and fully deserves honor. Could it lack renown? If it did, it would be unable to give itself renown, and so it would seem somewhat poor in reputation.'
+
+'I must admit that, being what it is, this union of qualities is also truly famous.'
+
+'Then we must admit that renown is not different from the other three.'
+
+'We must,' I said.
+
+'Now consider what needs nothing outside itself, can accomplish everything by its own strength, enjoys fame, and commands reverence. Must it not clearly also be filled with joy?'
+
+'Truly,' I said, 'I cannot imagine how any sadness could enter such a state. So I must acknowledge that it is full of joy, at least if our earlier conclusions are to stand.'
+
+'Then, for the same reasons, this also follows necessarily: independence, power, renown, reverence, and the sweetness of delight differ only in name. In substance they do not differ from one another at all.'
+
+'It does,' I said.
+
+'This, then, is one and simple by nature, yet human perversity divides it. People try to win a part of something that has no parts. As a result, they fail to gain even that portion, since there are no portions. They also fail to gain the whole, which they never even dream of seeking.'
+
+'How so?' I asked.
+
+'Take someone who seeks wealth to escape need. He gives no thought to power. He prefers a humble, lowly position, and he even denies himself many pleasures natural to human beings, so that he will not lose the money he has gained.
+
+'But in this way he does not even achieve independence. He becomes a weakling without strength, troubled by hardships, base and despised, and buried in obscurity.
+
+'Again, take someone who thirsts only for power. He squanders his wealth, scorns pleasure, and considers both fame and rank worthless without power. But you can see how many ways his condition also falls short.
+
+'Sometimes he lacks necessities. He is gnawed by anxieties. And since he cannot free himself from these troubles, he even ceases to have the power that was his whole aim and purpose.
+
+'We can work out the same account for rank, glory, or pleasure. Since each of these is identical with the others, whoever pursues any one of them without the rest does not even grasp the one he is aiming at.'
+
+'Well,' I said, 'what then?'
+
+'Suppose someone wants to obtain them all together. He does indeed want happiness as a whole. But will he find it in these things, which we have shown cannot provide what they promise?'
+
+'By no means,' I said.
+
+'Then happiness must certainly not be sought in these things, each of which is believed to supply one of the blessings people most desire.'
+
+'I agree that it must not. No conclusion could be truer.'
+
+'So the form and the causes of false happiness are set before your eyes. Now turn your gaze to the other side. There you will immediately see the true happiness I promised.'
+
+'Yes, indeed,' I said. 'Even the blind could see it. You pointed it out just now while explaining the causes of the false kind. Unless I am mistaken, true and perfect happiness is what crowns a person with the union of independence, power, reverence, renown, and joy.
+
+'And let me show you how deeply I have understood what I heard. Since all these are the same, I know that whatever can truly bestow one of them is, without doubt, full and complete happiness.'
+
+'You are fortunate, my student, in holding this conviction. You need to add only one thing.'
+
+'What is that?' I asked.
+
+'Do you think there is anything among these mortal, perishable things that can produce such a state?'
+
+'Surely not. You have demonstrated that so thoroughly that nothing more needs to be said.'
+
+'Well then, these things seem to give mortals shadows of the true good, or some kind of imperfect good. But the true and perfect good they cannot bestow.'
+
+'Just so,' I said.
+
+'Since you have now learned what true happiness is, and what people falsely call happiness, it remains for you to learn where to seek it.'
+
+'Yes. I have long been eagerly waiting for this.'
+
+'Plato maintains in the *Timaeus* that we ought to ask for divine protection even in the smallest matters. What, then, do you think we should do now, so that we may deserve to find the dwelling place of that highest good?'
+
+'We must call upon the Father of all things,' I said. 'Without this, no undertaking starts from a right beginning.'
+
+'You are right,' she said. At once she raised her voice and sang:
+
+### SONG IX. Invocation.
+
+Maker of earth and sky, from age to age  
+You rule the world by reason; at Your word  
+Time issues out of Eternity's abyss.  
+Source of movement to all that moves, Yourself fixed  
+And motionless. No cause outside Yourself  
+Compelled You to shape this well-proportioned frame  
+From shapeless matter; rather, deep within  
+Your inmost being, the form of perfect good,  
+Free from all envy, moved You; and You molded the whole  
+To that supreme pattern. Beautiful  
+Is the world thus imaged in You, since You Yourself  
+Are most beautiful. So You fashioned the work  
+In that fair likeness, commanding it to take on  
+Perfection through the exquisite perfection  
+Of every part's design. You bind  
+The elements in balanced harmony,  
+So that hot and cold, and moist and dry,  
+Do not wage war; the pure fire, leaping upward,  
+Does not escape, nor the weight of water drown the earth.
+
+You join and spread throughout the whole,  
+Linking its separate parts in harmony,  
+A soul of threefold nature, moving all.  
+This soul, split in two and gathered into two circles,  
+Speeds along a path that returns upon itself,  
+Encircling the bounds of mind, and shapes  
+The heavens to her true likeness. Lesser souls  
+And lesser lives, by a like decree,  
+You send forth, fastening each to its starry chariot,  
+And You scatter them far and wide  
+Over earth and heaven. By a kindly law  
+You bid them turn again and give back  
+Their fires to You. Oh, grant, almighty Father,  
+Grant us to rise on reason's wing  
+To heaven's lofty height; grant us to see  
+The fountain of good; grant us, the true light found,  
+To fix our steady eyes in clear vision  
+On You. Scatter the heavy mists of earth,  
+And shine in Your own splendor. For You are  
+The true serenity and perfect rest  
+Of every devout soul. To see Your face  
+Is the end and the beginning. You, the One, are guide,  
+Traveler, pathway, and goal.
+
+### X.
+
+'Now that you have seen the form of the imperfect good, and the form of the perfect good as well, I think I should next show how this perfect happiness is constituted. Here it seems right to ask first whether any excellence of the kind you have just defined can actually exist in the nature of things. Otherwise we might be deceived by an empty fiction of thought with no reality behind it.
+
+'But it cannot be denied that such a good does exist, and that it is, so to speak, the source of all good things. Anything called imperfect is called so because it lacks some perfection. So whenever imperfection is found in some particular respect, there must also be a perfection in that same respect.
+
+'If no such perfection existed, it would be impossible even to conceive how the so-called *im*perfection could come into being. Nature does not begin with things that are mutilated and incomplete. She starts with what is whole and perfect, and only later falls away into these weak and inferior products.
+
+'So if there is, as we showed earlier, a frail and imperfect kind of happiness, there can be no doubt that there is also a solid and perfect happiness.'
+
+'Your conclusion is entirely true and entirely certain,' I said.
+
+'Next we must consider where this happiness dwells. All humankind commonly agrees that God, the supreme ruler of all things, is good. Since nothing can be imagined better than God, how could we doubt that He is good, when there is nothing better than Him?
+
+'Reason shows that God is good in such a way that perfect good must be in Him. If it were not, He would not be supreme over all things. Something else, possessing perfect good, would be more excellent than He. It would seem to have the advantage in priority and dignity, since we have clearly seen that all perfect things come before less complete ones.
+
+'So, to avoid an infinite regress, we must acknowledge that the supreme God is full of supreme and perfect good. But we have established that true happiness is the perfect good. Therefore true happiness must dwell in the supreme Deity.'
+
+'I accept your reasoning,' I said. 'It cannot be disputed in any way.'
+
+'But come, see how strictly and irrefutably you can prove our claim that the supreme Godhead possesses the highest good most fully.'
+
+'How, may I ask?' I said.
+
+'Do not hastily assume that the Father of all things received this highest good from some outside source. And do not assume that He has it as a natural endowment in such a way that the happiness He possesses and the God who possesses it are two separate and different essences.
+
+'If you think He received it from outside, you might regard the giver as more excellent than the receiver. But we most rightly acknowledge Him to be the most excellent of all things.
+
+'Suppose instead that the good is in Him by nature, yet is logically distinct from Him. That is inconceivable, since we are speaking of God, who is supreme over all things. Who could have joined these distinct essences together?
+
+'Finally, when one thing is different from another, the two things conceived as distinct cannot be identical. So whatever is, by its own nature, distinct from the highest good is not itself the highest good. To think this of God would be impious, since it is plain that nothing can be more excellent than He is.
+
+'In general, nothing can be better in nature than the source it came from. So on the truest grounds of reason I would conclude that the source of all things is, in its very essence, the highest good.'
+
+'And quite rightly,' I said.
+
+'But we have agreed that the highest good is happiness.'
+
+'Yes.'
+
+'Then,' she said, 'we must acknowledge that God is happiness itself.'
+
+'Yes,' I said. 'I cannot contradict what I admitted before, and I see clearly that this follows necessarily from it.'
+
+'Consider also,' she said, 'whether the same conclusion is not further confirmed by the fact that there cannot be two supreme goods distinct from each other. Goods that differ clearly cannot each be what the other is. So neither of the two can be perfect, since each lacks what the other has. And whatever is not perfect plainly cannot be the supreme good.
+
+'Supreme goods, then, cannot possibly differ from one another. But we have concluded that both happiness and God are the supreme good. Therefore what is the highest Divinity must necessarily also be supreme happiness itself.'
+
+'No conclusion,' I said, 'could be truer to fact, more soundly reasoned, or more worthy of God.'
+
+'Then, further,' she said, 'just as geometers usually draw additional inferences from their proofs, which they call "deductions," I will add a kind of corollary here. People become happy by acquiring happiness, and happiness is divinity itself. It is clear, then, that they become happy by acquiring divinity.
+
+'Just as people become just by acquiring justice, and wise by acquiring wisdom, so by the same reasoning they must necessarily become gods by acquiring divinity. So every happy person is a god. And though by nature God is only One, nothing prevents a great many from being gods by sharing in that nature.'
+
+'A fine conclusion, and a precious one,' I said, 'whether you call it a deduction or a corollary.'
+
+'And yet,' she said, 'it is not one bit finer than the point reason now persuades us to add.'
+
+'What is that?' I said.
+
+'Happiness includes many particular goods. Should all of these be regarded as forming a single body of happiness, made up of various parts? Or is one of them the full essence of happiness, while all the rest are related to it?'
+
+'I wish you would explain the whole matter to me in full.'
+
+'We judge happiness to be good, do we not?'
+
+'Yes, the supreme good.'
+
+'And this "supreme" applies to all of them. For this same happiness is judged to be the most complete independence, and the highest power, reverence, renown, and pleasure.'
+
+'What then?'
+
+'Are all these goods—independence, power, and the rest—to be considered parts of happiness, so to speak? Or are they all related to the good as to their summit and crown?'
+
+'I understand the problem, but I want to hear how you would solve it.'
+
+'Well, then, listen to how the matter is settled. If all these were parts making up happiness, they would each differ from one another. That is the nature of parts: through their differences they make up one body.
+
+'But we have proved that all these goods are the same. So they cannot possibly be parts. Otherwise happiness would seem to be built out of a single part, which is impossible.'
+
+'There can be no doubt about that,' I said. 'But I am impatient to hear the rest.'
+
+'Clearly, all the others are related to the good. Independence is sought precisely because it is judged to be good. Power is sought because it is believed to be good. The same can be assumed of reverence, renown, and pleasant enjoyment. The good, then, is the sum and source of all desirable things.
+
+'Something that has no good in it, either in reality or in appearance, cannot be desired at all. On the other hand, even things that are not good by nature are desired as if they were truly good, if they seem to be good. That is why goodness is rightly believed to be the sum, the hinge, and the cause of everything desirable.
+
+'Now, whatever a thing is desired for seems itself to be what is most wished for. For instance, if someone wants to ride for the sake of his health, he does not so much want the exercise of riding as the benefit to his health.
+
+'Since, then, all things are sought for the sake of the good, it is not these things so much as the good itself that everyone seeks. But we agreed that happiness is the thing for whose sake all other things are wanted. So here too it appears that happiness alone is what is sought.
+
+'From all this it is perfectly clear that the essence of absolute good and the essence of happiness are one and the same.'
+
+'I cannot see how anyone could disagree with these conclusions.'
+
+'But we have also proved that God and true happiness are one and the same.'
+
+'Yes,' I said.
+
+'Then we can safely conclude as well that God's essence lies in absolute good, and nowhere else.'
+
+### SONG X. The True Light.
+
+Come here, all you whose minds  
+Lust has bound in rosy chains—  
+Lust that forces into bondage  
+The earthbound souls where he makes his home—  
+Here your labour will find its end;  
+Here is your harbour of rest.  
+Come, press toward your one refuge;  
+It stands wide open to all distress!
+
+Not the gleam of yellow gold  
+Rolled down bright Hermus' current;  
+Not the Tagus' precious sands,  
+Nor, in distant scorching lands,  
+All the radiant gems that hide  
+Under the storied waters of the Indus—  
+Emerald green and glistening white—  
+Can give light to our feeble sight;  
+Instead they leave the mind  
+Blind in its native darkness.  
+For the brightest rays they shed  
+Were nourished in earth's lowest depths;  
+But the splendour that supplies  
+Strength and vigour to the skies,  
+And governs the universe,  
+Shuns dark and ruined souls.  
+Whoever has once seen *this* light  
+Will not call the sunbeam bright.
+
+### XI.
+
+'I quite agree,' I said. 'All your reasoning fits together admirably.'
+
+Then she said: 'How much would you value the gift, if you came to know the absolute good?'
+
+'Infinitely,' I said, 'if only I were fortunate enough to come to know God as well, who is the good.'
+
+'I will make this clear to you on the soundest grounds of reason, provided our recent conclusions stand firm.'
+
+'They will.'
+
+'Have we not shown why the things most people desire are not the true and perfect good? The reason is that they differ from one another. Since each lacks what another has, none of them can provide full and absolute good.
+
+'They become the true good only when they are gathered, so to speak, into one form and one power. Then independence is also power, respect, fame, and pleasure. Unless they are all one and the same, they have no claim to be counted among things worth desiring.'
+
+'Yes. This was clearly proved, and it cannot be doubted in any way.'
+
+'Now, these things are far from good while they are separate, but they become good as soon as they are one. Is it not true, then, that they become good by acquiring unity?'
+
+'It seems so,' I said.
+
+'But do you not grant that everything good is good by sharing in goodness?'
+
+'Yes.'
+
+'Then on similar grounds you must admit that unity and goodness are the same. When things produce the same effects by their natural working, their essence is one and the same.'
+
+'There is no denying it.'
+
+'Now, do you know,' she said, 'that everything that exists lasts and holds together as long as it remains one, but as soon as it stops being one, it perishes and falls apart?'
+
+'In what way?'
+
+'Take animals, for example. When soul and body come together and stay united, we call this a living creature. But when this unity is broken by the separation of the two, the creature dies and is plainly no longer alive.
+
+'The body, too, looks human while it keeps one form through the joining of its limbs. But if its parts are separated and scattered, breaking the body's unity, it stops being what it was. And if we extend our survey to everything else, it will clearly appear that each thing lasts while it is one, and perishes when it stops being one.'
+
+'Yes. When I think about it further, I see that it is just as you say.'
+
+'Well,' she said, 'is there anything that, insofar as it acts according to its nature, gives up the wish to live and wants to come to death and decay?'
+
+'Looking at living creatures, which have some power of choice, I find none that gives up the will to live without being forced from outside, or rushes toward destruction of its own accord. Every creature works hard to preserve itself and avoids death and destruction. But about herbs and trees, and lifeless things in general, I am completely unsure what to think.'
+
+'And yet there can be no question about these either. You see how herbs and trees grow in places that suit them, where, as far as their nature allows, they cannot quickly wither and die.
+
+'Some spring up in the plains, others in the mountains. Some grow in marshes, others cling to rocks, and still others find fertile ground in barren sand. If you try to transplant these elsewhere, they wither away.
+
+'Nature gives each plant the soil that suits it, and she works carefully to keep any of them from dying, as long as they can go on living. Why else do they all draw their nourishment through roots, like a mouth dipped into the earth, and spread strong bark over the pith?
+
+'Why are all the softer parts, like the pith, tucked deep inside, while the outer parts have the firm texture of wood? And why is the bark outermost of all, to resist harsh weather like a champion with great powers of endurance?
+
+'Again, how carefully nature secures the spread of every species by multiplying seed! Everyone knows that these are devices not only for maintaining a species now, but for its lasting continuance, generation after generation, forever.
+
+'And do not things believed to be lifeless also seek, on similar grounds of reason, what is proper to each of them? Why do flames shoot lightly upward, while earth presses downward with its weight, unless these motions and positions suit their respective natures?
+
+'Moreover, each thing is preserved by what agrees with its nature, just as it is destroyed by what is hostile to it. Solid things like stones resist breaking apart because their parts cling tightly together.
+
+'Fluid things like air and water yield easily to whatever divides them, but they quickly flow back and mingle with the parts they were separated from. Fire, again, refuses to be cut at all.
+
+'We are not now discussing the voluntary motions of an intelligent soul, but the drift of nature. This is how we digest our food without thinking about it and breathe unconsciously in sleep. Even in living creatures, the love of life does not come from conscious will but from the principles of nature.
+
+'For often, under the pressure of circumstances, the will chooses the death that nature shrinks from. On the other hand, the will sometimes holds back, in spite of natural appetite, from the work of reproduction, which alone keeps perishable creatures in existence. So entirely does this self-love come from the drift of nature, not from animal impulse.
+
+'Providence has given things this most compelling reason to continue: they must desire life as long as it is naturally possible for them to go on living. So you must not doubt in any way that things naturally aim to continue existing and avoid destruction.'
+
+'I confess,' I said, 'that what I recently thought uncertain, I now see to be clear beyond doubt.'
+
+'Now, whatever seeks to last and continue desires to be one. If its oneness is gone, its very existence cannot continue.'
+
+'True,' I said.
+
+'All things, then, desire to be one.'
+
+'I agree.'
+
+'But we have proved that one is the very same thing as good.'
+
+'We have.'
+
+'All things, then, seek the good. In fact, you may express this by defining the good as that which all things desire.'
+
+'Nothing could be more truly reasoned. Either there is no single end to which all things are directed, or else the end toward which all things everywhere hurry must be the highest good of all.'
+
+Then she said: 'I rejoice greatly, dear pupil. Your eye is now fixed on the very center of the target of truth. And here, too, is revealed what you earlier claimed not to know.'
+
+'What is that?' I said.
+
+'The end and aim of the whole universe. Surely it is what all things desire. And since we have concluded that the good is such a thing, we ought to acknowledge that the end and aim of the whole universe is "the good."'
+
+### SONG XI. Reminiscence.
+
+Whoever pursues truth, and would keep  
+His careful steps from false ways,  
+Must search within by inner light  
+In deep meditation;  
+He must hold back every outward pull  
+To possess his soul's true treasure.
+
+Then all that error's mists concealed  
+Will shine more clearly than light.  
+This body's weight, which makes us forget,  
+Has not wholly put out reason;  
+The seeds of truth still lie within,  
+And from them, by learning, we may win everything.
+
+How else could you give the proper answer  
+To questions, though untaught,  
+Unless, deep within the soul,  
+Hidden sparks of truth still lived?  
+If Plato's teaching is not wrong,  
+What we learn is only what we have forgotten.
+
+### XII.
+
+'I agree with Plato with all my heart,' I said. 'In fact, this is now the second time these truths have been brought back to my mind. I lost them first through the clogging contact of the body, and then later under the weight of heavy grief.'
+
+She continued: 'If you reflect on what you admitted earlier, it will not be long before you also recall something you once confessed you did not know.'
+
+'What is that?' I asked.
+
+'The principles by which the world is governed,' she said.
+
+'Yes, I remember my confession. And although I can now anticipate what you intend, I want to hear the argument set out plainly.'
+
+'A little while ago you considered it beyond all doubt that God governs the world.'
+
+'I do not think it doubtful now, and I never shall. Let me briefly explain the reasons that have brought me to this certainty.
+
+'This world could never have taken shape as a single system out of parts so different and opposed, unless there were One who joins these different things together. And once it had come together, the very diversity of its natures would have split it apart and torn it to pieces in universal conflict, unless there were One who holds together what He has joined.
+
+'Nor would the order of nature proceed so regularly, and its course would not show motions so fixed in position, time, range, effect, and character, unless there were One who, remaining unchanged Himself, arranged these varied changes. This power, whatever it may be, by which created things remain as they were made and are kept in motion, I call by the name everyone recognizes: God.'
+
+'Since that is what you believe,' she said, 'I think it will cost me little trouble to help you attain happiness and return safely to your own country. But let us turn our attention to the task we have set ourselves. Did we not count independence as part of happiness, and agree that God is happiness itself?'
+
+'We did.'
+
+'Then He will need no outside help to rule the world. Otherwise, if He needed anything, He would not possess complete independence.'
+
+'That necessarily follows,' I said.
+
+'Then He arranges all things by His own power alone.'
+
+'That cannot be denied.'
+
+'Now, God was shown to be the absolute good.'
+
+'Yes, I remember.'
+
+'Then He arranges all things through goodness, if it is true that *He*, whom we have agreed to be good, rules all things by His own power. He is, so to speak, the rudder and helm that keeps the machinery of the world steady and in order.'
+
+'I agree wholeheartedly. In fact, I anticipated what you would say, although perhaps only as a faint guess.'
+
+'I can well believe it,' she said. 'I think you now bring to the search eyes that are quicker to see the truth. But what I will say next is no less plain and easy to see.'
+
+'What is it?' I asked.
+
+'Since God is rightly believed to govern all things with the rudder of goodness,' she said, 'and since all things, as I have taught, likewise hurry toward the good by their natural aim, can there be any doubt that His government is willingly accepted? Surely all things submit to the rule of the One who arranges them, because they are shaped and adjusted to fit His rule.'
+
+'Necessarily so,' I said. 'No rule would seem happy if it were a yoke forced on unwilling subjects, rather than the safekeeping of obedient ones.'
+
+'Then nothing that follows its nature tries to resist the good.'
+
+'No, nothing.'
+
+'But if anything did, would it have the slightest success against Him whom we rightly agreed to be the supreme Lord of happiness?'
+
+'It would be completely powerless.'
+
+'So there is nothing that has either the will or the power to oppose this supreme good.'
+
+'No, I think not.'
+
+'Then it is the supreme good,' she said, 'that rules with strength and arranges all things graciously.'
+
+'How delighted I am with your reasoning,' I said, 'and with the conclusion you have brought it to, but most of all with the very words you use! At last I am ashamed of the foolishness that troubled me so badly.'
+
+'You have heard the story of the giants who attacked heaven. A kindly strength dealt with them too, as they deserved. But shall we now set our arguments against each other and let them collide? Perhaps the impact will strike out some fine spark of truth.'
+
+'If you wish,' I said.
+
+'No one can doubt that God is all-powerful.'
+
+'No one who thinks consistently could question it at all.'
+
+'Now, there is nothing that an all-powerful being cannot do.'
+
+'Nothing.'
+
+'But can God do evil?'
+
+'No, by no means.'
+
+'Then evil is nothing,' she said, 'since He for whom nothing is impossible is unable to do evil.'
+
+'Are you mocking me,' I said, 'weaving a maze of tangled arguments? At one moment you seem to begin where you ended, and at another to end where you began. Or are you building some wonderful circle of divine simplicity?
+
+'Only a little while ago, you began with happiness. You said it was the supreme good and declared that it resides in the supreme Godhead. You also stated that God Himself is the supreme good and complete happiness. From this you went on to add, almost in passing, the proof that no one could be happy unless he were also God.
+
+'Again, you said that the very form of the good is the essence of both God and happiness. You taught that the absolute One is the absolute good, which all of nature seeks. You also maintained that God rules the universe through the governance of goodness, that all things obey Him willingly, and that evil has no existence in nature.
+
+'And you laid out all of this without relying on assumptions brought in from outside. You used proofs that belong to the subject itself, each one drawing its credibility from the others.'
+
+'I am far from mocking you,' she answered. 'By the blessing of God, to whom we prayed a little while ago, we have achieved the most important goal of all. The form of the divine essence is such that it cannot pass out into external things, nor take anything external into itself. Instead, as Parmenides says of it,
+
+'"In body like a sphere, perfectly rounded on every side,"
+
+'it turns the restless sphere of the universe while keeping itself motionless.
+
+'And if I have also used arguments not drawn from outside but lying within the bounds of our subject, you have no reason to be surprised. You have learned on Plato's authority that words ought to be akin to the matter they discuss.'
+
+### SONG XII. Orpheus and Eurydice.
+
+Blessed is the one whose feet have stood  
+Beside the fountain of the good;  
+Blessed is the one whose will could break  
+Earth's chains for wisdom's sake!
+
+The Thracian poet, so they say,  
+Mourned his dear wife, now dead;  
+To hear his mournful song  
+The woods moved after him,  
+And the stream stopped flowing,  
+Held still by so gentle a grief;  
+The deer, without alarm,  
+Lay down beside the lion;  
+The hound, subdued by song,  
+No longer chased the hare;  
+But the pain, unrelieved,  
+Raged on in his own heart.  
+The music that could calm  
+Everything else brought him no relief.  
+Reproaching the immortal powers,  
+He came to the gate of Hell;  
+There he breathed every tender thing  
+Upon his ringing strings,  
+Every finely crafted song  
+His goddess mother taught him—  
+All that grief could lend him,  
+And love that doubled his sorrow—  
+Until, as the echoes wake,  
+All of Tænarus is shaken;  
+While he moves to pity  
+The king of the shades  
+With his sweet prayer. Spellbound,  
+The three-headed hound,  
+At sounds so strangely sweet,  
+Falls crouching at his feet.  
+The dreaded Avengers, too,  
+Who hunt down guilty minds  
+With fears that always haunt them,  
+Are all dissolved in tears.  
+Ixion, bound to his wheel,  
+Feels a brief relief;  
+For look! the wheel stands still.  
+And while those sad notes thrill,  
+Tantalus, maddened by thirst,  
+Listens, forgetting  
+How the stream mocks him,  
+And his long agony.  
+The vulture, too, holds off  
+For a little while from tearing  
+At Tityus' torn side,  
+Satisfied and calmed.
+
+At last the shadowy king,  
+Taking pity on his sorrows,  
+Cried out, 'He has won!  
+We give him back his bride!  
+She shall belong to him  
+As the reward for his song.  
+Yet one condition only  
+Is placed upon this gift:  
+He must not turn his eyes  
+To look at his hard-won prize  
+Until they have safely passed  
+The gates of Hell.' Alas!  
+What law can govern lovers?  
+Love is a higher law!  
+For Orpheus—what grief!—  
+Upon his Eurydice,  
+With daylight's threshold almost reached,  
+Looked, lost her, and was ruined!
+
+You who pursue the light,  
+This story is for you,  
+You who seek to find a way  
+Into a clearer day.  
+If on the darkness past  
+You cast one backward look,  
+Your weak and wandering eyes  
+Have lost the matchless prize.
+
+## Book 4: Good and Ill Fortune
+
+### I.
+
+Philosophy sang these verses softly and sweetly to the end, without losing any of the dignity of her expression or the seriousness of her tone. But I still could not forget my deep-seated sorrow. Just as she was about to say something more, I broke in and cried out:
+
+'You who guide us into the way of true light, everything you have said from the beginning until now has plainly seemed divine to me when considered in itself. The force of your arguments has also placed it beyond any possibility of being overturned. These truths were not entirely unfamiliar to me before, though my indignation at the wrongs done to me has made me forget them for a while.
+
+'But here is the chief cause of my grief. There exists a good ruler of the universe, and yet evil can exist at all. Still worse, it can go unpunished. Surely you see how rightly this alone provokes astonishment.
+
+'But an even greater marvel follows. While wickedness rules and flourishes, virtue not only goes without its reward but is thrust down and trampled under the feet of the wicked. It suffers punishment in place of crime. That this should happen under the rule of a God who knows all things and can do all things, but wills only the good, can never be wondered at or lamented enough.'
+
+Then she said: 'It would indeed be infinitely astonishing, and the most horrible of all monstrous things, if what you suppose were true. In the well-ordered home of so great a master of the household, the cheap vessels would be held in honor while the precious ones were neglected. But it is not so.
+
+'If we hold firmly to the conclusions we reached a little while ago, you will learn the following, by the will of Him whose kingdom we are discussing. The good are always strong, and the bad are always weak and powerless. Vices never go unpunished, and virtues never go unrewarded. Good fortune always comes to the good, and bad fortune to the bad. There is much more of this kind, which will silence your complaints and settle you in firm conviction.
+
+'Through my recent teaching you have seen the form of happiness, and you have learned where it is to be found. Now that all the necessary groundwork is done, I will show you the road that will lead you home.
+
+'I will also fasten wings to your mind so that you can soar upward. Then, with all disturbing doubts removed, you may return safely to your homeland under my guidance, along the path I will show you, and by the means I provide.'
+
+### SONG I. The Soul's Flight.
+
+Wings are mine; above the pole  
+Far aloft I soar.  
+Clothed with these, my nimble soul  
+Scorns earth's hated shore,  
+Cuts across the skies on the wind,  
+Sees the clouds left far behind.
+
+Soon she nears the glowing point  
+Where the heavens turn,  
+Follows through the starry spheres  
+The sun-god Phoebus' course, or straight  
+Takes as comrade among the stars  
+Saturn cold or glittering Mars;
+
+So she explores each circling orb  
+That peers through Night's dark robe;  
+Then, when she has counted all, she soars  
+Far beyond the spheres,  
+Climbing to heaven's highest height,  
+To the very Source of light.
+
+There the Sovereign of the world  
+Holds His calm command;  
+As the globe is whirled along,  
+He guides the chariot's reins,  
+And, glittering in splendor,  
+Reigns as the universal King.
+
+If your wandering feet  
+At last find their way here,  
+Here you will greet your long-lost home:  
+'Dear lost land,' you'll say,  
+'Though I have wandered far from you,  
+From here I came, and here I'll stay.'
+
+Yet if you ever wish  
+To be a visitor once more  
+To earth's gloomy night,  
+You will surely see  
+Tyrants whom the nations fear  
+Living here in wretched exile.
+
+### II.
+
+Then I said: 'Your promises are truly wonderful and great, and I do not doubt that you can fulfill them. Only do not keep me in suspense after raising such hopes.'
+
+'First, then, learn this,' she said. 'Power always accompanies the good, while the bad are left entirely without strength. Each of these truths proves the other. Good and evil are opposites. So if it is made plain that good is power, the weakness of evil is clearly seen. Conversely, if the frail nature of evil is made plain, the strength of good becomes known through it.
+
+'However, to win fuller belief for my conclusion, I will follow both paths. I will confirm my statements first in one way and then in the other.
+
+'Carrying out any human action depends on two things: will and power. If either is missing, nothing can be accomplished. If the will is lacking, no one even attempts what he does not want to do. If the power is lacking, the will is useless.
+
+'So if you see someone who wants to reach some goal but completely fails to reach it, you cannot doubt that he lacked the power to get what he wanted.'
+
+'Certainly not; there is no denying it.'
+
+'Can you doubt, then, that someone you see accomplish what he wanted also had the power to accomplish it?'
+
+'Of course not.'
+
+'Then a person is to be counted strong in respect of what he can accomplish, and weak in respect of what he cannot?'
+
+'Granted,' I said.
+
+'Do you remember that our earlier reasoning concluded that the whole aim of the human will is intently fixed on happiness, even though people pursue it by different means?'
+
+'I remember that this, too, was proved.'
+
+'Do you also recall that happiness is the absolute good? And that therefore, whenever happiness is sought, the object of desire is in every case the good?'
+
+'I do not so much recall it as keep it fixed in my memory.'
+
+'Then all people, good and bad alike, strive with one and the same purpose to reach the good?'
+
+'Yes, that follows.'
+
+'But it is certain that people become good by attaining the good?'
+
+'It is.'
+
+'Then do the good attain their object?'
+
+'It seems so.'
+
+'But if the bad were to attain the good that is *their* object, they could not be bad?'
+
+'No.'
+
+'Then, since both seek the good, but one kind attains it and the other does not, can there be any doubt that the good are endowed with power, while the bad are weak?'
+
+'Anyone who doubts it is incapable of reflecting on the nature of things, or on the consequences that follow from reasoning.'
+
+'Again, suppose nature assigns the same function to two things. One of them accomplishes this function successfully by acting naturally. The other is entirely incapable of that natural action. Instead, it acts in a way contrary to its nature, and—I will not say fulfills its function—only pretends to fulfill it. Which of these two would you consider the stronger?'
+
+'I can guess your meaning, but please let me hear you explain it more fully.'
+
+'Walking is the natural motion of human beings, is it not?'
+
+'Certainly.'
+
+'And you do not doubt, I suppose, that it is natural for the feet to perform this function?'
+
+'No, surely I do not.'
+
+'Now suppose one man who can use his feet walks, while another, who lacks the natural use of his feet, tries to walk on his hands. Which of the two would you rightly judge the stronger?'
+
+'Go on,' I said. 'No one can question that the one who has the natural capacity has more strength than the one who lacks it.'
+
+'Now, the supreme good is set up as the goal for the bad and the good alike. But the good seek it through the natural action of the virtues. The bad try to reach this same good through every kind of craving, which is not the natural way to attain the good. Or do you think otherwise?'
+
+'No. In fact, one further consequence is clear to me. From what I have admitted, it necessarily follows that the good have power and the bad are powerless.'
+
+'You anticipate rightly. Doctors take that as a sign that nature has started working and is throwing off the disease. Since I see you are so quick to understand, I will pile proof upon proof.
+
+'See how obvious the extreme weakness of vicious people is. They cannot even reach the goal toward which nature's aim leads them and almost compels them. What would become of them if they were left without this mighty, almost irresistible help of nature's guidance!
+
+'Consider also how serious the powerlessness is that disables the wicked. The prizes they compete for, but cannot win or keep, are not light or trivial. Their failure concerns the very sum and crown of all things. Poor wretches! They fail to secure even the thing they labor for day and night.
+
+'Here, too, the strength of the good clearly appears. You would judge the strongest walker to be the one whose legs could carry him to a point beyond which no further progress was possible. In the same way, you must count as strong in power the person who reaches the goal of his desires so fully that nothing further remains to be desired.
+
+'From this follows the obvious conclusion that the wicked are likewise seen to be entirely without strength. Why do they abandon virtue and follow vice? Is it because they do not know what is good? But what is weaker and feebler than the blindness of ignorance?
+
+'Or do they know what they ought to follow, while lust drives them off the path? If so, they are still frail because of their lack of self-control, since they cannot fight against vice.
+
+'Or do they knowingly and willingly abandon the good and turn aside to vice? In that case, they not only cease to have power, they cease to exist at all. Those who abandon the common goal of all existing things likewise cease to exist.
+
+'Some may find it strange that we claim the bad, who make up the greater part of humanity, do not exist. But it is so. I do not deny that the bad are bad. What I deny is that they *are*, in an unqualified and absolute sense.
+
+'We call a corpse a dead man, but we cannot call it simply "a man." In the same way, I grant that the vicious are bad, but I cannot grant that they *are* in an absolute sense.
+
+'Only that which keeps its place and preserves its nature truly *is*. Whatever falls away from this abandons the existence that is essential to its nature.
+
+'"But," you will say, "the bad have an ability." I do not wish to deny it. But this ability of theirs comes not from strength but from weakness. Their ability is to do evil, and that ability would have had no effect at all if they had been able to continue doing good.
+
+'So this ability of theirs shows even more plainly that they have no power. For if, as we concluded a moment ago, evil is nothing, then clearly the wicked can accomplish nothing, since evil is all they are able to do.'
+
+'That is evident.'
+
+'Now, so that you may understand the exact force of this power: did we not determine a while ago that nothing has more power than the supreme good?'
+
+'We did,' I said.
+
+'But that same highest good cannot do evil?'
+
+'Certainly not.'
+
+'Is there anyone, then, who thinks that human beings can do all things?'
+
+'No one but a madman.'
+
+'Yet they are able to do evil?'
+
+'Yes. I wish they could not!'
+
+'The one who can do only good is all-powerful, while those who can also do evil are not all-powerful. It is clear, then, that those who can do evil have less power.
+
+'There is also this. We have shown that all power is to be counted among desirable things. We have also shown that all desirable things are related to the good as the completion of their nature.
+
+'But the ability to commit crime cannot be related to the good. Therefore it is not something to be desired. Yet all power is desirable. Clearly, then, the ability to do evil is not power.
+
+'All these considerations reveal the power of the good and the undoubted weakness of the bad. They also show that Plato's judgment was true. Only the wise can do what they wish, while the wicked follow their own hearts' cravings but can*not* accomplish what they wish.
+
+'They go on in their willfulness, imagining that they will gain what they wish for along the paths of pleasure. But they are very far from gaining it, since shameful deeds do not lead to happiness.'
+
+### SONG II. The Bondage of Passion.
+
+When the monarch sits high on his throne, resplendent in the pride  
+Of purple robes, while flashing steel guards him on every side;  
+When deadly terrors darken his brow with frowning threat,  
+And Passion shakes his laboring breast—how dreadful his power seems!  
+But if you tear the robes of state from such a man,  
+You'll see what load of secret chains this lord of earth must wear.  
+Lust's poison festers; rage sweeps over his mind in a savage storm;  
+Sorrow torments his spirit sorely, and empty hopes deceive him.  
+Then you'll admit: this one wretched man, oppressed by many lords,  
+Never does what he wishes, but lives in helpless bondage.
+
+### III.
+
+'You see, then, how deeply wicked deeds are sunk in foulness, and how brightly righteousness shines. This makes it clear that goodness never lacks its reward, and crime never lacks its punishment.
+
+'In every kind of undertaking, the thing for whose sake an action is done can rightly be counted as the reward of that action. The wreath for which a race is run, for example, is the reward offered for running.
+
+'Now, we have shown that happiness is the very good for whose sake all things are done. Absolute good, then, is offered as the common prize, so to speak, of all human actions.
+
+'But this reward can never be separated from the good person, because someone without good cannot properly be called good at all. So righteous conduct never misses its reward.
+
+'However violently the wicked rage, then, the crown will not fall from the head of the wise, nor will it wither. Other people's wickedness cannot strip righteous souls of their proper glory.
+
+'If the reward that delights the righteous soul came from outside, then whoever gave it, or someone else, might take it away. But since it is conferred by that person's own righteousness, he will lose his prize only when he has stopped being righteous.
+
+'Finally, every prize is desired because it is believed to be good. Who, then, could consider someone who possesses the good to be without reward? And what a prize it is, the fairest and grandest of all!
+
+'Remember the corollary I insisted on most a little while ago, and reason like this. Since absolute good is happiness, it is clear that all good people must be happy precisely because they are good. But we agreed that those who are happy are gods.
+
+'The prize of the good, then, is one that no length of time can weaken, no one's power can lessen, and no one's wickedness can tarnish. It is godhood itself.
+
+'Since this is so, the wise person cannot doubt that punishment is inseparable from the wicked. Good and bad are opposites, and so are reward and punishment. It necessarily follows that for everything we see coming to the good as their reward, some corresponding penalty is attached to evil as its punishment.
+
+'Just as righteousness itself is the reward of the righteous, then, wickedness itself is the punishment of the wicked. Now, no one who suffers punishment doubts that he is suffering something evil.
+
+'So if the wicked were only willing to weigh their own case, could *they* think themselves free from punishment? Wickedness, the worst of all evils, has not merely touched them but deeply stained them.
+
+'Now look, from the opposite standpoint, that of the good, at the penalty that follows the wicked. You learned a little while ago that whatever exists is one, and that unity itself is good. By this reckoning, whatever falls away from goodness ceases to exist.
+
+'So the wicked stop being what they were. Only their outward appearance remains to show that they were once human. By turning to wickedness, they have lost their true human nature.
+
+'Furthermore, righteousness alone can raise people above the level of humanity. It must follow that wickedness drags below that level those it has thrown out of the human condition. You therefore cannot regard as human someone you see transformed by vice.
+
+'The violent robber of other people's goods, burning with greed, surely resembles a wolf. The bold, restless person who is always quarreling in the law courts is like a yelping dog. The secret schemer who delights in fraud and stealth is a brother to the fox. The hot-tempered man, frenzied with rage, might be thought to have the soul of a lion.
+
+'The coward who runs away, afraid where there is nothing to fear, can be compared to the timid deer. Someone sunk in ignorance and stupidity lives like a dull donkey. Someone fickle and inconstant, never holding to one thing for long, is just like a bird. Someone who wallows in foul and filthy lusts is sunk in the pleasures of a dirty pig.
+
+'So it happens that whoever abandons righteousness, and so stops being human, cannot pass into a godlike state. Instead, he actually turns into a beast.'
+
+### SONG III. Circe's Cup.
+
+The shrewd man of Ithaca  
+And all his storm-tossed fleet  
+Were driven far across the sea  
+By the winds of heaven—  
+Driven to the mysterious island  
+Where, full of deceit, there lives  
+That beautiful and faithless woman,  
+The daughter of the Sun.  
+There, for the foreign crew,  
+With cunning spells she knew  
+How to mix the enchanted cup.  
+For whoever drinks it down  
+Must suffer a hideous change  
+Into strange and monstrous shapes.  
+One turns into a boar;  
+This one rears up his huge form,  
+Mighty in bulk and limb—  
+An African lion, grim  
+With claw and fang. This one, revealed  
+As a wolf, in deep distress  
+Howls when he wants to weep;  
+And these, strangely tame, prowl  
+As companions of the Indian tiger.
+
+And though he was in such dire straits,  
+The pity of the god  
+Who carries the mystic staff  
+Had power to save the brave chief  
+From her deadly arts;  
+But his comrades, unrestrained,  
+Drained the fatal goblet.  
+Now all, with heads bent low,  
+Fed on acorns like pigs;  
+Their speech and form were taken,  
+No human feature left;  
+But the mind, still steadfast,  
+Unchanged and unresigned,  
+Mourned the monstrous change.
+
+How little, then, could  
+The powers of evil achieve!  
+These herbs, this harmful skill,  
+May change each outward part,  
+But cannot touch the heart.  
+In its true home, deep within,  
+The human spirit still lives.  
+*Those* poisons are deadlier,  
+More powerful at driving  
+Man from his high estate,  
+Which subtly seep inside,  
+And leave the body whole,  
+But deeply infect the soul.
+
+### IV.
+
+Then I said, "This is very true. I see that the wicked, though they keep the outward form of human beings, are rightly said to be changed into beasts in their spiritual nature. But their cruel and polluted minds vent their rage by destroying good people, and so I wish they were not given this freedom."
+
+"Nor are they," she said, "as I will show at the proper place. Yet if the freedom you believe they have were taken away, the punishment of the wicked would be largely cancelled.
+
+"Some may find this incredible, but it must be true: the wicked are more unfortunate when they have achieved their desires than when they cannot fulfill them. If it is wretched to want evil, it is more wretched to have been able to do it. Without the power, the wretched will would have no effect.
+
+"So those you see who want to commit crime, who are able to commit it, and who actually commit it must suffer a threefold wretchedness. Each of these states carries its own measure of misery."
+
+"Yes," I said, "yet I earnestly wish they might soon be freed from this misfortune by losing the ability to commit crime."
+
+"They will lose it," she said, "sooner perhaps than you wish, or than they themselves expect. Within the narrow limits of our short life, nothing arrives so late that anyone should think it a long wait, least of all an immortal spirit.
+
+"Their great hopes, the towering structure of their crimes, are often overthrown by a sudden and unexpected end. And this only sets a limit to their misery. If wickedness makes people wretched, then someone who is wicked for a longer time must be more wretched.
+
+"If death did not at least put an end to the evil deeds of the wicked, I would count them wretched to the last degree. Indeed, if our conclusions about the misfortune of wickedness are true, then a wretchedness doomed to last forever is plainly infinite."
+
+Then I said, "That is a remarkable inference, and hard to accept. But I see that it agrees entirely with our earlier conclusions."
+
+"You are right," she said. "But anyone who finds the conclusion hard to accept ought, in fairness, to do one of two things. He should either prove that one of the premises is false, or show that the way the propositions are combined does not make the conclusion necessary. Otherwise, if the premises are granted, nothing at all can be said against the conclusion.
+
+"And here is another claim that seems no less remarkable, but follows just as necessarily from the premises we have assumed."
+
+"What is that?"
+
+"The wicked are happier when they undergo punishment than if no penalty of justice corrects them. I do not mean what might occur to anyone: that bad character is reformed by retribution and brought onto the right path by fear of punishment, or that punishment provides an example warning others to avoid wrongdoing.
+
+"Rather, I believe the wicked are more unfortunate when they go unpunished for another reason, even if we take no account of reform and pay no attention to example."
+
+"What other reason is there besides these?" I asked.
+
+Then she said, "Have we not agreed that the good are happy and the wicked wretched?"
+
+"Yes," I said.
+
+"Now," she said, "if someone in distress is given some good thing along with his misery, is he not happier than someone whose misery is pure misery, with no good mixed in?"
+
+"It would seem so."
+
+"But suppose someone is already wretched and lacks all good. If some further evil is added beyond those that make him wretched, must we not judge him far unhappier than someone whose misfortune is eased by some share of good?"
+
+"It could hardly be otherwise."
+
+"Surely, then, when the wicked are punished, something good is added to them, namely punishment, which by the law of justice is good. Likewise, when they escape punishment, a new evil attaches to them: that very freedom from punishment, which you rightly acknowledged to be an evil in the case of the unjust."
+
+"I cannot deny it."
+
+"Then the wicked are far unhappier when they are indulged with an unjust freedom from punishment than when they are punished by just retribution. Now, it is clear that it is just for the wicked to be punished, and unjust for them to escape unpunished."
+
+"Who would dare deny it?"
+
+"No one can possibly deny this either: everything just is good, and, conversely, everything unjust is bad."
+
+Then I answered, "These inferences do follow from what we concluded a moment ago. But tell me," I said, "do you take no account of the punishment of the soul after the death of the body?"
+
+"Certainly I do," she said. "Those penalties are great. Some, I imagine, are inflicted with the severity of retribution, others with the mercy of purification. But it is not my present purpose to speak of them.
+
+"So far, my aim has been to make you recognize that the power of the wicked, which shocked you so deeply, is no power at all. I wanted you to see that those whose freedom from punishment you complained about are never without the proper penalties of their injustice. And I wanted to teach you that the license you prayed would soon end does not last long.
+
+"That license would be more unhappy if it lasted longer, and most unhappy of all if it lasted forever. Further, the unjust are more wretched if they are unjustly let go without punishment than if they are punished by just retribution. From this point of view, it follows that the wicked suffer more severe penalties precisely when they are thought to escape punishment."
+
+Then I said, "When I follow your reasoning, I am deeply struck by its truth. But when I turn to the common beliefs of people, I find few who would even listen to such arguments, let alone accept them as credible."
+
+"True," she said. "They cannot lift eyes used to darkness toward the light of clear truth. They are like those birds whose sight is sharpened by night and blinded by day. Because they look not to the order of the universe but to their own inclinations, they think that freedom to commit crime and escape from punishment are good fortune.
+
+"But consider the decree of eternal law. If you have shaped your soul to resemble what is better, you need no judge to award the prize. By your own act you have raised yourself in the scale of excellence. If you have turned your affections toward baser things, do not look for punishment from someone outside you. Your own act has degraded you and thrust you down.
+
+"In the same way, suppose you turn your gaze back and forth between the lowly earth and the heavens. Even though everything outside you stays still, the mere laws of sight make you seem now sunk in the mud, now soaring among the stars.
+
+"But the common crowd pays no attention to these things. What then? Should we go over to the side of those we have shown to be like brute beasts?
+
+"Suppose someone had completely lost his sight and had also forgotten that he ever possessed the power of vision. Suppose he imagined that he lacked nothing needed for human perfection. Would we then consider those who could see as well as ever to be blind?
+
+"These people will not accept this point either: that those who do wrong are more wretched than those who suffer wrong. Yet the proof of this rests on reasons no less strong."
+
+"Let me hear those reasons," I said.
+
+"Would you deny that every wicked person deserves punishment?"
+
+"Certainly not."
+
+"And it is clear in many ways that the wicked are unhappy?"
+
+"Yes," I replied.
+
+"Then you do not doubt that those who deserve punishment are wretched?"
+
+"Agreed," I said.
+
+"So if you were sitting as judge, on whom would you impose punishment: the one who did the wrong, or the one who suffered it?"
+
+"Without doubt, I would compensate the sufferer at the expense of the wrongdoer."
+
+"Then the one who inflicts injury would seem more wretched than the one who receives it?"
+
+"Yes, that follows. So, for this reason and others resting on the same ground, since baseness by its very nature makes people wretched, it is clear that a wrong brings misery to the one who commits it, not to the one who suffers it."
+
+"And yet," she says, "the practice of the law courts is exactly the opposite. Advocates try to stir the judges' pity for those who have endured some serious and cruel wrong. But pity is really owed to the criminal.
+
+"His accusers ought to bring him before the judge not in anger but in compassion and kindness, as one brings a sick man to a physician, so that the ulcer of his fault may be cut away by punishment. In that case, the advocate's work would either come to a complete halt, or, if people wanted to make it useful to humanity, it would be limited to accusation.
+
+"Suppose the wicked themselves were allowed, through some chink or crack, to catch sight of the virtue they have abandoned. Suppose they saw that the pains of punishment would rid them of the filth of their vices and win them the reward of righteousness in exchange. Then they would no longer think of these sufferings as pains. They would refuse the help of advocates and hand themselves over entirely to their accusers and judges.
+
+"It follows that the wise have no room for hatred. Only the most foolish would hate the good, and hating the bad is unreasonable. Vice is, so to speak, a disease of the soul, like bodily sickness. We do not consider people who are sick in body to deserve hatred, but pity. In the same way, and even more so, we should pity those whose minds are attacked by wickedness, which is more dreadful than any sickness."
+
+### SONG IV. The Unreasonableness of Hatred.
+
+Why all this furious strife? Oh, why  
+With reckless, willful hands provoke death's destined day?  
+If death is what you seek, look! Death is near;  
+Its swift horses never pause at their master's will!
+
+The wild beasts turn their rage on humankind,  
+Yet men aim murderous steel against their brothers' lives;  
+They wage unjust and cruel wars,  
+And rush with flying spears to meet or deal out death.
+
+They can show no right or reason;  
+It is only because their lands and laws are not the same.  
+Would *you* give each his due? Then know:  
+The good must have your love; the bad must have your pity.
+
+### V.
+
+At this I said, "I see how there is a happiness and a misery based on what the righteous and the wicked actually deserve. Still, I wonder whether there is not some good and evil in fortune as ordinary people understand it.
+
+"Surely no sensible person would rather be exiled, poor, and disgraced than live prosperously in his own country, powerful, wealthy, and highly honored. Indeed, wisdom's work shows itself more clearly and openly when the happiness of rulers is somehow passed on to the people around them.
+
+"This is especially so since prison, the law, and the other pains of legal punishment are properly due only to harmful citizens, on whose account they were originally established. So I am greatly amazed that all this is completely reversed. The good are harassed with the penalties due to crime, while the wicked carry off the rewards of virtue.
+
+"I long to hear from you what reason can be found for such an unjust state of disorder. Certainly I would wonder less if I could believe that everything is the confused result of chance. But as it is, my belief in God's government adds amazement to amazement.
+
+"He sometimes assigns good fortune to the good and harsh fortune to the bad, and then again treats the good harshly and grants the bad their hearts' desire. How does this differ from chance, unless some reason for it all can be found?"
+
+"No, it is not surprising," she said, "if everything is thought random and confused when the principle of order is unknown. You do not know the causes on which this great system depends. Yet since a good ruler governs the world, do not doubt, for your part, that everything is done rightly."
+
+### SONG V. Wonder and Ignorance.
+
+Whoever does not know how near the pole  
+Boötes runs his course,  
+Must wonder by what heavenly law  
+He drives his Wagon so slowly;  
+Why he sinks so late beneath the sea,  
+And lights his beams again so quickly.
+
+When the full round moon grows pale  
+In the middle of the night,  
+And suddenly the stars shine out  
+That faded in her light,  
+The astonished nations stand and stare,  
+And beat the air in wild amazement.
+
+No one wonders why upon the shore  
+The storm-whipped breakers pound,  
+Nor why the frozen glaciers melt  
+In summer's burning heat;  
+For here the cause seems plain and clear;  
+We fear only what is dark and hidden.
+
+Weak-minded folly magnifies  
+Everything rare and strange,  
+And the dull crowd is overwhelmed with awe  
+At unexpected change.  
+But wonder leaves enlightened minds  
+When ignorance no longer blinds.
+
+### VI.
+
+"True," I said. "But since it is your task to uncover the hidden causes of things and to explain principles that lie in darkness, please tell me your own conclusions on this question. The wonder of it troubles my mind more than anything else."
+
+For a moment a smile crossed her lips as she answered. "You are calling me to the greatest of all subjects of inquiry, a task that even the most thorough treatment can barely complete. Its nature is such that as soon as one doubt is cut away, countless others spring up like the heads of the Hydra. We could set no limit to their regrowth unless we applied the living fire of the mind to suppress them.
+
+"This subject includes the questions of the essential simplicity of providence, the order of fate, unforeseen chance, divine knowledge and predestination, and the freedom of the will. You can judge for yourself how heavy a weight all this is. But since knowing these things is also part of the cure for your illness, we will try to give them some attention, even within the narrow limits of our time.
+
+"Also, you must do without the pleasures of music and song for a while, if indeed you find any delight in them, while I weave together a connected chain of reasons in their proper order."
+
+"As you wish," I said.
+
+Then, as if making a fresh start, she spoke as follows: "Everything that comes into being, the whole course of development in things that change, and every kind of thing that moves in any way, receives its proper cause, order, and form from the unchanging stability of the divine mind. This mind, resting calmly in the citadel of its own essential simplicity, has decreed that its way of governing shall take many forms.
+
+"When this way of governing is viewed in the pure divine intelligence itself, it is called *providence*. When it is viewed in relation to the things it moves and arranges, it is what the ancients called *fate*. Anyone who reviews what each of them does will easily see that the two are different.
+
+"Providence is the divine reason itself, located in the Supreme Being, which arranges all things. Fate is the arrangement built into all moving things, through which providence binds everything into its proper order. Providence embraces all things at once, however different and however infinite they may be. Fate sets individual things in motion one by one, and assigns each of them its place, form, and time.
+
+"So the unfolding of this order in time, when it is unified in the foresight of the divine mind, is providence. The same unity, broken up and unfolded across time, is fate. Although the two are different, one depends on the other, because the order of destiny comes forth from the essential simplicity of providence.
+
+"Consider a craftsman. He first forms in his mind the idea of the thing he will make. Then he carries out his design, developing step by step what he had earlier seen all at once as a whole. In the same way, God through His providence ordains all things as parts of a single unchanging whole, but carries out these very ordinances through fate, in time, as a unity unfolded into many parts.
+
+"Fate may be carried out by divine spirits serving as ministers of providence, or by a soul, or by the service of all nature. It may work through the heavenly motion of the stars, through the power of angels, or through the many-sided cunning of demons. The destined series may be woven by all of these or by only some of them. Whichever it is, one thing at least is clear.
+
+"Providence is the fixed and simple form of destined events. Fate is their shifting series in the order of time, as the divine simplicity arranges for them to happen. It follows that everything under fate is also subject to providence, on which fate itself depends. But certain things placed under providence stand above the chain of fate. These are the things that, by their nearness to the primal Divinity, are firmly fixed and lie outside the order of fate's movements.
+
+"Imagine several circles turning around the same center. The innermost one comes close to the simplicity of the central point and acts as a kind of pivot around which the outer circles turn. The outermost circle, whirled in a larger orbit, sweeps through more and more space the farther it lies from the indivisible unity of the center. Further, whatever joins and attaches itself to the center is drawn into the same simplicity, and no longer spreads loosely out into space.
+
+"In the same way, whatever moves far away from the primal mind becomes more deeply entangled in the net of fate. Things are free from fate to the degree that they seek to draw nearer to that central pivot. And if anything clings closely to the supreme mind in its absolute fixity, it too is free from movement and rises above the necessity of fate.
+
+"Therefore, the shifting series of fate stands to the stability and simplicity of providence as reasoning stands to pure intelligence, as what comes into being stands to what truly is, as time stands to eternity, and as a circle stands to its center.
+
+"It is this chain of causes that moves the heavens and the stars, tunes the elements into harmony with one another, and in turn transforms them into new combinations. It is *this* that renews the series of all things that are born and die, through similar successions of seed and birth. *Its* operation binds the destinies of human beings in an unbreakable chain of causes. And since this chain begins from unchangeable providence, these destinies must also necessarily be unchangeable.
+
+"Accordingly, the world is governed for the best if this unity, abiding in the divine mind, sends out an unbending order of causes. By its own unchangeable nature, this order restrains changeable things that would otherwise ebb and flow at random.
+
+"So it happens that to you, who cannot fully understand this order, everything seems confused and disordered. Yet everywhere there is a fixed limit that guides all things toward the good. Indeed, nothing can be done for the sake of evil, even by the wicked themselves. As we proved at length, they seek the good but are led astray by perverse error. Far less can this order, which starts from the supreme center of good, turn aside in any direction from the path on which it began.
+
+"'Yet what confusion,' you will say, 'could be more unjust than this: that prosperity and adversity fall indiscriminately on the good, and that the bad receive by turns what they like and what they hate?'
+
+"Yes. But do people in real life have such soundness of mind that their judgments of righteousness and wickedness must match the facts? On this very point their verdicts conflict. Those whom some think worthy of reward, others think worthy of punishment.
+
+"But suppose there were someone who could rightly tell the good from the bad. Could he look into the innermost constitution of the soul, if we may borrow a term used of the body? The wonder here resembles that of someone who does not know why, in health, sweet things suit some constitutions and bitter things suit others, or why some sick people are best relieved by mild remedies and others by harsh ones.
+
+"But the physician, who understands the exact conditions and characteristics of health and sickness, is not surprised. Now, the health of the soul is nothing other than righteousness, and vice is its sickness. It is God, the guide and physician of the mind, who preserves the good and drives out the bad. He looks out from the high watchtower of His providence, sees what suits each person, and assigns what He knows to be suitable.
+
+"This, then, is what the extraordinary mystery of the order of destiny amounts to: something is done by one who knows, and the ignorant are astonished at it. But let us consider a few examples that show how far human reason is able to fathom the unsearchable depths of the divine.
+
+"Here is someone you consider the very model of justice and careful integrity. To all-knowing Providence he seems quite different. We all know the warning of our own Lucan, that the winning cause found favor with the gods, but the losing cause found favor with Cato. So if you see anything in this world turn out differently from what you expected, do not doubt that events are rightly ordered. The perverse confusion lies in your own judgment.
+
+"Suppose, however, that someone is found with so fortunate a character that God and humans agree in their judgment of him. Yet he is somewhat weak in strength of mind. If he fell into adversity, he might stop practicing the innocence that had failed to secure his good fortune. So God's wise arrangement spares the person whom adversity might make worse, and does not let someone suffer who is poorly fitted to endure it.
+
+"Another person is perfect in every virtue, so holy and so close to God that providence judges it wrong for anything unpleasant to happen to him. It does not even allow him to be afflicted with bodily illness. As one greater than I has said:
+
+"'The very body of the holy saint  
+Is built of purest ether.'
+
+"Often the good are given power to govern so that a check may be placed on an excess of wickedness. To others providence assigns a mixed lot suited to the nature of their souls. Some it troubles so that they do not grow wild and overgrown through long prosperity. Others it allows to be tormented by severe afflictions, so that their virtues may be strengthened through the exercise and practice of patience.
+
+"Some fear too much what they have the strength to bear. Others despise too much what their strength cannot handle. Providence brings all of these, through misfortune, to the test of their true selves.
+
+"Some have purchased a name honored by future generations at the price of a glorious death. Others, by unconquerable steadfastness in their sufferings, have shown by their example that virtue cannot be defeated by disaster. All these things, without doubt, happen rightly and in proper order, and for the benefit of those to whom they are seen to happen.
+
+"As for the other side of the wonder, that the wicked sometimes meet with affliction and sometimes get what they desire, this too comes from the same causes. No one, of course, wonders at their afflictions, since everyone holds that the wicked deserve ill. In fact, their punishments both frighten others away from crime and reform those who suffer them.
+
+"Their prosperity, on the other hand, preaches a powerful sermon to the good. It teaches them how they ought to judge this kind of good fortune, which so often attends the wicked so faithfully.
+
+"There is, I believe, another purpose that may be served in such cases. Perhaps there is someone whose nature is so reckless and violent that poverty would drive him more desperately into crime. Providence relieves *his* disorder by allowing him to amass money.
+
+"Such a person, uneasy in a conscience stained with guilt, compares his character with his fortune. Perhaps he grows afraid that he will come to mourn the loss of what is so pleasant to possess. He will then change his ways, and out of fear of losing his fortune he abandons his wickedness.
+
+"Some, by bearing prosperity unworthily, have been thrown headlong into ruin. To some the power of the sword has been entrusted, so that the good may be tested by discipline and the bad punished. For while there can be no peace between the righteous and the wicked, neither can the wicked agree among themselves.
+
+"How could they, when each is at odds with himself? His vices tear at his conscience, and often they do things which, once done, they judge should never have been done. This is how supreme providence brings about a remarkable wonder: the bad make the bad good.
+
+"Some people, seeing the injustice they themselves suffer at the hands of wrongdoers, are inflamed with hatred of the offenders. In their effort to be unlike those they hate, they return to the paths of virtue. Only the divine power can make even evil things good, since by putting them to suitable use it brings them in the end to some good outcome.
+
+"For order in some way embraces all things. Even what has departed from the appointed laws of the order still falls within *an* order, though *another* order, so that nothing in the realm of providence is left to chance. But
+
+> "'Hard were the task, as a god, to recount it all, leaving nothing out.'
+
+"Nor, indeed, is it lawful for a human being to grasp in thought all the workings of the divine plan, or to set them out in words. Let us be content to have understood only this: God, the creator of all nature, also arranges all things and guides them toward the good.
+
+"While He strives to keep everything He has created in likeness to Himself, He drives all evil out from the borders of His commonwealth through the links of fated necessity. As a result, if you look to the providence that arranges all things, you will nowhere find the evils that are believed to abound on earth.
+
+"But I see that you have long been weighed down by the burden of this subject and worn out by the length of the argument, and that you now look for some refreshment in sweet poetry. Listen, then. May this drink restore you, so that you will turn your mind more firmly to what remains."
+
+### SONG VI. The Universal Aim.
+
+If you would, with a clear mind,  
+See the laws that God designed,  
+Lift your steady gaze on high  
+To the canopy of stars;  
+See, in a rightful bond of love,  
+All the constellations move.  
+The fiery Sun, in his full course,  
+Never blocks the cold Moon's sphere;  
+When the Bear, at heaven's height,  
+Wheels his horses in their rapid flight,  
+Though he sees the other stars  
+Sinking in the western sea,  
+He does not complain, nor does he wish  
+To quench his fires in the flood.
+
+In true order, as decreed,  
+Morning and evening each day follow on;  
+Vesper, the evening star, brings the shades of night,  
+Lucifer, the morning star, brings the light.  
+Love, in its proper alternation,  
+Keeps renewing the cycle still,  
+And quarrelsome strife is driven out  
+From the starry realm of heaven.  
+So, in a wondrous friendship,  
+The warring elements agree;  
+Hot and cold, and wet and dry,  
+Set their ancient quarrel aside;  
+The flickering flame rises high,  
+And earth forever sinks below.
+
+So the year, in spring's mild hours,  
+Fills the air with the scent of flowers;  
+Summer paints the grain with gold;  
+Then, when autumn comes again,  
+The orchards glow, bright with fruit;  
+Winter brings the rain and snow.  
+So the seasons' fixed progression,  
+Balanced in its proper sequence,  
+Nourishes and brings to birth  
+All that lives and breathes on earth.  
+Then, when life's short day is run,  
+It takes away all that it brought.
+
+But One sits and guides the reins,  
+He who made all things and sustains them;  
+King and Lord and Source of all,  
+Most holy Judge, most fearsome Law;  
+Now he drives forward, now he holds back,  
+Keeping every waverer on the track.  
+Otherwise, if that power were once withdrawn  
+Which compels the circling spheres  
+To turn within their orbits,  
+This world's order would dissolve,  
+And the whole harmonious frame  
+Would fall in one hideous ruin.
+
+But through this connected frame  
+Runs one universal aim;  
+All things move toward the Good:  
+Many paths, but one the end.  
+For nothing lasts unless it turns  
+Back along its course and longs  
+To flow again to that Source  
+From which it first received its being.
+
+### VII.
+
+"Do you see, then, what follows from everything we have said?"
+
+"No. What follows?"
+
+"That every fortune, without exception, is good fortune."
+
+"How can that be?" I asked.
+
+"Pay attention," she said. "Every fortune, welcome or unwelcome, exists for one of these purposes: to reward or test the good, or to punish or correct the bad. So every fortune must be good, because it is either just or useful."
+
+"Your reasoning is entirely true," I said. "And when I think about the providence and fate you have taught me about, the conclusion rests on a strong foundation. Still, if you will allow it, let us count it among the claims you described a moment ago as paradoxical."
+
+"Why?" she asked.
+
+"Because people commonly say, and say often, that some people's fortune is bad."
+
+"Shall we, then, come closer for a while to the language of ordinary people, so that we do not seem to have strayed too far from the way human beings usually talk?"
+
+"As you wish," I said.
+
+"You call whatever benefits you good, don't you?"
+
+"Certainly."
+
+"And whatever tests or corrects a person benefits them?"
+
+"Granted."
+
+"Then it is good?"
+
 "Of course."
 
-"Now, obviously the punishment of the wicked is just, and their escape from punishment is unjust."
-"No one would deny that."
-"And no one will deny, too, that what is just is good, and on the other hand, what is unjust is bad."
-I agreed this was obvious.
+"Well, this is the situation of two groups. The first are those who have already reached virtue and are struggling against adversity. The second are those who are turning away from vice and taking hold of the path of virtue."
 
-"So," Philosophy explained, "when the wicked receive punishment, they receive something good—the punishment itself—which is good because of its justice. But when they go unpunished, they acquire some extra evil in actually going free, which you have agreed is bad because of its injustice."
 "I cannot deny it."
-"Therefore, the wicked are much more unhappy when they are unjustly allowed to go free than when a just punishment is imposed upon them."
-
-"That is the logical outcome of our previous conclusion," I said. "But, I ask you, don’t you leave any punishment of the soul until after the death of the body?"
-"There is, indeed, great punishment then," she replied. "Sometimes it is carried out with punishing severity; sometimes, I think, with purifying mercy. But it is not my intention to discuss that now.
-
-We have followed the argument this far so that you can see that what you thought of as the entirely undeserved power of the wicked is no real power at all. I wanted you to see that those whose freedom from punishment you were complaining about do not at all escape paying for their wickedness. That freedom of theirs, for whose speedy end you were praying, doesn’t last long and will be more miserable the longer it continues. It will be most miserable of all if it is endless. And lastly, the wicked are more wretched when unjustly excused from punishment than when they receive a just consequence. The logical conclusion of this is that they are burdened with heavier punishment precisely when they are believed to escape it."
-
-Then I said, "When I consider your arguments, I think nothing more true could be spoken. But when I turn to the opinions of ordinary people, few would even give you a hearing, let alone believe you."
-
-"That is true," she said. "Their eyes are used to the dark, and they cannot raise them to the shining light of truth. They are like birds whose sight is sharpened by night and blinded by day. So long as they look only at their own desires and not at the order of creation, they think of freedom to commit crimes and the absence of punishment as happy things. But let us see what is decreed by everlasting law: if you have turned your mind to higher things, there is no need for a judge to award you a prize; it is you yourself who have brought yourself to a more excellent state. But if you have directed your efforts towards lower things, do not look for punishment from outside; it is you yourself who have plunged yourself into a worse condition. It is just as if you look by turns at the sky and then at the dirt of the earth; everything else disappears, and you seem at one moment to be in the mud and at the next moment among the stars, simply by the action of looking. But ordinary people do not see such things.
-
-Well, are we to join these people whom we have shown to be like animals? What about the case of a man who completely lost his sight and even forgot he had ever had it, and then thought that he possessed everything that belonged to human perfection? Would we, who have sight, think the same as that blind man?
 
-And there is something else, equally well founded on a firm base of argument, which they will not agree with: namely, that those who commit an injustice are more unhappy than those who suffer it."
-"I would like to hear that argument," I said.
+"What about the good fortune given as a reward to good people? Do ordinary people judge that to be bad?"
 
-"Well," Philosophy began, "I presume you do not deny that every wicked man deserves punishment?"
-"No, I don't."
-"And it is abundantly clear that the wicked are unhappy?"
-"Yes."
-"Therefore, you would not doubt the unhappiness of those who deserve punishment?"
-"No."
-"Suppose, then, you were sitting in judgment in a law court. On whom would you decide to pass sentence: the man who had committed the wrong, or the man who had suffered it?"
-"I have no hesitation in saying I would satisfy the one who had suffered, at the expense of the one who had done the wrong."
-"So you would think the perpetrator of the injury is more wretched than the victim?"
-"That follows."
+"Far from it. They consider it the best kind of fortune, as indeed it is."
 
-"For this and other reasons based on the fact that badness, by its own nature, makes men wretched," Philosophy concluded, "it is clear that when someone is done an injury, the misery belongs not to the victim but to the perpetrator.
-But the court speakers of today take the opposite course. They try to arouse the sympathy of the court for those who have suffered some grievous and painful injury. However, a more just sympathy is actually due to those who are guilty. They ought to be brought to justice not by a prosecutor with an air of outrage, but by a prosecution that is kind and sympathetic—like sick men being brought to the doctor—so that their guilt could be cut back by punishment, like a malignant growth. In this way, the work of defense lawyers would either completely stop, or, if they chose to benefit mankind, they would turn to the job of accusation. And the wicked themselves, if through some crack they were allowed a glimpse of the virtue they had abandoned, if they could see themselves about to lay aside the filth of vice through the pains of punishment, they would no longer consider them to be pains because of the compensation of acquiring goodness. They would refuse the services of defense counsels and give themselves up wholly to their accusers and judges.
+"What about the remaining kind? It is harsh, but it restrains the wicked with just punishment. Does popular opinion consider that good?"
 
-This is why, among wise men, there is no place at all left for hatred. For no one, except the greatest of fools, would hate good men. And there is no reason at all for hating bad men. For just as weakness is a disease of the body, so wickedness is a disease of the mind. And if this is so, since we think of people who are sick in body as deserving sympathy rather than hatred, much more so do those who suffer an evil more severe than any physical illness deserve pity rather than blame."
+"No. Of all the fortunes one could imagine, it is thought the most miserable."
 
-#### A Call for Compassion (A Poem)
+"Notice, then, whether by following popular opinion we have not arrived at a thoroughly paradoxical conclusion."
 
-Philosophy then sang:
-"What pleasure do men find in high passions
-And tempting fate with a suicidal hand?
-If they seek death, he’ll soon draw near, uninvited,
-Giving his horses free rein to speed him forth.
+"How so?" I asked.
 
-Man is the prey of lion fangs and snakes,
-Of tigers, bears, and boars; is man the prey
-Of other men as well? Why does he make battles
-And long to perish by another’s blade?
-Because their customs differ – just for this?
-No just cause there for blood and savageness.
-You want what you deserve, and not to miss your due reward?
-Then love the good, and show pity for the bad."
+"It follows from what we have agreed. Consider everyone who has reached virtue, everyone who is advancing in it, and everyone who is aiming at it. In every case, their fortune is good. But for those who remain in their wickedness, fortune is always utterly bad."
 
-### V. Boethius's Lingering Question: The Problem of Unequal Fortune
+"That is true," I said, "though no one dares to admit it."
 
-Then I said, "Yes, I can see there is a kind of happiness and misery that are inseparable from the very actions of good and bad men. But I believe that there is both good and bad in the actual fortune experienced by ordinary people. No wise man prefers being in exile, being poor and disgraced, to being rich, respected, and powerful, and to remaining at home and flourishing in his own city. For this is the way that wisdom is more clearly and obviously seen to be operating: when, somehow or other, the happiness of their rulers is communicated to the people they come into contact with. This is especially true if prison and death and all the other sufferings the law imposes as punishment are reserved for the wicked citizens for whom they were intended.
+"For this reason," she said, "a wise person should not resent being drawn into one of fortune's battles. A brave soldier is not offended whenever the trumpet sounds for battle, and the wise person should feel the same about hardship. A time of trial is exactly the opportunity each of them needs: the soldier to win glory, the wise person to perfect his wisdom.
 
-Why this is all turned upside down, why good men are oppressed by punishments meant for crime, and bad men can snatch the rewards that belong to virtue, surprises me very much. I would like to know from you the reason for this very unjust confusion. I would be less surprised if I could believe that the confusion of things is due to the random operations of chance. But my wonder is only increased by the knowledge that the ruling power of the universe is God. Sometimes He is pleasant to the good and unpleasant to the bad. Other times He grants the bad their wishes and denies the good. But since He often varies between these two alternatives, what grounds are there for distinguishing between God and the randomness of chance?"
+"Virtue takes its very name from this. Relying on its own strength, it does not give way to adversity. And you who have taken your stand on virtue's steep climb should not let yourselves be dissolved in delights or weakened by pleasure.
 
-"It is not surprising," Philosophy said, "if ignorance of the principle of its order makes people think a thing is unplanned and chaotic. But even if you don’t know the reason behind the great plan of the universe, there is no need for you to doubt that a good power rules the world and that everything happens rightly."
+"Instead, you engage in combat, and very fierce combat, with every change of fortune. You fight so that bad fortune cannot overwhelm you and good fortune cannot corrupt you.
 
-#### Understanding Cosmic Order (A Poem)
+"Hold to the middle way with all your strength. Whatever falls short of it, or goes beyond it, shows contempt for happiness and loses the reward of effort. It is up to you to make your fortune whatever you choose. Indeed, every fortune that seems harsh is punishment, unless it either trains or corrects."
 
-Philosophy then sang:
-"If you did not know that the stars of Arcturus
-Sail near the highest pole of heaven,
-Or why the Waggoner constellation (Boötes) is slow to set his wagon
-And late to dip his flames into the sea,
-Although his rising comes again with haste,
-The fixed law observed in heaven would leave you dazed.
+### SONG VII. The Hero's Path.
 
-And if the full moon’s gleaming horns grow pale
-As night’s shadow extends across her disc (an eclipse);
-If Phoebe (the Moon), when dimmed, reveals the confused stars
-Which just before her shining light had masked;
-Whole nations, moved by common error,
-Would frequently bang on pots and pans of brass (to drive away the 'danger').
+Ten years a weary war raged on  
+Before Ilium's smoking ruins paid  
+For a marriage stained and faith betrayed,  
+And great Atrides' wrath was gone.
 
-Yet no one wonders when the northwest wind
-Sweeps in the roaring waves to beat the shore,
-Or when the frozen mass of hard-packed snow
-Dissolves before the sun’s summer heat.
-The causes in these cases are clear to view,
-But a hidden cause confounds the human heart,
-Perplexed by things that rarely come to pass,
-For unexpected things cause people to dread.
-Then let the clouds of ignorance give way,
-And these events will no more wondrous seem."
+But when heaven's anger demanded a life,  
+And contrary winds held back his course,  
+The king set his fatherhood aside  
+And killed his child with a priest's knife.
 
-### VI. Providence and Fate: God's Plan and Its Unfolding
+When, by the cavern's glimmering light,  
+Odysseus saw his dear companions  
+Swallowed in the huge Cyclops' hideous jaws,  
+He wept at the pitiful sight.
 
-"That is so," I said. "But since it is part of your task to unravel the causes of matters that lie hidden and to unfold reasons veiled in darkness, and since I am very much disturbed by this strange phenomenon of unequal fortune, I do beg you to tell me your teaching on this point."
+But soon, blinded and wild with pain,  
+In bitter tears and deep distress,  
+For that foul feast's unholy joy  
+Grim Polyphemus paid in turn.
 
-She paused and smiled a moment before answering.
-"You are urging me to discuss the greatest of all questions," she said, "a question that can never be fully exhausted. The subject is of such a kind that when one doubt has been removed, countless others spring up in its place, like the Hydra’s heads in mythology. The only way to check them is with a really lively intellectual fire. The usual subjects of inquiry in this area concern:
-* The oneness of **Providence** (God's overarching plan)
-* The course of **Fate**
-* The apparently haphazard nature of random events (chance)
-* Divine knowledge and predestination
-* The freedom of the will.
-You can see for yourself how difficult these topics are.
+His labors win for Alcides  
+A glorious name far and wide;  
+He tamed the Centaurs' arrogant pride,  
+And stripped the lion of its skin.
 
-However, since knowledge of these things is also part of your treatment, we will try to determine something, despite the narrow limits of time in which we are confined. And if the enchantments of song delight you, you will have to postpone your pleasure a little while I weave together the close-knit arguments in their proper order."
-"Whatever you wish," I said.
+He killed the foul birds with sure arrows;  
+He stole the golden fruit, and in vain  
+The dragon kept its watch; with a triple chain  
+He dragged Cerberus up from hell's depths.
 
-Then, as if she were starting a fresh argument, she spoke as follows.
-"The creation of all things, the whole progress of things that are subject to change, and whatever moves in any way—all these receive their causes, their due order, and their form from the unchanging mind of God. In the high citadel of its oneness, the mind of God has established a plan for the multitude of events.
-* When this plan is thought of as existing in the purity of God’s understanding, it is called **Providence**.
-* When this same plan is thought of with reference to all the things whose motion and order it controls, it is called by the name the ancients gave it: **Fate**.
+He fed the wild horses on the flesh  
+Of their own fierce master; he overcame the Hydra  
+With fire. Beneath his own waters, in shame,  
+The maimed Achelous hid his head.
 
-If anyone will examine their meaning, it will soon be clear to him that these two aspects are different.
-* **Providence** is the divine reason itself. It is set at the head of all things and arranges all things.
-* **Fate**, on the other hand, is the planned order inherent in things subject to change. It is the medium through which Providence binds everything in its own allotted place.
+Huge Cacus was slain for his crimes;  
+Antaeus was hurled down on Libya's sands;  
+The shoulders that would hold up the world  
+Were stained by the great boar's dripping foam.
 
-Providence includes all things at the same time, however diverse or infinite they may be. Fate, however, controls the motion of different individual things in different places and at different times. So, this unfolding of God's plan in time, when brought together as a unified whole in the foresight of God’s mind, is Providence. The same unified whole, when dissolved and unfolded in the course of time, is Fate.
+Last labor of all: his strength held up  
+The sphere of heaven, and he did not bend  
+Beneath it; this labor, the end of his toils,  
+Won him the prize of heaven's high glory.
 
-They are different, but the one depends on the other. The order of Fate is derived from the simplicity of Providence. Imagine a craftsman: he first anticipates in his mind the plan of the thing he is going to make. Then, he sets in motion the execution of the work and carries out in time the construction of what he has seen all at one moment present to his mind’s eye. In the same way, God in His Providence constructs a single, fixed plan of all that is to happen. It is by means of Fate that all He has planned is realized in its many individual details in the course of time.
+Brave hearts, press on! See how these bright examples  
+Lead the way to heaven! From the fight  
+Do not turn your backs in cowardly flight;  
+When earth's battle is won, the stars are your reward!
 
-So, whether the work of Fate is done with the help of divine spirits who serve Providence, or whether the chain of Fate is woven by the soul of the universe, or by the obedience of all nature, by the celestial motions of the stars, or by the power of angels, by the various skills of other spirits, or by some of these, or by all of them—one thing is certainly clear:
-* **Providence** is the simple and unchanging plan of events in God's mind.
-* **Fate** is the ever-changing web, the arrangement in and through time of all the events which God has planned in His simplicity.
+## Book 5: Free Will and God’s Foreknowledge
 
-Everything, therefore, which comes under Fate is also subject to Providence, to which Fate itself is subject. But certain things which come under Providence are above the chain of Fate. These are things which rise above the order of change ruled over by Fate, because of the stability of their position close to the supreme Godhead. Imagine a set of revolving concentric circles. The inmost one comes closest to the simplicity of the center, while also forming a kind of center for those circles set outside it to revolve around."
+### I.
 
+She stopped speaking and was about to move on to explain other matters, when I broke in. "Your encouragement is excellent," I said, "and fully worthy of your high authority. But I am already facing one of the many difficulties that, as you said a moment ago, surround the question of providence. I want to know whether you think there is any such thing as chance at all, and if there is, what it is."
 
-### The Universe and a Central Point
+She answered: "I am eager to keep my promise in full and to open for you a way back to your homeland. These questions are very useful to understand, but they lie a little off the path of our plan. I am afraid that digressions might tire you, so that you would no longer be able to complete the direct journey to our goal."
 
-Think of a series of circles. The circle farthest out is the biggest and covers the most space. The closer a circle is to the very center, the smaller and simpler it is. It doesn't spread out as much.
+"Have no fear of that," I said. "Learning is rest to me when it brings such exquisite delight. This is especially true when your argument has been built up on every side with sure conviction, so that nothing that follows is left open to doubt."
 
-It's similar with how things relate to the main source of intelligence, like God.
-* The farther something moves from this central intelligence, the more tangled it gets in the strong grip of **Fate**. Fate here means the chain of cause and effect that shapes events.
-* The closer something gets to this center, the freer it is from Fate.
+She answered, "I will grant your request," and at once began:
 
-If something connects closely with the steady, unchanging mind of God, it stops being tossed around by events. It escapes the demands of Fate.
+"Suppose chance is defined as a result produced by random movement, with no chain of causes connecting it to anything. In that case I flatly declare that there is no such thing as chance at all. I consider the word completely empty of meaning, except as a sign for the thing it is used to name. What room can be left for random action when God holds all things in order?
 
-You can think about the relationship between Fate and **Providence** (God's overarching plan) in these ways:
-* Fate is like **reasoning step-by-step**, while Providence is like **direct understanding**.
-* Fate deals with **things that are changing and becoming**, while Providence deals with **things that truly are, in their permanent state**.
-* Fate is like **time**, always moving, while Providence is like **eternity**, which is timeless.
-* Fate is like a **moving circle**, while Providence is like the **still point at the very center**.
+"The principle '*ex nihilo nihil*' (nothing comes from nothing) is sound teaching, and none of the ancient thinkers denied it. They applied it to material substance, not to the efficient principle, the active cause that produces things. They laid it down as a kind of foundation for all their reasoning about nature.
 
-### How Fate Works
+"Now, if something arose without causes, it would seem to have arisen from nothing. Since that cannot happen, chance as just defined cannot exist either."
 
-Fate is the force that:
-* Moves the sky and stars.
-* Controls how the basic elements of the world interact and change into one another.
-* Renews all living things as they are born and die, through generations of plants and animals.
-* Also governs the actions and fortunes of people through an unbreakable chain of causes.
+"Well," I said, "is there nothing, then, that can properly be called chance or accident? Or is there something these names fit, even though ordinary people do not understand its nature?"
 
-Since Fate comes from unchanging Providence (God's plan), the causes it sets in motion are also unchanging. This is the best way to manage the universe. The simplicity of God's mind creates a steady order of causes. This order controls everything that changes, so that things don't just happen randomly.
+"Our good Aristotle," she said, "defined it briefly in his *Physics*, and in close agreement with the truth."
 
-### Why Things Seem Confused
+"How, may I ask?" I said.
 
-You humans often feel that everything is confused and chaotic. This is because you can't fully see or understand this divine order.
-But the truth is, everything has its proper place and is guided towards good. Nothing happens just because of evil, or because wicked people plan it. As we've already discussed, people who do wrong are actually mistaken in their search for good. The order that comes from the highest good at the center of the universe doesn't lead anyone away from their true starting point.
+"Like this," she said. "Whenever something is done for a particular purpose, and for certain reasons a result other than the intended one follows, this is called chance. For example, suppose a man digs the ground to farm it and finds a mass of buried gold. Such a find is regarded as accidental.
 
-### The Question of Fairness
+"Yet it does not come '*ex nihilo*,' from nothing. It has its own proper causes, and the unforeseen and unexpected meeting of those causes produced the chance event. If the farmer had not been digging, and if the man who hid the money had not buried it in that exact spot, the gold would not have been found.
 
-You might argue that it seems incredibly unfair when both good and bad people experience a mix of good luck and bad luck. Their lives go up and down.
-But I would ask you: Are people truly wise enough to judge correctly who is good and who is bad? No, people often disagree about this. Some think certain individuals deserve rewards, while others believe those same people should be punished.
+"These, then, are the reasons the find counts as chance. It results from causes that came together and coincided, not from any intention on the discoverer's part. Neither the man who buried the gold nor the man who worked the field *intended* the money to be found. As I said, it simply *happened* that one man dug where the other had buried the treasure.
 
-### Seeing Deeper Than Human Judgment
+"We may therefore define chance as an unexpected result that comes from a coincidence of causes, where each of those causes was aimed at some definite purpose. But the meeting and coincidence of these causes comes from that inevitable chain of order. This order flows from the source of Providence and arranges all things in their proper time and place."
 
-Let's imagine someone *could* perfectly tell good people from bad. Even then, they couldn't see into the hidden, inner nature of people's minds.
+### SONG I. Chance.
 
-You might be surprised by this, like someone who doesn't understand why:
-* Some healthy people enjoy sweet foods, while others prefer bitter ones.
-* Some sick people get better with gentle medicines, while others need strong ones.
+In the rugged Persian highlands,  
+Where the masters of the bow,  
+Skilled at feigning flight, while fleeing  
+Hurl their darts and pierce the foe;  
+There the Tigris and Euphrates  
+Mingle waters at one source,  
+Soon to part, and toward the lowlands  
+Each pursues its separate course.  
+When once more their waters mingle  
+In a channel deep and wide,  
+All the debris comes together  
+That is carried on the tide:  
+Ships, and trunks of trees uprooted  
+In the torrent's wild career,  
+Meet, as in the swirling waters  
+Chance may seem their path to steer.  
+Yet the sloping of the channel  
+And the flowing water's force  
+Guide each movement, and determine  
+Every floating fragment's course.  
+So, wherever chance's drifting  
+Seems most free and wild to flow,  
+Chance herself is reined and bridled,  
+And the curb of law must know.
 
-But a doctor isn't surprised. A doctor understands the differences between health and sickness and what each person needs.
+### II.
 
-Think of it this way:
-* For the mind, **goodness is like health**.
-* **Wickedness is like sickness**.
+"I am following closely," I said, "and I agree that it is as you say. But in this series of linked causes, is any freedom left to our will? Or does the chain of fate also bind the very movements of our souls?"
 
-God is the protector of the good and the one who challenges the wicked. He is like a guide and a doctor for the mind. From His high viewpoint (Providence), God sees what is suitable for each person. He then applies whatever He knows is best for them.
-This is the amazing thing about the order of Fate: a wise God acts, and people, who don't have this full knowledge, can only look on and wonder at what He does.
+"There is freedom," she said. "Indeed, no creature could be rational without being endowed with free will. Whatever has the natural use of reason has the power to judge and discriminate. By itself it distinguishes what should be avoided from what should be desired.
 
-### Understanding God's Deep Wisdom
+"Everyone pursues what he judges desirable and avoids what he thinks should be shunned. Therefore beings endowed with reason also possess the power to choose freely and to refuse.
 
-Let's look at a few examples of God's deep ways, as much as human reason can understand them.
-* You might see someone as perfectly just and a great defender of what's right. But all-knowing Providence might see it differently. For instance, the poet Lucan wrote about the war between Caesar and Pompey. The side that won (Caesar's) pleased the gods. But the losing side pleased Cato, who was known as a very virtuous man. So, when you see something happen that doesn't match what you expect, remember that events are following a true order. It's your own thinking that is confused or mistaken.
+"But I do not suppose this power is equal in all of them. The higher divine beings have clear-sighted judgment, an uncorrupted will, and the effective power to accomplish what they wish. Human souls are necessarily freer while they remain in contemplation of the divine mind. They are less free when they pass into bodily form, and less free still when they are wrapped in earthly limbs.
 
-* Now, imagine there's a person so good that both God and people agree on their goodness. However, this person might still be weak in their inner strength. If something terrible happened to them, they might give up on being good because it didn't bring them good fortune. So, God’s wise plan might spare such a person from severe hardship. This prevents distress for someone who isn't ready for it.
+"When they give themselves over to vices and lose possession of their own reason, their condition becomes utter slavery. They let their gaze fall from the light of the highest truth to the lower world where darkness rules, and ignorance soon blinds their vision.
 
-* Consider another person who is perfect in every virtue, very holy, and extremely close to God. Providence might decide it would be wrong for this person to suffer any hardship at all. They might even be protected from physical illness. As someone wiser than me once said: "Heaven built the body of the holy person."
+"Harmful passions then disturb them. By yielding and consenting to these passions, they help strengthen the slavery that entangles them. In a sense, they are led captive by their very liberty.
 
-* Often, good people are given great power. This can help to stop extreme wickedness from spreading.
+"Yet He who sees all things from eternity looks upon these things with the eyes of His providence. He assigns to each what has been predestined for it according to its merits:
 
-* Other people experience a mix of good and bad fortune, depending on their inner character and strength of mind.
-    * Providence might "sting" some people with minor troubles. This is to prevent them from having too much uninterrupted happiness, which could be harmful.
-    * Others are allowed to face serious difficulties. This helps them strengthen their virtues, like patience, through practice.
-    * Some people are terrified of suffering they could actually handle. Others look down on suffering they actually *can't* bear. Hardships can lead both types to discover their true selves.
-    * Some people have achieved lasting fame, admired for generations, by dying a glorious death.
-    * Some, by refusing to give in to punishment, have shown others that evil cannot defeat virtue.
+> 'Surveying all things, hearing all things.'"
 
-There's no doubt that these things happen for good reasons. They are planned, and they are appropriate for the people who experience them.
+### SONG II. The True Sun.
 
-### Why the Wicked Experience Ups and Downs
+Homer, with his honeyed voice,  
+Sang of Phoebus' glorious light,  
+Praising him on high;  
+Yet *his* feeble rays  
+Cannot brighten ocean's depths,  
+Nor light the darkness at earth's core.
 
-The fact that wicked people also have good times and bad times happens for similar reasons.
-* **When wicked people suffer:** No one is usually surprised, because most people think they deserve bad things. Their punishments can also:
-    * Discourage others from committing crimes.
-    * Help correct the wicked individuals themselves.
-* **When wicked people prosper:** This can be a strong lesson for good people. It teaches them how to view the kind of happiness that wicked people often seem to enjoy (that is, not to see it as the ultimate good).
-    * There might be another plan here too. Perhaps someone is naturally reckless and impulsive. Poverty might easily push them into crime. Providence might give this person wealth as a kind of medicine to prevent this.
-    * Another person might see that their conscience is stained by their wicked actions. They might compare what they have with what they deserve. They might start to fear losing the pleasant things they enjoy. This fear could make them change their ways and give up wickedness to avoid losing their happiness.
-    * Others have been thrown into well-deserved disaster because they used their good fortune badly.
-    * Some wicked people have been allowed to have power to punish others. This can serve as a test for good people and a punishment for other bad people.
+But the power of Him who had  
+The skill to build this universe  
+Is not confined like that;  
+Neither earth's solid crust  
+Nor night's blackest canopy  
+Can block His all-seeing eye.
 
-Just as good and bad people don't agree, bad people often can't even agree among themselves. This makes sense because their own bad habits tear at their conscience. Each one is fighting an inner battle. They often do things they later realize they shouldn't have done.
+All that is, has been, and will be,  
+He sees within a single glance,  
+Without limit or bound;  
+And apart from His, no eyes  
+Survey the whole world—no, none!  
+*Him*, then, truly call the Sun.
 
-### Evil Can Lead to Good
+### III.
 
-So, God's supreme Providence has often brought about a surprising result: **evil people can cause other evil people to become good.**
-How? Some people, when they feel they are being treated unfairly by the worst kind of individuals, develop a strong hatred for evil people. Wanting to be different from those they hate, they change their ways and become virtuous.
+Then I said, "But now I am perplexed once more, by a problem even more difficult."
 
-Only God has the power to make bad things also serve a good purpose. He does this by using them in the right way to produce a good outcome.
-A specific order covers everything. If anything moves away from the path that was planned and assigned for it, it simply falls back into order. It might be a different part of the overall order, but it still fits. This ensures that nothing in God's realm of Providence is left to chance.
+"What is it?" she said. "Though in fact I can guess what is troubling you."
 
-### Human Limits and a Moment of Rest
+"It seems," I said, "too much of a paradox and a contradiction that God should know all things and yet free will should exist. If God foresees everything and can never be deceived, then whatever providence foresees will happen must necessarily happen.
 
-But, as Homer wrote in the *Iliad*, "It is hard for me to speak as though a god."
-A human being is not able to understand all the details of God's work or explain them fully in words.
+"So if from eternity He foreknows not only what people will do, but also their plans and intentions, there can be no freedom of the will. Nothing could be done, and no intention of any kind could be formed, except what a divine providence that cannot be deceived has already perceived in advance.
 
-Let this be enough for now:
-* God, the creator of all things, orders everything and directs it all towards goodness.
-* He quickly guides everything He has created to reflect His own nature.
-* Through the chain of cause and effect (Fate), He removes all evil from His kingdom.
+"For suppose events could be turned toward some outcome other than the one providence foresaw. Then there would no longer be sure foreknowledge of the future, only uncertain guessing. To think this about God I consider impious.
 
-Evil may seem to be everywhere on earth. But if you could see the complete plan of Providence, you would realize that there is no true evil anywhere.
+"Moreover, I do not accept the reasoning by which some people think they can solve this puzzle. They say it is not because God has foreseen an event that the event is *therefore* sure to happen. Instead, they argue the reverse: because something is going to happen, it cannot be hidden from divine providence.
 
-But I see you have been struggling with the weight of this difficult question for a long time. You are tired from this lengthy explanation and are probably looking forward to something more uplifting, like a song. So, take a moment to refresh yourself with this. It will help you think more clearly about what comes next.
+"On their view, the necessity shifts to the other side. It is not that what is foreseen must necessarily happen. Rather, what is going to happen must necessarily be foreseen. But this treats the dispute as a question of which is cause and which is effect. Does foreknowledge cause the necessity of future events, or does the necessity of future events cause the foreknowledge?
 
-### The Harmony of the Universe (A Song of Order)
+"But we need not take the trouble to settle that. Whatever the order of cause and effect, the occurrence of foreseen things is necessary, even if the foreknowledge of future events does not itself force them to happen.
 
-If you want to clearly see and understand God's laws with a pure mind, you must look to the highest point of heaven. There, the stars move in their ancient, peaceful paths because of a lawful agreement that governs all things.
+"Take an example. If a man is seated, then the belief that he is seated is necessarily true. Conversely, if the belief that he is seated is true, because he really is seated, then he must necessarily be sitting. So in both cases some necessity is involved. In the second case it is the necessity of the fact; in the first, the necessity of the truth of the statement.
 
-* The bright sun, full of fire, does not block the cold moon's path.
-* The Great Bear constellation, which circles high in the sky near the North Pole and never dips below the western horizon, does not wish to chase other stars that set in the ocean. It doesn't try to hide its light beneath the Atlantic.
-* The Evening Star reliably announces the coming of dusk each day. Then, it reappears as the Morning Star at dawn.
+"But in neither case is the man seated because the belief is true. Rather, the belief is true because he was already sitting in fact. So even though the cause of the belief's truth comes from the other side, necessity exists on both sides alike.
 
-So, these endless movements are constantly renewed. This happens because of a mutual love or attraction between things. Conflict is kept away from the heavens above.
+"We can clearly reason the same way about providence and the future. Suppose future events are foreseen because they are going to happen, and do not happen because they are foreseen. Even so, necessity remains: they must be foreseen by God as going to happen, and once foreseen, they must happen. That alone is enough to destroy free will.
 
-This same harmony also controls the basic elements of the world with equal balance:
-* Wetness and dryness take turns yielding to each other.
-* Cold and heat exist together peacefully.
-* Fire, which tends to rise, shoots up into the air.
-* The heavy earth sinks downward.
+"Yet it is absurd to speak of events occurring in time as the cause of eternal foreknowledge. And if we believe that God foresees future events because they are going to happen, what is that but thinking that the occurrence of events causes His supreme providence?
 
-Because of these balanced interactions:
-* When spring arrives and warms the earth, the year brings forth fragrant flowers.
-* Hot summer days ripen the corn.
-* Autumn returns, rich with fruit.
-* Falling rains bring moisture to the winter days.
+"Further, when I *know* that something is, that thing *necessarily* is. In the same way, when I know that something will be, it will *necessarily* be. It follows, then, that things foreknown happen inevitably.
 
-This balanced mixture of elements does two things:
-1.  It brings to life and nourishes everything that breathes on earth.
-2.  It also takes, hides, and carries away all things when they reach their final end in death.
+"Finally, to think of something as being in any way other than it actually is, is not knowledge at all. It is false opinion, far removed from the truth of knowledge. So if something is going to happen, but its occurrence is not certain and necessary, how can anyone know in advance that it will happen?
 
-Meanwhile, the **Lord of all things** sits on high.
-He rules and guides the course of everything that is made. He is their:
-* King and Lord
-* Source and Origin
-* Law, and the Judge of what is right and proper.
+"Knowledge itself contains no mixture of falsehood. In the same way, any idea drawn from knowledge cannot be otherwise than as it is conceived. This is exactly why knowledge is free from falsehood: each thing must necessarily correspond exactly to the knowledge that grasps its nature.
 
-He sets all things in motion. He also holds them steady and brings them back if they wander off course.
-If He did not call them back to their true paths and force them to complete their proper orbits, then all those things that are now protected by stable order would fall apart, separated from their true source.
+"How, then, are we to suppose that God foreknows these uncertain events as going to happen? If He thinks of events that might not happen at all as inevitably destined to happen, He is deceived. It is impious not only to believe this, but even to say it aloud.
 
-This guiding principle is the **love** that all things share.
-Their chosen goal and ultimate aim is the **end of good**.
-There is no other way they can expect to last, unless they return love with love and seek once more the Cause that gave them life.
+"Suppose, on the other hand, that He sees them in the future as they are, knowing that they may equally happen or not happen. What kind of foreknowledge is this, which grasps nothing certain or fixed? How is it any better than the absurd prophecy of Teiresias?
 
-***
+> 'Whatever I say  
+> Will either happen—or not.'
 
-### VII
+"In that case, too, how would divine providence be superior to human opinion, if, like human beings, it treats as uncertain those things whose occurrence is uncertain? But at that perfectly sure source of all things, no shadow of uncertainty can possibly be found. If so, then the occurrence of the things He has surely foreknown as coming is certain.
 
-"Do you now understand the main point of everything we've discussed?"
-"No, what is it?"
-"It is this: **All fortune is definitely good**."
-"How can that possibly be?"
-"Listen closely. All fortune, whether it seems pleasant or difficult, has a purpose:
-* For good people, it is meant to either **reward** them or **discipline** them.
-* For bad people, it is meant to either **punish** them or **correct** them.
-So, we agree that every kind of fortune is either just or useful. Therefore, all fortune is good."
+"Therefore there can be no freedom in human actions and plans. Instead, the divine mind, which foresees all things without any possibility of error, ties them down and binds them to one single outcome.
 
-"Your argument makes a lot of sense. If I think about the Providence and Fate you just explained, your idea seems solid. But let's count this among those ideas that we earlier called 'hard to believe.'"
-"Why do you say that?" she asked.
-"Because it's very common for people to say that someone has 'bad fortune.' They say it all the time."
-"So, you'd like us to use more everyday language? This way, it won't seem like we've moved too far from how people normally talk?"
-"Yes, please."
+"But once this is admitted, what an obvious overthrow of human affairs follows! Rewards and punishments are offered to good and bad people in vain, since no free and voluntary movement of the will has earned either one.
 
-"Alright. You consider something that is **useful** to be **good**, don't you?"
-"Yes."
-"And fortune that either **disciplines** or **corrects** someone is useful, isn't it?"
-"Yes."
-"So, that kind of fortune is good?"
-"Yes."
-"Now, this is the kind of fortune experienced by people who are:
-* already trying to live a virtuous life when they face challenges, or
-* turning towards a virtuous life after leaving behind bad ways."
-"That's true."
+"Indeed, punishing the wicked and rewarding the righteous, which is now regarded as the perfection of justice, will seem the most outrageous injustice. People are driven one way or the other not by their own will, but by the necessity of what must certainly happen. So neither virtue nor vice is anything at all. Good and bad deserving are jumbled together without distinction.
 
-"What about the pleasant fortune that is given to good people as a reward? People don't say this is bad, do they?"
-"No. They consider it to be extremely good, which it is."
+"Moreover, since the whole course of events is derived from providence, and nothing is left free to human planning, our vices too are traced back to the Author of all good. No more abominable thought could possibly be conceived.
 
-"Then what about the last kind of fortune? This is the difficult fortune that punishes bad people as they deserve. Do people think this is good?"
-"No, they don't. They think it's the most miserable thing imaginable."
+"Again, no grounds are left for hope or prayer. How can we hope for blessings or pray for mercy, when everything we desire depends on the links of an unchangeable chain of causes?
 
-"Be careful! By trying to stick too closely to popular opinions, we might have ended up with something truly hard to believe!"
-"What do you mean?"
-"Well, based on everything we've agreed upon, here's the result:
-* Whatever fortune comes to those who possess virtue (whether their virtue is perfect, still growing, or just starting) is **good**.
-* On the other hand, the fortune of everyone who remains stuck in wickedness is **completely bad**."
-"This is true," he said, "even if nobody would dare to admit it openly."
+"Gone, then, is the one means of exchange between God and man: the communion of hope and prayer. That holds if indeed we ever earn the priceless reward of divine favor by paying the price of proper humility. For this is the one way by which people seem able to commune with God. Through the very act of asking, they are joined to that unapproachable light, even before they receive what they ask for.
 
-"Exactly. So, a wise person shouldn't be more upset when they face misfortune than a brave soldier should be by the sounds of battle. For both of them, their distress is actually an opportunity.
-* For the soldier, it's a chance to win glory.
-* For the wise person, it's a chance to strengthen their wisdom.
-This is why **virtue** gets its name. It comes from being firm in strength and not being defeated by adversity."
+"If the necessity of future events is admitted, these things can hardly be believed to have any effect. What means will there be, then, by which we may draw near and hold fast to Him who is the supreme Head of all?
 
-"You are on the path of increasing your virtue. You haven't come this far only to give in to easy pleasures or become lazy. You are involved in a tough but important struggle against every kind of fortune. The goal is:
-* To avoid being defeated by fortune when it is harsh.
-* To avoid being corrupted by fortune when it is favorable.
-Hold firmly to the middle way with unbreakable strength. Anyone who aims too low or goes too far misses out on true happiness and gets no reward for their efforts.
-It is in your own hands to decide what kind of fortune you want to create for yourself. Remember, adversity (hardship) serves only these functions: discipline, correction, or punishment."
+"So it must follow that the human race, just as you declared in song a little while ago, will be cut off and separated from its Source, and will fall to ruin."
 
-### Great Examples of Facing Adversity
+### SONG III. Truth's Paradoxes.
 
-* Agamemnon, the relentless son of Atreus, fought for ten long years at Troy. He did this to get revenge for a broken marriage promise. The same Agamemnon, when he wanted the Greek fleet to sail, bought favorable winds with blood. He had to put aside his feelings as a father and, like a cold-hearted priest, tragically killed his own daughter.
+Why does a strange discord break  
+The fair harmony of the ordered plan?  
+Has God decreed that truth and truth  
+Should wage such lasting war,  
+That truths, each one plain on its own,  
+We struggle to reconcile in vain?
 
-* Odysseus cried for his lost companions. The giant Cyclops, Polyphemus, trapped them in his huge cave and ate them. But later, the blinded Cyclops roared in pain, paying for his cruel joy with terrible tears.
+Or is the discord not in truth,  
+Since truth always agrees with itself?  
+Instead, held tight in wrappings of flesh,  
+The blinded mind of man can never  
+Discern, so faintly her candle shines,  
+The subtle chain that binds all things?
 
-* The great Hercules is famous for his difficult tasks:
-    * He tamed the proud Centaurs at Pholoë.
-    * He won the pelt of the Nemean lion.
-    * His arrows struck down the Stymphalian birds.
-    * He snatched the golden apples of the Hesperides from under the watch of a dragon.
-    * He captured Cerberus, the guard dog of the underworld, and led him away in chains.
-    * After he captured the man-eating mares of Diomedes, he fed their own master to them.
-    * He burned the Hydra, a many-headed serpent, so its poison was gone.
-    * He defeated the river god Achelous, who hid his face in shame.
-    * He defeated Antaeus in Libya.
-    * He dealt with Cacus, satisfying Evander's desire for justice.
-    * The Erymanthian boar dirtied those same shoulders that were destined to hold up the heavens.
+Ah! then why does man's restless mind burn  
+To open truth's hidden doors?  
+Does he already know what he seeks?  
+Why work to seek it, if he knows?  
+Yet if perhaps he does not know,  
+Why blindly seek he knows not what?
 
-* His final task was to hold up the sky on his unbending neck. For this last great achievement, he earned his place in heaven as a reward.
+Who sighs for a good he does not know?  
+Who can pursue an unknown goal?  
+How can he find it? Even if he finds it by chance,  
+How can he greet a form he never knew?  
+Or is it that man's inmost soul  
+Once knew each part and knew the whole?
 
-So, go now, you strong ones! Follow the high path shown by these great examples. Why do you hold back? Why do you turn away? Once you have overcome the challenges of the earth, it offers you the stars.
+Now, though dimmed by the body's vapors,  
+She has not forgotten all her past visions;  
+For while the separate parts are lost,  
+She still holds fast to the one whole;  
+So whoever longs to find the truth  
+Is neither clear of sight nor blind.
 
-## Book V
+For he neither knows in full,  
+Nor is he robbed of knowledge entirely;  
+But, holding on to what remains,  
+He gropes in the uncertain light,  
+And by the part that still survives  
+Strives bravely to win back all.
 
-### Section I: The Question of Chance
+### IV.
 
-Lady Philosophy stopped speaking. She was about to talk about other things, but I interrupted her.
+Then she said: 'This debate about providence is an old one. Cicero discusses it vigorously in his work *On Divination*. You too have pondered the problem long and earnestly, yet no one has had enough diligence and perseverance to find a solution.
 
-"Your encouragement is very helpful and wise," I said. "But you mentioned earlier that the idea of **Providence** (God's guiding plan) is connected to many other questions. I'd like to explore one of those. Do you think **chance** is a real thing? And if so, what is it?"
+'The reason for this obscurity is that the movement of human reasoning cannot keep pace with the simplicity of divine foreknowledge. If we could form any conception of its nature, no shadow of uncertainty would remain. To make this clear and plain at last, I will begin by considering the arguments that sway you.
 
-"I promised to help you," she replied, "and I am ready to guide you back to your true spiritual home. These other topics are interesting and useful to know. However, they are a bit off our main path. I worry you might get too tired from these side discussions to complete the main journey."
+'First, I ask why you are dissatisfied with the solution already proposed. That solution runs as follows: the fact of foreknowledge is not thought to cause future events to be necessary, so foreknowledge should not be considered any obstacle to the freedom of the will.
 
-"Don't worry about that," I said. "Learning about these things that fascinate me will feel like a rest. Besides, your arguments so far have been very strong and trustworthy. So, I have no doubt about what you'll say next."
+'Surely your only ground for arguing that the future is necessary is that things foreknown cannot fail to happen. But you were ready just now to admit that foreknowledge imposes no necessity on future things. If so, what reason is there to suppose that the results of voluntary action are forced toward a fixed outcome?
 
-"I will do as you wish," she said, and she began right away.
+'For the sake of argument, and to see what follows, suppose we assume there is no foreknowledge. In *this* case, are actions of the will bound by any necessity?'
 
-**What is Chance?**
+'Certainly not.'
 
-"Let's first think about what 'chance' could mean," she started. "If **chance** means an event caused by random movement, with no connection to any series of causes, then I would say that chance doesn't really exist. In that case, 'chance' is just an empty word, apart from being the topic we're discussing now.
+'Now let us assume foreknowledge again, but without its involving any actual necessity. The freedom of the will, I imagine, will remain completely intact.
 
-"If God puts order into all things, then there's no room for random events to just happen. There's a true saying: **'Nothing comes from nothing.'** All the ancient thinkers agreed on this. They used it as a basic principle in their study of the natural world, especially about physical objects, not so much about the original causes that make things happen.
+'But you will say that even though foreknowledge is not what makes the future event necessary, it is still a sign that the event will necessarily happen. Granted. But in that case, plainly, the outcomes would have been inevitably certain even without foreknowledge. A sign only points to something that already is. It does not bring about the thing it signifies.
 
-"If something truly happens for no cause at all, it must come from nothing. But if that's impossible, then it's also impossible for 'chance' (defined as a causeless random event) to exist."
+'We would first need to show that all things, without exception, happen of necessity, so that a preconception could be a sign of this necessity. Otherwise, if there is no such universal necessity, no preconception can be a sign of a necessity that does not exist.
 
-"Well then," I asked, "isn't there anything that can correctly be called 'chance' or 'accidental'? Aren't these words useful for describing something, even if most people don't fully understand what that something is?"
+'It is also clear that a proof resting on firm grounds of reason must be drawn from suitable and necessary causes, not from signs and loose general arguments.
 
-"My student Aristotle," she said, "offered a short definition of chance in his book *Physics*. His definition is close to the truth."
+'But how could things foreseen ever fail to happen? This objection assumes we believe that the events providence foresees were not going to happen. What we actually suppose is different: that although they will happen, nothing in their own nature compelled them to occur.
 
-"What is it?" I asked.
+'An illustration will help convey my meaning. We see many things happening before our eyes, such as charioteers guiding and turning their chariots, and other movements of that kind. Is any one of these movements compelled by necessity?'
 
-**Aristotle's View of Chance**
+'No, certainly not. Skill would accomplish nothing if all motions happened by force.'
 
-"Here's the idea," she explained. "Sometimes, a person does something for a specific purpose. But, for certain other reasons, something different from what they intended actually happens. This unexpected outcome is called **chance**.
+'Then things that are free from necessity as they happen in the present must also, before they happen, be going to happen without necessity. So there are things that will come to pass whose occurrence is perfectly free from necessity.
 
-"For example, imagine someone starts digging in the ground to prepare a field for planting crops. While digging, they find a hidden stash of gold. People might believe this happened by chance. But it doesn't come from nothing; it has its own causes. The 'chance' event happened because of an unforeseen and unexpected meeting of these causes.
+'At any rate, I imagine no one will deny that things happening now were going to happen before they actually happened. Yet such things, however much they were foreknown, are *free* in their occurrence. Just as knowledge of present things brings no necessity into what is happening, foreknowledge of the future brings none into what is about to happen.
 
-"Think about it:
-* If the farmer hadn't been digging in that spot, the gold wouldn't have been found then.
-* If the original owner hadn't buried the gold right there, it wouldn't have been there to find.
+'But this, you will say, is the very point in dispute: whether there can be any foreknowledge of things whose occurrence is not necessary. Here you see a contradiction. If things are foreseen, necessity follows. If there is no necessity, they cannot possibly be foreknown.
 
-"So, these are the causes of this lucky discovery. It's the result of different chains of causes coming together, not because of what either person intended. Neither the person who buried the gold nor the farmer tilling the field intended for the farmer to find the money. But, as I said, it happens because the farmer started digging right where the other person had buried something.
+'You think nothing can be grasped as known unless it is certain. If things whose occurrence is uncertain are foreknown as certain, that is the very fog of opinion, not the truth of knowledge. For you believe that thinking of things otherwise than as they are is incompatible with sound knowledge.
 
-"So, we can define **chance** like this:
-**Chance is an unexpected event that happens when the causes leading to it combine with an action someone took for a different purpose.**
+'The cause of the mistake is this. People think that all knowledge depends purely on the nature and power of the thing known. The case is the very reverse. Everything known is grasped not according to its own power, but according to the capacity of the knower.
 
-"The way these causes meet and coincide is actually part of that larger order. This order flows from the source of Providence (God's plan). Providence arranges all things in their proper time and place through an unbreakable connection of causes."
+'An example will make this clear. The roundness of a body is recognized one way by sight and another way by touch. Sight looks at it from a distance, as a whole and all at once, by means of reflected rays. Touch grasps the roundness piece by piece, by pressing against the surface and by actually moving around its circumference.
 
-**A Poem About Chance and Order**
+'A human being, likewise, is viewed one way by Sense, another by Imagination, another again by Thought, and another by pure Intelligence. Sense judges shape as clothed in material substance. Imagination judges shape alone, without matter.
 
-She then offered a poetic illustration:
+'Thought rises beyond this. By contemplating universals, it considers the type itself that is contained in the individual. The eye of Intelligence is higher still. Passing beyond the sphere of the universal, it beholds absolute form itself by the pure power of the mind's vision.
 
-Imagine the land of Parthia, where soldiers on horseback sometimes turn to shoot arrows at their enemies even while retreating through the rugged Armenian hills.
-Nearby, the Tigris and Euphrates rivers start from the same source. But they quickly split and flow in different directions.
+'The main point to consider is this: the higher faculty of understanding includes the lower, while the lower cannot rise to the higher. Sense has no power beyond matter. Imagination cannot behold universal ideas. Thought cannot grasp pure form.
 
-If these two rivers were to meet again and join into a single course, everything their waters carry would come together there.
-* Ships might meet.
-* Uprooted tree trunks would gather.
-* Their mingling waters would create seemingly random paths.
+'Intelligence, however, looks down from its higher position, as it were. In its intuition of form, it also distinguishes the various elements that underlie that form. But it grasps them in the same way it grasps the form itself, which nothing but Intelligence could know.
 
-Yet, even this apparent randomness—the way the land slopes, the way the water flows downwards—would still be governed by natural laws.
-So, chance, which seems to wander freely without any control, actually follows rules and obeys a hidden law.
+'It knows the universal of Thought, the shape of Imagination, and the matter of Sense without using Thought, Imagination, or Sense. Instead it surveys all things, so to speak, under the aspect of pure form, in a single flash of intuition.
 
-### Section II: Understanding Free Will
+'Thought, too, when it considers the universal, includes images and sense-impressions without turning to Imagination or Sense. It is Thought that has defined the universal from its own conceptual point of view: "Man is a two-legged animal endowed with reason."
 
-"I understand," I said. "And I agree with what you're saying. But in this interconnected chain of causes you've described, is there any room for **free will**? Or does this chain of Fate also control the thoughts and impulses of the human mind?"
+'This is indeed a universal notion. Yet everyone knows that the *thing* it describes can be imagined and presented to Sense. Thought considers it not through Imagination or Sense, but through rational conception.
 
-"There is freedom," she replied. "It would be impossible for any being with reason to exist without it.
+'Imagination, too, has its power of viewing and forming images grounded in the senses. Even so, it surveys sense-impressions without calling on Sense. It does this not in the manner of sense-perception, but in the manner of Imagination.
 
-* Whatever naturally has the use of **reason** also has the **power of judgment** to decide on any matter. It can tell for itself what to avoid and what to desire.
-* A person pursues what they judge to be desirable and avoids what they think is undesirable.
+'Do you see, then, how all things, in knowing, use their own capacity rather than the capacity of the things they know? Nor is this strange. Every judgment is the act of the one who judges, so each must accomplish its task by its own power, not by another's.'
 
-"So, creatures that have this built-in power of reason also have the freedom to choose or not to choose. However, I don't claim that this freedom is equal in all beings.
+### SONG IV. A Psychological Fallacy.
 
-* **Celestial and divine beings** (like angels or higher spirits) possess clear-sighted judgment, a will that isn't corrupted, and the power to achieve what they desire. They have the most freedom.
-* **Human souls** are more free when they keep their attention on the mind of God. They become less free when they focus on their physical bodies. They are even less free when they are, in a sense, imprisoned in their earthly flesh and blood.
-* They reach the lowest point, a kind of **slavery**, when they give themselves over to wickedness and lose their ability to reason properly. Once they turn their eyes away from the light of truth above and look towards lower, dimmer things, they quickly become clouded by the mists of ignorance. Destructive passions then torment them. By giving in to these passions, they actually help create the slavery they have brought upon themselves. In a way, they become prisoners of their own freedom.
+From the Stoic Porch's murky depths  
+Comes a learned doctrine,  
+Which compares the living mind  
+To a written page;  
+Since all knowledge comes through  
+Sense,  
+Engraved by Experience.
 
-"Even so, all of this is visible to the eye of Providence. Providence looks out at all things from the perspective of eternity and arranges rewards that are predestined, according to what each person deserves."
+'Just as,' they say, 'the pen  
+Carefully traces its marks  
+On the smooth, unstained white  
+Of the paper's face,  
+So outside things press  
+Images onto consciousness.'
 
-**A Poem About God's All-Seeing Nature**
+But if the mind truly  
+Lies wholly passive like this;  
+If no living power within  
+Supplies its own force;  
+If it only reflects back,  
+Like a mirror, things false and empty—
 
-She continued with another poem:
+Where does it come from, that wondrous faculty  
+That perceives and knows,  
+That arranges the world  
+Into one fair, ordered plan;  
+That grasps each whole that Sense presents,  
+Or breaks it into elements?
 
-Homer, with his beautiful words, sings of how the brightly shining sun sees all things and hears all things.
-And yet, the sun's rays are too weak to pierce far beneath the surface. The sun cannot see into the depths of the earth or the deepest parts of the sea.
+That divides and recombines,  
+And, shifting its course,  
+Now descends to lower things, and now  
+Rises to the heights;  
+And last, in a swift inward review,  
+Strictly sifts the false from the true?
 
-But this is not true for the **Founder of the world** (God).
-Nothing is hidden from His high gaze. He sees:
-* The densest forms of matter.
-* The darkness of cloudy night.
+For these wide powers, I think,  
+Mind itself would be a fitter cause  
+Than marks pressed upon it  
+By the outer scene.  
+Yet the body, through the senses,  
+Does stir the soul's intelligence.
 
-What is, what was, and what is to come—His mind can see it all in a single, swift glance.
-All things are seen by Him alone. We should consider Him the **true sun**.
+When light flashes on the eye,  
+Or sound strikes the ear,  
+The mind, roused to respond,  
+Makes the message clear;  
+And it joins the mute external signs  
+With the hidden forms within.
 
-### Section III: The Conflict Between God's Foreknowledge and Free Will
+### V.
 
-"Look," I said, "I find something else even more difficult. It's perplexing and confusing."
-"Tell me," she said, "though I think I can guess what is troubling you."
+'In bodies endowed with sensation, the qualities of external objects do affect the sense organs. The mind's activity is preceded by a bodily experience. This experience calls forth the mind's action upon itself and stirs into life the forms that until that moment lay inactive within.
 
-"Well," I began, "these two ideas seem completely opposed to each other: **God's universal foreknowledge** and **human free will**.
+'Yet even in these sentient bodies, the mind is not simply written upon by passive impressions. By its own power it distinguishes the impressions supplied to the body. If that is so, how much more must intelligences free from all bodily influence use their own mental activity in distinguishing things, instead of conforming themselves to external objects?
 
-"If God foresees all things and cannot be mistaken in any way, then whatever Providence has foreseen as a future event *must* happen.
-"So, if God, from all eternity, foreknows not only people's actions but also their thoughts and desires, there will be no freedom of the will. No action or desire will be able to exist other than what God's infallible Providence has foreseen.
-"Because if our actions or desires *could* be changed and made different from how God foresaw them, then His foreknowledge of the future wouldn't be certain. It would only be an uncertain opinion. And I don't think we can believe that about God.
+'On these principles, different modes of knowing belong to distinct and different kinds of beings. Creatures that cannot move, such as shellfish and others that cling and grow on rocks, have Sense alone, with no other way of gaining knowledge. Animals that can move, in which some ability to seek and avoid things seems to have arisen, have Imagination as well.
 
-**A Common Argument and Its Flaw**
+'Thought belongs only to the human race, just as Intelligence belongs to the divine alone. It follows that the highest form of knowledge is the one that, by its own nature, knows not only its proper object but also the objects of the other forms of knowledge.
 
-"I don't agree with the argument some people use to try and solve this problem—like cutting a difficult knot.
-* They say that it's *not* that something must happen *because* Providence has foreseen it.
-* Instead, they say, it's the other way around: *because* something is going to happen, it cannot be hidden from divine Providence.
+'But what if Sense and Imagination were to contradict Thought, and declare that the universal Thought believes it sees is nothing at all? The object of Sense and Imagination cannot be universal.
 
-"In this way, the idea of 'necessity' (that things *must* happen a certain way) is shifted. They claim it's not necessary that what is foreseen *must* happen. Instead, it's necessary that what is destined to happen *must* be foreseen.
-"It's as if the main point was about which is the cause: Does foreknowledge of the future *cause* events to be necessary? Or does the necessity of events *cause* God to have foreknowledge?
+'So, they would argue, either Reason's judgment is true, and there is no sense-object at all; or else, since Sense and Imagination know very well that many objects are presented to them, Reason's conception is empty. It treats what Sense perceives, which is particular, as if it were something "universal."
 
-"But what I am trying to show is that, **regardless of the order of these causes, the happening of things that are foreknown is necessary.** This is true even if the foreknowledge of future events doesn't *seem* to force that necessity upon them.
+'Suppose further that Reason replies as follows. It does indeed contemplate the object of both Sense and Imagination, but under the form of universality. Sense and Imagination cannot reach knowledge of the universal, because their awareness cannot go beyond bodily shapes. And in knowing reality, we ought to trust the stronger and more perfect faculty of judgment.
 
-**An Example: A Person Sitting**
+'In a dispute of this kind, should we not take Reason's side? After all, we have within us the faculty of reasoning as well as the faculties of imagining and perceiving.
 
-"Consider this:
-* If a man is sitting, then the opinion that concludes 'he is sitting' *must* be true.
-* And, on the other hand, if the opinion about the man is true (because he is indeed sitting), then it is *necessary* that he is sitting.
-"So, there is necessity in both parts: in the fact that the man *is* sitting, and in the fact that the opinion *is* true.
-"But the man doesn't sit *because* the opinion is true. Rather, the opinion is true because it was *preceded* by the man's act of sitting. So, although the cause of the opinion's truth comes from one side (the man's action), there is still a shared necessity on both sides.
+'In the same way, human reason assumes that the divine Intelligence cannot see the future except in the way that reason itself gains knowledge. Your argument runs like this: if events do not seem to have certain and necessary outcomes, they cannot be foreseen as certainly going to happen.
 
-"Clearly, the same reasoning applies to Providence and future events. Even if events are foreseen *because* they are going to happen (and not that they happen *because* they are foreseen), it is still necessary that either:
-1.  Future events are foreseen by God, OR
-2.  Things foreseen happen as they were foreseen.
-And this alone is enough to remove freedom of the will.
+'So either there is no foreknowledge of such events, or, if we can ever bring ourselves to believe that there is, nothing can happen except by necessity.
 
-**Further Problems with Foreknowledge and Necessity**
+'If, however, we could have some share in the judgment of the divine mind, as we share in Reason, we would think it perfectly fair for human Reason to submit to the divine mind. We would think so just as surely as we judged that Imagination and Sense ought to give way to Reason.
 
-"Besides, how absurd it is to say that the occurrence of temporary, passing events is the cause of God's eternal foreknowledge! Yet, the idea that God foresees the future *because* it is destined to happen is the same as believing that everyday events are the cause of that supreme Providence.
+'So let us rise, if we can, to the heights of that supreme Intelligence. There Reason will see what it cannot see by itself: how things whose occurrence is not certain may still be seen in a sure and definite foreknowledge. It will also see that this foreknowledge is not guesswork, but knowledge in its highest simplicity, free of all limits and restrictions.'
 
-"Moreover, just as when I know something *is* currently happening, it is necessary that it *is* so; in the same way, when I know that something *is to be* in the future, it is necessary that it *shall be*. Therefore, it seems that the occurrence of a foreknown event cannot be avoided.
+### SONG V. The Upward Look.
 
-"Finally, if anyone thinks something is different from what it actually is, that isn't knowledge. It's a false opinion, very far from the truth of real knowledge. So, if something is destined to happen in such a way that its occurrence is *not* certain and necessary, who could possibly foreknow that it is to happen?
-"For just as true knowledge is pure and contains no falsehood, so that which is understood by knowledge *cannot be other than how it is understood*. Indeed, the reason there is no deception in knowledge is because it is necessary for things to be exactly as knowledge understands them to be.
+In how many different shapes and forms do creatures great and small  
+Skim, or scud, or walk, or crawl across the wide earth's teeming surface!  
+Some, with long bodies, sweep the ground, and, as they move,  
+Must trail a winding groove in the dust with writhing bellies;  
+Some, soaring upward on light wings, swiftly part the winds,  
+And glide smoothly in free motion through heaven's wide spaces;  
+These press on earth's solid surface, roaming onward with firm steps,  
+Ranging through the green meadows, crouching in the woodland grove.  
+Great and wondrous is their variety! Yet in all of them the head, bent low,  
+Dulls the soul and blunts the senses, however different their forms.  
+Man alone, upright and aspiring, lifts his forehead to the skies,  
+And, standing steadfast and erect, seems to scorn the earth's baseness.  
+Unless you are wholly dulled by earth, listen to this parable,  
+You whose gaze is fixed on heaven, who raise your face on high:  
+Lift your soul heavenward too, lest perhaps it stain its heavenly worth,  
+And your eyes alone look upward, while your mind clings to the earth!
 
-**The Core Dilemma**
+### VI.
 
-"The question, therefore, is: How can God foreknow that these things will happen, if they are uncertain?
-* If He thinks that they will *inevitably* happen, while the possibility of their *not* happening still exists, then He is mistaken. And it is wicked both to think and to say that God could be mistaken.
-* But if His knowledge that they will happen as they do is of a kind where He knows they may equally *not* happen as happen, what sort of knowledge is this? It comprehends nothing sure or stable. How does it differ from that ridiculous prophecy of Tiresias that Horace wrote about in his Satires: *'Whatever I say either will be or won’t be'?"*
+'We have just shown that everything known is grasped not according to its own nature, but according to the nature of the faculty that grasps it. So let us now consider, as far as we are permitted, the character of the divine being. That way we can also understand the nature of its knowledge.
 
-"And how is divine Providence superior to mere human opinion if, like humans, it considers things uncertain whose occurrence is actually uncertain? If there can be no uncertainty at that most sure source of all things (God), then the coming to pass of those things which God firmly foreknows as future events *is certain*.
-"Therefore, it seems human thoughts and actions have no freedom. The divine mind, by foreseeing all things without being misled by any falsehood, binds human thoughts and actions to a single way of occurring.
+'All rational beings agree that God is eternal. So let us consider what eternity is, since this word reveals both the divine nature and divine knowledge. Eternity is the complete and perfect possession of endless life all at once, in a single moment. Comparing it with things that exist in time makes this clearer.
 
-**Dire Consequences of Losing Free Will**
+'Whatever lives in time is a present moment moving from the past toward the future. Nothing placed in time can take in the whole span of its life at once. It does not yet hold tomorrow, and it has already lost yesterday. Even in the life of today, you humans live no longer than one brief, passing moment.
 
-"Once this is admitted, the extent of the disruption to human affairs is obvious.
-* It's pointless to offer rewards to the good and punishment to the bad, because their actions were not deserved by any free and willed movement of their mind.
-* That which is now judged most fair—the punishment of the wicked and the reward of the good—will be seen as the most unjust of all. This is because people would be driven to good or evil not by their own will, but by the fixed necessity of what is to be.
-* Neither vice nor virtue would have any real existence; all merit would be mixed up and impossible to tell apart. Nothing more wicked can be imagined than this. For if the whole order of things comes from Providence, and there is no room for human choices, it follows that our wickedness, too, must come from the Author of all good (God).
+'Consider, then, anything subject to the condition of time. Suppose, as Aristotle believed about the world, that it never had a beginning and never comes to an end, and that its life stretches across the whole infinity of time. Even so, it cannot rightly be considered eternal. It does not take in and hold the whole span of its infinite life at once. It has no present grasp of things still to come, which have not yet happened.
 
-"It is pointless, therefore, to hope for anything or pray to escape anything. What can a person hope for, or pray to escape, when an unchangeable chain binds everything that can be wished for?
+'What can rightly be called eternal is that which holds and possesses the whole fullness of unending life all at once. Nothing future is missing from it, and nothing past has slipped away from it. Such a being must always be fully present to itself, in complete possession of itself, and must hold the infinity of changing time within a present that never passes.
 
-"And so, the one and only means of communication between humans and God is removed—that is, hope and prayer. We hope to obtain, for the price of genuine humility, the priceless return of divine grace. This is the only way it seems people can talk with God and connect themselves to that unreachable light before they fully obtain it—by means of prayer. And if admitting the necessity of future events means believing that hope and prayer have no power, what way will be left for us to be joined and united to that supreme Lord of the world?
-"Cut off and separated from its source, the human race, as you were singing just now, will be destined to grow weak and exhausted."
+'This is why some people are mistaken when they think that, on Plato's principles, the created world is co-eternal with its Creator. They have been told that Plato believed the world had no beginning in time and will never come to an end. But endlessly prolonged existence, which is what Plato ascribed to the world, is one thing. Holding the whole of an endless life in the present is another, and it clearly belongs to the divine mind alone.
 
-**A Poem on the Mind's Search for Truth**
+'Nor does God need to be earlier than created things in mere length of time. He is prior to them only in the unique simplicity of His nature. The infinite progression of things in time imitates the immediate presence of that changeless life. Because it cannot equal it, it sinks from stillness into motion, and falls away from the simplicity of a permanent present into the endless stretch of future and past.
 
-He then recited a poem expressing this struggle:
+'Time cannot possess the whole fullness of its life at once. Yet because, in a certain way, it never stops existing, it seems to rival up to a point what it cannot complete and express. It does this by attaching itself to whatever present moment happens to come, however quick and brief. Since such a moment bears some likeness to that ever-abiding present, it gives everything it touches the appearance of existence.
 
-What warring cause creates such a divide,
-Breaking the bonds that hold things side-by-side?
-What God has set such hatred between two truths—
-That things established separately, like God's foreknowledge and our free will,
-Refuse to share a common, peaceful yoke?
+'But because it cannot stay still, it rushes along the infinite road of time. As a result, it continues by ceaseless movement the life whose completeness it could not embrace by standing still. So if we want to give things their proper names, we should follow Plato and say that God is eternal, but the world is everlasting.
 
-Or is there really no conflict between these truths,
-Which, always sure, should join in unity?
-Is it that our mind, weighed down by a "blind" body,
-Is too dim, too powerless,
-To see the slender, subtle links connecting things?
+'Every way of knowing grasps its objects according to its own nature. God remains forever in an eternal present. So His knowledge, too, rises above all the movement of time and rests in the simplicity of its own unchanging present. It takes in the whole infinite sweep of past and future, and it views everything within its simple knowing as though it were happening now.
 
-If so, why does the mind burn with such a great love
-To learn the secret signs and ways of truth?
-Perhaps it already knows what it now seeks to learn.
-But who still tries to learn things that he already knows?
-And if the mind does not know, what does it then seek in its blindness?
-For who could search in ignorance for just anything?
-Or who could look for something that was unknown to him?
-And if he found it, how could his ignorance recognize its hidden form?
+'So if you carefully consider the immediate presence by which it distinguishes all things, you will more correctly call it not foreknowledge of something future, but knowledge of a moment that never passes. That is why the name chosen for it is not "prevision" but "providence." Being utterly removed in nature from low and trivial things, it looks out over all things as if from some high summit.
 
-Perhaps when the mind once directly saw the mind of God,
-It perceived both the whole sum of truths and all their separate parts.
-Now, hidden in the body's density,
-It does not lose all memory of itself.
-The many separate truths are lost, yet still
-It holds onto the sum, the general outline.
+'Why, then, do you insist that things seen by the divine eye are bound by necessity, when people clearly impose no necessity on the things they see? Does the act of seeing add any necessity to the things you see before your eyes?'
 
-Therefore, whoever seeks the truth
-Is in a state between knowing and not knowing:
-He does not fully know,
-And yet he is not wholly ignorant.
-So he reflects upon the sum of truth he has kept in mind,
-And thinks of what he saw on high with God,
-Hoping that he may add the parts he has forgotten
-To that which he still retains.
+'Certainly not.'
 
-### Section IV: Philosophy Begins Her Explanation
+'And yet, if it is not improper to compare God's present with the human present, then just as you humans see certain things in your temporary present, He sees all things in His eternal present. So this divine foresight does not change the natures and properties of things. It sees things present before it exactly as they will later come about in time.
 
-Then Philosophy spoke. "This is an old complaint about Providence. Cicero discussed it forcefully in his book *On Divination*, and you yourself have thought about it a great deal. But up to now, none of you has explained it with enough care and precision.
+'Nor does it confuse things in its judgment. In a single mental view it distinguishes what will happen necessarily from what will happen without necessity. Suppose that at one and the same time you see a man walking on the ground and the sun rising in the sky. Although one glance takes in both, you distinguish them. You judge the first to be voluntary and the second to be necessary.
 
-"The reason for this blindness is that the way human reasoning works cannot get close to the **immediacy of divine foreknowledge**. If this immediacy—this direct, all-at-once way God knows—could be understood somehow, all uncertainty would be removed. Later on, I will try to explain it and make it clear, after I have first dealt with the specific matters that are troubling you now.
+'In the same way, the divine vision, looking over everything, in no way confuses the character of the things present to its gaze, even though they are future in time. So when it perceives that something will come into existence, while knowing perfectly well that this thing is bound by no necessity, its grasp of it is not opinion. It is knowledge grounded in truth.
 
-**Revisiting an Earlier Argument**
+'You may reply that what God sees will happen cannot fail to happen, and that what cannot fail to happen happens by necessity. If you insist on pinning me to this word "necessity," I will admit that you are stating a very solid truth. But it is a truth that hardly anyone can approach unless they have made the divine their special study.
 
-"Let's consider those who believe that foreknowledge does *not* force necessity upon future events, and who think that free will is *not* damaged by foreknowledge. I would like to know why you find their reasoning ineffective.
-"The only source of your proof that the future is 'predestined' (or necessarily fixed) is your belief that what is foreknown *cannot fail to happen*.
-"Therefore, if—as you yourself were just saying some people argue—foreknowledge does *not* impose any necessity on the future, then why would acts of the will be forced to be predestined or necessary?"
+'My answer would be this. The same future event is necessary when viewed from the standpoint of divine knowledge. But when considered in its own nature, it appears completely free and unrestricted. There are, then, two kinds of necessity. One is simple, as when we say that human beings are necessarily mortal. The other is conditional, as when we say that if you know someone is walking, he must necessarily be walking.
 
-**Thought Experiments**
+'Whatever is known cannot be otherwise than as it is known to be. But this does not at all carry with it the other, simple kind of necessity. Conditional necessity is not imposed by the thing's own nature. It comes from an added condition. No necessity forces someone who is walking voluntarily to move forward, even though, at the moment he is walking, he must be moving forward.
 
-"But for the sake of argument, so you can see what follows, let us say that **there is no foreknowledge at all**. In this case, actions of the will are *not* forced to be predestined, are they?"
-"No," I agreed.
+'In the same way, if Providence sees anything as present, that thing must necessarily be, even though no necessity of nature binds it. Now, God sees as present those future events that happen through free will. From the standpoint of divine vision, then, these events become necessary on the condition of God's knowing them. Viewed in themselves, however, they do not lose the absolute freedom that naturally belongs to them.
 
-"Again," she continued, "let us say that **there IS foreknowledge, but it does not impose any necessity on things**. In this scenario, the same freedom of the will remains, I think, absolute and undamaged.
+'So without doubt everything that God foreknows will happen does happen. But some of these things come about through free will. Even when they happen, the fact that they exist does not take away their proper nature. Because of that nature, before they happened, it was genuinely possible that they might not have happened at all.
 
-**Foreknowledge as a Sign, Not a Cause**
+'What difference, then, does denying necessity make, if these events, being conditioned by divine knowledge, happen as though they were entirely compelled by necessity? The difference is the one we saw in the examples I used earlier: the sun's rising and the man's walking. At the moment they occur, neither could fail to be taking place. Yet before it happened, one of them was bound by necessity to occur, while the other was not bound at all.
 
-"But, you will say, 'Even if foreknowledge is not the *same* as the necessity of the future, it is a **sign** that the future will inevitably happen.'
-"In that case," Philosophy responded, "even if there were *no* foreknowledge, everyone would still agree that the occurrence of future events is predestined. This is because signs only represent what they point to; they don't *cause* it.
+'Likewise, the things present to God certainly exist. But some of them result from the necessity of things, and others from the power of the one who acts. So we were quite right to say that these things are necessary when seen from the standpoint of divine knowledge. Considered in themselves, though, they are free from the bonds of necessity. It is the same with everything the senses can perceive: seen from the standpoint of Thought, it is universal; seen in its own nature, it is particular.
 
-"So, the first thing to do is to show that nothing happens other than by necessity. Only then can foreknowledge be seen as a sign of this necessity. Otherwise, if there is no underlying necessity, then that foreknowledge cannot be a sign of something that doesn't exist.
-"But we all agree that we cannot build a strong, rationally founded proof from signs or arguments brought in from outside the main issue. A real proof must come from arguments that fit together logically and lead from one to the next.
+'"But," you will say, "if I have the power to change my plan, I will defeat providence, since I may happen to change something that falls within its foreknowledge." My answer is this. You can indeed change your plan. But the truth of providence is always at hand to see that you can change it, whether you do, and which way you turn.
 
-**Events Happening vs. Events Being Necessitated**
+'So you cannot escape divine foreknowledge, just as you cannot escape the sight of someone watching you here and now, even though you freely turn yourself to various actions. Will you then say, "Does divine knowledge change at my discretion, so that when I want this or that, providence changes its knowledge to match?"'
 
-"It cannot be that what is foreseen as a future event does not come to pass. That would be like us believing that what Providence foreknows as future events is *not* going to happen. Instead, we should believe that although they *do* happen, they were not predestined *by their own nature* to be necessary.
+'Surely not.'
 
-"You can easily see it this way: We see many things happening before our eyes as they occur. For example, we see the actions charioteers perform to control and drive their chariots, and other things like that. But no necessity forces any of them to happen in that exact way, does it?"
-"No," I replied, "for if they all happened out of necessity, the exercise of skill would be pointless."
+'True. The divine vision anticipates everything that is coming and transforms it into the form of its own present knowledge. It does not shift back and forth in its foreknowledge, as you suppose, now to this and now to that. In a single flash it anticipates and takes in your changes without itself changing.
 
-"Therefore," she said, "all those things which happen *without* happening out of necessity are, *before they happen*, future events that are about to happen, but *not necessarily* about to happen.
-"For just as our knowledge of present things imposes no necessity on what *is currently happening*, so foreknowledge imposes no necessity on what *is going to happen*.
+'God has received this ever-present understanding and survey of all things not from the outcome of future events, but from the simplicity of His own nature. This also resolves the objection that troubled you a little while ago: that our future actions were being spoken of as if they caused God's knowledge. This power of knowing, which takes in all things in its immediate awareness, has itself set the limits of all things, yet it owes nothing to what comes later.
 
-**The Core of the Disagreement**
+'Since all this is so, human free will remains unshaken. Laws are not unjust, since their rewards and punishments are offered to wills that no necessity binds. God, who foreknows all things, still looks down from above. The ever-present eternity of His vision fits together with the future character of all our acts, and He gives rewards to the good and punishments to the wicked.
 
-"But this," Philosophy acknowledged, "is the very point in question, you will say: **Can there be any foreknowledge of things whose occurrence is not inevitable?**
-"There seems to be a contradiction here. You think that:
-1.  The necessity of events follows *from* their being foreseen.
-2.  If there is no necessity (meaning, if events are uncertain or free), they *cannot* be foreknown.
-"This is because you believe that nothing can be grasped by knowledge unless it is certain."
-
-If you believe that uncertain events are foreseen as if they were certain, that's just unclear thinking, not true knowledge. You also believe that having opinions about something that differ from the actual facts is not the same as having complete knowledge.
-
-**The Knower Matters More Than the Known**
-
-"The cause of this mistake," she continued, "is that people think all their knowledge depends only on the nature of the things they are trying to know, and on how 'knowable' those things are. But this is completely wrong.
-"Everything that is known is understood **not according to its own nature, but according to the ability to know of those who are doing the knowing.**
-
-"Let's use a quick example to make this clear. Think about the roundness of a ball.
-* Your **sight** recognizes this roundness in one way. It stays at a distance and sees the whole shape at once using rays of light.
-* Your **touch** recognizes it in another way. It comes close to the ball, grasps it, and perceives the roundness part by part.
-
-"Similarly, a human being can be understood in different ways, depending on the faculty used:
-1.  **Sense-perception:** This examines a person's physical shape as it exists in matter. For example, seeing their height or the color of their eyes.
-2.  **Imagination:** This considers a person's shape alone, without the physical matter. You can imagine a person's face even when they are not there.
-3.  **Reason:** This goes beyond imagination. It thinks about the universal category or type (like 'humanity') that is present in individual people. Reason understands what makes a human a human.
-4.  **Intelligence (Divine Insight):** This is the highest 'eye' or way of knowing. It goes beyond the entire physical universe to see the simple, pure 'form' or essence of things directly with the mind's pure vision.
-
-**Higher Knowledge Includes Lower Knowledge**
-
-"The most important point here is this: **A higher way of knowing includes the lower ways, but it's impossible for a lower way to rise up to a higher way.**
-* The senses cannot understand anything beyond physical matter.
-* Imagination doesn't think about universal categories like 'humanity' or 'justice.'
-* Reason doesn't directly grasp the simple, pure 'form' or essence of things that Intelligence sees.
-
-"But **Intelligence**, looking down from above, first perceives that pure form. Then, it distinguishes all the things that are below it. It understands that essential form itself, which no other way of knowing could grasp.
-* Intelligence knows what Reason knows (universals).
-* It knows what Imagination knows (shapes).
-* It knows what the Senses know (matter).
-It does all this not by using reason, imagination, or senses step-by-step, but with a single glance of its mind, understanding things through their essential form.
-
-"Reason, too, when it looks at something universal (like the definition 'a human is a two-legged, rational animal'), it does so without directly using imagination or the senses. Yet, it understands things that *can be* imagined and sensed. Reason defines this universal idea through rational understanding, not by looking at a picture or touching something.
-
-"Imagination might have first developed its ability to see and form figures from the senses. However, even without the senses being active, imagination can still review all physical objects—not by sensing them again, but through its own imaginative way of perceiving.
-
-"So you see, in their way of knowing, all these faculties use their own ability to know, rather than just relying on how 'knowable' the objects themselves are. And this is completely appropriate. Since every judgment is an action of the one who judges, it's necessary that each faculty performs its work using its own power, not someone else's."
-
-**A Poem on How the Mind Knows**
-
-Lady Philosophy then shared a poem reflecting on different theories of knowledge:
-
-Some ancient teachers, the Stoics, who taught in a place called the Painted Porch,
-Once told their students, who were trying to understand deep ideas,
-To think of things the senses learn
-As images simply stamped upon the mind,
-Coming from physical bodies all around them.
-They thought of it like using a swift pen,
-As was once the custom, to print
-Letters deep into a smooth sheet of wax,
-Previously untouched by any mark or scratch.
-
-But if the active mind, by its own power,
-Can learn or find nothing new,
-And just lies passively, waiting to receive
-The imprint of physical things from the outside;
-If the mind is like a mirror, only reflecting
-The empty images of things;
-Then where does this strong understanding in our minds come from,
-This ability that sees and understands all things?
-What power allows us to see individual things?
-Where does this powerful understanding come from,
-That sees everything and figures everything out?
-This power that can see particular details,
-Then analyze what it sees,
-Then put that analysis back together in new ways,
-And move forward by exploring different paths?
-How can it tell true things from false ones?
-
-This power must be a cause that is more powerful,
-More forceful, and more effective
-Than something that just passively waits
-For the stamp of physical matter from the outside.
-
-And yet, for living things, a kind of passivity (being acted upon)
-Comes before the mind's power is called forth and stirred into action.
-It’s like when light strikes the eye,
-Or when voices make a sound in the ear.
-Then, the active power of the mind is awakened.
-It calls forth the patterns and ideas (called 'species') from within itself,
-Moving them in ways similar to the incoming sensations.
-It fits these inner patterns to the marks impressed from the outside,
-And mixes the images it has received
-With the forms and ideas it hides within itself.
-
-### Section V: Different Levels of Knowing for Different Beings
-
-"So," Philosophy continued, "if even when we perceive physical things, external experiences strike our senses, and this physical effect comes before mental activity—an effect that stimulates the mind and calls up the hidden forms within it—if, as I say, in perceiving physical things the mind is *not just passively affected* but actively judges the experience that the body undergoes, then think about beings whose way of knowing is free from all physical influences. They can stir their minds to activity without needing external things to react to in order to perceive.
-
-"Based on this argument, therefore, many different kinds of knowledge have been given to different types of beings:
-* **Mere sensation** (just sensing things) is given to animals that cannot move, like mussels and other shellfish that grow on rocks. They only experience basic feelings or impressions.
-* **Imagination** is given to animals that *can* move and that seem to have some desire to choose or avoid things. Think of a dog that seems to remember its owner or a path.
-* **Reason** belongs only to the human race.
-* **Intelligence** (the highest form of direct understanding) belongs only to God.
-
-"The result is that the kind of knowing that, by its very nature, understands not only its own objects but also the objects of the other, lower kinds of knowing, is superior to them.
-
-**An Argument Between Ways of Knowing**
-
-"Suppose, then, that the senses and imagination argued against reason. Imagine them saying that the 'universal idea' (like 'all triangles have three sides') that reason thought it could see was nothing at all.
-* Their argument might be: 'What can be sensed or imagined cannot be universal; it's always a specific thing. So, either reason's judgment is true, and there is nothing that can be sensed (which is obviously false), or, since reason knows that many things *are* objects of the senses and imagination, then reason’s way of knowing must be worthless, because it thinks of something specific and individual as if it were a universal category.'
-
-"Now, if reason replied to this, it might say:
-* 'When I consider a universal idea, I am actually keeping in mind what is understood by the senses and what is understood by the imagination. But the senses and imagination cannot rise to recognize universality because their way of knowing cannot go beyond physical shapes and individual instances. In deciding how things are known, we should trust the judgment that is more certain and more perfect.'
-
-"In an argument like this, we—as people who have the ability to reason, as well as to imagine and perceive by the senses—would surely agree with reason's side.
-
-**Human Reason and Divine Intelligence**
-
-"In the same way, human reason often refuses to believe that divine intelligence (God's mind) can see the future in any way other than how human reason itself knows things.
-"This is how human reason often argues:
-* 'If anything does not seem to have a certain and predestined (fixed) occurrence, it cannot be foreknown as a future event.
-* 'Therefore, of such uncertain things, there is no foreknowledge.
-* 'And if we believe that even in this case (of uncertain things) there *is* foreknowledge, then there will be nothing which does not happen out of necessity (meaning, everything is predetermined).'
-
-"If, therefore, as beings who have a share of reason, we can judge the mind of God, we should realize that it is most fitting for human reason to bow before divine wisdom. This is just as we judged it right for the senses and the imagination to yield to reason.
-
-"Let us, then, if we can, try to raise ourselves up to the heights of that supreme intelligence. There, reason will be able to see what it cannot see by itself. It will be able to see how an event that has no certain occurrence (like a free choice) *can* be seen by a certain and fixed foreknowledge—a knowledge that is not just an opinion, but the boundless, direct understanding of the highest form of knowing."
-
-**A Poem About Humanity's Unique Position**
-
-She then offered this poem:
-
-How many different shapes of life exist across the world!
-Sometimes, in a long form, a creature sweeps the dirt
-And draws unbroken trails, carried on its powerful ribs (like a snake).
-Sometimes, on wandering wings, it lightly beats the winds
-And swims in liquid flight through vast stretches of airy space (like a bird).
-Some creatures press footprints on the earth and step by step
-Move themselves over fields or under forest trees (like animals that walk).
-
-You see them all in their different shapes, yet each one’s gaze
-Is directed downward to the ground, dulling their senses.
-Only the race of humans can lift its head on high,
-Can stand with body upright and look beyond the ground.
-
-This picture warns us—unless we are like witless, earthbound people—
-‘You who raise your eyes to heaven with your face held high,
-Raise up your thoughts as well.
-Lest, weighted down to earth,
-Your mind sinks lower even as your body rises high.’
-
-### Section VI: God's Eternal Present and His Knowledge
-
-"Since, therefore, as we have just shown, every object of knowledge is known not because of its own nature, but because of the nature of those who understand it, let us now examine, as far as we are able, the nature of God's being. This will help us also learn what His way of knowing is.
-
-"It is the common judgment, then, of all creatures that live by reason that **God is eternal.** So let us consider the nature of **eternity**, for this will make clear to us both the nature of God and His manner of knowing.
-
-**What is Eternity?**
-
-"**Eternity, then, is the complete, simultaneous, and perfect possession of everlasting life.** This will be clearer if we compare it with creatures that exist in time.
-* Whatever lives in time exists in the present and moves from the past to the future.
-* There is nothing existing in time that can embrace or hold the whole extent of its life all at once. It is always in the position of not yet possessing tomorrow, while it has already lost yesterday.
-* Even in this life you live today, you do not live more fully than you do in that single, fleeting, transitory moment.
-
-"Therefore, whatever experiences the condition of being in time—even if, like Aristotle thought about the world, it never had any beginning and will never have any ending, and its life extends into the infinity of time—it is still not such that it may properly be considered **eternal**.
-* Its life may be infinitely long, but it does not embrace and understand its whole extent *simultaneously*. It still lacks the future, while already having lost the past.
-
-"So, that which embraces and possesses simultaneously the whole fullness of everlasting life, which lacks nothing of the future and has lost nothing of the past—that is what may properly be called **eternal**.
-"Such a being will, by necessity, always be present to itself, controlling itself, and have the infinity of fleeting time present to it all at once.
-
-**The World is Perpetual, God is Eternal**
-
-"Those philosophers are wrong, therefore, who, when told that Plato believed the world had no beginning in time and would have no end, claim that the created world is co-eternal with the Creator.
-* For it is one thing to progress through everlasting life, like the world in Plato’s theory.
-* It is another thing entirely to have embraced the *whole* of everlasting life in one simultaneous present moment. This is clearly a property of the mind of God.
-
-"God should not be considered as older than the created world in terms of the *extent of time*, but rather older in the property of the **immediacy of His nature**. The infinite changing of things in time is an attempt by creation to imitate this state of the presence of God’s unchanging life.
-* But since time-bound existence cannot truly portray or equal that state, it falls from sameness into change, from the immediacy of God's presence into the infinite extent of past and future.
-* It cannot possess simultaneously the whole fullness of its life. But because its existence (in Plato's model) never comes to an end, it does seem in some way to copy that which it cannot fully achieve or express. It does this by attaching itself to some sort of presence in this small and fleeting moment. Since this fleeting presence bears a certain resemblance to God’s abiding present, it gives whatever possesses it the appearance of being that which it imitates.
-
-"But since time-bound existence could not *remain still* (like God's eternal present), it took up the infinite journey through time. In this way, it became possible for it to continue by moving forward that life whose fullness it could not embrace by remaining still.
-"And so, if we want to give things their proper names, let us follow Plato and say that **God is eternal, while the world is perpetual.**
-
-**God's Knowledge is of a Never-Ending Present**
-
-"Since, therefore, all judgment understands those things that are subject to it according to its own nature, and since the state of God is always that of eternal presence, His knowledge, too, rises above all change through time and remains in the **immediacy of His presence.**
-"It embraces all the infinite parts of the past and future and views them in the immediacy of its knowing **as though they are happening in the present.**
-
-"If you wish to consider, then, the foreknowledge or 'prevision' by which He discovers all things, it will be more correct to think of it not as a kind of foreknowledge *of the future*, but as the **knowledge of a never-ending present.**
-"So, it is better called **Providence** (which means 'looking forth') than **Prevision** (which means 'seeing beforehand'). For God's knowledge is far removed from matters below and looks forth at all things as though from a lofty peak above them.
-
-**Divine Sight vs. Human Sight**
-
-"Why, then, do you insist that everything scanned by the sight of God becomes necessary? Men see things, but this certainly doesn’t make those things necessary. And your seeing them doesn’t impose any necessity on the things you see happening in your present, does it?"
-"No," I agreed.
-
-"And if we can compare the human present and the divine present: just as you see certain things in this, your present time, so God sees all things in His eternal present.
-"So, this divine foreknowledge does not change the nature and property of things; it simply sees things present to it exactly as they will happen at some time as future events. It makes no confused judgments about things. With one glance of its mind, it distinguishes all that is to come to pass, whether those future events are caused by necessity or not.
-"Similarly, when you see at the same time a man walking on the earth and the sun rising in the sky—although you see both sights at once—you still distinguish between them. You judge the man's walking to be willed (a choice) and the sun's rising to be necessitated (by natural law).
-"In the same way, the divine gaze looks down on all things without disturbing their nature. To God, they are present things, but under the condition of time, they are future things.
-"And so it happens that when God knows that something is going to occur and also knows that no necessity is imposed upon it to make it occur, this is not mere opinion, but rather knowledge founded upon truth.
-
-**Two Kinds of Necessity**
-
-"If you say at this point that what God sees as a future event *cannot but happen*, and what *cannot but happen*, happens *of necessity*—and if you bind me to this word 'necessity'—I will have to admit that this is a matter of the firmest truth. However, it's a truth that scarcely anyone except a deep student of divine matters has been able to fully understand.
-
-"I will answer that the same future event is **necessary** when considered in relation to divine foreknowledge, and yet it seems to be **completely free and unrestricted** when considered in itself. For there are two kinds of necessity:
-1.  **Simple Necessity:** This is an unchangeable fact, like 'it is necessary that all humans are mortal.'
-2.  **Conditional Necessity:** This depends on a condition. For example, '*if* you know someone is walking, it is necessary *that he is walking*' (for as long as you know it and he is indeed walking).
-    * What a person knows cannot be other than how it is known at that moment.
-    * But this conditional necessity does not mean there's a simple necessity. The walking isn't necessary by its own nature, but becomes necessary *under the condition* that it is known to be happening.
-    * No absolute necessity forces the man to walk who is walking of his own free will, *although it is necessary that he is walking when he takes a step* (and is observed or known to be walking).
-
-"In the same way, if Providence sees something as present, it is necessary for it to happen (in God's view), even though that thing has no necessity in its own nature. God sees those future events which happen because of free will as if they are present events.
-"So, these things, when considered in relation to God’s sight of them, do happen **necessarily** as a result of the condition of divine knowledge. But when considered in themselves, they do not lose the absolute **freedom** of their nature.
-"All things, therefore, whose future occurrence is known to God do without doubt happen, but some of them are the result of free will. In spite of the fact that they do happen, their actual occurrence does not deprive them of their true nature. Part of that true nature was the possibility of their *not* occurring, which existed before they happened.
-
-**Freedom and Divine Knowledge Coexist**
-
-"What does it matter, then, if they are not (simply) necessary, when because of the condition of divine foreknowledge it will turn out exactly as if they *were* necessary?
-"The answer is this. It is impossible for the two events I mentioned just now—the rising of the sun and the man walking—*not* to be happening *when they are actually happening*. And yet, it was necessary for one of them (the sun rising) to happen *before* it did happen, but it was not so for the other (the man walking).
-"And so, those things which are present to God will without doubt happen. But some of them result from the necessity of how things are, and some of them result from the power of those who do them (their free will).
-
-"We are not wrong, therefore, to say that if these things are considered in relation to divine foreknowledge, they are necessary. But if they are considered by themselves, they are free of the bonds of necessity.
-"This is just like saying that everything the senses perceive is individual if considered in itself, but it becomes a universal concept if considered in relation to reason.
-
-"But," Philosophy anticipated my next objection, "you will reply, 'If it lies in my power to change a proposed course of action, I will be able to evade Providence, for I will perhaps have altered things which Providence already foreknows.'"
-
-"My answer will be this," Philosophy said. "You *can* indeed alter your plan. But because this is possible, and because Providence—which is always present and true—sees whether you change your plan and how you change it, you cannot escape divine foreknowledge. It's like how you cannot escape the sight of an eye that is present and watching you, even though you may, of your own free will, turn to a variety of different actions.
-
-**Does God's Knowledge Change When We Change Our Minds?**
-
-"Well, then you might ask: 'Isn’t divine knowledge changed as a result of my changing plans? So that as I change my wishes, God's knowledge also seems to change?'
-"The answer is no.
-
-"Each future thing is anticipated by the gaze of God. This gaze brings your future actions back and recalls them into the **presence of His own way of knowing.** God's knowledge doesn't change, as you might think, shifting between knowing 'now this' and 'now that.' Instead, with **one single, constant glance, He anticipates and embraces all your changes within His own steadiness.**
-
-"God receives this present way of knowing and seeing all things not from how future events turn out, but from **His own immediate nature** (His eternal present).
-"So, this solves the difficulty you brought up a short time ago: that it seemed wrong if our future actions were said to provide a cause for God’s knowledge. The power of this divine knowledge, which embraces all things in a present understanding, has itself established the way all things will be. It owes nothing to anything that comes after it or is less fundamental than itself.
-
-**Freedom, Responsibility, and Hope Remain**
-
-"And since this is how things are:
-* A human being's **free will remains untouched and secure.**
-* The law does not impose rewards and punishments unfairly, because the will is free from all (simple) necessity.
-
-"God has foreknowledge and rests like a spectator looking down from on high at all things. And as the ever-present eternity of His vision gives rewards to the good and punishments to the bad, it adapts itself to the future quality of our actions.
-
-"Therefore:
-* Hope placed in God is not in vain.
-* Prayers made to God are not in vain. If they are the right kind, they cannot help but be effective.
-
-"So, you should:
-* Avoid vice (bad actions).
-* Cultivate virtue (good actions).
-* Lift up your mind to the right kind of hope.
-* Offer humble prayers to God on high.
-
-"A great necessity—a strong moral obligation—is laid upon you, if you will be honest with yourself. It is a great necessity to be good, since you live in the sight of a Judge who sees all things."
+'Our hopes and prayers are not placed in God in vain. When they are rightly directed, they cannot fail to have their effect. So resist vice and practice virtue. Lift your souls to right hopes, and offer humble prayers to Heaven. If you do not hide it from yourselves, a great necessity of righteousness is laid upon you, since everything you do is done before the eyes of a Judge who sees all things.'

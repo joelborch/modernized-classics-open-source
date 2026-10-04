@@ -1,9 +1,10 @@
 # Maintainer guide
 
 The public collaboration repository is
-<https://github.com/joelborch/modernized-classics-open-source>. It is separate
-from the private production repository and has no deployment or Cloudflare
-connection. Do not copy production credentials or deployment configuration into it.
+<https://github.com/joelborch/modernized-classics-open-source>. Cloudflare Workers
+Builds connects it to the `modernized-classics-open-source` static-assets Worker.
+The public Wrangler configuration is tracked; production credentials must stay
+out of Git.
 
 ## Repository and history
 
@@ -42,10 +43,23 @@ record, cover provenance and license metadata, and report unresolved claims for
 owner review. Verify all generated downloads and source purity. Keep provider
 contract test results separate from live CLI compatibility and editorial QA.
 
-## Production separation
+## Production releases
 
-The existing private production repository remains the deployment source. Public
-repository pushes do not authorize or perform a deployment, a Cloudflare change,
-or a change to the private repository. Handle any future production release as a
-separate operation with an identified commit and known-good rollback. Keep
-credentials and production resource access out of contributor builds.
+Cloudflare builds `main` with `npm run build` and deploys with
+`npx wrangler deploy`, using the repository root and all paths. Non-production
+branches run `npx wrangler versions upload`; they do not deploy production.
+The Worker serves `modernizedclassicsbooks.com` and
+`www.modernizedclassicsbooks.com` through existing dashboard-managed custom
+domains. Preserve those domain bindings when releasing.
+
+Before pushing `main`, verify the exact release commit in a clean checkout and
+record the active Worker version with `wrangler deployments status --json`.
+A push to `main` starts a production release. Verify the successful build, active
+version, custom-domain pages, covers and EPUB downloads afterward. If rollback
+is needed, use `wrangler rollback <recorded-version-id>` for this Worker, then
+repeat the live checks. Rollback restores the Worker version, not domain
+settings or connected resource data.
+
+The legacy private repository and `modernized-classics` Pages project are not
+the custom-domain deployment target. Do not modify them as part of this release.
+Keep credentials and production resource access out of contributor builds.

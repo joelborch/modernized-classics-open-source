@@ -2,7 +2,7 @@
 title: The Prince
 author: 'Niccolò Machiavelli, simplified'
 yearPublished: 1532
-yearModernized: 2025
+yearModernized: 2026
 description: >-
   A modernized version of Niccolò Machiavelli’s classic guide to political
   power—rewritten in clear, contemporary language. It distills the core
@@ -15,1561 +15,1467 @@ tags:
   - Renaissance
   - Statecraft
 coverImage: ./cover.png
-coverAlt: >-
-  Cover art for The Prince featuring a minimalist Renaissance-inspired
-  silhouette of a ruler in profile, with subtle shadowed geometry suggesting
-  power, intrigue, and political strategy, in a restrained palette of deep
-  green, black, and warm parchment tones.
+coverAlt: Woodcut illustration of a chess king overlooking Florence
 downloads:
   epub: /downloads/the-prince.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-prince.mp3'
 ---
 
-## Chapter 1 — How many kinds of Principalities there are, and by what means they are acquired
 
-Every political system that rules people—every **state**, every **government**, every **power structure**—ultimately falls into one of two buckets:
+## DEDICATION
 
-- **Republics**
-- **Principalities** (states ruled by a single prince)
+To the Magnificent Lorenzo di Piero de’ Medici
 
-Since this book focuses on principalities, we need a clean map of the different kinds—and how people end up holding them.
+People who hope to win a prince’s favor usually come to him bearing the things they value most, or the things they see give him the greatest pleasure. That is why princes are so often presented with horses, weapons, cloth of gold, precious stones, and similar ornaments worthy of their high position.
 
-### **Two Main Types of Principalities**
+I, too, wish to come before Your Magnificence with some proof of my devotion. Yet among everything I own, I have found nothing I hold dearer or value more highly than my knowledge of the actions of great men.
 
-A principality is either:
+I acquired this knowledge through long experience of present-day affairs and through constant study of the ancient world. I have reflected on it with great and prolonged care. Now I have condensed it into a small volume, which I send to Your Magnificence.
 
-- **Hereditary:** the same ruling family has held power for a long time.
-- **New:** the ruler hasn’t “always” been the ruler—power has recently changed hands.
+I may consider this work unworthy of your attention. Even so, I trust a great deal in your kindness to accept it. I cannot give you a better gift than the chance to understand, in a very short time, everything I have learned over so many years and through so many hardships and dangers.
 
-### **What “New” Can Mean**
+I have not decorated this work with inflated or grand language. I have not packed it with polished, elaborate sentences, or with any of the outward charms and ornaments that so many writers use to dress up their books. I wanted it either to receive no honor at all, or else to be welcomed only for the truth of its contents and the seriousness of its subject.
 
-A “new” principality comes in two forms:
+Some people think it presumptuous for a man of low and humble rank to discuss the affairs of princes and lay down rules for them. I do not agree. Consider artists who sketch the countryside. To study the shape of mountains and high places, they position themselves down on the plain. To study the plains, they climb up onto the high mountains.
 
-- **Completely new:** a ruler builds a state that didn’t belong to him at all before. (Machiavelli’s example: Milan becoming Francesco Sforza’s.)
-- **Attached to an old one:** a ruler adds a new territory onto a state he already had—like bolting on an extra piece. (Example: Naples added to the King of Spain’s realm.)
+The same holds for understanding political life. To understand the nature of the people, one must be a prince. To understand the nature of princes, one must be one of the people.
 
-### **What Makes a New Territory Hard—or Easy—to Hold**
+So please accept this small gift, Your Magnificence, in the spirit in which I send it. If you read it carefully and reflect on it, you will discover how deeply I wish for you to reach the greatness that fortune and your other qualities promise.
 
-When you take over a territory, it usually has one of two political habits:
+And if Your Magnificence, from the height of your greatness, will sometimes look down to these lower places, you will see how undeservedly I endure the great and unrelenting hostility of fortune.
 
-- It’s used to living under a prince.
-- It’s used to living **free** (governing itself).
+## CHAPTER I. HOW MANY KINDS OF PRINCIPALITIES THERE ARE, AND BY WHAT MEANS THEY ARE ACQUIRED
 
-And there are only a few ways anyone acquires a state in the first place:
+Every state and every power that has ever ruled over people, or rules over them now, has been and still is either a republic or a principality.
 
-- **By your own force** (your own troops and power)
-- **By someone else’s force** (you ride in on an ally’s army)
-- **By luck** (**fortune**: timing, accidents, circumstances)
-- **By skill** (**ability**: planning, strategy, competence)
+Principalities are either hereditary or new. In a hereditary principality, the ruling family has been established for a long time.
 
-That’s the basic toolkit. The rest of the book is about what happens after you get the prize—and whether you can keep it.
+New principalities are of two kinds. Some are entirely new, as Milan was to Francesco Sforza. Others are like limbs attached to the hereditary state of the prince who acquires them, as the kingdom of Naples was to the King of Spain.
 
-The king moved fast. Once he took Lombardy, he instantly recovered the influence Charles had squandered. City after city leaned his way: Genoa gave in; Florence switched to friendly; and a long line of local rulers and city-states—from Mantua and Ferrara to Forlì, Faenza, Pesaro, Rimini, Camerino, Piombino, Lucca, Pisa, Siena—hurried to be seen as his allies.
+Territories acquired in this way are either used to living under a prince or used to living in freedom. They are acquired either with the prince's own armies or with the armies of others, and either by fortune or by ability.
 
-Only then did Venice fully grasp how badly it had misplayed things. To lock down two towns in Lombardy, it had helped make the French king master of roughly two-thirds of Italy.
+## CHAPTER II. CONCERNING HEREDITARY PRINCIPALITIES
 
-Now, picture how easily he could’ve held Italy if he’d followed the basic rules already laid out—especially one: **keep your allies safe and invested**. He had plenty of friends, and most of them were both **weak** and **nervous**. Some feared the Church. Others feared Venice. In other words, they had every incentive to cling to him for protection, and through them he could’ve boxed in the remaining powerful players.
+I will leave aside any discussion of republics, since I have written about them at length elsewhere. Here I will deal only with principalities. I will follow the order set out above and discuss how such principalities are to be governed and kept.
 
-Instead, the moment he reached Milan, he did the opposite. He helped Pope Alexander seize the Romagna.
+I will say at once that hereditary states, whose people have long been used to their prince's family, are much easier to hold than new ones. A prince of only average ability can keep such a state if he does two things. He must avoid breaking with the customs of his ancestors, and he must handle problems sensibly as they arise.
 
-He didn’t seem to notice what he was doing to himself:
+Only some extraordinary and overwhelming force can take such a state from him. Even if he does lose it, he will win it back as soon as the usurper runs into any misfortune.
 
-- He was **shrinking his own position**.
-- He was **pushing away allies** who had practically thrown themselves at him.
-- And he was **inflating the Church’s power**—not just spiritually, but with real territory and soldiers—giving it far more authority than it had before.
+Italy offers an example in the Duke of Ferrara. He could not have withstood the attacks of the Venetians in 1484, or those of Pope Julius in 1510, if his family had not been long established in its territories.
 
-That first mistake forced a chain of follow-up mistakes. To contain Alexander’s ambition and keep him from becoming dominant in Tuscany, the king then had to return to Italy himself.
+The reason is that a hereditary prince has fewer reasons and less need to offend his subjects. As a result, he is more likely to be loved. Unless some extraordinary vices make him hated, his subjects can reasonably be expected to feel a natural goodwill toward him.
 
-And as if strengthening the Church and losing his allies weren’t enough, he decided he also wanted Naples. So he split it with the King of Spain. Where he had been the clear **referee of Italy**, he voluntarily brought in a powerful **partner-rival**—giving Italy’s ambitious factions and his own dissatisfied subjects somewhere to run for shelter. Worse, he drove out the king he could’ve kept as a dependent and installed someone strong enough to push *him* out in return.
+The age and long duration of his family's rule also matter. Over time, people forget the memories and lose the motives that encourage change. Each change leaves a foundation for the next one, like the toothing of a wall: the stones left jutting out at its edge so that a later addition can be built onto it.
 
-Wanting to acquire more is natural; it’s practically universal. When people can expand, they try—and they’re usually praised for it, not blamed. The problem is when they *can’t* do it, yet still insist on doing it anyway, by any means necessary. That’s where the foolishness starts.
+## CHAPTER III. CONCERNING MIXED PRINCIPALITIES
 
-So if France could’ve taken Naples with its own strength, it should’ve done so. If it couldn’t, it shouldn’t have tried to take it by **sharing** it.
+The real difficulties arise in a new principality. Suppose, first, that it is not entirely new, but is added like a limb to an existing state, so that the two together may be called a composite, or mixed, state. Here the changes come mainly from a difficulty found in every new principality.
 
-Yes, France’s earlier deal with Venice over Lombardy had at least a plausible excuse: it bought France a foothold in Italy. But this later partition of Naples deserved blame, because it didn’t even have that necessity behind it.
+People willingly change their rulers in the hope of improving their lot, and this hope leads them to take up arms against whoever governs them. They are deceived in this, because experience later shows them that they have gone from bad to worse.
 
-So Louis made **five major errors**:
+This follows from another natural and common necessity. A new prince must always burden those who have submitted to him, both with his soldiers and with countless other hardships that come with taking possession of a new territory.
 
-- He **wiped out the smaller powers**.
-- He **strengthened one of the major powers** already in Italy (the Church).
-- He **invited in a foreign power** (Spain).
-- He **didn’t settle in the country** himself.
-- He **didn’t plant colonies** to anchor his control.
+As a result, you make enemies of everyone you have injured in seizing that principality. Nor can you keep as friends the people who helped put you there, because you cannot reward them as they expected. At the same time, you cannot take harsh measures against them, since you feel obligated to them. However strong your armies may be, you always need the goodwill of the inhabitants when you enter a province.
 
-And those five, by themselves, might not have ruined him during his lifetime—if he hadn’t made a **sixth**: he stripped territory from Venice.
+For these reasons Louis the Twelfth, King of France, quickly occupied Milan and just as quickly lost it. The first time, Lodovico's own forces were enough to drive him out. The people who had opened the gates to Louis found their hopes of future benefit disappointed, and they would not put up with the ill-treatment of their new prince.
 
-Because here’s the irony: if he *hadn’t* swollen the Church and *hadn’t* brought Spain into Italy, then humbling Venice would’ve been sensible, even necessary. But after taking those earlier steps, he should never have agreed to Venice’s destruction. A strong Venice would always have deterred others from making grabs at Lombardy—and Venice would never have tolerated anyone else trying to take Lombardy unless Venice expected to take it for itself. And the other powers wouldn’t have had the nerve to fight both France and Venice at once.
+It is quite true that when a prince conquers a rebellious province a second time, he does not lose it so easily afterward. The rebellion gives him an opportunity he is happy to take: he punishes the offenders, removes anyone under suspicion, and strengthens himself wherever he is weakest.
 
-If someone says, “Louis gave the Romagna to Alexander and Naples to Spain to avoid war,” the answer is simple: you don’t commit a blunder to dodge a war. You don’t avoid it. You just postpone it—and you postpone it on worse terms.
+So the first time, it was enough for Duke Lodovico to stir up revolts along the borders to make France lose Milan. The second time, it took the whole world uniting against the king, with his armies defeated and driven out of Italy. This difference followed from the causes just described.
 
-And if someone argues that Louis had promised the Pope help in exchange for personal political favors, I’ll address later what **promises between princes** are worth, and when they should be kept.
+Even so, Milan was taken from France both times. The general reasons for the first loss have been discussed. It remains to explain the reasons for the second, and to consider what resources the King of France had, and what resources anyone in his position would have had, for holding the conquest more securely than he did.
 
-In the end, Louis lost Lombardy because he ignored every condition that experienced conquerors follow when they want to **take** a country and **hold** it. Nothing mysterious happened. It was all painfully logical.
+I say, then, that territories a ruler conquers and adds to his long-established state either share its country and language or they do not. When they do, they are easier to hold, especially if they are not used to governing themselves. To hold them securely, it is enough to have wiped out the family of the prince who ruled them.
 
-I once discussed this in Nantes with Cardinal Rouen, around the time Cesare Borgia (often called “Valentino”) was occupying the Romagna. The cardinal remarked that Italians didn’t understand war. I told him the French didn’t understand politics—because if they did, they never would’ve let the Church grow so powerful.
+In everything else the people keep their old conditions, and since the two peoples have similar customs, they will live together peacefully. This has been seen in Brittany, Burgundy, Gascony, and Normandy, which have been joined to France for a long time. Although there may be some difference in language, the customs are alike, and the people can easily get along with one another.
 
-And the evidence backs it up: the rise of both the Church and Spain in Italy was driven by France, and France’s collapse there can be traced back to those same choices.
+Whoever has annexed such territories and wants to keep them needs to keep only two things in mind. First, the family of their former ruler must be extinguished. Second, neither their laws nor their taxes should be changed. In a very short time, they will then become one body with the old principality.
 
-From this comes a rule that almost never fails:
+But when a ruler acquires states in a region that differs in language, customs, or laws, the difficulties begin. Holding them requires good fortune and great energy. One of the greatest and most effective remedies would be for the conqueror to go and live there himself. This would make his position more secure and lasting.
 
-**If you make someone else powerful, you ruin yourself.**  
-Because the power you helped create was built either through **skill** or **force**—and either way, the person you raised will distrust you.
+It has done exactly that for the Turk in Greece. Whatever other measures he took to hold that state, he could not have kept it if he had not settled there.
 
----
+When the ruler is present, he sees disorders as they arise and can quickly correct them. When he is absent, he hears of them only after they have grown large, and by then he can no longer correct them.
 
-## Chapter 4: Why Darius’s kingdom didn’t rebel after Alexander died
+There are other advantages as well. The country is not plundered by the ruler's officials, and the subjects are satisfied because they can appeal directly to the prince. Those who wish to behave well therefore have more reason to love him, and those who wish to behave otherwise have more reason to fear him.
 
-When people struggle to hold newly acquired states, it’s fair to wonder about Alexander the Great. He conquered Asia quickly, then died before his rule was fully settled. By ordinary logic, you’d expect the whole empire to revolt the moment he was gone. Yet his successors kept control, and their biggest troubles came from their own rivalries—not from the empire rising up.
+Anyone who wants to attack that state from outside must proceed with the utmost caution. As long as the prince lives there, it can be taken from him only with the greatest difficulty.
 
-The key is that states tend to be governed in one of **two basic ways**:
+The other course, and the better one, is to plant colonies in one or two places that serve as keys to the state. A ruler must either do this or keep a large force of cavalry and infantry there.
 
-1. **A single prince with officials**: the ruler governs through ministers who hold power only because the prince allows it.  
-2. **A prince with hereditary barons**: powerful nobles rule their own territories by longstanding blood right, with subjects who recognize and even feel loyalty toward them.
+Colonies cost a prince little. He can send them out and maintain them at little or no expense. He offends only a minority of the inhabitants, namely those whose lands and houses he takes to give to the new settlers.
 
-These two models look similar from a distance, but they behave very differently under conquest.
+The people he offends are left poor and scattered, so they can never harm him. Everyone else, having suffered no injury, is easily kept quiet. They are also anxious not to step out of line, for fear that they will be stripped of their property like the others.
 
-In our time, you can see them clearly in the **Turk** and the **King of France**.
+In short, colonies are inexpensive, they are more loyal, and they cause less harm. The people they do harm, being poor and scattered, as already said, cannot strike back.
 
-- Under the Turk, one lord stands above everyone; the rest are his servants. He divides the realm into districts and sends administrators, moving and replacing them whenever he chooses.
-- In France, the king sits among an old class of lords who are rooted in their own lands, recognized by their own people, and protected by their own privileges—privileges the king cannot strip away without putting himself in danger.
+From this we should note that people must either be treated well or crushed. They can take revenge for minor injuries, but not for severe ones. Any injury done to a man, therefore, should be of such a kind that there is no need to fear his revenge.
 
-From this, a conqueror learns something counterintuitive:
+Keeping soldiers there instead of colonies costs far more. The entire revenue of the state must be spent on the garrison, so that the conquest turns into a loss. Far more people are angered, too, because the whole state suffers.
 
-- It’s **harder to conquer** a state like the Turk’s, but **easier to hold** once you’ve conquered it.
-- It’s **easier to enter** a state like France’s, but **much harder to keep** afterward.
+As the garrison moves from place to place, everyone experiences hardship, and everyone becomes hostile. These are enemies who, though defeated, remain on their own ground and are still able to do harm. For every reason, then, such garrisons are as useless as colonies are useful.
 
-Why is the Turk’s realm hard to seize? Because the attacker can’t expect help from insiders. The ruler’s ministers are dependent and isolated; they can’t easily be turned, and even if bribed they can’t carry the population with them. So anyone who attacks must assume they’ll meet a unified resistance and will have to rely mainly on their own force.
+Furthermore, a prince who holds a country that differs from his own in these respects should make himself the leader and protector of his weaker neighbors, and he should weaken the stronger ones. He must also take care that no foreigner as powerful as himself gets a foothold there by any chance.
 
-But once that ruler is beaten decisively—once his army is crushed so he can’t quickly replace it—there’s usually only one serious danger left: the prince’s **family line**. Remove that, and there’s no one else with enough authority or affection from the people to become a rallying point. The conqueror didn’t depend on those officials before victory, and he doesn’t need to fear them after.
+Such a foreigner will always be brought in by those who are discontented, whether from excessive ambition or from fear, as has already been seen. The Romans were brought into Greece by the Aetolians, and in every other country where they gained a foothold, they were brought in by the inhabitants.
 
-France is the reverse. You can often enter it by winning over a baron, because you’ll always find the discontented—people eager for change. That makes the first victory easier. But holding the country later is a nightmare. You face resistance both from those who helped you (now negotiating for advantage) and from those you harmed. And even if you eliminate the king’s family, the surviving nobles can spark new movements. Since you can’t fully satisfy them and can’t easily eliminate them, you lose the state the moment circumstances give them an opening.
+The usual course of events is that, as soon as a powerful foreigner enters a country, all the weaker states there are drawn to him, moved by their hatred of the power that has been ruling over them. He does not have to work to win them over, because they all quickly rally to the state he has acquired there.
 
-Now apply this to Darius. His government was closer to the Turk’s model. So Alexander needed only to defeat him in open battle and then take possession of the country. After that, Darius was killed, and the state stayed secure for the reasons above. If Alexander’s successors had remained united, they would’ve ruled it calmly and easily; the only unrest that arose was the unrest they created through their own conflicts.
+He has only to make sure they do not gain too much power and authority. Then, with his own forces and their goodwill, he can easily keep down the more powerful states and remain complete master of the country. Whoever fails to manage this properly will soon lose what he has gained, and while he holds it, he will face endless difficulties and troubles.
 
-States organized like France can’t be held with that kind of quiet. That’s why Rome faced repeated rebellions in Spain, France, and Greece: those places contained many principalities and many long memories. As long as people remembered their former rulers, Roman control stayed shaky. Over time, the empire’s length and strength erased those memories, and only then did Rome become secure.
+The Romans followed these measures closely in the countries they annexed. They planted colonies and kept friendly relations with the lesser powers without increasing their strength. They kept down the greater powers, and they did not allow any strong foreign power to gain influence.
 
-Later, when Romans fought each other, each leader could attach portions of the territory to himself based on the authority he had built there. And with the former ruling families eliminated, no one remained who could claim legitimate leadership except the Romans themselves.
+Greece seems to me a sufficient example. The Romans kept the Achaeans and Aetolians friendly, humbled the kingdom of Macedonia, and drove out Antiochus.
 
-Remember all this, and Alexander’s story stops looking miraculous. His successors’ hold over Asia wasn’t a fluke. And when other conquerors struggle to keep new acquisitions, it’s not always about the conqueror’s brilliance or incompetence—it’s often about whether the conquered state is **uniform** in its structure or fragmented among competing centers of power.
+Yet the services of the Achaeans and Aetolians never earned them permission to increase their power. Philip's persuasions never induced the Romans to become his friends without first humbling him. Nor did the power of Antiochus ever bring them to agree that he should keep any authority in that country.
 
----
+In these cases the Romans did what all prudent princes must do. Such princes must attend not only to present troubles but also to future ones, and they must prepare for these with all their energy. When troubles are foreseen, they are easy to remedy. If you wait until they are upon you, the medicine comes too late, because the disease has become incurable.
 
-## Chapter 5: How to govern cities that used to live under their own laws
+Physicians say the same of hectic fever, a wasting illness. At the beginning it is easy to cure but hard to detect. Over time, if it has been neither detected nor treated at the start, it becomes easy to detect but hard to cure.
 
-When you take a state that has long lived free, under its own laws, you have **three** options if you want to keep it:
+The same thing happens in affairs of state. When evils are foreseen as they arise, which only a wise man is able to do, they can be quickly corrected. But when they are not foreseen and are allowed to grow until everyone can see them, there is no longer any remedy.
 
-1. **Destroy it.**
-2. **Move there yourself.**
-3. **Let it keep its laws**, impose tribute, and install a small **oligarchy** that depends on you.
+The Romans, therefore, foresaw troubles and dealt with them at once. They would not let them come to a head even to avoid a war, because they knew that war cannot be avoided. It can only be postponed, to the advantage of others.
 
-That third option works because a government you create knows it can’t survive without you. Its leaders will work hard to keep your friendship, because their own power hangs on it. In that sense, you can sometimes hold a freedom-loving city more easily through its own citizens than through direct occupation.
+They also wanted to fight Philip and Antiochus in Greece so that they would not have to fight them in Italy. They could have avoided both wars for the time being, but they did not wish to.
 
-History gives sharp examples.
+Nor did the Romans ever care for the saying constantly repeated by the wise men of our own time: "Let us enjoy the benefits of time." They preferred to enjoy the benefits of their own courage and prudence. Time sweeps everything before it, and it can bring good as well as evil, and evil as well as good.
 
-The Spartans tried to control Athens and Thebes by setting up oligarchies. They still lost them. The Romans, by contrast, kept Capua, Carthage, and Numantia by dismantling them—and they didn’t lose them. When Rome tried the Spartan approach in Greece—leaving cities “free” and preserving their laws—it failed. In the end, Rome had to dismantle many cities there too.
+But let us turn to France and ask whether she did any of the things just described. I will speak of Louis rather than Charles, because his conduct is easier to study, since he held possessions in Italy for the longest time. You will see that he did the opposite of what must be done to keep a state made up of different elements.
 
-The hard truth is this: **there is no safe way to hold a city accustomed to freedom except by ruining it.** If you don’t destroy it, expect it to destroy you. In rebellion, it always rallies around the word **liberty** and its old privileges—things neither time nor benefits will erase from memory. No matter what precautions you take, those ideas remain ready to ignite. Unless the city is divided or dispersed, it snaps back to that identity the moment it sees a chance—just as Pisa did, even after a century under Florentine control.
+King Louis was brought into Italy by the ambition of the Venetians, who wanted to gain half of Lombardy through his intervention. I do not blame the king for the course he took. He wanted a foothold in Italy and had no friends there. In fact, every door was shut against him because of how Charles had behaved.
 
-But when a people are used to living under a prince, and that prince’s family is eliminated, they behave differently. They’re accustomed to obedience, and they no longer have an established house to reunite around. They can’t easily agree on a new ruler from among themselves, and they don’t know how to govern themselves. As a result, they’re slow to take up arms—and a new prince can win them over and secure the territory far more easily.
+He was therefore forced to accept whatever friendships he could get. He would have succeeded very quickly in his plan if he had not made certain mistakes in other matters.
 
-Republics are another matter. They have more energy, more resentment, and a deeper hunger for revenge. They don’t let the memory of former liberty go quiet. So again, the safest paths are the harsh ones: **destroy them** or **live among them**.
+Having taken Lombardy, the king at once regained the authority Charles had lost. Genoa submitted, and the Florentines became his friends. The Marquess of Mantua, the Duke of Ferrara, the Bentivogli, the Lady of Forlì, the Lords of Faenza, Pesaro, Rimini, Camerino, and Piombino, and the people of Lucca, Pisa, and Siena all approached him seeking his friendship.
 
----
+Then the Venetians could see how rash their course had been. To gain two towns in Lombardy, they had made the king master of two-thirds of Italy.
 
-## Chapter 6: New principalities won by your own arms and ability
+Consider now how easily the king could have kept his position in Italy if he had followed the rules set out above and kept all his friends secure and protected. They were numerous, but they were weak and fearful. Some feared the Church and some feared the Venetians, so they would always have been forced to stay on his side.
 
-Don’t be surprised if, when discussing entirely new principalities, I use the highest-profile examples of rulers and states. People usually walk along paths others have already cleared; they imitate what worked before. But imitation has limits: you can’t perfectly copy another person’s methods, and you rarely reach their full power.
+With their help, he could easily have secured himself against those who remained powerful. But no sooner was he in Milan than he did the opposite, by helping Pope Alexander occupy the Romagna.
 
-A wise person studies great leaders and aims to follow their strongest patterns. Even if you can’t match them, you can at least catch something of their caliber.
+It never occurred to him that this action weakened him. He was losing his friends, and losing those who had thrown themselves into his arms. At the same time, he was making the Church greater by adding a great deal of worldly power to its spiritual power, and so giving it more authority.
 
-Think of an archer shooting at a distant target. Knowing the bow’s limits, the archer aims above the bullseye—not because they expect the arrow to reach the sky, but because that higher aim helps the arrow land where it needs to. That’s how you should treat great examples: aim high so your real shot lands closer to your mark.
+Having made this first mistake, he was forced to follow it with others. In the end, to stop Alexander's ambition and prevent him from becoming master of Tuscany, Louis himself had to come into Italy.
 
-In entirely new principalities—where there is a new prince—holding the state is harder or easier depending on the ability of the person who took it. Rising from private citizen to prince usually happens through **ability** or **luck**, and either one can soften some of the difficulties. Still, the ruler who relies least on luck tends to be the most secure.
+As if it were not enough to have made the Church greater and lost his friends, he then wanted the kingdom of Naples and divided it with the King of Spain. Where he had been the chief arbiter of Italy, he took on a partner. This gave the ambitious men of that country, and the discontented men of his own, somewhere to turn for shelter.
 
-It also helps when the new prince has no other state and is therefore compelled to live in the new territory himself.
+He could have left a king in that kingdom who depended on him and lived on his pension. Instead, he drove that king out, to put in his place one who was able to drive Louis himself out in turn.
 
-Now, for those who rise by their own ability rather than fortune, the best examples are Moses, Cyrus, Romulus, Theseus, and others like them. We needn’t analyze Moses in the same way, since he acted as the executor of divine will, but he is still admirable for the favor that made him worthy of such a role.
+The desire to acquire is, in truth, very natural and common. People always acquire when they are able to, and for this they will be praised, not blamed. But when they lack the means and still want to acquire by any means possible, that is folly, and it deserves blame.
 
-As for Cyrus and the others who founded or seized kingdoms, their deeds and choices are consistently impressive. And if you look closely, you’ll see that fortune gave them little more than **opportunity**—raw material. Their ability shaped that material into the form they wanted. Without opportunity, their talents might have stayed buried. Without talent, opportunity would have come and gone without producing anything lasting.
+Therefore, if France could have attacked Naples with her own forces, she ought to have done so. If she could not, she ought not to have divided the kingdom with Spain.
 
-Each of these founders needed a particular opening:
+The partition France made with the Venetians in Lombardy could be excused, because it gave her a foothold in Italy. This second partition deserved blame, because no such necessity excused it.
 
-- Moses needed the Israelites oppressed in Egypt so they would be ready to follow someone who promised deliverance.
-- Romulus needed to be cut off from Alba and abandoned at birth so he could become king and founder of a new homeland.
-- Cyrus needed Persians dissatisfied with Median rule, and Medes softened by long peace.
-- Theseus needed Athens scattered and disorganized so he could prove his strength by unifying it.
+Louis therefore made these five errors:
 
-Opportunity made them “fortunate,” but their ability let them recognize the moment and use it to elevate their country and make it famous.
+- He destroyed the lesser powers.
+- He increased the strength of one of the greater powers in Italy.
+- He brought in a foreign power.
+- He did not settle in the country himself.
+- He did not send colonies.
 
-When people become princes by bold, capable action like this, they acquire power with difficulty—but they hold it with relative ease. The difficulty lies largely in what they must introduce: **new rules** and **new methods** to stabilize their government and secure it.
+Had he lived, these errors alone would not have been enough to injure him. But he made a sixth: he took the Venetians' territories away from them.
 
-And keep this in mind: nothing is harder to begin, more dangerous to lead, or more uncertain to succeed than launching a **new order of things**. The reformer immediately makes enemies of everyone who benefited under the old system, and gains only half-hearted support from those who might benefit under the new.
+Had he not first strengthened the Church and brought Spain into Italy, it would have been quite reasonable, even necessary, to humble the Venetians. But having already taken those steps, he ought never to have agreed to their ruin.
 
-People don’t usually embrace a new order of things right away. Part of that hesitation comes from fear: the people who benefit from the old system have the law, the institutions, and the habits of the public on their side. And part of it comes from plain human skepticism. Most of us don’t fully trust “the new way” until we’ve lived with it long enough to see it work.
+The Venetians, being powerful, would always have kept others from making designs on Lombardy. They would never have allowed anyone else to take it unless they themselves became its masters.
 
-That creates an imbalance that’s dangerous for any reformer. When opponents get an opening, they attack like a disciplined faction fighting for its life. Meanwhile, supporters often defend halfheartedly—so the innovator, and everyone tied to them, ends up exposed.
+Nor would the other powers have wanted to take Lombardy from France only to hand it to the Venetians. And they would not have had the courage to challenge France and Venice together.
 
-So if we want to understand how new regimes actually succeed, we have to ask a blunt question: can the innovator stand on their own, or do they need someone else to hold them up?
+Someone might say: "King Louis gave the Romagna to Pope Alexander and the kingdom of Naples to Spain in order to avoid war." For the reasons given above, I answer that one should never commit a blunder to avoid a war. The war is not avoided. It is only postponed, and to your disadvantage.
 
-In other words:
+Another might point to the promise the king had made to the Pope. Louis had pledged to help him in his enterprise in exchange for the dissolution of the king's marriage and a cardinal's hat for the Archbishop of Rouen.
 
-- Do they have to rely on **pleading and persuasion**?
-- Or can they back their project with **force**?
+To that I reply with what I will write later about the faith of princes and how it ought to be kept.
 
-If they can only beg and bargain, they almost always fail. They can’t finish what they started. But if they can rely on themselves—especially if they can use force when persuasion runs out—then they’re rarely in real danger.
+So King Louis lost Lombardy because he followed none of the conditions observed by those who have taken possession of countries and wished to keep them. There is nothing miraculous in this. It is entirely reasonable and natural.
 
-That’s why, as harsh as it sounds, **armed prophets win and unarmed prophets get crushed**.
+I spoke about these matters at Nantes with the Cardinal of Rouen. This was when Valentino occupied the Romagna. Valentino was the name commonly given to Cesare Borgia, the son of Pope Alexander.
 
-There’s another reason. People are inconsistent. It’s often easy to persuade a crowd in the moment, but it’s hard to keep them committed when enthusiasm fades or costs appear. So a reformer has to arrange things so that when belief evaporates, they can still compel obedience—so that the “maybe” turns back into “yes.”
+The Cardinal remarked to me that the Italians did not understand war. I replied that the French did not understand statecraft. I meant that if they had understood it, they would never have allowed the Church to become so great.
 
-Think of the legendary founders: Moses, Cyrus, Theseus, Romulus. If they’d had no way to enforce what they built, their laws wouldn’t have lasted. You can see the same pattern in a smaller, more recent case: Fra Girolamo Savonarola. His “new order” collapsed the minute the crowd stopped believing. He had no way to steady the faithful, and no leverage to bring skeptics back into line.
+Experience has in fact shown that France caused the greatness of the Church and of Spain in Italy, and that France's ruin can be traced to them.
 
-So innovators face their worst danger on the climb. Every step upward triggers resistance, envy, and counterattacks. But if they have the skill to push through that phase—and if they remove the people who are most invested in their failure—then the situation flips. They gain legitimacy. They start to look inevitable. And from there they can become powerful, secure, respected, and—by the standards of politics—happy.
+From this we can draw a general rule that never, or only rarely, fails: whoever causes another to become powerful is ruined. That power was produced either by cleverness or by force, and the one who has been raised to power distrusts both.
 
-## A Smaller Example: Hiero of Syracuse
+## CHAPTER IV. WHY THE KINGDOM OF DARIUS, CONQUERED BY ALEXANDER, DID NOT REBEL AGAINST THE SUCCESSORS OF ALEXANDER AT HIS DEATH
 
-To make the point without relying only on mythic founders, take a lesser example that still fits the pattern: **Hiero of Syracuse**.
+Given how hard it has been for rulers to hold a newly acquired state, some may wonder about Alexander the Great. He became master of Asia in only a few years and died when it was barely settled. It would seem reasonable to expect the whole empire to rebel.
 
-Hiero began as a private citizen. He didn’t become ruler because luck handed him a crown; he became ruler because circumstances created an opening. Syracuse was under pressure and in trouble, and the people chose him as their military commander. Later, they rewarded him by making him prince.
+Yet his successors kept their hold on it. The only trouble they faced came from among themselves, from their own ambitions.
 
-What mattered most was ability. Even before he held office, he had the kind of competence that made observers say, in effect, “Give this man a kingdom and you’d instantly have a king.”
+I answer that the principalities we have records of are governed in one of two ways. In the first, a prince rules with a body of servants. They help him govern the kingdom as ministers, but only by his favor and permission.
 
-Once in power, he didn’t try to govern with someone else’s tools. He rebuilt the system:
+In the second, a prince rules together with barons. These barons hold their rank because of the antiquity of their family line, not by the prince's grace. They have their own states and their own subjects, who recognize them as lords and feel a natural affection for them.
 
-- He disbanded the old army and built a new one.
-- He dropped old alliances and formed new ones.
-- He made sure his soldiers and partners were **his**, not borrowed.
+In states governed by a prince and his servants, the prince commands more respect. No one in the whole country is recognized as his superior. If the people obey anyone else, they obey him only as the prince's minister and official, and they feel no particular affection for him.
 
-With his own forces and his own relationships, he could build whatever political structure he wanted. The climb cost him plenty. But once he had power, keeping it was comparatively easy.
+In our own time, the two examples of these forms of government are the Turk and the King of France. The entire Turkish monarchy is governed by one lord, and everyone else is his servant. He divides his kingdom into districts called sanjaks and sends different administrators to them, moving and replacing them as he chooses.
 
-## Chapter 7: New Principalities Won by Luck or by Other People’s Arms
+The King of France, by contrast, stands among an ancient body of lords. Their own subjects acknowledge and love them. These lords have their own privileges, and the king cannot take these away without putting himself in danger.
 
-Now consider the opposite route: people who become princes mainly through **good fortune**—sudden elevation from private life to the top.
+Anyone who compares these two states will see that the Turkish state is very difficult to seize, but once conquered, very easy to hold. It is hard to seize for two reasons. The princes of the kingdom cannot invite an invader in, and he cannot hope that a revolt by the lord's circle will help his plans.
 
-They often have little trouble rising. The ascent feels effortless, like being lifted by an elevator instead of climbing stairs. The problem shows up afterward. Staying on top is hard.
+This follows from what was said above. The Turk's ministers are all slaves and bondmen, so they are very hard to corrupt. Even if they are corrupted, they offer little advantage, because they cannot bring the people along with them, for the reasons already given.
 
-This kind of prince usually gets a state in one of two ways:
+Whoever attacks the Turk must therefore expect to find him united. He will have to rely on his own strength rather than on rebellion by others.
 
-- Someone hands it to them (as a favor, or in return for money).
-- Someone else’s power installs them for that other person’s security and prestige.
+But suppose the Turk has been conquered and so thoroughly defeated in battle that he cannot rebuild his armies. Then there is nothing left to fear except the prince's own family. Once that family is wiped out, no one remains to be feared, because the others have no standing with the people. The conqueror did not rely on them before his victory, and so he need not fear them after it.
 
-History is full of these arrangements: rulers set up “princes” in distant cities to secure control, and emperors have been made by troops who were bought rather than loyal.
+The opposite happens in kingdoms governed like France. You can enter easily by winning over some baron of the kingdom, because there are always discontented people and others who want change. For the reasons already given, such men can open the way into the state and make victory easy.
 
-But the foundation here is shaky, because it rests on two things that almost never sit still:
+But if you then want to hold the state, you meet endless difficulties. These come both from those who helped you and from those you have crushed.
 
-- the benefactor’s **goodwill**
-- the benefactor’s **luck**
+Nor is it enough to wipe out the prince's family. The lords who remain make themselves the leaders of new movements against you. Since you can neither satisfy them nor destroy them all, you will lose the state as soon as time gives them the opportunity.
 
-And there’s a second weakness: the new ruler often doesn’t know how to rule. If they haven’t had to command before—if they’ve lived as a private person—it’s not reasonable to expect them to suddenly have the instincts and skills of leadership. Worse, they usually can’t hold their position because they lack forces that are reliably theirs—troops and supporters who stay friendly and faithful under pressure.
+Now consider the nature of Darius's government. You will find it similar to the Turkish kingdom. Alexander therefore only needed to defeat him in battle first, and then take the country from him.
 
-In nature, things that shoot up too fast usually have fragile roots. Political power is the same. A state that appears overnight rarely has time to build the relationships, habits, and institutional supports that let it survive its first real storm. The only exception is the rare person with so much talent that they immediately understand what’s missing—and rush to build, after the fact, the foundations that others lay before they take power.
+After that victory, and with Darius dead, the state remained secure in Alexander's hands, for the reasons given above. If his successors had stayed united, they could have enjoyed it securely and at their ease. No disturbances arose in the kingdom except the ones they stirred up themselves.
 
-## Two Modern Examples: Francesco Sforza and Cesare Borgia
+States organized like France, however, cannot be held so peacefully. This explains the frequent rebellions against the Romans in Spain, Gaul, and Greece. These lands contained many principalities, and as long as people remembered them, Roman possession remained insecure.
 
-To compare these two paths—rising by skill versus rising by fortune—consider two examples from recent memory: **Francesco Sforza** and **Cesare Borgia**.
+But as the empire's power and long duration wore that memory away, the Romans became secure possessors. Later, when the Romans fought among themselves, each leader could win over his own parts of these lands, according to the authority he had established there. Because the families of the former lords had been wiped out, the people acknowledged no one but the Romans.
 
-Sforza rose from private life to become Duke of Milan through competent, deliberate action. It cost him years of anxiety and struggle to acquire the duchy. But once he had it, he maintained it with relatively little trouble.
+Once these things are remembered, no one will be surprised at how easily Alexander held the empire of Asia. Nor will anyone be surprised at the difficulties others have had in keeping what they conquered, such as Pyrrhus and many more. The difference does not come from how much or how little ability the conqueror had, but from how uniform or varied the conquered state was.
 
-Borgia—known publicly as Duke Valentino—followed the other route. He gained territory during his father’s rise to power, and he lost it when his father’s power fell. And that happened even though he did everything a sharp, capable ruler could do to put down roots in territories that had been granted to him by someone else’s arms and luck.
+## CHAPTER V. CONCERNING THE WAY TO GOVERN CITIES OR PRINCIPALITIES WHICH LIVED UNDER THEIR OWN LAWS BEFORE THEY WERE ANNEXED
 
-Still, if you look closely at what Borgia actually did, you see a masterclass in building foundations quickly under impossible conditions. And if there’s any better instruction for a new prince than a good example, it’s hard to find one clearer than this. If Borgia ultimately failed, it wasn’t because he misunderstood the problem; it was because fortune turned unusually and brutally against him.
+Some states acquired in the ways I have described were used to living freely under their own laws. Anyone who wants to hold such states has three options.
 
-### The Problem Alexander VI Faced
+- The first is to ruin them.
+- The second is to go and live there in person.
+- The third is to let them keep living under their own laws while collecting tribute from them, and to set up a small ruling group, an oligarchy, that will keep the state friendly to you.
 
-Alexander VI wanted to expand his son’s power, but the obstacles were immediate.
+The third option works because a government created by the prince knows it cannot survive without his friendship and support. It will therefore do everything it can to keep him in power. For this reason, someone who wants to keep a city accustomed to freedom will hold it more easily through its own citizens than by any other method.
 
-First, there was the map: Alexander couldn’t easily give Borgia land that wasn’t connected to the Church’s sphere of control. And if he tried to seize territory too openly, powerful players—like Milan and Venice—would block him. Some key cities were already under Venetian protection.
+The Spartans and the Romans offer examples. The Spartans held Athens and Thebes by setting up oligarchies there, and they lost both cities anyway. The Romans, in order to hold Capua, Carthage, and Numantia, tore them apart, and they did not lose them.
 
-Second, there was the military reality: much of Italy’s fighting strength sat in the hands of families and factions that didn’t want the Pope growing stronger—especially the Orsini and the Colonna and their networks.
+The Romans also tried to hold Greece the way the Spartans had held it. They left the country free and allowed it to keep its own laws, and the attempt failed. To hold Greece, they were forced to tear apart many of its cities. The truth is that there is no safe way to keep such cities except by ruining them.
 
-So Alexander had to change the board itself. He needed to disrupt alliances and stir up conflicts so he could take pieces while everyone else was distracted.
+Whoever becomes master of a city accustomed to freedom and does not destroy it can expect to be destroyed by it. When it rebels, it always has the cry of liberty and its ancient privileges to rally around. Neither the passage of time nor any benefits the new ruler grants will ever make it forget them.
 
-He found an opening because Venice, for its own reasons, was willing to invite French power back into Italy. Alexander didn’t resist; he helped make it happen—one move was dissolving the previous marriage of King Louis, clearing political space for a French campaign.
+Whatever you do, and whatever precautions you take, the people never forget the name of liberty or their old privileges. They forget them only if they are divided or scattered. Otherwise they rally to these memories at every opportunity. Pisa did exactly this after the Florentines had held her in subjection for a hundred years.
 
-Once the French king entered Italy and took Milan, the Pope gained soldiers for the next step: the push into Romagna. The region surrendered largely on the king’s reputation—power is contagious, and fear travels fast.
+Cities or countries accustomed to living under a prince behave differently. Suppose the prince's family has been wiped out. On the one hand, the people are used to obeying. On the other hand, they no longer have their old prince. They cannot agree on choosing a new one from among themselves, and they do not know how to govern themselves.
 
-### Why Borgia Stopped Relying on Borrowed Power
+For this reason, such people are very slow to take up arms. A new prince can win them over and secure his hold on them much more easily.
 
-With Romagna taken and the Colonna knocked back, Borgia wanted to hold what he had and expand further. Two threats stopped him:
+Republics are different. They have more vitality, deeper hatred, and a stronger desire for revenge. These feelings never allow the memory of their former liberty to fade. The safest course, therefore, is either to destroy them or to go and live there.
 
-1. His troops might not be loyal—especially those connected to the Orsini.
-2. France’s support might vanish—or worse, turn predatory.
+## CHAPTER VI. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’S OWN ARMS AND ABILITY
 
-He saw the risk with his own eyes. When he attacked Bologna after taking Faenza, the Orsini went along reluctantly, like people who were already deciding how to betray him later. And he learned France’s limits when, after seizing Urbino and moving toward Tuscany, the French king forced him to back off.
+In discussing entirely new principalities, I will cite the very greatest examples of both princes and states. No one should be surprised by this. People almost always walk along paths that others have already worn down, and they act by imitating what others have done. Yet they can never follow those paths exactly, nor can they reach the full power of the people they imitate.
 
-At that point, Borgia made a clear decision: no more dependence on other people’s weapons or other people’s luck.
+A wise man should therefore always follow the paths taken by great men and imitate those who have been the most outstanding. Then, even if his own ability does not equal theirs, it will at least carry some trace of it.
 
-### Step One: Break the Factions
+He should act like skilled archers. When the target seems too far away, they know how far their bow can carry. So they aim well above the target. They do not expect the arrow to reach that height. Instead, aiming high lets them hit the mark they actually want to reach.
 
-He began by weakening the Orsini and Colonna in Rome. He didn’t do it by open war at first. He did it by recruitment and absorption—pulling their gentlemen into his own orbit with:
+I say, then, that in entirely new principalities, where the prince himself is also new, the difficulty of keeping the state depends on how much ability the person who acquired it has. The more ability he has, the less difficulty he faces.
 
-- good pay
-- honors and offices
-- commands matched to status
+Rising from private life to become a prince requires either ability or good fortune. Clearly, either one will ease many difficulties to some degree. Even so, the prince who has relied least on fortune is the most firmly established. Matters also become easier when the prince has no other state and is therefore forced to live in his new one in person.
 
-Within months, loyalty to the old factions dissolved and shifted toward him.
+Now I turn to those who became princes through their own ability rather than through fortune. The finest examples are Moses, Cyrus, Romulus, Theseus, and others like them.
 
-Then he waited for the right moment to crush the Orsini leadership.
+We should not really discuss Moses, since he simply carried out the will of God. Still, he deserves admiration, if only for the grace that made him worthy to speak with God.
 
-That moment came quickly, and he used it.
+But when we consider Cyrus and the others who acquired or founded kingdoms, all of them prove admirable. If we examine their particular deeds and conduct, they will not seem inferior to those of Moses, even though Moses had so great a teacher.
 
-The Orsini finally realized that Borgia’s rise—along with the Church’s expanding reach—would ruin them. They met at Magione, and that meeting triggered rebellion in Urbino and unrest across Romagna. The danger was real and immediate. Borgia survived it with French help, but he didn’t intend to stay exposed like that again.
+When we examine their actions and lives, we cannot see that they owed anything to fortune except opportunity. Opportunity gave them the raw material, which they then shaped into whatever form seemed best to them.
 
-So he switched tactics. Rather than trust the French—or any outsider—he relied on deception, and he executed it with extraordinary control. Through mediation by Paolo Orsini (whom he courted with money, clothing, and horses), he reconciled with the Orsini, projecting friendliness while preparing a trap. Their confidence and simplicity led them straight into his hands at Sinigaglia. He killed the leaders and converted their followers into allies.
+Without that opportunity, their strength of mind would have been wasted. And without that strength of mind, the opportunity would have come to nothing.
 
-At that point he had built a solid base:
+Moses therefore needed to find the people of Israel enslaved and oppressed by the Egyptians in Egypt. Only then would they be willing to follow him in order to escape their bondage.
 
-- all of Romagna
-- the Duchy of Urbino
+Romulus needed to leave Alba and to have been abandoned at birth, so that he could become King of Rome and founder of his nation. Cyrus needed to find the Persians unhappy with the rule of the Medes, and the Medes grown soft and weak through a long peace. Theseus could not have shown his ability if he had not found the Athenians scattered.
 
-And as the population began to feel the benefits of stability, they started to support him—not because they loved him, but because life improved.
+These opportunities, then, made these men fortunate. But it was their great ability that allowed them to recognize those opportunities, and through them their countries became noble and famous.
 
-### Step Two: Fix Romagna’s Governance—and Take the Blame Off Himself
+Those who become princes through courage and ability, as these men did, acquire their principality with difficulty but keep it with ease. Their difficulties in acquiring it come partly from the new rules and methods they are forced to introduce in order to establish their government and make it secure.
 
-When Borgia first occupied Romagna, he found a mess. The local rulers were weak, predatory, and chaotic. They treated the population like something to loot rather than govern. The result was exactly what you’d expect:
+It should be remembered that nothing is harder to undertake, more dangerous to carry out, or less certain to succeed than leading the introduction of a new order of things.
 
-- robbery
-- feuds
-- constant violence
-- social fragmentation
+The reason is this. The innovator makes enemies of everyone who did well under the old conditions. Meanwhile, those who might do well under the new conditions defend him only half-heartedly.
 
-To restore order, he appointed a governor with absolute power: Ramiro d’Orco, a fast, ruthless operator. Ramiro did what ruthless operators do—he crushed disorder quickly and restored unity.
+Their lack of enthusiasm has two causes. Partly they fear their opponents, who have the law on their side. Partly it comes from human disbelief, since people do not readily trust new things until they have long experience of them.
 
-But Borgia understood the next problem: excessive authority makes a man hated, and the hatred often splashes onto whoever appointed him. So Borgia rebalanced the system. He established a court of judgment led by a respected president, with representation for the cities.
+As a result, whenever the innovator's enemies have a chance to attack, they do so with the fervor of committed partisans. His supporters, by contrast, defend him half-heartedly. The prince is then endangered along with them.
 
-Then he staged a piece of political theater with a very specific purpose. Knowing that the earlier severity had created resentment, he wanted the people to see that “the cruelty” hadn’t come from him, but from his minister’s nature. Under that pretext, he executed Ramiro publicly and left the body displayed in the main square of Cesena, with the block and a bloody knife beside it.
+To discuss this question thoroughly, then, we must ask whether these innovators can rely on themselves or must depend on others. Put another way: to complete their enterprise, must they ask for help, or can they use force?
 
-It was horrifying—and it worked. The spectacle both satisfied and terrified the public: the old fear was redirected away from Borgia, and a new fear warned everyone what happens when power is crossed.
+In the first case, they always fare badly and never accomplish anything. But when they can rely on themselves and use force, they are rarely in danger. This is why every armed prophet has conquered, and every unarmed one has been destroyed.
 
-### Step Three: Prepare for a World Without France
+Besides the reasons already given, people's nature is changeable. It is easy to persuade them of something, but hard to keep them persuaded. So it is necessary to arrange matters so that, when they no longer believe, they can be made to believe by force.
 
-Now Borgia had armed himself in his own way and neutralized nearby threats. Next he had to deal with France, because he knew the French king—realizing too late that he’d helped create a dangerous figure—wouldn’t support him forever.
+If Moses, Cyrus, Theseus, and Romulus had been unarmed, they could not have enforced their constitutions for long.
 
-So Borgia began looking for new alliances, playing for time, and negotiating carefully while France moved against Spain in the fight over Naples. His goal was simple: protect himself from being swallowed by either side.
+This is what happened in our own time to Fra Girolamo Savonarola. He was ruined, along with his new order of things, as soon as the multitude stopped believing in him. He had no means of keeping his believers steadfast or of making unbelievers believe.
 
-If Alexander had lived, Borgia likely would have secured himself quickly.
+Men like these therefore face great difficulties in completing their enterprise. All their dangers come during the climb, though with ability they will overcome them.
 
-### Step Four: Plan for the Succession Crisis
+Once those dangers are overcome, and those who envied their success have been destroyed, such men begin to be respected. From then on they remain powerful, secure, honored, and happy.
 
-Borgia also had to think beyond the present. The most obvious future danger was this: a new pope might not be friendly, and might try to strip away what Alexander had given.
+To these great examples I want to add a lesser one. It still bears some resemblance to them, and I want it to stand for all cases of this kind. It is Hiero of Syracuse.
 
-So Borgia prepared four defenses:
+Hiero rose from private life to become Prince of Syracuse. He, too, owed nothing to fortune except opportunity. The Syracusans, being oppressed, chose him as their military commander, and he was later rewarded by being made their prince.
 
-1. Eliminate the families of the lords he had dispossessed, removing a ready-made excuse for retaliation.
-2. Win over the gentlemen of Rome so he could pressure the pope through their influence.
-3. Secure strong support within the college of cardinals.
-4. Accumulate enough power before the pope died that he could absorb the first удар—the first shock—on his own.
+Even as a private citizen, he had such great ability that one writer said of him that he lacked nothing to be a king except a kingdom.
 
-By the time Alexander died, Borgia had completed three of these. He had killed as many dispossessed lords as he could reach (only a few escaped). He had the Roman gentlemen. He had the largest bloc in the college.
+Hiero abolished the old army and organized a new one. He gave up old alliances and made new ones. Because he had soldiers and allies of his own, he had foundations on which he could build any structure he chose. So although he endured great trouble in acquiring his state, he had little trouble keeping it.
 
-For further expansion, he aimed at Tuscany. He already held Perugia and Piombino, and Pisa was under his protection. And because France had been pushed out of Naples by Spain, neither France nor Spain could ignore him; both needed his cooperation.
+## CHAPTER VII. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED EITHER BY THE ARMS OF OTHERS OR BY GOOD FORTUNE
 
-So he moved. He struck at Pisa. Lucca and Siena quickly yielded—partly out of hatred, partly out of fear of Florence. And Florence, had Borgia’s momentum continued, would have struggled to respond. By the year Alexander died, Borgia’s reputation and power had grown so much that he was on the verge of standing entirely on his own—no longer depending on other people’s luck or other people’s armies.
+People who rise from private life to become princes purely through good fortune have little trouble getting to the top, but a great deal of trouble staying there. They meet no difficulties on the way up, because they seem to fly. Their difficulties begin once they reach the summit.
 
-### Why It Still Collapsed
+This group includes those who are given a state, either for money or as a favor from the person who grants it. This happened to many in Greece, in the cities of Ionia and the Hellespont. Darius made men princes there so that they would hold those cities for his own security and glory. The same is true of the emperors who rose from private citizens to the throne by bribing the soldiers.
 
-Alexander died five years after Borgia first took up arms. He left Borgia with Romagna truly consolidated—but everything else still unsettled, suspended between two powerful hostile armies. And Borgia himself was dangerously ill.
+Such rulers rest on nothing but the goodwill and the fortune of whoever raised them up. Those are two of the most changeable and unstable things there are.
 
-Even so, his foundations were strong enough to show their quality. Romagna waited for him for more than a month. In Rome, though barely alive, he remained secure. Even if rival families came to the city, they couldn’t immediately strike him down.
+They also lack the knowledge their position requires. Unless they are men of great worth and ability, we cannot reasonably expect them to know how to command, since they have always lived as private persons. Besides, they cannot hold their position, because they have no forces of their own that they can keep friendly and loyal.
 
-If Borgia had been healthy when his father died, many of the remaining obstacles would have been manageable. In fact, the new pope, Julius II, later told the narrator that Borgia had prepared for every scenario—except one: he never imagined that at the moment of his father’s death, he himself would be close to dying.
+States that rise unexpectedly are like everything else in nature that is born and grows quickly. They cannot set their foundations and connections firmly enough to keep the first storm from overthrowing them.
 
-Looking back on Borgia’s actions, it’s hard to blame him for his strategy. If anything, he’s an example worth studying by anyone who rises to power through the fortune or the arms of others. His goals were expansive, his mind was long-range, and given what he faced, he could hardly have acted differently. Only two things broke his plan: Alexander’s short life and Borgia’s sickness.
+There is one exception, as I have said. Those who suddenly become princes may have so much ability that they know they must prepare at once to hold what fortune has thrown into their laps. They understand that they must lay afterward the foundations that other princes laid before coming to power.
 
-And from his case you can draw a practical checklist for any new ruler who wants to survive:
+I want to illustrate these two ways of becoming a prince, through ability or through fortune, with two examples from our own memory: Francesco Sforza and Cesare Borgia.
 
-- secure yourself in your new state
-- make friends and neutralize enemies
-- overcome obstacles by force or deception
-- win the people’s support—or at least their acceptance
-- earn loyalty from soldiers and keep them disciplined
-- remove those with the power and motive to hurt you
-- replace unreliable troops with new, dependable ones
-- maintain relationships with other rulers so they help you eagerly and hesitate to harm you
+Francesco used the proper means and great ability to rise from private life to become Duke of Milan. What he had gained with a thousand anxieties, he kept with little trouble.
 
-### The One Mistake That Mattered
+Cesare Borgia, whom the people called Duke Valentino, acquired his state while his father's power was rising, and he lost it when that power declined. He lost it even though he had taken every measure and done everything a wise and able man ought to do. He had worked to root himself firmly in the states that the arms and fortune of others had given him.
 
-There is one decision Borgia can be blamed for: he supported the election of Julius II.
+As stated above, someone who has not laid his foundations first may, with great ability, lay them afterward. But the work will be troublesome for the architect and dangerous for the building.
 
-He couldn’t guarantee a pope of his own choosing, but he could have blocked certain candidates. He should never have accepted the rise of any cardinal he had personally injured—or who had reason to fear him—because people don’t forget old wounds just because you offer new favors. When men strike back, they do it out of fear or out of hate.
+If we consider all the steps the duke took, we will see that he laid solid foundations for his future power. I do not think it unnecessary to discuss them, because I know of no better instructions to give a new prince than the example of his actions. If his arrangements failed, that was not his fault. It was the result of fortune's extraordinary and extreme malice.
 
-By backing a pope who had every reason to turn against him, Borgia made a fatal choice. That single error became the cause of his ultimate ruin.
+Alexander the Sixth, wanting to make his son the duke great, faced many difficulties, both immediate and future. First, he could see no way to make him master of any state that did not already belong to the Church. And if he were willing to take territory from the Church, he knew that the Duke of Milan and the Venetians would not allow it, because Faenza and Rimini were already under Venetian protection.
 
-## Chapter 8: Those Who Gain Power Through Wickedness
+He also saw that the armed forces of Italy, especially those that might have helped him, were in the hands of people who would fear any growth in the Pope's power. These were the Orsini and the Colonnesi and their followers. He therefore needed to upset this arrangement and throw the powers into conflict, so that he could safely make himself master of part of their states.
 
-A person can rise from private life to ruling a state in a couple of ways that don’t neatly fit under either **luck** or **ability**. I can’t ignore them—even though they’d make more sense in a longer discussion about republics.
+This was easy, because he found the Venetians, moved by reasons of their own, inclined to bring the French back into Italy. He not only did not oppose this; he made it easier by dissolving King Louis's earlier marriage. So the king came into Italy with the help of the Venetians and the consent of Alexander.
 
-These two routes are:
+The king had no sooner reached Milan than the Pope obtained soldiers from him for the campaign in the Romagna. The Romagna surrendered on the strength of the king's reputation.
 
-- **Taking power through crimes and betrayal**
-- **Being elevated by fellow citizens** (we’ll get to that in the next chapter)
+Having acquired the Romagna and defeated the Colonnesi, the duke wanted to hold that territory and advance further. Two things stood in his way. One was that his forces did not seem loyal to him. The other was the goodwill of France.
 
-Let’s focus on the first path. Two examples—one from antiquity and one from more recent history—are enough to show how it works.
+He feared that the Orsini forces he was using would not stand by him. They might not only prevent him from winning more but might seize what he had already won. He feared the king might do the same.
 
-### Agathocles of Syracuse: From Nobody to Ruler
+He had a warning about the Orsini when, after taking Faenza, he attacked Bologna and saw how reluctantly they went into that attack. He learned the king's mind when, after taking the Duchy of Urbino, he attacked Tuscany, and the king made him give up the undertaking. So the duke decided to depend no longer on the arms and the luck of others.
 
-Agathocles, a Sicilian, became ruler of Syracuse despite starting from a humiliating position. He wasn’t born into status; he was the son of a potter. His reputation was ugly, and he lived in ways most people would call disgraceful. And yet, he had the kind of raw competence—physical toughness, nerve, and strategic intelligence—that can carry someone far in military life.
+His first step was to weaken the Orsini and Colonnesi factions in Rome. He won over all their followers who were gentlemen and made them his own gentlemen. He paid them well and honored them with offices and commands according to their rank. Within a few months their attachment to the factions was destroyed and turned entirely toward the duke.
 
-He rose step by step through the army until he reached the top ranks and became a leading official in Syracuse. Once there, he decided he didn’t want influence. He wanted the whole state.
+After this, having scattered the followers of the Colonna family, he waited for a chance to crush the Orsini. It soon came, and he used it well. The Orsini realized at last that the growing power of the duke and the Church meant their own ruin, and they called a meeting at the Magione in Perugia.
 
-To pull that off, he made a working arrangement with Hamilcar of Carthage, whose forces were fighting in Sicily. Then, one morning, Agathocles summoned the senate and the people as if he needed to discuss routine affairs of government. At a prearranged signal, his soldiers slaughtered the senators and the wealthiest citizens. With the leadership wiped out, he seized control—and, remarkably, the city didn’t explode into immediate civil chaos.
+That meeting led to the rebellion at Urbino and the disturbances in the Romagna, which exposed the duke to endless dangers. He overcame them all with the help of the French.
 
-Carthage fought back hard. Agathocles was defeated twice and eventually trapped under siege. But he managed to hold Syracuse anyway. He left part of his force to defend the city, took the rest across the sea, and attacked Carthage’s own territory in Africa. That move forced Carthage to loosen its grip. In short order, the siege of Syracuse collapsed, and Carthage—desperate—made terms. Agathocles kept Sicily; Carthage settled for holding Africa.
+Having restored his authority, he did not want to leave it at risk by trusting the French or any other outside forces. So he turned to cunning. He knew so well how to hide his intentions that the Orsini were reconciled with him through the mediation of Signor Pagolo.
 
-If you look at his career closely, you’ll find very little that can be credited to luck. No one handed him power out of kindness. He earned position through danger, hardship, and relentless climbing—and then he held what he seized with the same stubborn courage.
+The duke had taken care to secure Pagolo with every kind of attention, giving him money, clothing, and horses. The Orsini's simplicity then delivered them into his hands at Sinigalia.
 
-But here’s the moral problem: none of that makes his actions admirable.
+Having wiped out their leaders and turned their followers into his friends, the duke had laid fairly good foundations for his power. He held all of the Romagna and the Duchy of Urbino. And as the people began to appreciate their new prosperity, he won them all over to himself. Because this point deserves attention and imitation by others, I do not want to leave it out.
 
-It isn’t “talent” to murder your fellow citizens, betray friends, break faith, and throw away mercy and religion. Those methods can win you power, but they don’t earn you honor. Still, if we judge only the *military* side—his boldness in entering danger and his steadiness in escaping it, his endurance under pressure and his capacity to overcome setbacks—it’s hard to deny that he had the qualities of a formidable commander.
+When the duke occupied the Romagna, he found it ruled by weak lords who plundered their subjects rather than governing them. They gave their people more reason for division than for unity, so the country was full of robbery, quarrels, and every kind of violence. Wanting to restore peace and obedience to authority, he judged it necessary to give the region a good governor.
 
-And yet his cruelty and brutality block him from being celebrated among great men. What he achieved doesn’t belong in the category of noble achievement, even if it can’t be dismissed as mere chance.
+He therefore promoted Messer Ramiro d'Orco, a swift and cruel man, and gave him the fullest powers. In a short time this man restored peace and unity with great success.
 
-### Oliverotto da Fermo: A Fast Rise—and a Faster End
+Afterward the duke judged it unwise to grant such excessive authority, since he had no doubt Ramiro would become hated. So he set up a court of justice in the province, under an excellent presiding judge, where every city had its own advocate.
 
-Now for a modern example from the time of Pope Alexander VI.
+He also knew that the earlier severity had caused some hatred against him. He wanted to clear himself in the people's minds and win them over completely. So he set out to show that any cruelty that had occurred had not come from him, but from the harsh nature of his minister.
 
-Oliverotto da Fermo was orphaned young and raised by his maternal uncle, Giovanni Fogliani. As a teenager he was sent to serve under a respected military leader so he could learn the craft of war and make a name for himself. After that commander died, Oliverotto served under his brother and quickly rose to the top of his profession—sharp mind, strong body, and an aggressive drive to stand out.
+On this pretext he seized Ramiro. One morning he had him executed and left on the piazza at Cesena, with the block and a bloody knife beside him. The savagery of this spectacle left the people at once satisfied and terrified.
 
-Soon, serving under others felt too small for him. He decided he wanted Fermo for himself.
+But let us return to where we started. The duke now found himself powerful enough, and partly secure against immediate dangers, because he had armed himself in his own way. He had also largely crushed the nearby forces that could harm him if he wanted to continue his conquests.
 
-He enlisted help from two groups:
+Next he had to consider France. He knew that the king, who had realized his mistake too late, would not support him.
 
-- **Certain citizens of Fermo** who preferred submission to liberty
-- **Powerful military allies** who could supply force when needed
+From then on he began to look for new alliances and to play for time with France during its expedition toward the kingdom of Naples against the Spaniards, who were besieging Gaeta. His intention was to secure himself against the French, and he would soon have done so if Alexander had lived.
 
-Then he set the trap with a letter to his uncle. He wrote that he’d been away for years, wanted to visit home, and wanted to check on his inheritance. He insisted he’d pursued only honor—but also asked to return with a grand entourage: one hundred horsemen, friends and retainers. He urged Giovanni to arrange a public, honorable reception—not only for Oliverotto’s sake, but for Giovanni’s reputation as the man who had raised him.
+That was how he handled the situation at hand. Looking to the future, his first fear was that a new head of the Church might be unfriendly to him and might try to take away what Alexander had given him. So he decided to act in four ways:
 
-Giovanni did exactly that. He welcomed his nephew warmly and hosted him in his own house. After a few days—once Oliverotto had put his plan in place—he held a formal banquet and invited Giovanni and the leading men of Fermo.
+- First, by wiping out the families of the lords he had dispossessed, so that the new Pope could not use them as a pretext.
+- Second, by winning over all the gentlemen of Rome, so that with their help he could keep the Pope in check, as already noted.
+- Third, by bringing the College of Cardinals more over to his side.
+- Fourth, by gaining so much power before the Pope died that he could resist the first blow by his own means.
 
-When the meal ended, Oliverotto steered the conversation toward big political talk: the power of the Pope, the Pope’s son Cesare, and their campaigns. Everyone engaged. Then Oliverotto suddenly said this kind of discussion belonged somewhere more private. He led them into an inner room.
+By the time Alexander died, he had accomplished three of these four. He had killed as many of the dispossessed lords as he could lay hands on, and few had escaped. He had won over the Roman gentlemen. And he had the largest party in the College.
 
-The moment they sat down, soldiers poured out from hiding places and butchered Giovanni and the rest.
+As for new acquisitions, he intended to become master of Tuscany. He already held Perugia and Piombino, and Pisa was under his protection. He no longer had to worry about France, because the Spaniards had already driven the French out of the kingdom of Naples. As a result, both sides were forced to buy his goodwill. So he swooped down on Pisa.
 
-After the killings, Oliverotto rode through the town, rallied force, and pressured the chief magistrate inside the palace. The citizens, terrified, obeyed. A new government was assembled, and Oliverotto made himself its head. He eliminated anyone likely to resist him and quickly rewired the city’s civil and military order to make his control durable.
+After this, Lucca and Siena gave in at once, partly from hatred and partly from fear of the Florentines. The Florentines would have had no remedy if he had continued to prosper as he was prospering in the year Alexander died.
 
-For the year he ruled, he wasn’t just safe inside Fermo—he became threatening to neighboring powers. If he had stayed alert, removing him might have been as difficult as removing Agathocles.
+He had gained so much power and reputation that he would have stood on his own. He would no longer have depended on the luck and forces of others, but only on his own power and ability.
 
-But he made one fatal mistake: he let himself be outplayed by Cesare Borgia. Borgia captured him along with other major figures at Sinigaglia. Within a year of murdering his uncle, Oliverotto was strangled—alongside the same military leader whose courage and wickedness he had relied on.
+But Alexander died five years after the duke first drew his sword. He left him with only the state of the Romagna secured and everything else up in the air. The duke was caught between two very powerful hostile armies, and he himself was mortally ill.
 
-### Why Some Cruel Rulers Stay Secure
+Yet the duke had such boldness and ability, and understood so well how men are won or lost, and had laid such firm foundations in so short a time, that he would have overcome every difficulty if those armies had not been on his back, or if he had been in good health.
 
-People often ask how someone like Agathocles—after endless betrayals and violence—can rule for years, defend against foreign enemies, and avoid being overthrown by his own citizens. After all, many others who used cruelty couldn’t hold power even in peace, let alone in war.
+His foundations were clearly good. The Romagna waited for him for more than a month. In Rome, though only half alive, he remained safe. The Baglioni, the Vitelli, and the Orsini could come to Rome, but they could do nothing against him. If he could not make the man he wanted Pope, he could at least prevent the election of the one he did not want.
 
-The difference is *how* cruelty is used: **well** or **badly**.
+Had he been in good health when Alexander died, everything would have gone differently for him. On the day Julius the Second was elected, he told me that he had thought of everything that might happen at his father's death and had provided a remedy for all of it. The one thing he had never anticipated was that, when the death came, he himself would be on the point of dying.
 
-If we can speak of “well-used” cruelty at all, it means this:
+When I recall all the duke's actions, I do not know how to blame him. Instead, as I have said, it seems that I should hold him up for imitation by everyone who rises to power through the fortune or arms of others.
 
-- It’s done **all at once**, in a single decisive strike
-- It’s done **only as much as necessary for security**
-- It’s **not repeated**, unless later actions can genuinely be turned toward the subjects’ benefit
+He had a lofty spirit and far-reaching aims, and he could not have conducted himself any other way. Only the shortness of Alexander's life and his own illness defeated his plans.
 
-“Badly used” cruelty looks different:
+A new prince may consider it necessary:
 
-- It may start small
-- But it **keeps growing over time** instead of shrinking
+- to secure himself in his new principality;
+- to win friends;
+- to overcome others by force or by fraud;
+- to make himself loved and feared by the people;
+- to be followed and respected by his soldiers.
 
-A ruler who uses the first pattern can sometimes stabilize the regime and soften it later, as Agathocles did. A ruler who uses the second pattern can’t maintain power for long, because the state becomes a machine that must keep hurting people to keep moving.
+He may also consider it necessary:
 
-So if you seize a state, you should take a cold, realistic inventory of the harms you believe you *must* do—and then do them **in one stroke**, so you don’t have to repeat them day after day. When you don’t keep reopening wounds, you give people space to settle down. Then you can win them over with benefits.
+- to wipe out those who have the power or reason to harm him;
+- to replace the old order of things with a new one;
+- to be severe and gracious, magnanimous and generous;
+- to destroy a disloyal army and create a new one;
+- to keep up friendships with kings and princes in such a way that they must help him eagerly and think carefully before offending him.
 
-If you don’t do this—whether from timidity or bad advice—you end up living with the knife in your hand. Your people won’t trust you, and they won’t attach themselves to you, because the injuries keep arriving.
+Whoever considers these things necessary cannot find a more vivid example than the actions of this man.
 
-The principle is simple:
+The duke can be blamed for only one thing: the election of Julius II, in which he made a bad choice. As I have said, even if he could not make a Pope of his own choosing, he could still have prevented anyone else from becoming Pope. He should never have agreed to the election of any cardinal whom he had injured, or who would have reason to fear him once that cardinal became pontiff. Men harm others either out of fear or out of hatred.
 
-- **Injuries should be delivered all at once**, so they’re felt less repeatedly and sting less over time.
-- **Benefits should be handed out gradually**, so their effect lasts.
+Among those he had injured were San Pietro ad Vincula, Colonna, San Giorgio, and Ascanio. All the others, on becoming Pope, would have had reason to fear him, with two exceptions: Rouen and the Spaniards. The Spaniards were bound to him by family ties and obligations. Rouen had power of his own, because he had the kingdom of France behind him.
 
-Above all, a ruler should live among his people in a way that doesn’t force him to abruptly change character when circumstances change. If trouble hits and you suddenly try to become harsh, it’s too late to be effective. If you suddenly try to become gentle, it won’t help either—people will see it as forced, and they won’t feel grateful for it.
+The duke's first priority, therefore, should have been to make a Spaniard Pope. Failing that, he should have agreed to Rouen, and not to San Pietro ad Vincula. Anyone who believes that new favors make great men forget old injuries is mistaken. The duke chose badly, and that choice caused his final ruin.
 
----
+## CHAPTER VIII. CONCERNING THOSE WHO HAVE OBTAINED A PRINCIPALITY BY WICKEDNESS
 
-## Chapter 9: The Civil Principality
+A private citizen may become a prince in two further ways, and neither can be credited entirely to fortune or to ability. I must not pass over them in silence, even though one of them could be treated more fully in a discussion of republics.
 
-Now let’s turn to the other route: when a prominent citizen becomes ruler **not** by obvious crimes or unbearable violence, but because fellow citizens raise him up. This is a **civil principality**.
+In the first, a person rises to power by wicked or criminal means. In the second, a private citizen becomes prince of his country through the favor of his fellow citizens.
 
-You don’t need extraordinary genius or wild good fortune to reach this position. What you need is good political judgment and timing.
+I will illustrate the first method with two examples, one ancient and one modern. I will not go further into the subject, because I believe these two examples are enough for anyone who may be forced to follow them.
 
-### The Two Forces Inside Every City
+Agathocles the Sicilian became King of Syracuse, and he started not merely as a private citizen but from a low and humble position. He was the son of a potter. Through every change in his fortunes, he led a disgraceful life.
 
-In every city you’ll find two groups with opposing desires:
+Yet he combined his crimes with such strength of mind and body that, once he took up a military career, he rose through its ranks to become Praetor of Syracuse, one of the city's chief officials.
 
-- **The people** want to avoid being ruled and squeezed by the powerful.
-- **The nobles** want to rule and squeeze the people.
+Once established in that office, he deliberately decided to make himself prince. He wanted to hold by force, owing nothing to anyone, the power that others had granted him by consent. To this end, he reached an understanding with Amilcar the Carthaginian, who was then fighting in Sicily with his army.
 
-Out of that tension, a city tends to end up in one of three conditions:
+One morning Agathocles assembled the people and the senate of Syracuse, as if he needed to discuss public business with them. At a prearranged signal, his soldiers killed all the senators and the richest citizens. With these men dead, he seized and held power over the city without any civil unrest.
 
-- **A principality** (one person rules)
-- **Self-government**
-- **Chaos**
+The Carthaginians later defeated him twice and finally besieged him. Even so, he not only defended his city but also left part of his army to guard it while he invaded Africa with the rest. In a short time he forced the Carthaginians to lift the siege of Syracuse.
 
-A principality forms when either the people or the nobles get an opening—and use it.
+The Carthaginians, reduced to desperate straits, were forced to make terms with Agathocles. They left Sicily to him and had to be content with holding Africa.
 
-- When nobles can’t withstand popular pressure, they elevate one of their own as prince so they can pursue their ambitions under his protection.
-- When the people can’t resist noble pressure, they elevate someone as prince so he can shield them with his authority.
+Anyone who examines this man's actions and abilities will find little or nothing that can be attributed to fortune. As shown above, he did not rise through anyone's favor. He climbed step by step through the military profession, winning each step through countless difficulties and dangers, and then boldly holding his position through many further risks.
 
-### Why “Chosen by the People” Is Easier Than “Chosen by the Nobles”
+Yet it cannot be called ability to murder one's fellow citizens, betray one's friends, and live without loyalty, mercy, or religion. Such methods may win power, but not glory.
 
-A prince raised by nobles holds power with more difficulty than one raised by the people.
+Still, consider Agathocles' courage in entering and escaping dangers, and his greatness of spirit in enduring and overcoming hardship. Judged on these alone, there is no reason he should rank below the most distinguished commanders.
 
-The noble-backed prince is surrounded by peers—many who see themselves as his equal. That makes them hard to command and harder to manage. They resist being led like subordinates.
+Nevertheless, his savage cruelty, inhumanity, and endless crimes do not allow him to be honored among the most excellent men. What he achieved cannot be attributed either to fortune or to ability.
 
-The people-backed prince, by contrast, typically stands alone at the top. Few around him expect equality, and most are ready to obey.
+In our own time, during the reign of Pope Alexander VI, there was Oliverotto da Fermo. He had been orphaned many years earlier and was raised by his maternal uncle, Giovanni Fogliani.
 
-There’s also a basic asymmetry in what the two groups want.
+While still very young, Oliverotto was sent to fight under Pagolo Vitelli, so that training under such discipline might help him reach a high rank in the military profession.
 
-You can’t satisfy the nobles without harming others, because their aim is domination. But you can satisfy the people much more easily, because their aim is simply *not* to be oppressed.
+After Pagolo died, Oliverotto served under his brother Vitellozzo. He was quick-witted and vigorous in body and mind, and in a very short time he became the leading man in his profession.
 
-And there’s a practical security issue too:
+But serving under others seemed beneath him. So he decided to seize Fermo with the help of the Vitelli family and of certain citizens of Fermo, men who preferred their country's servitude to its liberty.
 
-- A prince can’t truly protect himself against a hostile **people**—they’re too numerous.
-- But he can protect himself against hostile **nobles**—there are fewer of them.
+He wrote to Giovanni Fogliani that, having been away from home for many years, he wanted to visit his uncle and his city and to see something of his inheritance. He said he had worked for nothing except honor.
 
-The worst a hostile people can do is abandon you. Hostile nobles can do that *and* actively move against you. They’re quicker to see which way things are going, and they’re skilled at switching sides early to save themselves and win favors from whoever they think will prevail.
+Even so, he wanted the citizens to see that he had not wasted his time. He therefore wished to arrive in an honorable manner, accompanied by one hundred horsemen, his friends and followers.
 
-Also, you can’t replace “the people.” You must live among them. But you *can* do without the same nobles. You can raise and lower them, grant and revoke status, and reshape who matters from one day to the next.
+He asked Giovanni to arrange for the people of Fermo to receive him with honor. This, he said, would do credit not only to himself but also to Giovanni, who had raised him.
 
-### How to Handle the Nobles
+Giovanni neglected none of the courtesies owed to his nephew. He had the people of Fermo receive him with honor and lodged him in his own house.
 
-You should look at nobles in two broad categories:
+Oliverotto spent several days there making the arrangements his wicked plan required. Then he held a formal banquet and invited Giovanni Fogliani and the leading men of Fermo.
 
-1. **Those who tie their fortunes to yours**  
-   If they aren’t predatory, reward them and keep them close.
+When the meal and the other customary entertainments were over, Oliverotto skillfully turned the conversation to serious matters. He spoke of the greatness of Pope Alexander and his son Cesare, and of their enterprises. Giovanni and the others replied.
 
-2. **Those who refuse to tie themselves to you**  
-   Treat them differently depending on why they hold back:
-   - If they hold back from timidity or lack of courage, they can still be useful—especially if they give good advice. Use them. In good times they reflect well on you; in bad times they’re not a serious threat.
-   - But if they hold back because they’re ambitious and self-protective, that’s a warning sign. They’re thinking about themselves more than you. In hard times, they’ll help bring you down. Treat them like open enemies.
+Oliverotto immediately rose, saying such matters should be discussed somewhere more private, and withdrew to another room. Giovanni and the other citizens followed him. No sooner had they sat down than soldiers came out of hiding places and killed Giovanni and all the rest.
 
-### Keeping the People on Your Side
+After these murders, Oliverotto mounted his horse, rode up and down the town, and besieged the chief magistrate in the palace. The frightened people were forced to obey him and to form a government, with Oliverotto as its prince.
 
-If you become prince through the favor of the people, your main task is simple: keep them friendly. That’s usually easy, because they mainly want you not to mistreat them.
+He killed every discontented person who was able to harm him. He strengthened his position with new civil and military regulations.
 
-If you become prince through the nobles *against* the people, your first priority is to win the people over. The fastest way is to take them under your protection. People bond strongly to someone who does them good when they expected harm. Done right, they can become even more devoted to you than if they had originally raised you.
+As a result, within the single year he held power, he was not only secure in the city of Fermo but had become a threat to all his neighbors.
 
-There are many tactics for winning affection, and the best ones depend on circumstances, so there’s no fixed formula. But the core point doesn’t change: without the people, you have no security when adversity hits.
+Removing him would have been as difficult as removing Agathocles, had he not let himself be outwitted by Cesare Borgia. As described earlier, Borgia captured him at Sinigalia, together with the Orsini and the Vitelli.
 
-### “Building on the People” Isn’t Always “Building on Mud”
+So, one year after committing this parricide, the murder of the uncle who had raised him, Oliverotto was strangled. With him died Vitellozzo, whom he had taken as his master in both courage and wickedness.
 
-Consider Nabis of Sparta, who faced attack from all Greece and from a victorious Roman army—and still managed to defend both his state and his rule. In that situation, it was enough for him to secure himself against a few powerful opponents.
+Some may wonder how Agathocles and men like him, after endless betrayals and cruelties, could live securely in their own countries for a long time and defend themselves against foreign enemies, without ever being conspired against by their own citizens.
 
-This fact matters because people love to quote the proverb: “Whoever builds on the people builds on mud.” That warning can be true when a **private citizen** tries to lean on popular support and imagines the crowd will rescue him from enemies or officials. In that case he’ll often be disappointed.
+After all, many others have never been able to hold power through cruelty even in peaceful times, let alone in the uncertain times of war.
 
-But a prince is not in the same position. If he is established in power, can command, has courage, stays steady under pressure, and keeps the public’s spirit up through his own resolve and energy, he won’t find the people slipping away when he needs them most. In that case, he has built on solid ground.
+I believe the difference lies in whether harsh measures are used badly or well. They may be called well used, if one can speak well of evil, when they are carried out all at once, out of necessity for one's own security.
 
-### The Danger in Sliding from “Civil” to “Absolute”
+Afterward they are not continued, unless they can be turned to the benefit of the subjects.
 
-Civil principalities become especially risky when they transition from shared, law-bound authority to more absolute rule.
+Harsh measures are badly used when they start out few but multiply over time instead of decreasing.
 
-A prince governs either:
+Those who follow the first approach can, with the help of God or of men, make their rule somewhat easier to bear, as Agathocles did. Those who follow the second cannot possibly keep their power.
 
-- **Personally**, or
-- **Through magistrates**
+It follows that a person seizing a state should carefully consider all the injuries he will need to inflict. He should inflict them all at once, so that he does not have to repeat them every day.
 
-Governing through magistrates is weaker and less secure, because it depends on the goodwill of citizens placed into office. In turbulent times, those officials can wreck the regime easily—through quiet maneuvering or open defiance.
+By not keeping people constantly unsettled, he will be able to reassure them and win them over with benefits.
 
-Worse, in moments of unrest the prince can’t suddenly exercise absolute authority, because the people are used to taking orders from magistrates, not from him directly. In confusion and fear, loyalty becomes scarce, and trustworthy supporters are hard to find.
+Anyone who acts otherwise, whether out of timidity or bad advice, must always keep the knife in his hand. He cannot rely on his subjects, and they cannot become attached to him, because they keep suffering fresh and repeated wrongs.
 
-In peaceful times, everyone seems committed: they promise everything, and when death feels far away they talk as if they’d die for you. But when crisis comes and the state truly needs its citizens, the crowd thins fast.
+Injuries should be inflicted all at once, so that, being tasted less, they cause less resentment. Benefits should be given little by little, so that their taste lasts longer.
 
-And because this test can only be run once, it’s especially dangerous.
+Above all, a prince should live among his people in such a way that no unexpected event, whether good or bad, forces him to change course.
 
-So a wise prince should organize things so that, in every kind of circumstance, citizens feel they need the state—and need him. When they do, they remain faithful.
+If the need for change arises in troubled times, it is too late for harsh measures. Mild ones will not help you either, because people will think they were forced out of you, and no one will feel any obligation to you for them.
 
----
+## CHAPTER IX. CONCERNING A CIVIL PRINCIPALITY
 
-## Chapter 10: Measuring the Strength of a Principality
+I now turn to the other case. Here a leading citizen becomes the prince of his country, not through wickedness or intolerable violence, but through the support of his fellow citizens. This may be called a **civil principality**. To gain it, a man does not need exceptional ability or exceptional luck. What he needs is a fortunate kind of shrewdness.
 
-There’s another key question when you evaluate any principality: can the prince, when necessary, **stand on his own**, or does he **always need outside help**?
+I say, then, that such a principality is won either through the support of the people or through the support of the nobles. Every city contains these two distinct parties. The people do not wish to be ruled or oppressed by the nobles, while the nobles wish to rule and oppress the people.
 
-Here’s the dividing line.
+These two opposing desires produce one of three results in a city: a principality, self-government, or anarchy.
 
-A prince can support himself if he can, through ample **men** or **money**, raise an army strong enough to meet any attacker in open battle.
+A principality is created by either the people or the nobles, depending on which side has the opportunity. When the nobles see that they cannot hold out against the people, they begin to build up the reputation of one of their own. They make him prince so that, under his protection, they can freely pursue their ambitions.
 
-A prince needs others if he can’t face an enemy in the field and must survive by hiding behind city walls.
+The people act in the same way. When they find that they cannot resist the nobles, they build up the reputation of one of their own and make him prince, so that his authority will defend them.
 
-We’ve already touched on the first case, and we’ll return to it if it comes up again. For the second case, the practical advice is straightforward: such princes should stockpile supplies and fortify their towns—and they should not try to defend the countryside at all costs.
+A man who gains sovereignty with the help of the nobles has a harder time keeping it than one who gains it with the help of the people. The first finds himself surrounded by many men who consider themselves his equals. Because of this, he can neither command them nor manage them as he would like.
 
-If you fortify your city properly—and you handle your people’s everyday concerns the way I’ve described (and will keep coming back to)—you’re unlikely to be attacked except with extreme caution. People avoid projects where the obstacles are obvious. And when a city is well defended and its ruler isn’t hated, the obstacles are obvious.
+But a man who reaches sovereignty through the people's support stands alone. Around him there are none, or very few, who are not prepared to obey him.
 
-A good example is the free cities of Germany. They control only a small amount of surrounding territory. They obey the emperor when it suits them, and they don’t panic about nearby powers—because taking them by force looks like a miserable, grinding job.
+There is a further difference. A prince cannot satisfy the nobles by fair dealing without injuring others, but he can satisfy the people. The people's aim is more just than that of the nobles. The nobles wish to oppress, while the people wish only not to be oppressed.
 
-Here’s what makes them so hard to crack:
+It must also be added that a prince can never make himself safe against a hostile people, because they are too many. Against the nobles he can make himself safe, because they are few.
 
-- **Serious defenses:** deep ditches, strong walls, and enough artillery to make an assault expensive.  
-- **Stockpiles for endurance:** public stores of food, drink, and ammunition sufficient for a full year.  
-- **A stable civilian economy:** steady work for the population in the industries that keep the city alive, so people stay calm without draining the public treasury.  
-- **A culture of readiness:** regular military exercises, supported by rules and institutions that keep them going.
+The worst a prince can expect from a hostile people is that they will abandon him. From hostile nobles, he must fear not only abandonment but also open revolt. In such matters the nobles are more far-sighted and cunning. They always act in time to save themselves and to win favor from whoever they expect to come out on top.
 
-So a prince with a strong city who hasn’t made himself detestable is rarely attacked. And even if someone tries, the attacker is likely to be driven off in disgrace. The world changes fast; it’s nearly impossible to keep an army in the field for an entire year without something interfering.
+Moreover, a prince must always live with the same people, but he can manage perfectly well without the same nobles. He can make and unmake them every day, giving them authority or taking it away whenever he pleases.
 
-Someone will object: “What if the citizens own property outside the walls and watch it burn? Won’t they lose patience? Won’t a long siege and self-interest make them forget their prince?” A strong, bold ruler can manage that. He alternates tactics: sometimes he gives hope that the suffering won’t last long; other times he highlights the enemy’s cruelty; and he stays alert to anyone inside the city who becomes too reckless or too influential.
+To make this point clearer, I say that the nobles should be judged mainly in two ways. Either they conduct themselves in a way that ties them completely to your fortunes, or they do not. Those who tie themselves to you, and are not greedy, should be honored and loved.
 
-In fact, an invading army usually burns and wrecks the countryside immediately—right when people’s emotions are hottest and their will to defend is strongest. That’s exactly why a prince shouldn’t hesitate at the start. Later, when tempers cool, the damage is already done. There’s no easy fix. And once people have paid that price, they often cling more tightly to their ruler—because he now seems to “owe” them for what they lost while standing by him.
+Those who do not tie themselves to you can be handled in two ways. Some hold back out of timidity and a natural lack of courage. You should make use of these men, especially those who give good advice. You honor them when things go well, and you have nothing to fear from them when things go badly.
 
-That may sound backward, but it’s human nature: people feel bound not only by favors they receive, but also by the sacrifices they’ve made and the benefits they believe they’ve given. So if a prince thinks clearly and keeps supporting and protecting his citizens, he can hold their loyalty from the first day of a crisis to the last.
+But when nobles avoid tying themselves to you for the sake of their own ambitions, this is a sign that they are thinking more about themselves than about you. A prince should guard against such men and fear them as if they were open enemies, because in hard times they always help to ruin him.
 
-## Chapter 11: Ecclesiastical Principalities
+Therefore, a man who becomes prince through the people's support should keep them friendly. He can do this easily, since they ask only that he not oppress them.
 
-Now we come to **ecclesiastical principalities**. All the hard work happens before you get them, because you usually acquire them through personal ability or sheer luck. But once you have them, you can keep them without either. They’re propped up by religious institutions—forces so powerful that these states remain secure regardless of how their rulers behave.
+But a man who becomes prince through the nobles' support, against the will of the people, should above all try to win the people over. He can do this easily if he takes them under his protection.
 
-These rulers are unusual:
+When men receive good treatment from someone they expected to harm them, they become more strongly attached to their benefactor. As a result, the people quickly become more devoted to such a prince than if he had come to power through their own support.
 
-- They **possess states** but don’t have to defend them.  
-- They **have subjects** but don’t really govern them.  
-- Their states can look **unguarded**, yet no one takes them.  
-- Their subjects can look **ungoverned**, yet they don’t rebel or separate.
+A prince can win the people's affection in many ways. But these ways change with circumstances, so no fixed rules can be given, and I leave them aside. I repeat, however, that a prince must have the people on his side. Otherwise he has no security when misfortune comes.
 
-Such principalities are uniquely safe and, in their way, fortunate. And since they’re sustained by powers beyond ordinary human calculation, I won’t say more about their inner foundations. Arguing too boldly about them would be reckless.
+Nabis, Prince of the Spartans, withstood an attack by all of Greece and by a victorious Roman army, and he defended both his country and his government against them. To overcome this danger, he needed only to secure himself against a few. But that would not have been enough if the people had been hostile to him.
 
-Still, someone might ask a practical question: how did the Church become so strong as a temporal power? For a long time—especially before Alexander—the Italian powers treated the pope’s political strength as minor. Yet later even the king of France trembled before it; the Church pushed the French out of Italy and broke Venetian power. The explanation is widely known, but it’s worth reviewing.
+Let no one challenge this claim with the worn-out proverb, "He who builds on the people builds on mud." That saying is true when a private citizen makes the people his foundation and convinces himself that they will rescue him when he is oppressed by his enemies or by the magistrates. In that case he will very often find himself deceived, as happened to the Gracchi in Rome and to Messer Giorgio Scali in Florence.
 
-Before King Charles of France entered Italy, the peninsula was dominated by five powers: the pope, the Venetians, the King of Naples, the Duke of Milan, and the Florentines. They worried about two things above all:
+But consider a prince who has established himself in the way I have described. He can command, and he is a man of courage who does not lose heart in adversity. He does not lack the other necessary qualities, and through his resolution and energy he keeps the whole people encouraged. Such a prince will never find himself deceived by them, and it will be clear that he has laid his foundations well.
 
-- **No foreign army** should enter Italy.  
-- **No Italian power** should swallow up too much territory.
+These principalities are in danger when they are moving from a civil form of government to an absolute one. Such princes rule either in person or through magistrates.
 
-The greatest anxiety centered on the **pope** and the **Venetians**. To restrain Venice, the others had to unite—just as they did when defending Ferrara. To restrain the pope, they relied on the barons of Rome, divided into two rival factions, **Orsini** and **Colonna**. Their constant feuding gave them endless excuses for disorder, and by standing armed under the pope’s nose, they kept the papacy politically weak.
+When they rule through magistrates, their government is weaker and less secure. It depends entirely on the goodwill of the citizens appointed to those offices. Especially in troubled times, these men can easily destroy the government, either by plotting or by open defiance.
 
-Even if a courageous pope appeared—like Sixtus—neither luck nor skill could fully eliminate these headaches. Another built-in weakness was the short lifespan of popes: in roughly a decade, it’s hard to crush even one faction completely. And if one pope nearly destroyed the Colonna, the next might arrive hostile to the Orsini and revive the struggle. This is why the pope’s temporal power was long held in low regard.
+In the middle of such disorder, the prince has no opportunity to take absolute authority. The citizens and subjects are used to receiving orders from the magistrates, so they are not inclined to obey him amid the confusion. And in uncertain times, there will always be a shortage of men he can trust.
 
-Then **Alexander VI** rose—more clearly than any other pontiff demonstrating what a pope can do with **money and arms**. Using the Duke Valentino as his instrument, and taking advantage of the French entry into Italy, he accomplished the very moves I’ve already discussed in the duke’s story. Alexander’s goal wasn’t to enlarge the Church for its own sake; he aimed to build up the duke. Even so, his actions strengthened the Church, which—after his death and the duke’s fall—inherited the results.
+Such a prince cannot rely on what he sees in quiet times, when the citizens need the state. Then everyone agrees with him and everyone makes promises. When death is far away, they all say they would die for him. But in troubled times, when the state needs its citizens, he finds only a few.
 
-After him came **Pope Julius**, who found the Church already strong: it held all of Romagna, the Roman barons were reduced to impotence, and the old factions had been beaten down. Julius also found a clear path to accumulate money on a scale not previously practiced. He didn’t just maintain these advantages; he expanded them. He set out to gain Bologna, crush Venetian power, and drive the French out of Italy—and he succeeded. His success is even more impressive because he worked to strengthen the Church, not to enrich a private individual.
+This test is all the more dangerous because it can be made only once. A wise prince should therefore follow a course that ensures his citizens will always, in every kind of circumstance, need the state and need him. Then he will always find them loyal.
 
-He also kept the Orsini and Colonna within the limits he inherited. Even when they were tempted to stir trouble, he held two levers firmly:
+## CHAPTER X. CONCERNING THE WAY IN WHICH THE STRENGTH OF ALL PRINCIPALITIES OUGHT TO BE MEASURED
 
-- **The sheer power of the Church**, which frightened them into caution.  
-- **A ban on “their own” cardinals**, who would otherwise fuel factional conflict.
+In examining the character of these principalities, we need to consider another point. Does a prince have enough power to stand on his own resources when he needs to? Or does he always depend on help from others?
 
-When these factions have cardinals, they don’t stay quiet for long. Cardinals nourish the rivalries inside Rome and beyond it, and the barons are dragged into the fight. From the ambitions of high clergy come disorder and turmoil among the nobility.
+To make this clear, I will define both cases. I consider a prince able to support himself if he has enough men or money to raise a sufficient army and fight a battle against anyone who comes to attack him. I consider a prince always dependent on others if he cannot meet the enemy in the open field and must instead defend himself by sheltering behind walls.
 
-Because of this, Pope Leo inherited an exceptionally powerful papacy. And if earlier popes made it great through force, one can hope he will make it even more respected through character and other virtues.
+The first case has already been discussed, and we will return to it if the subject comes up again. About the second case, there is nothing to say except to urge such princes to supply and fortify their towns. They should not, under any circumstances, try to defend the surrounding countryside.
 
-## Chapter 12: The Types of Armies—and Mercenaries
+A prince who fortifies his town well, and who has handled his subjects' other concerns in the way described above (and which will often be repeated), will never be attacked without great caution. Men always shy away from undertakings where they can see the difficulties. And attacking someone whose town is well fortified, and who is not hated by his people, will clearly not be easy.
 
-Having described the main types of principalities I set out to discuss—why some are stable and others fail, and how people try to acquire and hold them—I now need to talk about something every state depends on: **how it fights and how it defends itself**.
+The cities of Germany are completely free. They control very little territory around them, and they obey the emperor only when it suits them. They do not fear him or any other power nearby.
 
-We’ve already seen that a ruler must lay solid foundations or he’ll collapse. The core foundations of any state—new or old, simple or mixed—are **good laws** and **good arms**. And because you won’t get good laws without being well armed, where arms are strong, laws tend to be strong too. I’ll set laws aside here and focus on arms.
+Their fortifications explain this. Everyone believes that taking such cities by assault would be slow and difficult. They have proper ditches and walls, and enough artillery. They also always keep enough food, drink, and fuel in public storehouses to last a full year.
 
-A prince’s military forces fall into four categories:
+Beyond this, they have a way to keep the common people quiet without cost to the state. They always have the means to give the people work in the trades that are the life and strength of the city, the occupations that support the population. They also hold military training in high regard and have many regulations to keep it going.
 
-- **His own troops**
-- **Mercenaries**
-- **Auxiliaries** (troops lent by another power)
-- **Mixed forces**
+A prince who has a strong city, and who has not made himself hated, will therefore not be attacked. If anyone does attack him, the attacker will only be driven off in disgrace. Besides, the affairs of this world change so often that it is almost impossible to keep an army in the field for a whole year without something interfering.
 
-**Mercenaries and auxiliaries are both useless and dangerous.** If you rely on them, you won’t be secure. They’re fragmented, ambitious, undisciplined, and unfaithful. They look brave around friends and melt away before enemies. They fear neither God nor human obligation. Your destruction is only delayed until someone attacks—because in peacetime they rob you, and in wartime your enemies do.
+Someone might object: "If the people own property outside the city and watch it burn, they will lose patience. The long siege and their own self-interest will make them forget their prince."
 
-They stay in the field for one reason: a small paycheck. And that’s never enough to make them willing to die for you. They’ll serve as long as there’s no war; when war arrives, they vanish or run.
+I answer that a powerful and courageous prince will overcome all such difficulties. At one moment he will give his subjects hope that the hardship will not last long. At another, he will make them fear the enemy's cruelty. Meanwhile, he will skillfully protect himself against any subjects who seem too bold.
 
-Italy’s ruin came from this single mistake: for years it bet everything on mercenaries. They looked impressive when fighting each other, but when foreign armies appeared, they revealed what they really were. People blamed “sins,” and in a sense they were right—but the real sins were political: princes choosing the wrong foundation, and then paying the price.
+Further, an enemy will naturally burn and ruin the countryside as soon as he arrives, while the people's spirits are still hot and eager for the defense. This is all the more reason for the prince not to hesitate.
 
-There’s another problem. Mercenary captains fall into two types: **competent** or **incompetent**.
+After some time, when spirits have cooled, the damage has already been done. The losses have been suffered, and nothing can undo them. The people are then even more ready to unite with their prince. Because their houses have been burnt and their possessions ruined in his defense, he now seems to be in their debt.
 
-- If they’re **competent**, you can’t trust them. They inevitably chase their own greatness—either by pressuring you, their employer, or by pursuing goals that clash with yours.  
-- If they’re **incompetent**, you’re ruined in the obvious way.
+It is human nature to be bound by the benefits we give as much as by those we receive. So if everything is carefully considered, a wise prince will not find it hard to keep his citizens steadfast from the beginning of a siege to the end, as long as he does not fail to support and defend them.
 
-Someone might say, “But anyone with weapons behaves the same way—mercenary or not.” The difference is structure and control. When a state must depend on arms, then:
+## CHAPTER XI. CONCERNING ECCLESIASTICAL PRINCIPALITIES
 
-- A **prince** should personally take the field and act as captain.  
-- A **republic** should send citizens, recall commanders who fail, and restrain worthy ones with law so they can’t turn their command into private power.
+It now remains only to speak of ecclesiastical principalities, the states ruled by the Church. With these, all the difficulties come before a ruler takes possession. They are acquired either by ability or by good fortune, but they can be held without either one.
 
-Experience shows princes and republics that fight with their own forces can make real progress. Mercenaries mostly bring trouble. It’s harder for a republic armed with its own citizens to be dominated by one of them than it is for a republic armed with foreigners to be captured from within.
+They are sustained by the ancient institutions of religion. These institutions are so powerful, and of such a character, that the principalities can be kept no matter how their princes behave or live.
 
-Think of Rome and Sparta: they stayed armed and free for centuries. The Swiss are armed and free as well.
+These princes alone have states and do not defend them. They have subjects and do not govern them. Yet their states, though unguarded, are not taken from them. Their subjects, though ungoverned, do not mind, and they have neither the wish nor the ability to break away. Only principalities of this kind are secure and happy.
 
-History is full of warnings. Carthage, after its first war with Rome, was nearly crushed by its own mercenary troops—even though Carthaginian citizens served as captains. After Epaminondas died, the Thebans appointed Philip of Macedon to command their forces; after victory, he took their liberty. After Duke Filippo died, Milan hired Francesco Sforza against Venice; after he defeated the Venetians, he allied with them and turned on Milan, his employer. Sforza’s father, hired by Queen Johanna of Naples, abandoned her, leaving her so exposed that she had to lean on the King of Aragon to save her kingdom.
+But they are upheld by powers that the human mind cannot reach, so I shall say no more about them. Since they are raised up and maintained by God, it would be presumptuous and rash of anyone to discuss them.
 
-If someone replies, “But Venice and Florence expanded with mercenaries, and their captains didn’t seize power,” the answer is: Florence was helped by luck and by the particular dynamics among commanders. Some capable captains never won the decisive victory that would have made them dangerous. Others were checked by rivals. Others aimed their ambition elsewhere.
+Nevertheless, someone might ask me how the Church has come to hold such great temporal power, meaning political and worldly power. Before Alexander's time, the Italian powers thought very little of that temporal power. This was true not only of the major rulers, but of every baron and lord, however minor.
 
-But look at the risk. Florence once raised Paolo Vitelli—a highly prudent man—from private status to great renown and gave him command. If he had taken Pisa, Florence would have been trapped: if he joined their enemies, they had no way to resist; if they kept him, they’d have to obey him.
+Yet now a king of France trembles before it. The Church has been able to drive him out of Italy and to ruin the Venetians. Although the explanation may be quite obvious, it does not seem pointless to me to recall some of it here.
 
-As for Venice, it acted boldly and safely when it went to war with its own people—armed nobles and commoners fighting side by side. That was before it began land campaigns. Once it started fighting on land, it abandoned that strength and adopted Italy’s mercenary habit. Early on, with little territory and a huge reputation, Venice had less to fear from commanders. But once it expanded—especially in the time of Carmignola—it learned the danger. Carmignola was extremely capable: under him Venice defeated Milan. Yet his half-hearted conduct in war made Venice fear it would stop winning. Venice couldn’t safely keep him, but also couldn’t safely let him go—so to protect itself, it killed him.
+Before Charles, King of France, invaded Italy, the country was under the control of the Pope, the Venetians, the King of Naples, the Duke of Milan, and the Florentines. These powers had two main concerns. The first was that no foreigner should enter Italy with an army. The second was that none of them should seize more territory.
 
-Later Venice relied on other commanders, under whom it had to fear loss more than hope for gain. Eventually, in a single battle, it lost what it had built up over many centuries. That’s the pattern with mercenary arms: conquests arrive slowly, delayed, and small; losses come suddenly and are devastating.
+The powers that caused the most anxiety were the Pope and the Venetians. Restraining the Venetians required all the others to unite, as they had done to defend Ferrara.
 
-Since these examples lead directly to Italy’s recent history, we need to face the mercenary system head-on—how it rose, how it developed, and how to counter it.
+To keep the Pope down, they made use of the Roman barons. These barons were split into two factions, the Orsini and the Colonna, so they always had an excuse for fighting. Standing armed under the Pope's very eyes, they kept the papacy weak and powerless.
 
-The background matters. In recent times, the authority of the empire was rejected in Italy; the pope gained more temporal power; and Italy fractured into more states. Many great cities took up arms against their nobles—nobles once protected by the emperor, but now oppressive. The Church supported these revolts to build political authority. Elsewhere, citizens turned themselves into princes.
+Sometimes a courageous pope might arise, such as Sixtus, yet neither luck nor wisdom could free him from these troubles. A pope's short reign was another source of weakness. In ten years, the average length of a pope's reign, he could barely manage to bring down one of the factions.
 
-As a result, Italy fell partly into the hands of the Church and partly into republics. But the Church was run by clergy and the republics by civilians—neither trained for war. Both began hiring foreign troops.
+If, so to speak, one pope nearly destroyed the Colonna, another would come along who was hostile to the Orsini. He would support the Colonna, their opponents, yet he would not have time to ruin the Orsini. This was why the pope's temporal power was held in little regard in Italy.
 
-The first figure to give this new military class real prestige was Alberigo da Conio of Romagna. From his “school” emerged commanders like Braccio and Sforza, who became—effectively—the power brokers of Italy. After them came the long parade of captains who directed Italy’s arms. And the final result of all their supposed “valor” was humiliating: Italy was overrun, robbed, ravaged, and treated with contempt.
+Then Alexander the Sixth came to power. Of all the popes there have ever been, he showed most clearly how far a pope could prevail with both money and armed force. Working through Duke Valentino, and taking advantage of the French invasion, he accomplished everything I discussed earlier when describing the duke's actions.
 
-Their guiding strategy was straightforward: **downgrade infantry** so they could **inflate their own importance**. Living on pay with no land of their own, they couldn’t maintain large armies. A small body of foot soldiers didn’t give them political weight. So they emphasized cavalry, and with relatively modest mounted forces they kept their status and their income.
+His aim was to make the duke great, not the Church. Nevertheless, what he did added to the Church's greatness. After his death and the duke's downfall, the Church inherited the fruits of all his labors.
 
-The imbalance became absurd: in an army of twenty thousand, you might not find even two thousand infantry.
+Pope Julius came next and found the Church strong. It held all of the Romagna, the Roman barons had been reduced to impotence, and Alexander's harsh punishments had wiped out their factions. Julius also found the way open to accumulate money by methods that had never been used before Alexander's time.
 
-They also used every trick to reduce danger and fatigue—for themselves and their men. They avoided killing in battle, preferring to take prisoners and release them without ransom. They avoided night attacks on towns, and garrisons avoided night raids on camps. They didn’t fortify camps with palisades or ditches. They avoided winter campaigning.
+Julius not only continued these practices but improved on them. He set out to gain Bologna, to ruin the Venetians, and to drive the French out of Italy. All of these undertakings succeeded. This was all the more to his credit because he did everything to strengthen the Church rather than any private person.
 
-All of this was baked into their “rules of war,” designed to dodge hardship and risk—and in doing so, they brought Italy to slavery and contempt.
+He also kept the Orsini and Colonna factions within the limits in which he found them. Some among them were inclined to stir up trouble, but he held two things firmly in place. The first was the greatness of the Church, which frightened them. The second was that he did not allow them to have cardinals of their own, since such cardinals caused the disorders among them.
 
-The French marched the length of Italy almost unopposed. As Pope Alexander liked to joke, they showed up carrying chalk to mark which houses they’d sleep in, not swords to fight.
+Whenever these factions have their own cardinals, they do not stay quiet for long. The cardinals foster factions both inside Rome and outside it, and the barons are forced to back them. In this way, the ambitions of churchmen give rise to disorder and unrest among the barons.
 
-## Chapter 13 — Auxiliaries, Mixed Troops, and Your Own
+For these reasons, his Holiness Pope Leo found the papacy extremely powerful. Others made it great by force of arms. It is to be hoped that he will make it still greater and more revered through his goodness and his countless other virtues.
 
-Let’s talk about **auxiliaries**—the other kind of “useless” military help. You use auxiliaries when you call in a foreign ruler and ask for *their* troops to “help” you defend your territory. Pope Julius II did this in recent memory: after being disappointed by his mercenaries in the campaign against Ferrara, he struck a deal with Ferdinand, King of Spain, to send men and weapons.
+## CHAPTER XII. HOW MANY KINDS OF SOLDIERY THERE ARE, AND CONCERNING MERCENARIES
 
-Here’s the catch: auxiliary troops can be excellent soldiers. That’s not the problem. The problem is what they do to **you**.
+I have now discussed in detail the characteristics of the kinds of principalities I proposed to examine at the beginning. I have considered to some extent the reasons they are good or bad, and I have shown the methods many people have used to acquire and hold them.
 
-- If they lose, you’re finished—because your defense just collapsed.
-- If they win, you’re still in trouble—because now you’re in their hands.
+What remains is to discuss, in general terms, the means of attack and defense available to each of them.
 
-With auxiliaries, disaster is built in. They arrive already unified, and they take orders from someone else. You don’t truly command them.
+We have seen above how necessary it is for a prince to lay his foundations well; otherwise he will inevitably be ruined. The chief foundations of all states, whether new, old, or composite, are good laws and good arms. There cannot be good laws where the state is not well armed, and where it is well armed, good laws follow. I will therefore leave laws aside and speak about arms.
 
-Julius II is the clearest warning. Wanting Ferrara, he handed the whole project to a foreign power. He escaped the consequences only because luck threw in a third event: his auxiliaries were beaten at Ravenna, then the Swiss unexpectedly rose up and drove out the conquerors. So Julius didn’t end up captive—neither to enemies (who fled) nor to his auxiliaries (because the final success came through forces other than theirs).
+I say, then, that the forces a prince uses to defend his state are either his own, or else mercenaries, auxiliaries, or a mixture of these. Mercenaries and auxiliaries are useless and dangerous. A prince who bases his state on them will be neither secure nor safe.
 
-History offers plenty of similar lessons:
+Such troops are disunited, ambitious, undisciplined, and disloyal. They are bold among friends and cowardly in front of enemies. They neither fear God nor keep faith with men. Your ruin is postponed only as long as an attack is postponed: in peacetime they rob you, and in wartime the enemy does.
 
-- The Florentines, lacking troops of their own, sent for ten thousand French soldiers to seize Pisa—and they put themselves in more danger than at almost any other moment in their crisis.
-- The Emperor of Constantinople, trying to check his neighbors, brought ten thousand Turks into Greece. When the war ended, the Turks refused to leave. That invitation became the opening act of Greece’s servitude to “infidels.”
+The reason is that nothing keeps them in the field except a small wage, and that is not enough to make them willing to die for you. They are happy to be your soldiers as long as you are not at war. When war comes, they either desert or run from the enemy.
 
-So if you **don’t** want to conquer, then yes—use auxiliaries, because they are even more hazardous than mercenaries. With mercenaries, harm takes longer to ripen. Mercenaries aren’t automatically unified, you hire and pay them yourself, and the leader you appoint can’t instantly gain enough authority to crush you in one stroke. But auxiliaries? Their unity and obedience to someone else means your ruin can arrive all at once.
+I could prove this without much trouble. The ruin of Italy has been caused by nothing other than her reliance on mercenaries for many years. They once made some show and seemed brave among themselves, but when foreign armies arrived, they revealed what they really were.
 
-The difference comes down to this:
-- With **mercenaries**, the biggest danger is their cowardice.
-- With **auxiliaries**, the biggest danger is their competence.
+That is how Charles, King of France, was able to take Italy "with chalk in hand," with no more effort than chalking the doors of the houses where his troops would be lodged. The man who told us that our sins were the cause spoke the truth. But they were not the sins he imagined; they were the ones I have described. And because they were the sins of princes, the princes have also paid the penalty.
 
-A wise ruler avoids both and relies on **his own forces**. He’d rather lose with troops he commands than win with troops that belong to someone else—because a victory borrowed from another power is not a “real” victory.
+I want to show further how unfortunate these forces are. Mercenary captains are either capable men or they are not. If they are capable, you cannot trust them, because they always seek their own greatness. They do this either by oppressing you, their employer, or by oppressing others against your wishes. If the captain is not skilled, you are ruined in the ordinary way.
 
-Cesare Borgia is the cleanest illustration. He entered Romagna using auxiliaries—French soldiers—and with them he took Imola and Forlì. But he decided those forces weren’t reliable enough, so he shifted to mercenaries, judging them the lesser risk. He hired the Orsini and Vitelli. Then he tested them, found them uncertain and dangerous, destroyed them, and finally built up his **own** troops.
+Someone might object that anyone with weapons will behave the same way, whether a mercenary or not. I reply that when a prince or a republic must go to war, the prince should go in person and act as captain himself.
 
-Watch what happened to his reputation through each phase:
-- With French forces, he looked dependent.
-- With Orsini and Vitelli, he looked exposed.
-- With his own soldiers, he looked like a true master—because his strength rested on loyalty he could count on.
+A republic must send its own citizens. If the man it sends proves unsatisfactory, it should recall him. If he proves worthy, it should restrain him by its laws so that he stays within the bounds of his command.
 
-I don’t want to stay only with recent Italian examples. Consider Hiero of Syracuse. After being made head of the army, he quickly realized that mercenaries—structured like our Italian condottieri—were useless. And because he couldn’t safely keep them *or* safely dismiss them, he had them massacred and then fought with his own forces rather than with outsiders.
+Experience shows that princes and republics relying on their own forces make the greatest progress, while mercenaries do nothing but harm. It is also harder for one of its own citizens to seize control of a republic armed with its own forces than of one armed with foreign forces. Rome and Sparta remained armed and free for many centuries. The Swiss are thoroughly armed and entirely free.
 
-Even Scripture makes the same point. When David offered to fight Goliath, Saul tried to outfit him with Saul’s own armor. David put it on, immediately took it off, and said he couldn’t use it; he would meet the enemy with his sling and knife. That’s what borrowed arms do: they either slip off your back, weigh you down, or tie you up.
+Among ancient mercenaries, the Carthaginians offer an example. After their first war with the Romans, they were oppressed by their mercenary soldiers, even though their captains were Carthaginian citizens. After the death of Epaminondas, the Thebans made Philip of Macedon captain of their soldiers, and after his victory he took away their liberty.
 
-France provides a larger, state-level example. Charles VII—father of Louis XI—freed France from the English through good fortune and courage, and then recognized the core necessity: a kingdom must have its **own** military strength. He created ordinances organizing men-at-arms and infantry.
+When Duke Filippo died, the Milanese hired Francesco Sforza to fight the Venetians. After defeating the enemy at Caravaggio, he allied himself with them to crush the Milanese, his own employers.
 
-Louis XI later made a fateful mistake: he abolished the infantry and began hiring Swiss troops. That single choice, followed by others like it, planted a long-term danger. By boosting the Swiss reputation, he hollowed out confidence in France’s own arms. French men-at-arms grew accustomed to fighting beside Swiss soldiers and eventually seemed unable to win without them. The result was predictable:
+His father, Sforza, had been hired by Queen Johanna of Naples, but he abandoned her and left her defenseless. She was forced to throw herself into the arms of the King of Aragon to save her kingdom.
 
-- The French struggled against the Swiss.
-- And without the Swiss, they struggled against everyone else.
+It may be objected that the Venetians and Florentines once expanded their territory with these forces, and yet their captains did not make themselves princes but defended them instead. I reply that the Florentines were simply favored by luck. Of the able captains they might have feared, some did not win victories, some faced opposition, and others turned their ambitions elsewhere.
 
-Their armies became **mixed**—part national, part mercenary. That’s better than relying on mercenaries alone, and better than relying on auxiliaries alone, but it’s still far inferior to relying on your own troops. France would be nearly unconquerable if Charles’s ordinances had been expanded or even just preserved.
+One who did not win was Giovanni Acuto. Since he never won, his loyalty cannot be proved. But everyone will admit that if he had won, the Florentines would have been at his mercy.
 
-The deeper lesson is about human judgment. When something looks attractive at first glance, we often can’t see the poison hidden inside it—like a fever that seems mild until it has already taken hold. Most rulers don’t recognize an evil until it’s already on them. And only a few are granted the kind of insight that spots danger early.
+Sforza always had the Bracceschi against him, so the two kept watch on each other. Francesco turned his ambition toward Lombardy, and Braccio turned his against the Church and the kingdom of Naples.
 
-Look at Rome. If you study the Roman Empire’s first major slide, you’ll find it began when Rome started enlisting the Goths. From that point, Rome’s vigor declined, and the valor that built the empire slowly migrated to others.
+But let us turn to something that happened only a short while ago. The Florentines appointed Pagolo Vitelli as their captain. He was a very prudent man who had risen from private life to the greatest renown.
 
-So the conclusion is blunt: no principality is secure without its **own forces**. Without them, it lives on luck—because it lacks the internal strength that can hold when adversity arrives. Wise people have always judged that nothing is more unstable than fame or power not grounded in one’s own strength.
+If he had taken Pisa, no one can deny that the Florentines would have had to stay on good terms with him. If he became the soldier of their enemies, they would have had no means of resisting him. If they kept him, they would have had to obey him.
 
-When I say “one’s own forces,” I mean troops drawn from:
-- subjects,
-- citizens,
-- or dependents.
+If we consider the Venetians' achievements, we see that they acted safely and gloriously as long as they fought their wars with their own men. Then, with armed nobles and common people, they fought bravely. That was before they turned to conquests on land. Once they began fighting on land, they abandoned this strength and followed the custom of Italy.
 
-Everything else is **mercenaries** or **auxiliaries**. And how to prepare your own forces will be clear if you reflect on the rules I’ve laid out—and if you study how Philip (Alexander the Great’s father), along with many republics and princes, armed and organized themselves. To those examples, I refer you.
+At the start of their expansion on land, they had little to fear from their captains, because they held little territory and had a great reputation. But as they expanded, under Carmignuola, they had a taste of this mistake.
 
-## Chapter 14 — What a Prince Must Know About War
+They had found him a very brave man, since under his leadership they defeated the Duke of Milan. On the other hand, they saw how half-hearted he was in the war. They feared they would win no more victories under him, yet they were neither willing nor able to let him go. So, to avoid losing what they had acquired, they were forced to secure themselves by murdering him.
 
-A ruler should have one central focus: **war**—its rules, its discipline, and the habits that make it possible to fight well. It’s the one “art” that truly belongs to someone who governs. It doesn’t just protect princes who inherit power; it’s also what lets ordinary people climb into power. And the reverse is just as common: when princes care more about comfort than arms, they lose their states.
+Afterward their captains were men like Bartolomeo da Bergamo, Roberto da San Severino, the Count of Pitigliano, and others of that kind. Under them, the Venetians had to fear losses rather than hope for gains. This is what later happened at Vaila, where in a single battle they lost what they had gained with so much effort over eight hundred years.
 
-Neglecting military skill is the first step toward losing what you have. Mastering it is a major route to gaining what you want. Francesco Sforza became Duke of Milan through his military ability; his sons, avoiding the hardship of arms, fell from dukes back into private life.
+With such forces, conquests come slowly, late, and in small measure, while losses come suddenly and on an astonishing scale.
 
-Being unarmed brings many harms, but one stands out: it makes you **despised**. And a prince must protect himself against contempt. There’s no stable relationship between armed and unarmed people. It isn’t reasonable to expect armed men to obey an unarmed leader willingly, or for an unarmed leader to feel secure among armed servants. One side feels disdain; the other feels suspicion. That combination doesn’t cooperate well.
+These examples have brought me to Italy, which has been ruled by mercenaries for many years. I want to discuss them more seriously, so that once their origin and development have been seen, people may be better prepared to counter them.
 
-So if a prince doesn’t understand war:
-- his soldiers won’t respect him,
-- and he can’t truly rely on them.
+You must understand that in recent times the Empire's authority came to be rejected in Italy, the Pope gained more temporal power, and Italy was divided into more states.
 
-He should never let war leave his thoughts. In peacetime, he should practice it even more than in wartime. There are two routes: **action** and **study**.
+This happened because many of the great cities took up arms against their nobles. These nobles had formerly enjoyed the emperor's favor and had been oppressing the cities. The Church supported the cities in order to gain authority in temporal affairs. In many other cities, citizens made themselves princes.
 
-**By action**, he should keep his troops organized and drilled, and he should constantly train his body for hardship. Machiavelli’s favored method here is hunting—not for sport, but for what it teaches. It forces a ruler to move through real terrain and learn:
-- how mountains rise,
-- how valleys open,
-- how plains spread,
-- and how rivers and marshes behave.
+As a result, Italy fell partly into the hands of the Church and partly into the hands of republics. The Church consisted of priests, and the republics of citizens unaccustomed to arms. So both began to hire foreigners.
 
-That knowledge pays off twice. First, he learns his own country and can defend it better. Second, by understanding one landscape deeply, he can read other landscapes faster, because many features repeat across regions. Without this skill, a captain lacks something essential. Terrain knowledge helps you surprise enemies, choose camp locations, move armies, set battle lines, and conduct sieges effectively.
+The first to bring fame to this kind of soldiering was Alberigo da Conio, from Romagna. From his school came, among others, Braccio and Sforza, who in their day were the arbiters of Italy.
 
-Philopoemen, Prince of the Achaeans, was praised for this habit: in peacetime he thought about war constantly. Walking through the countryside with friends, he would stop and pose practical scenarios—enemy on that hill, our army here—who has the advantage? How do we advance while keeping formation? If we retreat, what’s the method? If they retreat, how do we pursue? He’d listen to others, argue his own view, and back it with reasons. Because he rehearsed possibilities endlessly, war rarely surprised him with a situation he couldn’t handle.
+After them came all the other captains who have directed Italy's armies up to the present. The outcome of all their valor is that Italy has been overrun by Charles, plundered by Louis, ravaged by Ferdinand, and insulted by the Swiss.
 
-**By study**, a prince should read histories and examine what great commanders did—how they conducted wars, why they won, and why they lost. The point isn’t admiration; it’s pattern recognition: avoid the causes of defeat, copy the causes of victory.
+Their first guiding principle was to lower the standing of infantry in order to raise their own. They lived on their pay and had no territory, so they could not support many soldiers, and a small infantry force gave them no authority. They therefore turned to cavalry, since a moderate number of horsemen was enough to keep them both supported and honored.
 
-Better still, choose a great figure as a deliberate model, keep that person’s deeds in mind, and measure yourself against them. Tradition says Alexander the Great imitated Achilles; Caesar imitated Alexander; Scipio imitated Cyrus. If you read Xenophon’s *Life of Cyrus*, and then look at Scipio’s life, you can see the imitation in action: Scipio’s chastity, warmth, humanity, and generosity align with the virtues Xenophon attributes to Cyrus.
+Matters reached the point where, in an army of twenty thousand soldiers, fewer than two thousand were foot soldiers.
 
-A wise prince follows this kind of discipline. He doesn’t waste peacetime. He builds strength through steady effort so that when fortune turns—and it will—he’s ready to take the blow and stay standing.
+Beyond this, they used every device to spare themselves and their soldiers fatigue and danger. They did not kill in battle; instead they took prisoners and released them without ransom.
 
-## Chapter 15 — Why Princes Get Praised or Blamed
+They did not attack towns at night, and town garrisons did not attack their camps at night. They did not surround their camps with stockades or ditches, and they did not campaign in winter.
 
-Now we have to ask: what rules should guide a prince’s behavior toward his subjects and friends?
+Their military rules permitted all these things, which they devised, as I have said, to avoid both fatigue and danger. In this way they have brought Italy to slavery and contempt.
 
-Many writers have addressed this, and I know I’ll look presumptuous for doing it again—especially because I won’t follow their methods. But my goal is usefulness, not decoration. That means I’m going to chase the **truth of how things actually work**, not the fantasy of how we wish they worked.
+## CHAPTER XIII. CONCERNING AUXILIARIES, MIXED SOLDIERY, AND ONE’S OWN
 
-Plenty of people have imagined republics and principalities that never existed outside the mind. The distance between how people live and how they *ought* to live is enormous. And if a ruler ignores what people do in favor of what people “should” do, he invites ruin. A man determined to act virtuously in every situation will get destroyed in a world full of those who don’t.
+Auxiliaries are the other kind of useless force. They are what you get when you call in a powerful ruler to come with his army to help and defend you.
 
-So a prince who wants to keep his state must learn how to do wrong—and to use that capacity or not, depending on necessity. Setting aside imaginary ideals, let’s talk about real reputations.
+Pope Julius did this very recently. In his campaign against Ferrara, his mercenaries performed badly, so he turned to auxiliaries. He made an agreement with Ferdinand, King of Spain, to assist him with men and weapons.
 
-When people discuss men—and especially princes, because their rank puts them under a brighter spotlight—they quickly label them by qualities that earn praise or blame. One is called generous, another stingy; one is seen as giving, another as grasping; one cruel, another compassionate; one breaks faith, another keeps it; one is cowardly, another brave; one approachable, another arrogant; one lustful, another chaste; one sincere, another cunning; one hard, another easygoing; one serious, another frivolous; one religious, another skeptical—and so on.
+Such forces may be capable and effective in themselves. But for the ruler who calls them in, they are always a disadvantage. If they lose, he is ruined. If they win, he becomes their prisoner.
 
-Everyone will admit it would be best for a prince to possess all the “good” qualities. But human life doesn’t allow perfect consistency. You can’t fully have them all, and you can’t always practice them. So a prince must be prudent enough to do two things:
+Ancient histories are full of examples of this. Still, I do not want to pass over this recent case of Pope Julius the Second, because its danger is impossible to miss. To gain Ferrara, he placed himself entirely in the hands of a foreign power.
 
-1. Avoid the vices that would cost him his state.
-2. And, if possible, avoid the vices that merely stain his reputation—but don’t be paralyzed if avoiding them isn’t possible.
+His good luck, however, produced a third outcome, so he did not suffer the consequences of his rash choice. His auxiliaries were defeated at Ravenna. Then the Swiss rose up and drove out the victors, against everyone’s expectations, including his own.
 
-He shouldn’t torment himself over blame for actions without which the state can’t be saved. If you look closely, you’ll find that some things that look like virtue can lead straight to ruin if pursued rigidly, while some things that look like vice can, in practice, produce security and prosperity.
+As a result, he did not become the prisoner of his enemies, because they had fled. Nor did he become the prisoner of his auxiliaries, because the victory had been won by forces other than theirs.
 
-## Chapter 16 — On Generosity and Stinginess
+The Florentines, having no army of their own, brought in ten thousand French soldiers to capture Pisa. In doing so, they put themselves in greater danger than at any other point in their troubles.
 
-Start with **generosity**. It’s good to be thought generous.
+The Emperor of Constantinople, wanting to resist his neighbors, brought ten thousand Turks into Greece. When the war was over, the Turks refused to leave. This was the beginning of Greece’s subjection to the infidels.
 
-But there’s a trap: generosity that doesn’t *earn you the reputation* of generosity hurts you, because it spends your resources without buying you the political benefit people assume generosity brings. If you give in a truly “proper” and honest way, it may not even be noticed—so you still get accused of stinginess.
+So a ruler who has no wish to win should use auxiliaries. They are far more dangerous than mercenaries, because with them your ruin is already prepared. Auxiliaries are a single, united body, and they all obey someone else.
 
-That’s why anyone who wants to maintain the public name of “generous” feels pressured to avoid nothing that looks magnificent. A prince inclined that way will burn through his wealth on grand gestures, and sooner or later—if he insists on keeping the label—he’ll be forced to squeeze his people with taxes and burdens, doing whatever he can to raise money.
+Mercenaries are different. Even after they have won, they need more time and a better opportunity to harm you. They are not one unified body. You recruited them and you pay them. And if you appoint an outsider as their commander, he cannot immediately gain enough authority over them to turn them against you.
 
-### Spending Money: Why “Generosity” Can Backfire
+In short, with mercenaries the greatest danger is their cowardice. With auxiliaries it is their courage.
 
-Here’s the trap: if a ruler tries to look generous by constantly handing out money, he has to fund that image somehow. And the easiest source is usually his own people.
+For this reason, the wise prince has always avoided these forces and relied on his own. He has preferred to lose with his own troops rather than win with someone else’s, because he does not consider a victory won with others’ forces to be a real victory.
 
-Over time, that “generosity” produces a predictable chain reaction:
+I will never hesitate to cite Cesare Borgia and what he did. The duke entered the Romagna with auxiliaries, bringing only French soldiers, and with them he captured Imola and Forlì.
 
-- He spends heavily to impress.
-- His finances thin out.
-- He starts squeezing his subjects—through taxes, fees, confiscations, or other pressure—to keep spending.
-- People feel used, not cared for.
-- He ends up **hated for taking** and **disrespected for being broke**.
+Later, he judged these forces unreliable and turned to mercenaries, seeing less danger in them. He hired the Orsini and the Vitelli. Once he had worked with them, however, he found them unreliable, disloyal, and dangerous, so he destroyed them and turned to his own men.
 
-At that point, the first real crisis—an invasion, a revolt, a bad harvest, a budget shock—hits harder than it should. He’s offended many, truly helped only a few, and now he has less money and less goodwill than he thought.
+The difference between these kinds of forces becomes clear when you compare the duke’s reputation at each stage. Consider his standing when he had the French, then when he had the Orsini and Vitelli, and finally when he relied on his own soldiers.
 
-So if a prince is thinking clearly, he shouldn’t panic about being called “cheap.” In fact, being seen as **careful with money** is often safer than chasing a reputation for generosity.
+He could always count on their loyalty, and he found that it kept growing. He was never more respected than when everyone could see that he was in complete command of his own forces.
 
-Why? Because a ruler who lives within his means can:
+I did not intend to go beyond recent Italian examples. But I do not want to leave out Hiero of Syracuse, since he is one of the men I mentioned earlier.
 
-- keep revenue steady without draining the public,
-- defend himself without begging or extorting,
-- fund big projects without turning the population against him.
+As I said before, the Syracusans made him commander of their army. He soon realized that a mercenary force, organized like our Italian condottieri, was useless. He felt he could neither keep them nor dismiss them, so he had them all cut to pieces. After that, he made war with his own forces rather than with foreign troops.
 
-In other words, he can be “generous” in the only way that scales: by not taking from people unnecessarily. That kind of generosity reaches everyone. Meanwhile, he’ll disappoint only the smaller group who hoped to receive gifts.
+I also want to recall an example from the Old Testament that applies here. David offered to fight Goliath, the Philistine champion, on Saul’s behalf. To give him courage, Saul armed him with his own weapons and armor.
 
-Look around, Machiavelli says: the leaders who actually accomplished lasting things were often labeled “stingy.” The ones who tried to buy admiration tended to collapse.
+As soon as David had them on, he rejected them. He said he could not use them and that he wanted to face the enemy with his sling and his knife.
 
-He points to examples:
+In short, other people’s arms either fall off your back, weigh you down, or tie you up.
 
-- **Pope Julius II** benefited from a reputation for liberality when he was climbing. But once in power, he didn’t keep spending to maintain the image. He went to war repeatedly, yet avoided extraordinary taxes because earlier thrift left him reserves.
-- **The King of Spain** (in Machiavelli’s time) could attempt and win major campaigns precisely because he wasn’t known as a free spender. If people expected lavish giveaways, the funding would have broken him.
+Charles the Seventh, the father of King Louis the Eleventh, freed France from the English through good fortune and ability. He recognized that he needed forces of his own, so he issued regulations in his kingdom establishing men-at-arms and infantry.
 
-So the practical rule is simple: if a prince can avoid robbing his subjects, can defend the state, and doesn’t let himself become poor and contemptible, then he should treat the label “miserly” as a minor insult. It’s one of those “vices” that can actually make stable government possible.
+Later his son, King Louis, abolished the infantry and began hiring Swiss soldiers. This mistake, followed by others, has become a source of danger to that kingdom, as we can now see.
 
-### “But Caesar Won by Generosity…”
+By raising the reputation of the Swiss, Louis completely undermined the value of his own forces. He destroyed the infantry entirely. He also made his men-at-arms dependent on others. They have grown so used to fighting alongside the Swiss that they no longer seem able to win without them.
 
-Someone might object: didn’t Julius Caesar rise by spending freely? Didn’t other leaders reach the top by being famously generous?
+As a result, the French cannot stand up to the Swiss, and without the Swiss they do not do well against anyone else.
 
-Machiavelli’s answer: it depends on where you are in the power cycle.
+The French armies have therefore become mixed: partly mercenary and partly national. These two kinds of forces together are much better than mercenaries alone or auxiliaries alone, but much worse than one’s own forces.
 
-- If you’re **already ruling**, flashy generosity is dangerous.
-- If you’re **trying to become** the ruler, it can be useful—because reputations help you climb.
+This example proves the point. The kingdom of France would be unconquerable if Charles’s system had been expanded or even maintained.
 
-Caesar was aiming to become dominant in Rome. Spending helped him get there. But if he’d lived long enough to rule securely and kept spending at that rate, he would’ve hollowed out his own government.
+But human wisdom is limited. When people undertake something that looks good at first, they cannot see the poison hidden inside it. I made the same point earlier about wasting fevers.
 
-Another objection: plenty of princes have led armies and achieved great things while being considered extremely generous.
+So a ruler of a principality who cannot recognize dangers until they are already upon him is not truly wise. Few people are given this kind of foresight.
 
-Again, Machiavelli splits the situation in two: **whose money are you spending?**
+If we examine the first disaster to strike the Roman Empire, we will find that it began only when the Romans started enlisting the Goths. From that time, the strength of the Roman Empire began to decline, and all the courage that had made it great passed to others.
 
-1. If you’re spending **your own money** or **your subjects’ money**, you should be careful.
-2. If you’re spending **someone else’s money**, be generous all you want.
+I conclude, therefore, that no principality is secure without its own forces. Without them, it depends entirely on luck, because it lacks the strength that would defend it in hard times.
 
-A commander marching with an army, living off plunder, forced contributions, and whatever he can seize from others is, in a sense, spending other people’s resources. In that situation, “generosity” is practically required—because soldiers follow leaders who reward them.
+Wise people have always held that nothing is as uncertain or unstable as fame or power that does not rest on its own strength.
 
-And there’s a cynical bonus: giving away what isn’t yours can boost your reputation without costing you the thing that matters—your own base of support. Cyrus, Caesar, and Alexander could look magnificent because the bill was paid by conquered people. The kind of generosity that ruins you is the kind funded by your own treasury.
+One’s own forces are those made up of subjects, citizens, or dependents. All other forces are mercenaries or auxiliaries.
 
-Finally, Machiavelli puts a hard point on it: **nothing burns through power faster than constant giving**. The more you give, the more you need to give, and the less able you are to keep it up. Then you’re pushed into one of two ugly outcomes:
+It will be easy to find the way to organize one’s own forces if one reflects on the rules I have set out. One should also consider how Philip, the father of Alexander the Great, and many republics and princes armed and organized themselves. I place my full confidence in those rules.
 
-- you become poor and therefore despised, or
-- you start taking aggressively to avoid poverty, and become hated.
+## CHAPTER XIV. THAT WHICH CONCERNS A PRINCE ON THE SUBJECT OF THE ART OF WAR
 
-And since a prince’s top priority is to avoid being **despised** and **hated**, chasing a reputation for generosity is a high-risk strategy. Better to accept the criticism of being “tight” (which people grumble about) than to be driven into predation (which people remember and resent).
+A prince should have no other aim or thought, and should take up no other subject of study, than war and its rules and discipline. This is the only art that properly belongs to a ruler. Its power is so great that it not only keeps those who are born princes in their position, but often lets men rise from private life to that rank.
 
----
+On the other hand, experience shows that princes who have thought more about comfort than about arms have lost their states. Neglecting this art is the first cause of losing a state, and mastering it is what allows you to acquire one.
 
-### Cruelty and Mercy: The Point Isn’t “Nice,” It’s “Stable”
+Francesco Sforza, because he was a soldier, rose from private citizen to Duke of Milan. His sons, because they avoided the hardships and burdens of military life, fell from dukes to private citizens.
 
-A prince should want to be seen as merciful, not cruel. But he also has to be careful with mercy—because mercy used badly can create a larger, messier cruelty later.
+Being unarmed brings many evils, and one of them is that it makes you despised. This is one of the disgraces a prince must guard against, as I will show later.
 
-Machiavelli’s example is **Cesare Borgia**. People called him cruel, but his harsh measures brought a turbulent region under control, unified it, and restored order. In practical terms, that “cruelty” produced peace and loyalty.
+There is no equality between the armed and the unarmed. It is unreasonable to expect an armed man to obey an unarmed one willingly, or for an unarmed man to be safe among armed servants. The armed man feels contempt, and the unarmed man feels suspicion, so the two cannot work well together.
 
-And that leads to the uncomfortable claim: a ruler who uses a **small number of decisive punishments** can be more truly merciful than a ruler who avoids punishment entirely and allows disorder to spread. When chaos takes over, you don’t just get a few targeted victims—you get murders, robberies, vendettas, and whole communities living in fear. That harms everyone. A prince’s punishments hit individuals; unchecked disorder hits the public.
+For this reason, a prince who does not understand the art of war suffers, beyond the misfortunes already mentioned, a further one: his soldiers cannot respect him, and he cannot rely on them.
 
-New rulers, especially, can’t avoid being accused of cruelty. New states are fragile and full of danger. Still, a prince shouldn’t be jumpy or impulsive. He should move carefully: slow to believe rumors, steady in action, calm in tone, and guided by prudence and basic humanity. Too much trust makes him reckless; too much suspicion makes him unbearable.
+He should therefore never let the subject of war leave his thoughts. In peacetime he should devote himself to its practice even more than in war. He can do this in two ways: through action and through study.
 
-### Loved or Feared?
+In terms of action, he should above all keep his troops well organized and drilled. He should also hunt constantly. Hunting hardens his body to physical strain and teaches him about the land. He learns how mountains rise, how valleys open out, and how plains lie, and he comes to understand the nature of rivers and marshes. He should study all this with the greatest care.
 
-So which is better: to be loved or feared?
+This knowledge is useful in two ways. First, he learns his own country and is better able to defend it.
 
-Ideally, both. In reality, you usually have to choose—and Machiavelli says it’s **safer to be feared** than loved.
+Second, once he knows and has observed that one region, he can easily understand any other he may later need to study. The hills, valleys, plains, rivers, and marshes of Tuscany, for example, resemble those of other countries. So by knowing the features of one country, a person can readily come to know others.
 
-His reasoning is blunt: people often behave well while things are going smoothly, but many are unreliable under pressure. When danger feels distant, they’ll promise anything—money, effort, even their lives. When danger is close, many vanish or flip.
+A prince who lacks this skill lacks the most essential quality a commander can have. It teaches him how to surprise the enemy, choose where to encamp, lead armies, draw up troops for battle, and besiege towns to his advantage.
 
-If a prince builds his security on affection alone, he’s betting his survival on other people’s moods. That’s a bad bet.
+Philopoemen, Prince of the Achaeans, has received many kinds of praise from writers. Among them, he is commended because in peacetime he thought of nothing but the rules of war.
 
-Love depends on a feeling of obligation—and when self-interest shows up, that obligation breaks easily. Fear depends on the expectation of punishment, and that expectation doesn’t get tired, distracted, or tempted.
+When he was out in the countryside with friends, he would often stop and reason with them: "If the enemy were on that hill, and we found ourselves here with our army, which side would have the advantage? How could we best advance to meet him while keeping our ranks in order? If we wanted to retreat, how should we pursue?"
 
-But fear has a boundary: a prince should aim to be feared **without being hated**. That’s achievable if he follows two core rules:
+As they walked, he would lay out for them every situation that could happen to an army. He listened to their opinions and gave his own, backing it up with reasons.
 
-- Don’t touch people’s property.
-- Don’t touch their families—especially their women.
+Through these constant discussions, he ensured that in wartime no unexpected situation could ever arise that he did not know how to handle.
 
-When a prince must take someone’s life, he should do it with clear public justification and an obvious cause. But above all, he should keep his hands off other people’s assets. People will often forgive—or at least move on from—many things faster than they forgive the loss of what they consider their inheritance.
+To exercise his mind, the prince should read history and study the actions of great men there. He should see how they conducted themselves in war and examine the causes of their victories and defeats, so that he can avoid the defeats and imitate the victories.
 
-And once a ruler starts living by confiscation, he’ll always find excuses to keep doing it. Taking property is easy to rationalize and hard to stop. Taking lives is harder to justify and tends to create larger, more immediate consequences.
+Above all, he should do what great men have done before him: take as a model someone who was praised and famous earlier, and keep that person's achievements and deeds always in mind.
 
-There’s one major exception: the prince with an army in the field. A commander controlling large numbers of soldiers may need a reputation for harshness to keep discipline. Without it, the army fractures.
+It is said that Alexander the Great imitated Achilles, Caesar imitated Alexander, and Scipio imitated Cyrus. Anyone who reads the life of Cyrus written by Xenophon will afterward recognize in the life of Scipio how much his glory came from that imitation. In self-restraint, approachability, kindness, and generosity, Scipio shaped himself according to what Xenophon had written about Cyrus.
 
-Machiavelli points to **Hannibal**: he led a massive, diverse army in foreign territory, and it didn’t splinter—whether he was winning or losing. Why? Because his severe discipline, paired with his courage, made him both respected and terrifying. Without that severity, bravery alone wouldn’t have held the army together.
+A wise prince should follow rules like these. He should never sit idle in peaceful times, but should diligently build up his resources so that he can draw on them in adversity. Then, if fortune turns against him, she will find him ready to withstand her blows.
 
-He contrasts this with **Scipio**, an exceptional leader whose troops rebelled in Spain. The cause wasn’t incompetence—it was excessive leniency, which gave soldiers more freedom than discipline can tolerate. Even when Scipio’s officials harmed allies, he didn’t correct them sharply, and that “easygoing” reputation became a liability. Under the Senate’s oversight, this weakness was contained and even polished into glory—but left unchecked, it would eventually have damaged him.
+## CHAPTER XV. CONCERNING THINGS FOR WHICH MEN, AND ESPECIALLY PRINCES, ARE PRAISED OR BLAMED
 
-So Machiavelli’s conclusion stays the same: since people love based on their own choice but fear based on the prince’s decisions, a wise prince should anchor his safety in what he can control. He should build fear carefully and, above all, avoid hatred.
+It remains now to consider how a prince ought to conduct himself toward his subjects and his friends. I know that many have already written on this subject, so I expect to be thought presumptuous for raising it again. I may seem even more presumptuous because, in discussing it, I will depart from the methods others have used.
 
----
+My intention, however, is to write something useful to anyone who understands it. For that purpose, it seems more fitting to pursue the real truth of the matter than an imagined version of it. Many writers have pictured republics and principalities that no one has ever actually seen or known to exist.
 
-### Keeping Faith: Why Power Can’t Run on Promises Alone
+The gap between how people actually live and how they ought to live is very wide. Anyone who neglects what is done in favor of what ought to be done will bring about his ruin sooner than his preservation. Among so many who are evil, a man who wants to live entirely up to his professions of virtue will soon meet with something that destroys him.
 
-Everyone agrees it’s admirable for a ruler to keep his word and live with integrity rather than trickery. But Machiavelli says the track record of successful rulers tells a different story: the ones who achieved big results often treated promises as flexible tools, not sacred restraints.
+Hence a prince who wishes to hold on to his position must know how to do wrong, and must use that knowledge or refrain from using it as necessity requires.
 
-He argues there are two ways to compete:
+So I will set aside imaginary notions about princes and discuss real ones. People speak of all men in terms of qualities that bring them either blame or praise. Princes stand out for these qualities most of all, because they are more highly placed.
 
-- by **law** (the human way),
-- by **force** (the animal way).
+Thus one man is reputed liberal, another miserly. I use "miserly" here in its Tuscan sense. In our language, an avaricious person is still one who wants to acquire things by robbery, while we call someone miserly who denies himself too much of the use of what is his own.
 
-Law is better when it works. But it often doesn’t. So a prince must know how to use both—the human and the beast.
+Similarly, one man is reputed generous, another rapacious; one cruel, another compassionate; one faithless, another faithful; one effeminate and cowardly, another bold and brave; one affable, another haughty; one lascivious, another chaste; one sincere, another cunning; one hard, another easygoing; one grave, another frivolous; one religious, another unbelieving; and so on.
 
-Ancient writers, he says, hinted at this with myths: heroes trained by beings that were half human, half animal. The point wasn’t biology. It was training in dual strategy.
+I know everyone will admit that it would be most praiseworthy for a prince to display all of these qualities that are considered good. But human conditions do not allow anyone to possess them all completely, or to practice them all consistently.
 
-If a prince must act like a beast, Machiavelli recommends two animals:
+A prince must therefore be prudent enough to avoid the disgrace of those vices that would cost him his state. He should also guard himself, if possible, against the vices that would not cost him his state. If that is not possible, he may give way to them with less hesitation.
 
-- the **fox**, to recognize traps,
-- the **lion**, to scare off wolves.
+Further, he need not trouble himself about incurring disgrace for those vices without which the state can be saved only with difficulty. If everything is carefully considered, some things that look like virtue will be found to ruin him if he follows them. Other things that look like vice will bring him security and prosperity if he follows them.
 
-A lion is strong but can’t spot snares. A fox sees snares but can’t fight wolves. The effective ruler combines both.
+## CHAPTER XVI. CONCERNING LIBERALITY AND MEANNESS
 
-From there, Machiavelli pushes the controversial claim: a wise ruler can’t—and sometimes shouldn’t—keep faith when keeping it will harm him, or when the original reasons for the promise no longer apply. If people were good, this advice wouldn’t be necessary. But since many people won’t keep faith with you when it costs them, you shouldn’t treat yourself as uniquely bound when the deal becomes one-sided.
+I begin, then, with the first of the qualities named above. It would be good to be known as generous. Yet generosity practiced in a way that does not earn you that reputation actually harms you.
 
-He adds that rulers never lack “respectable” excuses for breaking promises, and history is full of treaties that dissolved the moment it was convenient.
+If you are generous honestly and in the proper way, your generosity may go unnoticed. You will then still be accused of the opposite fault.
 
-Still, deception has to be done intelligently. The prince must be able to **mask** the move. He must be a convincing actor—because people are often simple, focused on immediate needs, and eager to believe what helps them in the moment. A deceiver will almost always find someone ready to be deceived.
+Anyone who wants to keep a reputation for generosity among people must therefore spare no form of lavish display. A prince inclined this way will use up all his wealth on such displays. In the end, if he wants to keep his name for generosity, he will be forced to place heavy burdens on his people. He will tax them and do everything he can to raise money.
 
-He offers an example from his own era: **Pope Alexander VI**, who constantly promised, swore, and reassured—and then did what benefited him. His deceptions worked, Machiavelli says, because he understood human psychology: people want certainty, and they prefer comforting stories to uncomfortable truth.
+This will soon make his subjects hate him. And once he becomes poor, no one will think much of him.
 
-### The Reality: You Don’t Need Every Virtue—You Need the Appearance
+So his generosity has offended many people and rewarded only a few. As a result, the first difficulty that comes along shakes him, and the first danger puts him at risk. When he recognizes this and tries to pull back, he immediately earns the charge of being stingy.
 
-Machiavelli then draws a sharp line between **being** and **seeming**.
+A prince cannot practice the virtue of generosity in a way that people recognize without paying for it. If he is wise, then, he should not fear a reputation for stinginess.
 
-A prince doesn’t need to possess every celebrated virtue in full. But he absolutely needs to *look* like he does.
+Over time he will be held in higher regard than if he were generous. People will see that, because of his thrift, his income is sufficient. He can defend himself against any attack, and he can undertake ambitious projects without burdening his people.
 
-In fact, always practicing the virtues can be harmful, because ruling sometimes requires actions that contradict them. Appearing virtuous is often useful; being rigidly virtuous can be dangerous.
+The result is that he is generous toward everyone he does not take from, and they are countless. He is stingy only toward those he does not give to, and they are few.
 
-So a prince should aim to appear:
+In our own time, we have seen great things accomplished only by those considered stingy. The others have failed.
 
-- merciful,
-- faithful,
-- humane,
-- upright,
-- religious.
+Pope Julius II used a reputation for generosity to help him win the papacy. Afterward, when he went to war against the King of France, he made no effort to keep that reputation up. He fought many wars without imposing any special tax on his subjects, because he paid the extra costs out of savings built up through long thrift.
 
-He can even be those things—until necessity forces a change. The crucial skill is flexibility: a mind prepared to shift with circumstances, staying with the good when possible, but knowing how to move against it when survival requires.
+The present King of Spain would not have undertaken so many campaigns, or won them, if he had been known as generous.
 
-That’s especially true for a **new prince**, who inherits instability and threats. Maintaining the state may force him to act against promises, friendship, compassion, or religious scruples.
+So a prince should care little about being called stingy, provided that he does not have to rob his subjects, that he can defend himself, that he does not become poor and despised, and that he is not forced to become greedy. Stinginess is one of those vices that allow him to govern.
 
-Even so, Machiavelli warns: the prince should never *sound* like anything other than virtue. His public words should be saturated with those five qualities. Because most people judge leaders the way they judge products: by the packaging, not the internal engineering.
+Someone might object that Caesar won supreme power through generosity, and that many others have reached the highest positions by being generous and being seen that way. I answer that either you are already a prince, or you are on the way to becoming one.
 
-Almost everyone can see what you project. Very few can touch the reality. And the few who know better often won’t challenge the majority, because the state’s authority shields the ruler and isolates dissenters.
+In the first case, generosity is dangerous. In the second, it is very necessary to be seen as generous.
 
-In politics, outcomes dominate moral accounting. When a prince succeeds—when he conquers and holds power—most people will call the methods “necessary” and praise the result. The crowd is captivated by what something looks like and what it produces. The few who see through the performance matter less when the many feel secure.
+Caesar was one of those who wanted to become the leading man in Rome. But if he had lived on after achieving that, and had not cut back his spending, he would have destroyed his own rule.
 
-Machiavelli even notes a contemporary ruler—he won’t name him—who endlessly preaches peace and good faith while privately opposing both. And Machiavelli’s implication is chillingly practical: if that ruler had actually lived by his preaching, he would have lost power more than once.
+Someone might reply that many princes have achieved great things with armies while being considered very generous. I answer that a prince spends either his own wealth and his subjects' wealth, or else the wealth of others.
 
----
+In the first case, he should be sparing. In the second, he should not miss any chance to be generous.
 
-### Avoid Being Despised and Hated: The One Rule That Keeps Coming Back
+A prince who goes out with his army and supports it through plunder, looting, and extortion is handling what belongs to others. For him, this generosity is necessary. Without it, his soldiers would not follow him.
 
-Bringing these traits together, Machiavelli says the prince should focus on one overarching goal: avoid the behaviors that make people **hate** you or **look down** on you. If you achieve that, you can survive a lot of criticism.
+With what belongs neither to you nor to your subjects, you can be a free giver, as Cyrus, Caesar, and Alexander were. Squandering other people's wealth does not damage your reputation. It adds to it. Only squandering your own wealth harms you.
 
-And the fastest way to become hated is the one he keeps repeating: **be rapacious**—especially by violating people’s property and their families. Those are the lines a prince must not cross.
+Nothing uses itself up as quickly as generosity. Even as you practice it, you lose the means to continue. You then become either poor and despised, or, in trying to avoid poverty, greedy and hated.
 
-**When People Feel Safe, They Stay Calm**
+Above all else, a prince must guard against being despised and hated, and generosity leads you to both.
 
-Most people are perfectly fine living under a ruler as long as two things stay intact: their **property** and their **sense of dignity**. If you don’t mess with those, the majority will stay content, and your real problem shrinks to a small circle of ambitious rivals—people you can usually rein in without too much trouble.
+It is therefore wiser to have a reputation for stinginess, which brings criticism without hatred, than to seek a reputation for generosity and be forced into a name for greed, which brings criticism together with hatred.
 
-That said, a ruler can still destroy his own position by projecting the wrong image. Nothing makes a prince look weaker than being seen as:
+## CHAPTER XVII. CONCERNING CRUELTY AND CLEMENCY, AND WHETHER IT IS BETTER TO BE LOVED THAN FEARED
 
-- **fickle** (changing his mind constantly)
-- **frivolous** (treating serious matters lightly)
-- **effeminate** (in the sense of seeming soft or easily pushed around)
-- **small-minded** or **mean-spirited**
-- **indecisive**
+Turning now to the other qualities listed earlier, I say that every prince should want to be considered merciful rather than cruel. Even so, he must be careful not to misuse his mercy.
 
-A prince should avoid those traits like a ship avoids rocks. Instead, he should make his public actions communicate **scale and steadiness**—**greatness, courage, seriousness, and strength**. And in everyday dealings with his subjects, he should give off one unmistakable message: **his judgments stand**. If people believe you can be talked out of decisions, manipulated, or “worked,” they’ll try. If they believe you can’t, they won’t.
+Cesare Borgia was considered cruel. Yet his cruelty brought order to the Romagna, unified it, and restored it to peace and loyalty. Looked at properly, he will be seen to have been far more merciful than the people of Florence. To avoid a reputation for cruelty, they allowed Pistoia to be destroyed.
 
-That reputation matters for one big reason: a prince who is **highly esteemed** is hard to conspire against. If everyone knows he’s capable and the people genuinely respect him, attackers face a steep climb.
+A prince, then, should not mind being called cruel, so long as he keeps his subjects united and loyal. By making a few examples, he will prove more merciful than rulers who, through too much mercy, allow disorder to take hold.
 
----
+Disorder leads to murder and robbery, and these usually harm the whole people. The executions a prince orders, by contrast, affect only the individuals concerned.
 
-**Two Kinds of Danger: Inside and Outside**
+Of all princes, the new prince cannot escape a reputation for cruelty, because new states are full of dangers. For this reason Virgil has Dido excuse the harshness of her rule on the grounds that her kingdom is new. She says:
 
-A prince has two sources of fear:
+> “Res dura, et regni novitas me talia cogunt  
+> Moliri, et late fines custode tueri.”
 
-1. **From within**: his own subjects  
-2. **From without**: foreign powers
+That is:
 
-Against foreign threats, the formula is straightforward: be **well armed** and have **strong allies**. If you’re well armed, you tend to attract good partners; and when things are calm abroad, things usually stay calm at home—unless a conspiracy is already in motion.
+> “Harsh necessity and the newness of my kingdom force me  
+> To do such things, and to guard my borders far and wide.”
 
-Even when trouble erupts outside the borders, a prince who prepared early and lived with the steadiness described above can hold the line, so long as he doesn’t panic. Think of it like a siege: if you stocked supplies and built strong walls before the attack, you can outlast the storm.
+Still, a new prince should be slow to believe what he hears and slow to act. He should not show fear himself. Instead, he should proceed in a measured way, with prudence and humanity. Too much confidence would make him careless, and too much distrust would make him unbearable.
 
----
+This raises a question: is it better to be loved than feared, or feared than loved? One might answer that a prince should want to be both. But since it is hard to combine the two in one person, it is much safer to be feared than loved, if one of them must be given up.
 
-**Why Popular Support Is the Best Anti-Conspiracy System**
+The reason is that one can say this of people in general: they are ungrateful, fickle, deceitful, cowardly, and greedy. As long as you succeed, they are entirely yours. As I said earlier, they will offer you their blood, their property, their lives, and their children, so long as the need is far away. But when the need draws near, they turn against you.
 
-When foreign affairs are chaotic, the prince’s main internal risk is **secret plotting**. But there’s a reliable way to reduce that risk: **don’t become hated or despised**, and keep the people broadly satisfied.
+A prince who relies entirely on their promises, and neglects other precautions, is ruined. Friendships bought with payment, rather than won through greatness and nobility of mind, may be earned, but they are not secured. When the time of need comes, they cannot be counted on.
 
-Here’s why this works. A conspirator usually tells himself, “If I remove the prince, the public will thank me.” But if the prince is liked, the plot flips: removing him would **anger** the people. And when a would-be assassin imagines that the outcome is not applause but outrage, he hesitates—because the odds are terrible.
+People also hesitate less to offend someone they love than someone they fear. Love is held in place by a bond of obligation. Because people are base, they break that bond whenever it serves their interest. Fear, however, holds them through dread of punishment, and that never fails.
 
-Conspiracies fail so often for practical reasons, not just moral ones:
+Even so, a prince should make himself feared in such a way that, if he does not win love, he at least avoids hatred. He can very well be feared without being hated. This will always be the case as long as he leaves alone the property of his citizens and subjects, and their women.
 
-- A conspirator can’t safely act alone.
-- If he recruits a partner, it’s almost always someone he believes is unhappy with the regime.
-- But the moment you confide in a “malcontent,” you hand them leverage: they can gain far more by **betraying you** than by risking everything with you.
+When he must take someone's life, he should do so only with proper justification and for an obvious reason. Above all, he must keep his hands off other people's property, because people forget the death of their father sooner than the loss of their inheritance.
 
-If turning you in comes with certain rewards—and the plot comes with uncertainty, danger, and punishment—then only an unusually loyal friend, or an exceptionally stubborn enemy of the prince, will keep faith with you.
+Besides, excuses for seizing property are never lacking. A ruler who has once begun to live by plunder will always find reasons to take what belongs to others. Reasons for taking life, on the other hand, are harder to find and run out sooner.
 
-In short, the conspirator’s side is stacked with **fear, jealousy, and the expectation of punishment**. The prince’s side has the **weight of office**, the **law**, the **state’s defenders**, and the protection of allies. Add **public goodwill**, and conspiring becomes an act of pure recklessness. And there’s an extra twist: most criminals fear getting caught before the act; in this case they also have to fear what comes after, because the people—if they loved the prince—become their enemy, and escape routes vanish.
+When a prince is with his army, however, and commands a large body of soldiers, he must not worry at all about being called cruel. Without that reputation, he would never keep his army united or ready to do its duty.
 
----
+Among the remarkable achievements of Hannibal, this one is counted: he led an enormous army, made up of many different peoples, to fight in foreign lands. Yet no quarrels ever broke out, either among the soldiers or against their commander, whether his fortunes were good or bad.
 
-**A Concrete Example: Bologna’s Backlash**
+This came from nothing other than his inhuman cruelty. Together with his boundless courage, it made him both revered and terrifying in his soldiers' eyes. Without that cruelty, his other virtues would not have been enough to produce this result. Short-sighted writers admire his achievements from one angle, yet from another they condemn the main cause of them.
 
-One example is enough. In Bologna, a prince named Annibale Bentivoglio was murdered by a family who plotted against him. Afterward, the city didn’t reward the conspirators. It erupted—and the people killed them all.
+That his other virtues alone would not have been enough can be shown by the case of Scipio. He was a most excellent man, not only in his own time but in all recorded memory. Even so, his army rebelled against him in Spain.
 
-That reaction didn’t happen by accident. It came from the deep goodwill Bologna felt toward the Bentivoglio household at the time. In fact, the loyalty ran so strong that even when no obvious Bentivoglio remained who could govern, the Bolognese sought out a surviving family member in Florence—someone who had previously been treated as insignificant—and brought him back to rule the city until the rightful heir was old enough to govern.
+This happened for no other reason than his excessive leniency, which gave his soldiers more freedom than military discipline allows. For this, Fabius Maximus rebuked him in the Senate and called him the corrupter of the Roman army.
 
-The lesson is blunt: if the people esteem you, conspiracies are a manageable nuisance. If the people hate you, you should fear everything and everyone.
+Again, one of Scipio's officers laid waste to the people of Locri. Yet Scipio did not avenge them, nor did he punish the officer's arrogance, and this was entirely because of his easygoing nature.
 
----
+His nature was so well known that a senator, trying to excuse him, said there were many men who knew much better how to avoid mistakes themselves than how to correct the mistakes of others.
 
-**What Smart States Do: Keep Nobles Stable, Keep People Content**
+Had Scipio remained in independent command, this trait would eventually have destroyed his fame and glory. But because he served under the authority of the Senate, this harmful quality was not only hidden but even added to his glory.
 
-Well-run states and wise princes take great care not to push the **nobility** into desperation and to keep the **public** satisfied. That balance isn’t cosmetic. It’s one of the most important goals a ruler can pursue.
+Returning to the question of whether it is better to be feared or loved, I conclude as follows. People love according to their own will, but they fear according to the will of the prince. A wise prince should therefore build on what is under his own control, not on what is under the control of others. He must only take care to avoid hatred, as I have noted.
 
-Consider France, one of the best-governed kingdoms of the time. It has institutions that support the king’s freedom of action and the kingdom’s stability. A key one is the **parliament** and its authority. The founders understood two realities at once:
+## CHAPTER XVIII. CONCERNING THE WAY IN WHICH PRINCES SHOULD KEEP FAITH
 
-- The nobles are ambitious and bold; they need a “bit in the mouth”—a restraint.
-- The people tend to distrust the nobles and fear their power; they need protection.
+Everyone agrees how praiseworthy it is for a prince to keep his word and to live with integrity rather than with cunning. Still, our experience shows that the princes who have done great things have cared little about keeping faith. They have known how to outwit people through cunning, and in the end they have overcome those who relied on their word.
 
-But the founder didn’t want the king personally blamed for constantly siding with one group against the other. So an **arbiter** was set up—an authority that could restrain the great and protect the lesser without dragging the king into daily resentment. It’s hard to design something more prudent, or more stabilizing, for both king and country.
+You must understand that there are two ways of fighting: one by law, the other by force. The first is proper to human beings, the second to beasts. But because the first is often not enough, one must turn to the second. A prince must therefore understand how to make use of both the beast and the man.
 
-From this you can draw another principle: princes should push **unpopular, blameworthy actions** onto others, and keep **acts of grace** in their own hands. And a prince should value the nobles—just not in a way that makes the people hate him.
+Ancient writers taught this lesson to princes figuratively. They describe how Achilles and many other princes of old were given to the Centaur Chiron to be raised and trained under his discipline. This means only that, because their teacher was half beast and half man, a prince must know how to use both natures. One without the other does not last.
 
----
+Since a prince is compelled to act deliberately like a beast, he should choose the fox and the lion. The lion cannot defend himself against traps, and the fox cannot defend himself against wolves. A prince must therefore be a fox to recognize traps and a lion to frighten off wolves. Those who rely only on the lion do not understand what they are doing.
 
-**A Major Objection: “What About the Roman Emperors?”**
+For this reason a wise ruler cannot keep his word, and should not, when keeping it would work against him and when the reasons that led him to give it no longer exist. If people were entirely good, this rule would not hold. But because they are bad and will not keep faith with you, you are not bound to keep faith with them either.
 
-Someone might object: “But look at the Roman emperors. Some lived honorably, showed real greatness, and still lost their thrones or were murdered by conspiracies.”
+A prince will never lack legitimate reasons to excuse breaking his word. Endless modern examples could be given, showing how many treaties and promises have been made void and worthless by the faithlessness of princes. The one who has known best how to play the fox has succeeded best.
 
-To answer that, it’s enough to examine the emperors from **Marcus Aurelius** down to **Maximinus**: Marcus and his son Commodus, Pertinax, Julian, Severus and his son Antoninus Caracalla, Macrinus, Heliogabalus, Alexander, and Maximinus.
+But one must know how to disguise this quality well, and be a great pretender and dissembler. People are so simple, and so ruled by their immediate needs, that anyone who sets out to deceive will always find someone who will let himself be deceived.
 
-The Roman emperors faced a problem many other princes don’t face in the same way. In most states, you mainly manage two forces:
+I cannot pass over one recent example in silence. Alexander the Sixth did nothing but deceive people, and never thought of doing anything else, yet he always found victims. No man was ever more forceful in his assurances, or swore greater oaths to affirm something, while keeping his word less. Even so, his deceptions always succeeded as he wished, because he understood this side of human nature well.
 
-- **the ambition of the nobles**
-- **the mood of the people**
+It is therefore unnecessary for a prince to have all the good qualities I have listed, but it is very necessary for him to appear to have them. I will even dare to say this: to have them and always practice them is harmful, while to appear to have them is useful.
 
-Rome added a third—and it was often decisive: **the cruelty and greed of the soldiers**.
+He should appear merciful, faithful, humane, religious, and upright, and actually be so. But his mind should be shaped in such a way that, if he needs not to be these things, he is able to change to the opposite and knows how to do it.
 
-This created an almost impossible balancing act. The people loved peace, so they preferred a prince who wasn’t constantly chasing glory or war. The soldiers preferred a warlike prince—bold, harsh, willing to loot—because they wanted higher pay and more opportunities to satisfy their appetites. Often, they were happy for those appetites to be satisfied at the public’s expense.
+You must understand that a prince, especially a new one, cannot practice all the things for which people are held in esteem. To maintain the state, he is often forced to act against fidelity, friendship, humanity, and religion.
 
-So emperors with weak natural authority—especially new men without deep legitimacy—were frequently toppled. Many of them tried to survive by pleasing the soldiers and worrying less about harming the people. Sometimes that bought time; sometimes it accelerated collapse. The result depended on whether the prince knew how to keep command over the soldiers rather than become their hostage.
+He must therefore have a mind ready to turn as the winds and changes of fortune compel it. Yet, as I said above, he should not depart from what is good if he can avoid it. But if he is compelled to, he must know how to go about it.
 
-A prince can’t avoid being hated by someone. The first priority, then, is not “be loved by all,” but **don’t be hated by everyone**. When that’s impossible, avoid the hatred of the **most powerful** group.
+For this reason a prince should take care never to let anything pass his lips that is not full of the five qualities named above. To anyone who sees and hears him, he should seem entirely merciful, faithful, humane, upright, and religious.
 
----
+There is no quality more necessary to appear to have than this last one. People generally judge more by the eye than by the hand, because everyone can see you, but few can come close enough to touch you. Everyone sees what you appear to be; few really know what you are.
 
-**Why the “Good” Emperors Still Fell**
+Those few do not dare to oppose the opinion of the many, who have the majesty of the state to protect them. And in the actions of all people, especially of princes, whose actions it is not prudent to challenge, everyone judges by the result.
 
-Three emperors—**Marcus Aurelius, Pertinax, and Alexander**—lived modestly, loved justice, rejected cruelty, and acted humanely. Yet two of them ended badly.
+So let a prince win credit for conquering and holding his state, and his methods will always be considered honorable and praised by everyone. The common people are always won over by how a thing appears and by what comes of it. And in the world there are only the common people; the few find a place only when the many have nothing to lean on.
 
-Marcus is the exception: he lived and died honored. Why? He inherited the throne, owed his position to no faction, and possessed virtues that kept him respected. He held both the people and the soldiers in their proper places without becoming hated or despised.
+One prince of the present day, whom it is better not to name, never preaches anything but peace and good faith, yet he is extremely hostile to both. Had he kept either one, it would have cost him his reputation and his kingdom many times over.
 
-Pertinax, however, became emperor against the soldiers’ wishes. Under Commodus, the troops had grown used to a loose, indulgent lifestyle. Pertinax tried to restore discipline and an “honest” standard of behavior. The soldiers couldn’t stand it. He earned their hatred, and because he was also elderly, they despised him as well. He was overthrown almost immediately.
+## CHAPTER XIX. THAT ONE SHOULD AVOID BEING DESPISED AND HATED
 
-This reveals an uncomfortable truth: you can earn hatred not only through bad deeds, but through good ones. If the group you need to keep you in power is corrupt—whether that’s soldiers, nobles, or even the people—you may be forced to cater to their appetites. In that situation, doing the “right” thing can become politically fatal.
+I have now discussed the most important of the qualities mentioned above. I want to treat the rest briefly under one general principle, which I have partly stated already: a prince must consider how to avoid whatever will make him hated or held in contempt. Whenever he succeeds in this, he has done his part, and he need not fear any danger from other criticisms.
 
-Alexander illustrates a different route to ruin. He was so mild that in the fourteen years he ruled, no one was executed without due judgment. Yet he was judged **soft**, and worse, someone governed by his mother. That image made him contemptible in the army’s eyes, and they eventually conspired and murdered him.
+As I have said, what makes a prince hated above all is greed: seizing the property of his subjects and violating their women. He must abstain from both. When neither their property nor their honor is touched, most men live contentedly. The prince then has to contend only with the ambition of a few, and he can easily restrain them in many ways.
 
----
+A prince becomes contemptible when he is seen as fickle, frivolous, effeminate, mean-spirited, or indecisive. He should guard against these qualities as carefully as a ship steers clear of a rock. His actions should show greatness, courage, seriousness, and strength.
 
-**The “Bad” Emperors—and Why One of Them Succeeded**
+In his private dealings with his subjects, he should make it clear that his decisions cannot be reversed. He should keep up such a reputation that no one hopes either to deceive him or to talk him round.
 
-Now look at the opposite type: **Commodus, Severus, Antoninus Caracalla, and Maximinus**. They were harsh and predatory, and to satisfy their soldiers they didn’t hesitate to commit injustices against the people. All of them ended badly—except **Severus**.
+A prince who gives this impression of himself is highly esteemed, and a highly esteemed prince is not easily conspired against. As long as everyone knows that he is an excellent man and revered by his people, he can be attacked only with difficulty.
 
-Severus had one thing in abundance: **valor**. He kept the soldiers on his side, and even though the people suffered under him, he ruled successfully. His reputation made him admired by the troops, and it left the public stunned and intimidated—awed enough to endure.
+For this reason a prince should have two fears. One is internal and concerns his subjects. The other is external and concerns foreign powers. Against foreign powers he is defended by good arms and good allies, and if he is well armed, he will always have good allies.
 
-Severus also understood something every new prince needs: how to be both **fox and lion**—clever in deception and strong in force.
+Affairs at home will stay quiet as long as affairs abroad are quiet, unless a conspiracy has already disturbed them. Even if there is trouble abroad, a prince who has made his preparations and lived as I have described will withstand every attack, provided he does not lose heart. As I said earlier, this is what Nabis the Spartan did.
 
-He exploited the laziness of Emperor Julian by persuading the army he commanded in Sclavonia that they should march on Rome to avenge Pertinax, who had been killed by the praetorian soldiers. Under that pretext—without openly declaring himself a contender—he moved fast and reached Italy before people even understood what he was doing. When he arrived, the Senate, frightened, elected him emperor and killed Julian.
+As for his subjects, when there is trouble abroad, the prince need only fear that they will conspire in secret. He can easily protect himself against this by avoiding hatred and contempt and by keeping the people satisfied with him. As I explained at length earlier, this is essential for him to achieve.
 
-After that, Severus faced two rivals:
+One of the most effective safeguards a prince can have against conspiracies is not to be hated or despised by the people. Anyone who conspires against a prince always expects that removing him will please the people. But when the conspirator can expect only to offend them, he will not have the courage to act, because the difficulties a conspirator faces are endless.
 
-- **Niger** in Asia, backed by the eastern army
-- **Albinus** in the West, also aiming for the throne
+Experience shows that there have been many conspiracies, but few have succeeded. A conspirator cannot act alone, and he can recruit companions only from among those he believes to be discontented. But as soon as you reveal your plan to a discontented man, you give him the means to satisfy himself, because by denouncing you he can expect every kind of reward.
 
-He judged it dangerous to fight both at once. So he attacked Niger and **tricked** Albinus. He wrote to Albinus saying he was willing to share honor, gave him the title of Caesar, and presented him as a partner endorsed by the Senate. Albinus accepted.
+He sees that betraying you offers certain gain, while joining you is doubtful and full of danger. So to keep faith with you, he must be either an extraordinarily rare friend or a thoroughly stubborn enemy of the prince.
 
-Once Severus defeated and killed Niger and stabilized the East, he returned to Rome and reframed Albinus as a traitor who had plotted against him. He claimed he was forced to punish ingratitude. Then he went after Albinus in France, stripped him of power, and killed him.
+To put the matter briefly: on the conspirator's side there is nothing but fear, suspicion, and the prospect of punishment to terrify him. On the prince's side are the majesty of his office, the laws, the protection of his friends, and the power of the state to defend him. Add the goodwill of the people to all this, and no one could be reckless enough to conspire.
 
-Study Severus closely and you see both animals: a fearless lion and a calculating fox. He made himself feared and respected without becoming hated by the army. And as a new ruler, his towering reputation shielded him from the hatred the people might have developed because of his violence.
+Ordinarily a conspirator has reason to fear before he carries out his plot. In this case he also has to fear what follows the crime. Because of it he will have the people as his enemy, and so he cannot hope for any escape.
 
----
+Countless examples could be given, but I will be content with one that happened within our fathers' memory. Messer Annibale Bentivogli, prince of Bologna and grandfather of the present Annibale, was murdered by the Canneschi, who had conspired against him. Of his family, only Messer Giovanni survived, and he was still a small child. Immediately after the assassination, the people rose up and killed all the Canneschi.
 
-**Caracalla: Loved by Soldiers, Hated by Everyone Else**
+This came from the goodwill the people of Bologna felt toward the house of Bentivogli at that time. It was so strong that, after Annibale's death, when no one was left in the city able to rule, the Bolognese acted on news that a member of the Bentivogli family was living in Florence. Until then he had been taken for the son of a blacksmith.
 
-Severus’s son, Antoninus Caracalla, had striking qualities. He was tough, built for hardship, and scorned luxury—traits that made him popular with the armies.
+They sent to Florence for him and gave him the government of their city. He ruled it until Messer Giovanni was, in due course, ready to take over.
 
-But his savagery was extreme. After countless murders of individuals, he ordered mass killings in Rome and slaughtered many in Alexandria. He became hated across the empire and feared even by those closest to him. He was eventually killed in his own camp by a centurion.
+For this reason I believe a prince should give little weight to conspiracies when his people hold him in high regard. But when the people are hostile and hate him, he should fear everything and everyone.
 
-There’s another lesson here: some threats can’t be fully prevented. A determined killer who doesn’t fear death can strike even a powerful ruler. But these attacks are rare, and a prince can reduce the risk by following one rule: **don’t grievously injure the people you rely on and keep close**. Caracalla ignored that. He had insulted and killed a close relative of the centurion—then kept the centurion in his guard while threatening him daily. That was reckless, and it cost him his life.
+Well-ordered states and wise princes have taken every care not to drive the nobles to desperation, and to keep the people satisfied and content. This is one of the most important aims a prince can have.
 
----
+Among the best ordered and governed kingdoms of our time is France. It has many good institutions on which the king's freedom and security depend. The first of these is the parliament and its authority. The founder of the kingdom knew how ambitious and bold the nobles were, and judged that they needed a bit in their mouths, like a horse, to hold them in.
 
-**Commodus: Inherited Power, Threw It Away**
+He also knew that the people hated the nobles, and that this hatred was rooted in fear, so he wanted to protect the people. Yet he did not want this protection to be the king's personal responsibility. Favoring the people would earn the king blame from the nobles, and favoring the nobles would earn him blame from the people.
 
-Commodus should have found ruling easy. As Marcus’s son, he inherited the empire and could have stayed secure simply by following his father’s example, keeping both soldiers and people satisfied.
+To spare the king this blame, he set up an independent judge: a body that could beat down the great and favor the lesser without bringing any reproach on the king. No arrangement could be better or wiser, or give greater security to the king and the kingdom.
 
-Instead, his nature was cruel and brutish. He focused on entertaining and corrupting the troops so he could prey on the public. He also failed to maintain the dignity of his office—publicly debasing himself, even appearing in the arena with gladiators and doing other things unworthy of imperial majesty. The result was predictable: the soldiers despised him, the people hated him, and he was conspired against and killed.
+From this another important conclusion follows: princes should leave unpopular tasks to others and keep the business of granting favors in their own hands. I also believe that a prince should value the nobles, but not in a way that makes the people hate him.
 
----
+Some who have studied the lives and deaths of the Roman emperors may think that many of them contradict my opinion. Some emperors lived nobly and showed great strength of character, yet still lost their empire or were killed by subjects who conspired against them.
 
-**Maximinus: Ferocious, Low-Status, and Politically Clumsy**
+To answer these objections, I will recall the characters of some of the emperors and show that the causes of their ruin were the same as those I have described. At the same time, I will put forward only what is noteworthy to anyone who studies the affairs of that period.
 
-Maximinus was a born fighter. The armies, disgusted by Alexander’s softness, murdered Alexander and elevated Maximinus.
+I think it is enough to take all the emperors who came to the throne from Marcus the philosopher down to Maximinus. They were Marcus and his son Commodus, Pertinax, Julian, Severus and his son Antoninus Caracalla, Macrinus, Heliogabalus, Alexander, and Maximinus.
 
-He didn’t last long, because he managed to become both **hated** and **despised**.
+The first point to note is this. In other principalities a ruler has to contend only with the ambition of the nobles and the insolence of the people. The Roman emperors faced a third difficulty: they had to put up with the cruelty and greed of their soldiers. This problem was so hard to manage that it ruined many of them.
 
-- He was scorned because he had once been a shepherd in Thrace—an origin everyone knew and many found degrading for an emperor.
-- He worsened matters by delaying his trip to Rome to take the imperial seat, reinforcing the sense that he didn’t belong.
-- He also gained a reputation for brutal cruelty, carried out through officials across Rome and the provinces, which made the world fear him.
+It was difficult to satisfy both soldiers and people. The people loved peace, and so they loved a prince without ambitions. The soldiers loved a warlike prince who was bold, cruel, and greedy. They were quite willing for him to practice these qualities on the people, so that they could get double pay and indulge their own greed and cruelty.
 
-First Africa rebelled. Then the Senate, the people of Rome, and much of Italy turned against him. Finally, even his own army turned—especially during the siege of Aquileia, where delays and hardship made the troops resentful. Seeing so many forces aligned against him, they feared him less and murdered him.
+As a result, the emperors who lacked great authority, whether by birth or by training, were always overthrown. Most of them, especially those new to power, recognized how hard it was to reconcile these two opposing temperaments. So they leaned toward satisfying the soldiers and cared little about harming the people.
 
----
+This course was necessary. Since princes cannot avoid being hated by someone, they should first try not to be hated by everyone. When they cannot manage that, they should work with the utmost care to avoid the hatred of the most powerful group.
 
-**What This Means for Princes “Now”**
+So the emperors who needed special support because of their inexperience sided with the soldiers more readily than with the people. Whether this worked to their advantage depended on whether the prince knew how to keep his authority over the soldiers.
 
-I won’t linger on Heliogabalus, Macrinus, or Julian, who were so contemptible that they were quickly wiped out. The larger point is this: modern princes face the problem of overindulging soldiers far less than the Roman emperors did. Even when you must grant the military some allowances, it’s usually manageable.
+For these reasons, Marcus, Pertinax, and Alexander, all men of modest life, lovers of justice, enemies of cruelty, humane and kind, came to a sad end, with the exception of Marcus. He alone lived and died with honor. He had inherited the throne, so he owed nothing either to the soldiers or to the people.
 
-Roman armies were different. They were effectively veterans not only of war, but of governing provinces—deeply entangled in administration and political power. In that world, it often mattered more to satisfy the soldiers than the people. In most states now, the balance shifts the other way: it’s more important—except in certain special cases—to keep the **people** satisfied, because they are the more powerful force.
+He also had many virtues that made him respected. As long as he lived, he kept both groups in their place, and he was neither hated nor despised.
 
----
+Pertinax, however, was made emperor against the soldiers' wishes. They had grown used to living without restraint under Commodus and could not bear the honest life Pertinax wanted to impose on them. So he gave them reason to hate him. Contempt for his old age was added to that hatred, and he was overthrown at the very start of his reign.
 
-**Exceptions: The Turk and the Soldan**
+Here it should be noted that a prince can earn hatred through good deeds as much as through bad ones. Therefore, as I said before, a prince who wants to keep his state is very often forced to do evil.
 
-One exception is the Turk, who keeps close at hand a fixed core of troops—twelve thousand infantry and fifteen thousand cavalry—and the kingdom’s safety depends on them. In that situation, the ruler has to set aside the people’s favor and keep those forces loyal.
+When the group you think you need in order to stay in power is corrupt, whether it is the people, the soldiers, or the nobles, you must go along with its moods and satisfy them. In that case good deeds will harm you.
 
-The kingdom of the Soldan is similar: because it rests entirely in the hands of soldiers, he too must keep them his friends, without regard to the people.
+Now let us come to Alexander. He was a man of such goodness that, among the other praises given to him, it is said that in the fourteen years he ruled the empire, he never put anyone to death without trial. Yet he was considered effeminate, a man who let his mother govern him. So he came to be despised, and the army conspired against him and murdered him.
 
-Because this is an old, established arrangement, it doesn’t really count as a *new* principality. The ruler might be new, but the state itself is not. Its institutions are already built to accept a prince as if he’d always belonged there—almost like a system designed to “adopt” him as a hereditary lord.
+Now turn to the opposite characters: Commodus, Severus, Antoninus Caracalla, and Maximinus. You will find that all of them were cruel and greedy. To satisfy their soldiers, they did not hesitate to commit every kind of injustice against the people. All of them except Severus came to a bad end.
 
-Now, back to the point. If you look closely at the emperors I mentioned, a pattern jumps out: **what destroys rulers is usually either hatred or contempt**. And you can also see why, even though different emperors tried very different approaches, only a rare few ended well.
+Severus, however, had so much ability that he reigned successfully. He kept the soldiers on his side, even though he oppressed the people. His ability made him so admired by both soldiers and people that the people were, in a sense, left astonished and awed, while the soldiers remained respectful and satisfied.
 
-Here’s the key: **a new ruler can’t copy just anyone.**  
+Since this man's actions as a new prince were great, I want to show briefly that he knew well how to imitate both the fox and the lion. As I said above, a prince must imitate both of these natures.
 
-- It would have been reckless—and basically impossible—for **Pertinax** or **Alexander**, both new princes, to imitate **Marcus**, who inherited power and benefited from the stability that comes with succession.  
-- And it would have been suicidal for **Caracalla**, **Commodus**, or **Maximinus** to imitate **Severus**, because they didn’t have the force of character and courage needed to carry Severus’s hard-edged methods without falling apart or getting overthrown.
+Severus knew that the Emperor Julian was indolent. So he persuaded the army in Sclavonia, which he commanded, that it would be right to march on Rome and avenge the death of Pertinax, who had been killed by the praetorian soldiers. Under this pretext, without appearing to seek the throne, he moved the army toward Rome. He reached Italy before anyone knew he had set out.
 
-So what should a new prince do? Not cosplay as Marcus. Not blindly follow Severus either. Instead, he should **borrow selectively**:
+When he arrived in Rome, the Senate, out of fear, elected him emperor and put Julian to death. After this, Severus, who wanted to make himself master of the whole empire, faced two obstacles. One was in Asia, where Niger, commander of the Asian army, had had himself proclaimed emperor. The other was in the west, where Albinus also had designs on the throne.
 
-- From **Severus**, take what you need to **build and secure** a new state.  
-- From **Marcus**, take what is admirable and honorable for **maintaining** a state that has already become stable and firmly rooted.
+He judged it dangerous to declare himself the enemy of both, so he decided to attack Niger and deceive Albinus. He wrote to Albinus that, having been elected emperor by the Senate, he was willing to share that rank with him. He sent him the title of Caesar and added that the Senate had made Albinus his colleague. Albinus accepted all this as true.
 
-## Chapter 20 — Are Fortresses (and Similar Tactics) Helpful or Harmful?
+But once Severus had defeated and killed Niger and settled affairs in the east, he returned to Rome. There he complained to the Senate that Albinus, showing little gratitude for the benefits he had received, had treacherously tried to murder him, and that he was compelled to punish this ingratitude. He then sought Albinus out in France and took from him both his province and his life.
 
-Princes use all kinds of tricks to hold on to power. Some disarm their subjects. Others keep towns divided into factions. Some deliberately make people hate them. Others work hard to win over the people they initially mistrusted. Some build fortresses; others tear them down.
+Anyone who examines this man's actions carefully will find him a most fierce lion and a most cunning fox. He will find him feared and respected by everyone, and not hated by the army. Nor should it be surprising that he, a new man, was able to hold the empire so well. His immense reputation always protected him from the hatred the people might otherwise have felt for his violence.
 
-You can’t give one universal verdict without knowing the specific situation of each state. Still, we can talk about what generally holds true.
+But his son Antoninus was a man of great distinction, with excellent qualities that made the people admire him and the soldiers accept him. He was warlike and could endure any amount of hardship. He despised fine food and every other luxury. These traits made the armies love him.
 
-### **Disarming vs. Arming the People**
+Nevertheless, his ferocity and cruelty were so great and so unheard of that, after countless individual murders, he killed a large part of the population of Rome and all the people of Alexandria. The whole world came to hate him. Even the people around him feared him, so much so that a centurion murdered him in the middle of his own army.
 
-A striking fact: **a truly new prince almost never disarms his subjects.** More often, he does the opposite—especially if he finds them already disarmed.
+It must be noted here that deaths of this kind cannot be prevented by princes. They are carried out deliberately, with resolute and desperate courage, and anyone who does not fear dying can inflict them.
 
-Why? Because **arming them makes them yours**.
+Yet a prince need not fear them very much, because they are very rare. He only has to take care not to do any serious injury to the people he employs or keeps around him in the service of the state.
 
-- The weapons become tied to your rule.  
-- People you didn’t trust at first often become loyal, because you’ve shown confidence in them and given them a stake in your survival.  
-- People who were already loyal tend to stay that way.  
-- Over time, armed subjects start acting like **supporters**, not merely people who endure you.
+Antoninus had not taken this care. He had insultingly killed a brother of that centurion, and he threatened the centurion himself every day, yet he still kept him in his bodyguard. This proved a reckless thing to do, and it led to the emperor's ruin.
 
-Of course, you can’t arm everyone. But that limitation can actually work in your favor. If you arm some and not others, the ones you arm feel rewarded—and the others usually understand the logic: the people who take the biggest risks and carry the biggest burdens get the biggest benefits. That makes it easier to manage the rest.
+Now let us turn to Commodus. Holding the empire should have been very easy for him. As the son of Marcus, he had inherited it, and he only needed to follow in his father's footsteps to please both the people and the soldiers.
 
-Disarm them, though, and you instantly insult them. You’re announcing, “I don’t trust you.” Whether they interpret that as you thinking they’re cowards or traitors, either way it breeds **hatred**.
+But he was cruel and brutal by nature. He devoted himself to entertaining the soldiers and corrupting them, so that he could freely plunder the people.
 
-And once you’ve disarmed your own people, you’re forced to lean on **mercenaries**. Even if those mercenaries are decent, they’re rarely enough to protect you from both **powerful enemies** and **resentful subjects** at the same time.
+At the same time, he failed to maintain his dignity. He often went down into the arena to compete with gladiators and did other base things unworthy of the imperial majesty. As a result, the soldiers came to hold him in contempt. Hated by one group and despised by the other, he became the target of a conspiracy and was killed.
 
-So yes: in a **new principality**, a new prince typically distributes arms. History is full of examples.
+It remains to discuss the character of Maximinus. He was a very warlike man. The armies, disgusted with the softness of Alexander, whom I have already discussed, killed him and raised Maximinus to the throne. He did not hold it for long, because two things made him both hated and despised.
 
-There’s one major exception. If you annex a new state and turn it into a **province attached to your old state**, then you generally must **disarm the new province**—except for those who actively helped you take it. Even then, over time you should make sure that the only serious armed force in that province is **your own**, ideally soldiers rooted in your original territory and close to you.
+The first was that he had once herded sheep in Thrace. Everyone knew this, and everyone considered it a great disgrace, so it brought him into contempt. The second was that, when he came to power, he put off going to Rome and taking possession of the imperial seat.
 
-### **Factions as a Tool of Control**
+He had also earned a reputation for extreme ferocity, because his prefects in Rome and elsewhere in the empire had committed many cruelties on his behalf. The whole world was therefore moved to anger at his low birth and to fear at his savagery.
 
-Old political “wisdom” used to say things like: hold one city by keeping it divided into factions, and hold another by building fortresses. In some earlier Italian conditions—when power was more evenly balanced—this may have seemed workable.
+First Africa rebelled. Then the Senate, together with all the people of Rome, and all of Italy conspired against him. His own army joined them as well.
 
-But as a rule for today? It’s a trap.
+That army was besieging Aquileia and having trouble taking it. The soldiers were already disgusted with his cruelties. When they saw how many were now against him, they feared him less, and they murdered him.
 
-A divided city is a city that collapses fast when pressure hits. When an outside enemy arrives:
+I do not wish to discuss Heliogabalus, Macrinus, or Julian. They were thoroughly contemptible and were quickly wiped out. Instead, I will bring this discussion to a close.
 
-- the weaker faction will almost always invite or assist the outsider,  
-- and the stronger faction won’t be able to hold the city alone.
+Princes in our own times face this difficulty of having to satisfy their soldiers beyond all reason to a far smaller degree. One still has to grant soldiers some indulgence, but that is soon done. None of today's princes have armies that have grown old in governing and administering provinces, as the armies of the Roman Empire had.
 
-The Venetians tried this method in their subject cities, keeping old rival parties alive (carefully, without letting them turn into open violence) so citizens would stay busy fighting each other instead of uniting against Venice. It didn’t work the way they hoped. After their defeat at Vaila, one faction immediately seized the opportunity and took control.
+In those days it was more necessary to satisfy the soldiers than the people. Now it is more necessary for all princes, except the Turk and the Sultan, to satisfy the people rather than the soldiers, because the people are now the more powerful.
 
-So if a prince relies on factions, it’s usually a sign of weakness. A vigorous, well-run principality doesn’t need that kind of internal sabotage. It may look useful in peacetime, but the moment war arrives, the strategy reveals itself as wishful thinking.
+I have made an exception of the Turk because he always keeps around him twelve thousand infantry and fifteen thousand cavalry. The security and strength of his kingdom depend on them. He must therefore set aside every consideration for the people and keep these soldiers as his friends.
 
-### **Should a Prince “Cultivate” Enemies?**
+The Sultan's kingdom is similar. It is entirely in the hands of soldiers, so he too must keep them as his friends without regard for the people.
 
-Princes become great by **overcoming obstacles**. And fortune, when she wants to elevate a new prince—someone who must *earn* fame rather than inherit it—often supplies those obstacles in the form of enemies and plots.
+But you should note that the Sultan's state is unlike all other principalities. It resembles the Christian papacy, which cannot be called either a hereditary principality or a newly formed one.
 
-That’s why some people argue a wise prince should, when the opportunity arises, **allow a manageable hostility to form**, so he can crush it and climb higher—like using your enemies as the rungs of a ladder they accidentally built for you.
+The sons of the old prince do not inherit. Instead, the successor is the man elected to the position by those who hold the authority to choose him, and the sons remain only noblemen.
 
-### **Winning Over the People You Initially Distrusted**
+Because this is an ancient custom, the state cannot be called a new principality. It has none of the difficulties found in new ones. Although the prince himself is new, the constitution of the state is old, and it is designed to receive him as if he were its hereditary lord.
 
-New princes often discover something counterintuitive: they get more reliable support from people they **distrusted at first** than from those they initially trusted.
+Returning to the subject of our discussion, I say this. Anyone who considers it will recognize that either hatred or contempt was fatal to the emperors named above.
 
-Why? Because people who begin on the “outside” and later get pulled in often work harder to prove themselves. If they were once hostile but are the kind who *need* your protection to steady their own position, they can be won over very easily—and once won, they cling tightly, because they know they must erase their earlier hostility through real service.
+It will also become clear how it happened that some of them acted in one way and some in the other, yet in each group only one came to a happy end, while the rest came to unhappy ones.
 
-Meanwhile, people who serve you with too much comfort and certainty can grow careless.
+For Pertinax and Alexander, who were new princes, it would have been useless and dangerous to imitate Marcus, who had inherited his principality. Likewise, for Caracalla, Commodus, and Maximinus, it would have been utterly destructive to imitate Severus, because they lacked the ability needed to follow in his footsteps.
 
-One warning, though. If you took a new state with the help of secret supporters, you must ask: *Why did they help me?* If it wasn’t genuine loyalty to you, but simply hatred for the previous government, then keeping them satisfied will be difficult—sometimes impossible—because you can’t fulfill the hopes of people whose main desire was “anything but the old regime.”
+A prince who is new to his principality, therefore, cannot imitate the actions of Marcus. Nor does he need to follow those of Severus. Instead, he should take from Severus the elements necessary to found his state, and from Marcus those that are fitting and glorious for preserving a state that is already stable and secure.
 
-In practice, it’s often easier to reconcile with those who were content under the previous ruler (and therefore resisted you) than to manage those who supported you mainly out of frustration and expectation.
+## CHAPTER XX. ARE FORTRESSES, AND MANY OTHER THINGS TO WHICH PRINCES OFTEN RESORT, ADVANTAGEOUS OR HURTFUL?
 
-### **Fortresses: Safety Net or Liability?**
+Princes have tried many methods to hold their states securely. Some have disarmed their subjects. Others have kept the towns under their rule divided by factions. Others have deliberately encouraged hostility against themselves. Others have worked to win over the men they distrusted when their rule began. Some have built fortresses, and some have torn them down.
 
-Princes often build fortresses for two reasons:
+No one can give a final judgment on all these methods without knowing the particular circumstances of the state where the decision has to be made. Nevertheless, I will speak as generally as the subject itself allows.
 
-- as a **bit and bridle** to restrain subjects who might rebel, and  
-- as a **refuge** against the first shock of an attack.
+There has never been a new prince who disarmed his subjects. On the contrary, whenever he has found them disarmed, he has always armed them. When you arm them, those weapons become yours. The men you distrusted become loyal, the men who were already loyal stay that way, and your subjects become your supporters.
 
-This has a long history, and it can be sensible. But we’ve also seen capable rulers do the opposite—tear fortresses down—because in their circumstances, fortresses would have made them *less* secure.
+You cannot arm all your subjects. But when the ones you arm receive this benefit, you can deal more freely with the rest. Both groups understand the difference in treatment. Those you arm become dependent on you. The others accept it, because they consider it right that those who face the most danger and do the most service should receive the most reward.
 
-So what’s the real rule?
+When you disarm your subjects, however, you offend them immediately. You show that you distrust them, either because you think them cowardly or because you doubt their loyalty. Either opinion breeds hatred against you.
 
-**A fortress helps or hurts depending on what you fear most.**
+And since you cannot remain unarmed, you are forced to turn to mercenaries, whose character I have already described. Even if they were good, they would not be enough to defend you against powerful enemies and subjects you distrust.
 
-- If you fear **your own people** more than foreign powers, fortresses can help.  
-- If you fear **foreign powers** more than your people, fortresses can become a distraction—or worse, a liability.
+So, as I have said, a new prince in a new principality has always distributed arms. History is full of examples.
 
-In fact, the most reliable “fortress” is not stone and mortar. It’s this: **don’t be hated by the people.** Because if the population turns against you, fortresses won’t save you. Foreign allies will always be found to support an armed people who want you gone.
+The case is different when a prince acquires a new state and adds it as a province to the state he already holds. Then he must disarm the men of the new state, except those who supported him in acquiring it. Even these, given time and opportunity, should be made soft and effeminate.
 
-In recent times, fortresses have rarely saved a prince—except in one notable case, when a ruler was able to hold out long enough for outside help to arrive and retake control. But even there, the larger lesson still stands: later, when circumstances changed and foreign forces joined with internal enemies, fortresses offered little protection.
+Everything should be arranged so that all the armed men in the new state are your own soldiers, the ones who lived near you in your original state.
 
-So I’ll praise a prince who builds fortresses *and* a prince who doesn’t—because both can be right, depending on the situation. But I’ll blame any prince who relies on fortresses and, because of that false confidence, stops caring whether the people hate him.
+Our ancestors, and those who were thought wise, used to say that Pistoia had to be held by factions and Pisa by fortresses. Following this idea, they encouraged quarrels in some of the towns that paid them tribute, so that they could keep hold of them more easily.
 
-## Chapter 21 — How a Prince Gains Renown
+This may have worked well enough in those days, when Italy was in a kind of balance. But I do not believe it can be accepted as a rule for today, because I do not believe factions can ever be useful.
 
-Nothing boosts a prince’s reputation like **big, visible achievements**—and the kind of leadership that feels like a public example.
+On the contrary, when an enemy attacks you while your cities are divided, you are certain to lose them quickly. The weaker party will always side with the outside forces, and the other party will not be able to resist on its own.
 
-A vivid case from our own time is **Ferdinand of Aragon**, the current King of Spain. In many ways he’s almost a “new prince”: he rose from being a relatively minor figure to becoming one of the most powerful rulers in Christendom, largely through fame and strategic success.
+The Venetians, moved, I believe, by the reasoning above, encouraged the Guelph and Ghibelline factions in the cities that paid them tribute. They never let these disputes come to bloodshed, but they kept them alive. Their aim was that the citizens, absorbed in their own quarrels, would never unite against Venice.
 
-Look at his actions and you’ll notice two things: they’re consistently bold, and they often border on extraordinary.
+As we saw, this did not turn out as they expected. After the Venetian defeat at Vaila, one of the parties immediately took courage and seized control of the state.
 
-Early in his reign, he attacked **Granada**, and that campaign became the foundation of his expanding power. He began carefully and quietly, without giving anyone an obvious reason to obstruct him. Meanwhile, he kept the nobles of Castile mentally occupied with the war so they wouldn’t anticipate how this long campaign would increase his authority over them.
+Such methods therefore reveal weakness in a prince, because a strong principality will never permit these factions. Policies like this, meant to make subjects easier to manage, are useful only in peacetime. When war comes, they prove to be a mistake.
 
-He also sustained his armies with money drawn from the Church and from the people, and the length of the war helped him build the military skill that later defined his reign. And he repeatedly used religion as a banner for ever-larger projects—most dramatically by pushing the Moors out of his kingdom with a ruthlessness he wrapped in piety. Under the same pretext, he moved into Africa, intervened in Italy, and eventually attacked France.
+There is no doubt that princes become great by overcoming the difficulties and obstacles they face. This is why fortune raises up enemies against a new prince and leads them to plot against him, especially when she wants to make him great. A new prince has a greater need to earn renown than a hereditary one.
 
-The result is a kind of political momentum: **one major move flows into the next**, and people never get a calm stretch of time to organize steady opposition against him. Their minds stay occupied—suspended between suspense and admiration.
+Fortune does this so that he has the chance to defeat those enemies and rise higher by them, as though climbing a ladder his enemies have set up for him.
 
-### **Striking Examples at Home**
+For this reason, many people think that a wise prince, when he has the chance, should cunningly encourage some hostility against himself. Then, once he has crushed it, his reputation will rise all the higher.
 
-A prince can also strengthen his reputation through unusual, widely discussed decisions in domestic affairs—especially when he rewards or punishes extraordinary behavior in a way people can’t stop talking about.
+Princes, especially new ones, have found more loyalty and help from the men they distrusted at the start of their rule than from those they trusted at the start. Pandolfo Petrucci, Prince of Siena, governed his state more through men who had been distrusted than through anyone else.
 
-Above all, a prince should aim for a reputation as someone **great and remarkable**—not merely competent.
+On this question, however, one cannot speak in general terms, because it varies so much from one person to another. I will say only this.
 
-### **Why Neutrality Is Dangerous**
+Some men are hostile when a principality is first established. If they are the kind who need support to maintain their position, the prince can always win them over very easily. They will also be firmly bound to serve him faithfully, because they know how necessary it is for them to erase, through their actions, the bad opinion he had formed of them.
 
-A prince also earns respect when he’s either a true friend or an unmistakable enemy—that is, when he openly commits to one side rather than trying to hover in the middle.
+As a result, the prince always gets more benefit from them than from those who serve him with too much security and may therefore neglect his business.
 
-Neutrality often looks “safe,” but it’s usually the opposite.
+Since the subject requires it, I must also warn a prince who has gained a new state with secret help from people inside it. He must think carefully about why they favored him.
 
-If two powerful neighbors go to war, you either have reason to fear the winner or you don’t. In either case, it’s generally better to declare yourself and act decisively than to stand aside.
+If they did not act from genuine affection for him, but only from discontent with their own government, he will keep them friendly only with great trouble and difficulty. It will be impossible to satisfy them.
 
-Because if you stay neutral and one side wins:
+If we weigh the reasons for this carefully, using examples from ancient and modern affairs, we will find something important. It is easier for the prince to make friends of the men who were content under the former government, and who were therefore his enemies, than of the men who were discontented with it, favored him, and encouraged him to seize it.
 
-- the victor will treat you as a prize, not a partner,  
-- the loser won’t protect you, because you didn’t share their risk,  
-- and you’ll have no credible excuse to offer.
+Princes have long been in the habit of building fortresses to hold their states more securely. A fortress serves as a bridle and bit, restraining anyone who might plot against the prince, as a horse is controlled by its harness. It also gives him a place of refuge from a first attack. I praise this practice, because it has been used in the past.
 
-Conquerors don’t value doubtful friends who refused to help in the moment of danger. And defeated powers don’t shelter those who wouldn’t commit when commitment mattered.
+Nevertheless, in our own times Messer Nicolo Vitelli has been seen demolishing two fortresses in Citta di Castello in order to keep that state.
 
-There’s a classic example: **Antiochus** entered Greece at the invitation of the Aetolians to push out the Romans. He urged the Achaeans—friends of Rome—to stay neutral, while Rome urged them to take up arms. When the issue was debated, the Roman representative cut through the illusion: neutrality, he said, doesn’t buy safety; it simply leaves you “the reward of the conqueror.”
+Guido Ubaldo, Duke of Urbino, had been driven out of his dominion by Cesare Borgia. When he returned, he razed every fortress in that province to its foundations, believing that without them it would be harder to lose the state again. The Bentivogli reached a similar decision when they returned to Bologna.
 
-That’s the usual outcome. Whoever is not your friend will demand your neutrality, while whoever is your friend will urge you to stand with them openly.
+Fortresses, then, are useful or not depending on circumstances. If they help you in one way, they harm you in another.
 
-Indecisive princes choose neutrality to dodge immediate danger—and often get ruined because of it.
+The question can be reasoned out as follows. A prince who has more to fear from his own people than from foreigners should build fortresses. A prince who has more to fear from foreigners than from his own people should do without them.
 
-### **What You Gain by Choosing a Side**
+The castle of Milan, built by Francesco Sforza, has caused, and will continue to cause, more trouble for the house of Sforza than any other disorder in that state.
 
-If you commit and your side wins, you may be dealing with a powerful victor, yes. But that victor is now **indebted** to you. A bond forms. And people rarely go out of their way to immortalize themselves as monsters of ingratitude by crushing those who helped them win. Even the most complete victories still leave room for obligations—especially those tied to justice and reputation.
+For this reason, the best possible fortress is not to be hated by the people. You may hold the fortresses, but they will not save you if the people hate you. When a people has taken up arms against you, there will never be a shortage of foreigners ready to help them.
 
-If your side loses, you may still gain shelter, support, and future opportunity. You become a partner in a fortune that could rise again.
+In our times, fortresses have not been seen to help any prince, with one exception: the Countess of Forli, when her husband, Count Girolamo, was killed. Her fortress allowed her to withstand the popular uprising and wait for help from Milan, and so she recovered her state.
 
-### **A Crucial Warning About Alliances**
+At that time, circumstances were such that no foreigners could come to the people's aid.
 
-One more caution: never ally with someone **more powerful than you** in order to attack others—unless necessity forces you to.
+Later, however, her fortresses were of little use to her when Cesare Borgia attacked her and the people, who were hostile to her, joined forces with the foreigners. So it would have been safer for her, both then and earlier, to avoid being hated by the people than to rely on fortresses.
 
-If your stronger ally wins, you are at his discretion. Princes should avoid being at anyone’s discretion whenever they can.
+All things considered, then, I will praise the prince who builds fortresses and also the prince who does not. But I will blame any prince who trusts in fortresses and cares little about being hated by the people.
 
-The Venetians allied with France against the Duke of Milan, and that choice helped bring about their ruin. They could have avoided it. But sometimes alliances can’t be avoided—like when circumstances corner you and multiple powers are moving against you. In those cases, for the reasons above, you still should commit to one side rather than pretend you can float safely between them.
+## CHAPTER XXI. HOW A PRINCE SHOULD CONDUCT HIMSELF SO AS TO GAIN RENOWN
 
-### **Choosing the Lesser Evil**
+Nothing makes a prince so highly esteemed as great undertakings and a fine example. In our own time we have Ferdinand of Aragon, the present King of Spain. He can almost be called a new prince, because fame and glory have raised him from an insignificant king to the foremost king in Christendom. If you consider his deeds, you will find them all great, and some of them extraordinary.
 
-No government should imagine it can always choose perfectly safe options. Politics doesn’t work that way. Most decisions trade one danger for another. **Prudence is the art of comparing risks—and choosing the lesser one.**
+At the beginning of his reign he attacked Granada, and this undertaking was the foundation of his power. At first he did it quietly and without fear of interference. He kept the barons of Castile thinking about the war, so they did not expect any changes at home. As a result, they did not notice that he was using these means to gain power and authority over them.
 
-### **Building Talent, Prosperity, and Public Life**
+He was able to support his armies with money from the Church and from the people. That long war also let him build the foundation of the military skill that has distinguished him ever since.
 
-A prince should also make a point of being a patron of skill and excellence, honoring those who excel in any craft or art.
+He always used religion as a pretext so that he could undertake greater schemes. In this spirit he devoted himself, with pious cruelty, to driving the Moors out of his kingdom and clearing it of them. There could be no more admirable example, nor a rarer one.
 
-At the same time, he should make it easy for people to live and work without fear:
+Under this same cloak of religion he attacked Africa, came down on Italy, and has finally attacked France. In this way his achievements and plans have always been great. They have kept his people in suspense and admiration, absorbed in waiting to see how each one would turn out.
 
-- encourage commerce, agriculture, and every legitimate occupation,  
-- make sure people aren’t afraid to improve their property because it might be seized,  
-- and don’t make them fear opening businesses because taxes will immediately punish success.
+His actions have arisen one out of another so closely that people have never had time to organize steady opposition against him.
 
-If people want to build, trade, improve, or honor the city, the prince should support that with rewards and recognition.
+It also greatly helps a prince to set unusual examples in domestic affairs, like those told of Messer Bernabo da Milano. Whenever someone in civil life did something extraordinary, good or bad, Bernabo would find some way to reward or punish that person that people would talk about widely.
 
-Finally, he should give the public festivals and spectacles at appropriate times of year. And because every city is divided into guilds and associations, he should treat these groups with respect—sometimes even appearing among them—showing courtesy and generosity while still maintaining the authority and dignity of his rank, which he must never weaken.
+Above all, a prince should try in every action to earn the reputation of being a great and remarkable man.
 
-Guild-like organizations existed in plenty of European towns: entire trades could be organized into a single, city-recognized body. Florence’s **guilds** are a famous example, and historians have documented how thoroughly they shaped the city’s working life.
+A prince is also respected when he is either a true friend or an outright enemy. That is, he declares himself without reservation for one side against the other. This course will always be more advantageous than staying neutral.
 
-You can find something broadly similar in modern Russia in groups called **artels**: cooperative work associations where (for example) sons might spend the working season as members. In larger towns, artels can be more elaborate—permanent organizations with significant shared capital, and collective financial responsibility for what individual members do.
+Suppose two of your powerful neighbors come to blows. They will be of one of two kinds. Either the winner will be someone you have to fear, or he will not.
 
-Despite how it looks on the page, **“artel”** isn’t related to Latin *ars* or “arte.” The word traces back to a root meaning **to bind oneself by an oath**, and it’s linked to a term that later came to mean something like a **company within a regiment**. The common idea is the same in both: a body of people united by a sworn bond.
+In either case, it will always be better for you to declare yourself and fight vigorously. Take the first case. If you do not declare yourself, you will invariably fall prey to the winner, to the pleasure and satisfaction of the loser. You will have no justification to offer, and nothing to protect or shelter you.
 
-Some groups referred to as **tribu** may have been kin-based communities—people connected by common descent, with additional ties formed through marriage. In modern English, **“clans”** or **“septs”** probably comes closest.
+The winner does not want doubtful friends who will not help him in a time of trial. The loser will not take you in, because you did not willingly take up your sword and share his fate.
 
----
+Antiochus came into Greece, invited by the Ætolians to drive out the Romans. He sent envoys to the Achaeans, who were friends of the Romans, urging them to remain neutral. The Romans, for their part, urged them to take up arms. The question was debated in the Achaeans' council, where Antiochus's representative urged them to stay neutral.
 
-## Chapter 22 — Concerning the Secretaries of Princes
+The Roman representative replied: "It has been said that it is better and more advantageous for your state not to interfere in our war. Nothing could be more mistaken. If you do not interfere, you will be left without favor or respect, as the prize of whoever wins."
 
-A prince’s choice of assistants isn’t a small detail—it’s a major signal of how competent he is.
+So it will always happen that whoever is not your friend will ask for your neutrality, while whoever is your friend will urge you to declare yourself and take up arms. Indecisive princes usually choose neutrality to avoid immediate dangers, and they are usually ruined.
 
-In fact, one of the fastest ways to judge a ruler is to look at the people closest to him. If they’re capable and loyal, that usually means the prince has good judgment: he recognized talent and found ways to keep it aligned with his interests. If the people around him are mediocre, corrupt, or unreliable, it’s hard to give the prince much credit—because the first, basic mistake was choosing them.
+But suppose a prince boldly declares himself for one side, and his ally wins. The victor may be powerful and may have the prince at his mercy. Yet the victor is indebted to him, and a bond of friendship has been formed. People are never so shameless as to make themselves a monument of ingratitude by oppressing you.
 
-Consider Pandolfo Petrucci, the ruler of Siena, and his secretary Messer Antonio da Venafro. Anyone who knew Venafro as Petrucci’s servant took it as evidence that Petrucci was sharp, because it takes discernment to keep someone like that close.
+Besides, victories are never so complete that the winner can disregard everything, and especially justice.
 
-To see why, it helps to separate **intellect** into three types:
+If your ally loses, he may give you shelter. While he is able, he may help you, and you become partners in a fortune that may rise again.
 
-- **First-rate:** understands things on its own.  
-- **Second-rate:** doesn’t originate the insight, but recognizes and values it when others present it.  
-- **Third-rate:** understands neither on its own nor with help.
+Now consider the second case, where the combatants are such that you have no reason to worry about who wins. Here it is even more prudent to take sides. You help destroy one of them with the aid of the other, who would have saved him instead if he had been wise. And when your ally wins, as he cannot fail to do with your help, he is left at your discretion.
 
-The first is excellent, the second is solid, and the third is useless.
+It should be noted here that a prince must take care never to ally himself with someone more powerful than himself in order to attack others, unless necessity compels him, as was said above. If that ally wins, you are at his discretion, and princes should avoid being at anyone's discretion as far as they can.
 
-So even if Petrucci wasn’t in the top category, he was at least in the second. Here’s why that matters: a leader may not generate every idea himself, but if he can reliably tell good judgment from bad—by watching what people do and listening to what they say—then he can reward what’s right and correct what’s wrong. A servant who knows his master can see through him has a harder time running games. That pressure keeps him honest.
+The Venetians joined with France against the Duke of Milan, and this alliance, which caused their ruin, could have been avoided. But sometimes it cannot be avoided, as happened to the Florentines when the Pope and Spain sent armies to attack Lombardy. In such a case, for the reasons given above, the prince ought to favor one of the parties.
 
-There’s also a simple test that almost never fails when you’re evaluating an advisor. Watch what he optimizes for.
+No government should ever imagine that it can choose perfectly safe courses. It should expect instead to take very uncertain ones. In ordinary affairs we find that no one ever tries to avoid one trouble without running into another. Prudence consists in knowing how to judge the nature of each trouble, and in choosing the lesser evil.
 
-- If he consistently **puts his own advantage ahead of yours**, he won’t be a good servant.  
-- If he hunts for personal profit in everything, you can’t trust him with what belongs to you.
+A prince should also show himself a patron of talent and honor those who excel in every art. At the same time, he should encourage his citizens to pursue their occupations peacefully, in commerce, in agriculture, and in every other line of work.
 
-Someone who holds another person’s state in his hands should never center himself. His attention should stay on the prince and on matters that actually affect the prince.
+No one should be discouraged from improving his property for fear that it will be taken from him. No one should hesitate to open up trade for fear of taxes. Instead, the prince should offer rewards to anyone who wants to do these things, and to anyone who seeks in any way to bring honor to his city or state.
 
-At the same time, a prince shouldn’t rely only on suspicion. If he wants his servants to stay loyal, he should make loyalty worth it—and make betrayal unnecessary.
+Further, at suitable times of year, he should entertain the people with festivals and spectacles. Every city is divided into guilds or associations, so he should hold these bodies in esteem and sometimes join them, showing himself an example of courtesy and generosity.
 
-That means:
+Through all this he must always maintain the majesty of his rank, which he must never allow to be lessened in any way.
 
-- **Honor** them and let that honor be visible.  
-- **Pay** them well and raise them when they do well.  
-- **Do them favors** and bind them with real gratitude.  
-- **Share** both recognition and responsibility, so they feel invested.
+## CHAPTER XXII. CONCERNING THE SECRETARIES OF PRINCES
 
-But there’s a second half to the strategy: make sure they understand they don’t stand securely on their own. In other words, arrange things so that:
+Choosing his ministers is a matter of real importance for a prince. Whether they turn out good or bad depends on his own judgment.
 
-- honors don’t make them crave even more honors,  
-- wealth doesn’t make them hunger for still more wealth, and  
-- responsibilities make them wary of sudden upheavals.
+The first impression people form of a prince, and of his intelligence, comes from looking at the men he keeps around him. When they are capable and loyal, he can always be considered wise, because he has known how to recognize capable men and how to keep them loyal.
 
-When princes and servants relate to each other like this, they can trust each other. When they don’t, the ending is predictable—and ugly—for one side or the other.
+When his ministers are not like this, no one can think well of him. His first mistake was in choosing them.
 
----
+Everyone who knew Messer Antonio da Venafro as the minister of Pandolfo Petrucci, Prince of Siena, considered Pandolfo a very clever man for having chosen Venafro. The reason is that there are three kinds of minds.
 
-## Chapter 23 — How Flatterers Should Be Avoided
+- The first understands things on its own.
+- The second recognizes what others have understood.
+- The third understands neither on its own nor when others explain.
 
-There’s a danger in every court that’s so common it almost becomes background noise: **flattery**.
+The first is the best, the second is good, and the third is useless.
 
-Princes have a hard time defending themselves from it unless they’re alert and selective. Courts are full of people who will tell you what you want to hear, partly because human beings are naturally pleased with themselves, and partly because we’re surprisingly easy to fool about our own judgment. That combination makes flattery feel good—and makes it hard to treat as the threat it is.
+It necessarily follows that if Pandolfo was not in the first rank, he was in the second. A man may lack the initiative to devise things himself. But if he has the judgment to tell good from bad when he hears it said or sees it done, he can recognize the good and bad actions of his minister.
 
-But defending yourself has its own trap. If you respond by trying to shut people down, you can end up looking petty or insecure. And there’s another awkward fact: the only foolproof way to block flatterers is to let it be known that **truth won’t offend you**. Yet if everyone can tell you the truth whenever they want, people start to lose some of their restraint around you, and your authority can erode.
+He can then praise the good and correct the bad. As a result, the minister cannot hope to deceive him, and so he stays honest.
 
-So what’s the middle path?
+There is one test that never fails when a prince wants to judge a minister. Watch for a minister who thinks more about his own interests than about yours, and who privately looks for his own profit in everything. Such a man will never be a good minister, and you will never be able to trust him.
 
-A wise prince does something more controlled. He:
+Anyone who holds another man's state in his hands should never think of himself. He should always think of his prince, and he should never concern himself with matters that do not concern the prince.
 
-- **selects a small group of wise people**,  
-- gives them the **freedom to speak honestly**,  
-- but limits that freedom to **the questions he asks**, and to **the topics he’s investigating**—not everything under the sun.
+The prince, for his part, must work to keep his minister honest. He should pay close attention to him, honor him, make him rich, do him favors, and share with him both honors and responsibilities. At the same time, he should make the minister see that he cannot stand on his own without the prince.
 
-Then he questions them broadly, listens closely, and finally decides for himself. And he manages these advisers—one-on-one and as a group—so that each person understands a clear rule: the more plainly you speak, the more you’re valued. Outside that circle, he doesn’t take counsel. Once he’s decided, he follows through and stays steady.
+That way, the many honors he receives will leave him with no desire for more honors. His great wealth will leave him with no desire for more wealth. And his many responsibilities will make him fear any change in his situation.
 
-If you do the opposite—if you let flatterers steer you, or if you constantly revise yourself because every new voice pushes you a different direction—you’ll either be toppled or end up with a reputation for wobbling. Either way, people stop taking you seriously.
+When ministers are disposed this way toward their princes, and princes this way toward their ministers, they can trust each other. When it is otherwise, the outcome will always be disastrous for one or the other.
 
-A real-world example makes the point. Fra Luca, an administrator close to the Emperor Maximilian, said something like this about him: *He consulted no one, yet he never got his way.*
+## CHAPTER XXIII. HOW FLATTERERS SHOULD BE AVOIDED
 
-That sounds paradoxical until you see the pattern. Maximilian kept his plans secret and didn’t invite opinions. But as soon as he began to act, the plan became visible. The people around him—who hadn’t been involved, who didn’t feel committed, and who had their own agendas—blocked him. And because he was pliable, he let himself be diverted. The result was whiplash: what he did one day he undid the next. No one could tell what he wanted, and no one could rely on his decisions.
+I do not want to leave out an important part of this subject. It concerns a danger that princes escape only with difficulty, unless they are very careful and discerning. This danger is flatterers, and courts are full of them.
 
-So the rule is this: a prince should always take counsel—but **only when he chooses**, not whenever other people feel like offering it. He should discourage unsolicited advice, but he should also be a constant questioner. And once he asks, he should listen patiently. If he later discovers that someone knowingly hid the truth from him—whatever the motive—he should make his displeasure unmistakable.
+Men are so pleased with their own affairs, and so easily deceived about them, that they find it hard to protect themselves from this plague. And if they do try to defend themselves, they risk falling into contempt.
 
-Some people claim that when a prince seems wise, it’s not because he’s wise, but because he has brilliant advisers. That’s usually backwards. Here’s the principle that holds up in practice: **a prince who isn’t wise will not consistently take good advice**, unless he hands everything over to a single exceptionally prudent person. In that case he may be governed well for a time—but not for long, because the person doing the governing will soon have the power to take the state for himself.
+The reason is simple. The only way to guard yourself against flatterers is to let people understand that telling you the truth does not offend you. But when everyone is free to tell you the truth, their respect for you declines.
 
-And if an inexperienced prince tries to take advice from many people at once, things get worse, not better. Their recommendations won’t line up, and the prince won’t know how to combine them. Each counselor will pull toward his own interests, and the prince won’t have the skill to control them or see through their motives.
+A wise prince should therefore take a third course. He should choose the wise men in his state and give only them the freedom to speak the truth to him. Even then, they should speak only about the matters he asks about, and nothing else.
 
-People don’t reliably stay loyal just because it’s “right.” If you want truth, you need structures that reward honesty and constrain self-serving behavior. So when good counsel appears—wherever it comes from—it ultimately reflects the prince’s own wisdom. It isn’t that advisers manufacture a prince’s wisdom; it’s that a wise prince knows how to produce good counsel by the way he chooses, frames, and uses advisers.
+He should, however, question them about everything and listen to their opinions. Afterward, he should reach his own conclusions.
 
----
+With these counsellors, both individually and as a group, he should conduct himself so that each of them knows that the more freely he speaks, the more favour he will receive. Apart from these men, the prince should listen to no one. He should carry out what he has decided and hold firmly to his decisions.
 
-## Chapter 24 — Why the Princes of Italy Lost Their States
+A prince who does otherwise meets one of two fates. Either flatterers ruin him, or he changes his mind so often in response to differing opinions that he falls into contempt.
 
-If a new prince follows the guidance already laid out, he can look firmly established surprisingly fast—often more secure than someone who inherited power and has held it for years.
+I want to offer a modern example on this subject. Fra Luca, who handled the affairs of Maximilian, the present emperor, said of his majesty: "He consulted no one, yet he never got his own way in anything."
 
-That’s because people watch a newcomer more closely. When his actions show capability, he earns support quickly, and he can bind followers more tightly than “ancient blood” ever could. Most people are pulled more by what’s happening now than by what happened long ago. If the present is good, they settle in, enjoy it, and stop searching for alternatives. And if the prince doesn’t fail them in other ways, they’ll defend him fiercely.
+This happened because the emperor followed a practice opposite to the one I have described. He is a secretive man. He does not share his plans with anyone, and he does not ask for opinions on them.
 
-That creates a kind of double outcome:
+But when he begins to carry out his plans, they become known. The men around him then immediately obstruct them, and since he is easily swayed, he is turned away from his purpose.
 
-- **Double glory** for the new prince who founds a state and then strengthens it—good laws, reliable military power, smart alliances, and a clear public example of competence.  
-- **Double disgrace** for the man born into rule who loses his state because he lacked the judgment to keep it.
+As a result, what he does one day he undoes the next. No one ever understands what he wants or intends to do, and no one can rely on his decisions.
 
-Look at the lords who lost their states in Italy in recent times—the King of Naples, the Duke of Milan, and others. You’ll find a shared weakness, and it starts with **arms**—the military foundations discussed earlier. Beyond that, each case tends to show one of two failures:
+A prince, then, should always take counsel, but only when he chooses, not when others choose. In fact, he should discourage everyone from offering advice unless he asks for it.
 
-- either the prince had **the people against him**,  
-- or, if the people were generally friendly, he failed to **manage and secure the nobles**.
+Even so, he should constantly ask questions and then listen patiently to the answers on the matters he has raised. And if he learns that anyone, for any reason, has not told him the truth, he should make his anger felt.
 
-Without those faults, a state that can put an army in the field doesn’t simply vanish.
+Some people think that a prince who gives an impression of wisdom owes this not to his own ability but to the good advisers around him. They are undoubtedly mistaken.
 
-A historical comparison helps. Philip of Macedon—not Alexander the Great’s father, but the later Philip who fought Titus Quintius—ruled a territory small compared with the power of Rome and the Greek forces aligned against him. Yet because he was a warlike leader who understood how to win popular support and keep the nobles onside, he sustained the conflict for years. Even when he lost control of certain cities, he still held on to his kingdom.
+There is a rule that never fails: a prince who is not wise himself will never take good advice. The only exception is when he happens to hand over his affairs entirely to one person who turns out to be a very prudent man.
 
-So princes shouldn’t blame “fortune” for losing principalities they held for many years. They should blame **their own laziness**. In peaceful times they never imagined circumstances could change. It’s a common human mistake: we don’t prepare for storms when the sky is clear. Then, when trouble arrives, they think first of fleeing rather than defending themselves. They tell themselves the people—once they’re sick of the conqueror’s arrogance—will call the old rulers back.
+In that case he may indeed be well governed, but not for long. Such a governor would soon take the state away from him.
 
-That might happen when all else fails, but it’s a terrible strategy to treat it as your plan. You’d never *choose* to fall just because you hope someone later will restore you. And even if restoration comes, it doesn’t make you safe, because rescue that depends on someone else is weak by nature. The only deliverance that lasts is the one rooted in **your own strength and courage**.
+But if a prince who is not inexperienced takes counsel from more than one person, he will never receive unified advice, nor will he know how to bring it together. Each counsellor will think of his own interests, and the prince will not know how to control them or see through them.
 
----
+Counsellors cannot be found who are any different. Men will always prove false to you unless some necessity forces them to be honest.
 
-## Chapter 25 — What Fortune Can Do in Human Affairs, and How to Resist It
+We must therefore conclude that good advice, wherever it comes from, springs from the wisdom of the prince. The prince's wisdom does not spring from good advice.
 
-Many people believe the world runs on fortune and God in such a way that human wisdom can’t steer events—and that no one can meaningfully help themselves. If that were true, there’d be no point in working hard or planning ahead; you’d just let chance drive.
+## CHAPTER XXIV. WHY THE PRINCES OF ITALY HAVE LOST THEIR STATES
 
-That belief has gained traction in times of upheaval, because we’ve seen enormous changes that seem to arrive out of nowhere, beyond what anyone would predict. And honestly, when you sit with that for long enough, it can be tempting to agree.
+If a new prince follows the advice given so far with care, he will seem well established. In fact, he will quickly become more secure and firmly rooted in his state than if he had ruled there for a long time.
 
-Still, I don’t want to erase human choice. A more accurate view is this: **fortune controls about half of what happens to us**, but it leaves the other half—maybe a little less—to us.
+The reason is that people watch a new prince's actions much more closely than those of a hereditary prince. When they see that he is capable, he wins over more people and binds them to him far more tightly than ancient royal blood could.
 
-Think of fortune like a violent river in flood. When it surges, it spills over the banks, sweeps away trees and buildings, tears up soil, and drags everything downstream. In that moment, nothing stands calmly in its way.
+People care more about the present than the past. When they find the present good, they enjoy it and look no further. They will also defend such a prince with everything they have, provided he does not fail them in other respects.
 
-But the fact that floods happen doesn’t mean people can’t prepare. When weather is fair, they can build embankments and channels—structures that, when the river rises again, guide the water and reduce its damage. The river is still powerful, but it’s less free to destroy.
+So a prince earns double glory when he founds a new principality and then improves and strengthens it with good laws, good armies, good allies, and a good example. In the same way, a man born a prince earns double disgrace when he loses his state through lack of wisdom.
 
-Fortune works the same way. It shows its power most where **courage and preparation** haven’t been built up to resist it. It rushes into the places that have no barriers.
+Consider the rulers who have lost their states in Italy in our own times, such as the King of Naples, the Duke of Milan, and others. First, they all share one common defect concerning their armies, for the reasons discussed at length earlier.
 
-If you look at Italy—the center of the upheavals being discussed—you can see the problem: it’s like an open plain with no defenses. If Italy had been defended with the kind of strength and organization seen in Germany, Spain, or France, either the invasions wouldn’t have caused such dramatic changes, or they wouldn’t have happened at all.
+Second, you will see that some of them either had the people against them, or, if the people were friendly, did not know how to secure the support of the nobles. Without these defects, a state with enough power to keep an army in the field cannot be lost.
 
-That’s enough about fortune in general. Now for the specific point: you can watch a prince go from successful today to ruined tomorrow without any obvious change in his personality. Why?
+Consider Philip of Macedon. I do not mean the father of Alexander the Great, but the Philip who was defeated by Titus Quintius. His territory was small compared with the great power of the Romans and the Greeks who attacked him.
 
-First, as already discussed, a prince who **leans entirely on fortune** collapses when fortune shifts. Second, success often belongs to the prince whose methods **match the moment**—who acts in harmony with the “spirit of the times.” When his habits don’t fit the era, he fails.
+Yet he was a warlike man who knew how to win over the people and secure the nobles. As a result, he held out against his enemies for many years. Although he eventually lost control of some cities, he still kept his kingdom.
 
-People chase the same ends—glory and wealth—by very different routes:
+Our princes, then, should not blame fortune for losing principalities they had held for so many years. They should blame their own idleness. In quiet times they never imagined that anything could change. It is a common human failing not to prepare during calm weather for the coming storm.
 
-- one moves with **caution**, another with **speed**,  
-- one relies on **force**, another on **skill**,  
-- one works by **patience**, another by its opposite.
+When bad times did arrive, these princes thought about escape rather than defense. They hoped that the people, disgusted by the arrogance of the conquerors, would call them back.
 
-And different methods can reach the same goal. You even see two cautious people diverge—one succeeds, one doesn’t. Or two people with opposite styles succeed at the same time. The reason isn’t mystical. It’s whether their way of acting fits the times they’re living in.
+This course may be a reasonable one when everything else has failed. But it is a grave mistake to neglect every other remedy in favor of it. You should never choose to fall in the belief that you will later find someone to restore you.
 
-This is also why changes in political “estate” happen. If someone governs with caution and patience, and circumstances line up with that approach, he thrives. But if circumstances change and he doesn’t change with them, he falls.
+Either that restoration never comes, or, if it does, it will not make you secure. A rescue that does not depend on you is worthless. The only defenses that are reliable, certain, and lasting are those that depend on yourself and your own ability.
 
-Yet most people aren’t flexible enough to adjust. They’re pulled by temperament—they can’t easily act against their nature. And if a person has prospered for years by doing things one way, he struggles to believe that changing course could be necessary. So the cautious man, when the moment demands boldness, often can’t do it. That’s how he gets ruined. If he could pivot with the times, fortune wouldn’t turn against him.
+## CHAPTER XXV. WHAT FORTUNE CAN EFFECT IN HUMAN AFFAIRS AND HOW TO WITHSTAND HER
 
-Pope Julius II is a vivid example. He acted impulsively and aggressively in nearly everything, and the times matched his temperament so well that he kept succeeding.
+I am well aware that many people have believed, and still believe, that the affairs of the world are so completely governed by fortune and by God that human wisdom cannot steer them, and that no one can do anything to help. From this they conclude that there is little point in working hard at our affairs, and that we should simply let chance govern them.
 
-Take his first move against Bologna, when Messer Giovanni Bentivogli was still alive. The Venetians weren’t pleased. The King of Spain wasn’t pleased. Julius was still discussing the plan with the King of France. And yet he didn’t wait—he launched the campaign himself with his usual energy. That boldness froze Spain and the Venetians into hesitation: the Venetians out of fear, Spain out of hope of regaining Naples. Meanwhile, he pulled France along, because the French king—seeing the Pope moving and wanting his friendship in order to humble Venice—couldn’t refuse troops without openly insulting him.
+This opinion has gained more credit in our own time because of the great upheavals we have seen, and still see every day, which no one could have predicted. When I think about this, I am sometimes partly inclined to agree with them.
 
-Julius’s speed and forcefulness achieved what no other pope, relying on cautious “common wisdom,” would have managed. If he had stayed in Rome until every detail was settled and every ally fully committed, as cautious leaders tend to do, he would never have succeeded. France would have generated endless excuses, and the others would have raised endless alarms.
+Nevertheless, so as not to do away with our free will altogether, I hold this to be true: Fortune decides half of our actions, but she still leaves the other half, or perhaps a little less, for us to direct ourselves.
 
-The rest of Julius’s actions followed the same pattern, and they succeeded for the same reason. His short life spared him the moment when his approach would have been the wrong one. But if circumstances had required careful, slow, cautious maneuvering, he would have been ruined—because he would never have stepped outside the methods his nature pushed him toward.
+I compare fortune to one of those violent rivers that, when it floods, overflows the plains. It sweeps away trees and buildings and carries the soil from one place to another. Everything flees before it. Everything gives way to its force, and nothing can withstand it in any way.
 
-So the conclusion is blunt: fortune changes, and human beings tend to stay the same. When your habits match the world you’re in, you succeed. When they clash, you fail.
+Yet even though the river behaves this way, it does not follow that people cannot prepare for it. When the weather is calm, they can build defenses and embankments. Then, when the river rises again, the water can be channeled off through a canal, and its force will be neither so unchecked nor so destructive.
 
-And for my part, I think it’s better to be bold than cautious. Fortune, like a person you’re trying to keep close, often yields more to those who press their advantage than to those who approach coldly.
+Fortune works the same way. She shows her power where no strength and ability have been prepared to resist her. She turns her force toward the places where she knows no embankments or defenses have been built to hold her back.
 
-### Chapter 26 — A Call to Free Italy from the “Barbarians”
+Consider Italy, which is the center of these upheavals and the place that set them in motion. You will see that it is open country, without embankments and without any defense.
 
-I’ve worked through everything I’ve argued in the chapters above, and I keep coming back to one question: **are these times finally ripe for a new leader**—someone with the judgment and grit to build a new political order that would earn lasting honor and, more importantly, actually improve life for the people?
+If Italy had been defended with proper strength and ability, as Germany, Spain, and France are, this invasion would either not have caused the great changes it has caused, or it would not have happened at all. That is enough, I think, on resisting fortune in general.
 
-The more I look at the moment we’re in, the more it seems that **circumstances are lining up in a way that almost never happens**. I don’t remember a time that looked more suited to the rise of a new prince than this one.
+Turning now to particular cases, I say that a prince may be seen prospering today and ruined tomorrow without any change in his temperament or character. I believe this happens, first, for reasons already discussed at length: a prince who relies entirely on fortune is lost when his fortune changes.
 
-Think about how history usually sets the stage for its biggest figures. It’s not that greatness appears out of nowhere. It’s that the world gets pushed into a crisis that *needs* it.
+I also believe that a prince will succeed if he suits his actions to the character of the times, and that one whose actions are out of step with the times will fail.
 
-- The Israelites had to be in captivity for Moses’s ability to become obvious.
-- The Persians had to suffer under the Medes for Cyrus’s ambition and character to have room to show itself.
-- The Athenians had to be scattered for Theseus to prove what he could do.
+The reason is this. Every person pursues the same ends, namely glory and wealth, but people are seen to pursue them by different methods. One acts with caution, another with haste. One uses force, another skill. One relies on patience, another on its opposite. And each may reach the goal by a different method.
 
-In the same way, if Italy is ever going to reveal what an Italian spirit can really do, then—painful as it is to say—Italy had to be brought to the condition she’s in now: **more enslaved than the Hebrews, more squeezed than the Persians, more scattered than the Athenians**. Look around and you see a country with no clear head, no plan, no order—beaten down, robbed, torn apart, invaded, and forced to endure every kind of humiliation.
+You can also see two cautious men, one of whom reaches his goal while the other fails. Likewise, two men can succeed equally by different methods, one being cautious and the other impetuous.
 
-Not long ago, one man seemed to flash like a spark—enough to make people believe he’d been chosen to rescue us. But at the peak of his run, **fortune turned her back on him**. And now Italy lies there like someone half-dead, waiting for the person who can finally do what no one has finished: **close her wounds** and end the steady bleeding.
+All of this comes from nothing other than whether or not their methods suit the character of the times. That is why, as I have said, two men acting differently can produce the same result, while of two men acting alike, one reaches his goal and the other does not.
 
-That means stopping, once and for all:
+Rises and falls in a person's fortunes also come from this. Suppose a man governs himself with caution and patience, and the times and circumstances happen to favor that approach. His conduct succeeds, and his fortune is made. But if the times and circumstances change, he is ruined unless he changes his way of acting.
 
-- the ravaging and looting of Lombardy,
-- the fraud and predatory taxation in the kingdom and in Tuscany,
-- and the long-infected sores of corruption and disorder that have been festering for years.
+Yet it is rare to find a man prudent enough to know how to adapt himself to such a change. There are two reasons. First, he cannot depart from what his nature inclines him to do. Second, having always prospered by acting in one way, he cannot be persuaded that it is wise to abandon it.
 
-You can see it in the air: Italy is begging heaven to send someone who will free her from these injuries and from the arrogance of foreign “barbarians.” And you can see something else, too: **she’s ready**. She’s willing to follow a banner—any banner—if only someone with real authority will raise it.
+So when the time comes for the cautious man to act boldly, he does not know how, and therefore he is ruined. Had he changed his conduct along with the times, his fortune would not have changed.
 
-So who could she reasonably put her hope in right now?
+Pope Julius the Second acted impetuously in all his affairs. He found that the times and circumstances suited that way of acting so well that he always succeeded.
 
-I don’t see anyone more plausible than **your illustrious house**—strong in courage, favored by fortune, supported by God, and backed by the Church, which you now lead. If any family can stand at the head of this redemption, it’s yours.
+Consider his first campaign against Bologna, while Messer Giovanni Bentivogli was still alive. The Venetians did not approve of it, and neither did the King of Spain. Julius was also still negotiating the campaign with the King of France.
 
-And this won’t feel impossible if you keep the lives of those earlier liberators in mind. Yes, Moses, Cyrus, and Theseus were extraordinary. But they were still human. And each of them had no greater “opening” than what this moment offers you. Their missions weren’t more just than this one. They weren’t easier than this one. And God was not more on their side than He is on yours.
+Nevertheless, with his usual boldness and energy, he set out on the expedition in person. This move left Spain and the Venetians hesitant and inactive: the Venetians out of fear, and Spain because it hoped to recover the whole kingdom of Naples.
 
-In fact, the moral case here is unusually straightforward. **A war is just when it is necessary**, and when there is no realistic hope except through arms, then arms take on a kind of legitimacy they don’t otherwise have. Here, the willingness of the people is immense—and when willingness is high, difficulty shrinks, *if* you follow the model of those leaders I’ve pointed to.
+At the same time, Julius drew the King of France along behind him. The king had seen the Pope set out, and he wanted to make the Pope his friend so that he could humble the Venetians. He therefore found it impossible to refuse him.
 
-And notice something else. In these stories, the extraordinary doesn’t replace human effort; it *supports* it. Scripture describes seas dividing, clouds guiding the way, rocks pouring out water, manna falling from the sky—everything arranged to make the path possible. But the final step is always left to human hands. **God doesn’t do everything**, because if He did, He’d erase our freedom—and with it, the share of glory that belongs to us.
+So Julius, by acting impetuously, accomplished what no other pope could have done with ordinary human prudence. If he had waited in Rome until he could leave with his plans settled and everything arranged, as any other pope would have done, he would never have succeeded. The King of France would have made a thousand excuses, and the others would have raised a thousand fears.
 
-So don’t be surprised that none of the Italians we’ve seen recently have managed to do what your house is now being asked to do. With all Italy’s upheavals and all her campaigns, it’s looked as if military excellence has simply burned out. But the real reason is simpler: **the old political order was rotten**, and no one has known how to build a new one in its place.
+I will leave aside his other actions, since they were all of the same kind and all succeeded. The shortness of his life did not let him experience the opposite.
 
-And nothing brings a person more honor than this: **creating new laws and new institutions** at the moment he rises to power. When those reforms are solid and dignified, they make him respected—and even admired. And Italy, right now, has no shortage of places where that kind of rebuilding could take root.
+But if circumstances had arisen that required him to proceed cautiously, his ruin would have followed. He would never have departed from the ways to which his nature inclined him.
 
-Here’s the paradox of Italy: **the strength is in the arms and legs, but the weakness is in the head.** Watch Italians in duels and hand-to-hand fights. You’ll see it immediately: strength, agility, sharpness, finesse. But when they’re organized into armies, they don’t compare well with others. That failure comes almost entirely from leadership.
+I conclude, therefore, that since fortune changes while people remain fixed in their ways, people succeed as long as the two agree, and fail when they come into conflict.
 
-- The leaders who are capable aren’t obeyed.
-- Everyone thinks he knows better.
-- No single commander has stood out so clearly—through either skill or luck—that others willingly fall in line.
+For my part, I consider it better to be bold than cautious. Fortune is a woman, and if you want to keep her under control, you must beat her and treat her roughly. We see that she lets herself be mastered by the bold rather than by those who proceed more coldly.
 
-That’s why, for so long—especially across the fighting of the last twenty years—whenever an army has been purely Italian, it has performed badly. The record is there for anyone to read in the defeats and humiliations at places like Taro, Alessandria, Capua, Genoa, Vaila, Bologna, and Mestre.
+Therefore, like a woman, she is always a friend to young men, because they are less cautious, more forceful, and command her with greater daring.
 
-So if your house truly wants to follow the path of those who redeemed their countries, you must start with the foundation that every serious project requires: **your own forces**. Nothing will ever be more loyal, more dependable, or ultimately better than soldiers who are your own.
+## CHAPTER XXVI. AN EXHORTATION TO LIBERATE ITALY FROM THE BARBARIANS
 
-Individually, Italians fight well. Collectively, they’ll fight far better when they are:
+I have carefully considered everything discussed in the chapters above. I have also asked myself whether the present times favour a new prince. Are there conditions that would allow a wise and capable ruler to introduce a new order, one that would bring honour to him and benefit to the people of this country?
 
-- commanded by their prince,
-- honored by him,
-- and supported at his expense.
+My answer is that so many circumstances now combine in a new prince's favour that I have never known a time better suited to one than the present.
 
-Build that kind of force, and you can defend Italy against foreigners with Italian courage.
+Earlier I said that the people of Israel had to be held captive so that the ability of Moses could be revealed. The Persians had to be oppressed by the Medes so that the greatness of Cyrus's spirit could be discovered. The Athenians had to be scattered so that the capabilities of Theseus could be shown.
 
-Now, people will tell you that Swiss and Spanish infantry are terrifying. And yes—they’re formidable. But both have weaknesses, and a **third kind of infantry**, designed with those flaws in mind, could not only stand up to them but even defeat them.
+If that is true, then in our own time Italy had to be brought to her present extremity so that the excellence of an Italian spirit could be revealed. She had to become more enslaved than the Hebrews, more oppressed than the Persians, and more scattered than the Athenians. She had to be left without a leader and without order, beaten, plundered, torn apart, and overrun, and she had to endure every kind of devastation.
 
-Here are the cracks:
+Recently one man showed a spark of promise that made us think God had chosen him to redeem us. Later, however, at the height of his career, fortune cast him aside.
 
-- **Spaniards don’t hold up against cavalry.**
-- **Swiss fear infantry when the fight collapses into close, grinding contact.**
+So Italy, left almost lifeless, is still waiting for someone to heal her wounds. She waits for someone to end the ravaging and plundering of Lombardy and the swindling and heavy taxation of the Kingdom of Naples and of Tuscany, and to cleanse the sores that have festered for so long.
 
-We’ve seen this pattern before. Spanish foot soldiers struggle against French cavalry. Swiss formations get broken by infantry. And even if the Swiss point hasn’t been demonstrated in every possible way, there has been a strong hint: at Ravenna, Spanish infantry met German battalions trained in Swiss-style tactics. The Spaniards used speed and their shields to slip under the Germans’ pikes, keep themselves safe, and strike. The Germans, stuck and helpless, couldn’t respond—and if cavalry hadn’t arrived, the outcome would have been decisive.
+Italy can be seen praying to God to send someone who will deliver her from these wrongs and from the insolence of the barbarians. She can also be seen ready and willing to follow a banner, if only someone will raise it.
 
-So yes: if you understand the weaknesses of both styles, you can design an infantry that **isn’t vulnerable to cavalry** and **isn’t intimidated by infantry**. You don’t need to invent warfare from scratch. You need to **improve the old system with smart variations**.
+At present there is no one in whom she can place more hope than your illustrious house. It has courage and good fortune. It is favoured by God and by the Church, of which it is now the head. Your house could therefore become the leader of this redemption.
 
-And that—exactly that—is the kind of innovation that builds a new prince’s reputation and power.
+This will not be difficult if you call to mind the actions and lives of the men I have named. They were great and remarkable men, but they were still men. None of them had a better opportunity than the present one offers. Their undertakings were neither more just nor easier than this one, and God was no more their friend than He is yours.
 
-So don’t let this moment pass. Let Italy finally see her liberator step into view.
+Our cause has great justice on its side, because a war that is necessary is just, and arms are sacred when there is no hope except in them.
 
-It’s hard to put into words how deeply he would be loved in every province that has suffered under foreign invasions—how intense the hunger for payback would be, how stubborn the faith, how raw the devotion, how many tears would greet him. What gate would be shut to him? Who would refuse to obey? What jealousy could block him? What Italian would deny him loyalty? This foreign domination disgusts everyone.
+The willingness here is also very great. Where willingness is great, the difficulties cannot be great, provided that you follow the example of the men I have pointed out to you.
 
-So take up this cause with the courage and hope that belong to just undertakings. If you do, then under your banner Italy can regain her dignity—and under your protection Petrarch’s line can finally become true:
+Beyond this, the ways of God have been shown in extraordinary signs, beyond any precedent. The sea has been divided. A cloud has led the way. The rock has poured out water. Manna has rained down. Everything has contributed to your greatness.
 
-*Virtue will take up arms against Fury, and the fight will be short—because the old valor has not yet died in Italian hearts.*
+You must do the rest. God does not wish to do everything, because that would take away our free will and the share of glory that belongs to us.
+
+It is not surprising that none of the Italians I mentioned earlier have been able to achieve what is now expected of your illustrious house. Nor is it surprising that, through so many upheavals in Italy and so many campaigns, Italian military skill has always seemed exhausted.
+
+This has happened because the old order of things was not good, and none of us has known how to find a new one.
+
+Nothing brings a man more honour than establishing new laws and new institutions when he himself has newly risen to power. When such things are well founded and carry dignity, they make him revered and admired. In Italy there is no lack of opportunities to introduce them in every form.
+
+Italy has great strength in her limbs but lacks it in her head. Look closely at duels and at hand-to-hand fights. There you will see how much the Italians excel in strength, skill, and cleverness.
+
+When it comes to armies, however, they cannot compare. This comes entirely from the weakness of their leaders. Those who are capable will not obey, and each one believes that he knows best. No one has ever stood out so far above the rest, in either ability or fortune, that the others would give way to him.
+
+This is why, for so long and through so much fighting over the past twenty years, every army made up entirely of Italians has performed poorly. The first witness to this is Il Taro, followed by Allesandria, Capua, Genoa, Vaila, Bologna, and Mestri.
+
+If your illustrious house wishes to follow these remarkable men who redeemed their countries, it must first of all provide itself with its own forces. This is the true foundation of every undertaking, because there can be no more faithful, truer, or better soldiers.
+
+Even if each of these soldiers is good on his own, together they will be much better when they are commanded by their prince, honoured by him, and paid at his expense. You must therefore be prepared with forces of this kind, so that you can defend yourself against foreigners with Italian courage.
+
+Swiss and Spanish infantry may be considered very formidable. Yet each has a weakness, and because of it a third kind of infantry could not only stand against them but could be counted on to defeat them.
+
+The Spanish cannot withstand cavalry, and the Swiss are afraid of infantry whenever they meet it in close combat. As a result, as has been seen and may be seen again, the Spanish cannot hold out against French cavalry, and the Swiss are defeated by Spanish infantry.
+
+The second point has not been fully proved, but there was some evidence for it at the battle of Ravenna. There the Spanish infantry faced German battalions, which use the same tactics as the Swiss.
+
+The Spanish, using their physical agility and their shields, got in underneath the Germans' pikes. There they stood safe from harm and able to attack, while the Germans were helpless. If the cavalry had not charged in, the Germans would have been finished.
+
+Knowing the weaknesses of both these kinds of infantry, it is therefore possible to devise a new one that can resist cavalry and is not afraid of other infantry. This does not require creating an entirely new type of army, only a variation on the old one. Improvements of this kind are what bring reputation and power to a new prince.
+
+This opportunity, then, must not be allowed to pass. Italy must at last see her liberator appear.
+
+No words can express the love with which he would be received in all the provinces that have suffered so much from these foreign invasions. He would be met with a thirst for revenge, with unshakable loyalty, with devotion, and with tears.
+
+What door would be closed to him? Who would refuse to obey him? What envy would stand in his way? What Italian would refuse to honour him? This barbarian rule stinks to all of us.
+
+Let your illustrious house, therefore, take up this task with the courage and hope with which all just undertakings are begun. Then under its banner our native land may be made noble again, and under its guidance the words of Petrarch may come true:
+
+> Virtu contro al Furore  
+> Prendera l’arme, e fia il combatter corto:  
+> Che l’antico valore  
+> Negli italici cuor non e ancor morto.
+>
+> Virtue against fury shall advance the fight,  
+> And it in the combat soon shall put to flight:  
+> For the old Roman valour is not dead,  
+> Nor in the Italians’ breasts extinguished.
+>
+> Edward Dacre, 1640.

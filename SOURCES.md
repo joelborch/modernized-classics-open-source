@@ -10,3 +10,6 @@ from the original work. Document the cover creator and applicable license.
 
 Keep input EPUBs, archives and pipeline working files outside Git. Follow
 [CONTRIBUTING.md](CONTRIBUTING.md) for the review and submission workflow.
+
+The [2026 catalog source inventory](docs/catalog-sources-2026.md) records the
+selected editions, component works and cover provenance for the current refresh.
