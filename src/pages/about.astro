@@ -1,8 +1,10 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { getFormConfig } from "../lib/form-config";
 
 const books = await getCollection("books");
+const form = getFormConfig();
 const title = "Colophon";
 const description = "How Modernized Classics editions are made: public-domain sources, a machine rewrite into modern English, a fail-closed check of every passage against the original, and an open-source pipeline anyone can run.";
 
@@ -111,7 +113,13 @@ const faqs = [
       <p>
         Suggestions, corrections, and questions are welcome. A reply may take a few days.
       </p>
-      <form id="contact-form" method="POST" class="contact">
+      <form
+        id="contact-form"
+        method="POST"
+        class="contact"
+        data-endpoint={form.submissionEndpoint}
+        data-form-id={form.formId}
+      >
         <label>
           <span class="t-label">Name</span>
           <input type="text" id="name" name="name" required autocomplete="name" />
@@ -124,7 +132,22 @@ const faqs = [
           <span class="t-label">Message</span>
           <textarea id="message" name="message" rows="5" required></textarea>
         </label>
-        <div class="cf-turnstile contact-wide" data-sitekey="0x4AAAAAABRmRR5dqJGZRe6K" data-theme="auto"></div>
+        <div
+          id="contact-turnstile"
+          class="cf-turnstile contact-wide"
+          data-sitekey={form.turnstileSiteKey}
+          data-action={form.turnstileAction}
+          data-theme="auto"
+        ></div>
+        {/* The handler drops a submission that fills this in. Readers never see it. */}
+        <input
+          type="text"
+          name="classics_contact_website"
+          class="contact-honeypot"
+          tabindex="-1"
+          autocomplete="off"
+          aria-hidden="true"
+        />
         <div class="contact-wide contact-actions">
           <button type="submit" id="submit-btn" class="action action-primary">Send</button>
           <p id="form-feedback" class="t-meta contact-feedback" role="status" hidden></p>
@@ -135,29 +158,65 @@ const faqs = [
 </BaseLayout>
 
 <script>
+  import { submitForm } from "../scripts/form-transport";
+
+  type Turnstile = { reset: (container?: HTMLElement | string) => void };
+
   function initContactForm() {
     const form = document.getElementById('contact-form') as HTMLFormElement | null;
     const feedback = document.getElementById('form-feedback') as HTMLParagraphElement | null;
     const submit = document.getElementById('submit-btn') as HTMLButtonElement | null;
+    const turnstileBox = document.getElementById('contact-turnstile');
     if (!form || !feedback || !submit) return;
-    form.action = atob('aHR0cHM6Ly9zdWJtaXQtZm9ybS5jb20vNjhrMHpNSWxx');
+
+    const endpoint = form.dataset.endpoint ?? '';
+    const formId = form.dataset.formId ?? '';
+    // The handler reads this as a spam signal: a form filled impossibly fast
+    // was not filled by a reader.
+    let openedAt = Date.now();
+
+    const show = (message: string, state: 'ok' | 'error') => {
+      feedback.textContent = message;
+      feedback.dataset.state = state;
+      feedback.hidden = false;
+    };
 
     form.addEventListener('submit', async (event) => {
       event.preventDefault();
       submit.textContent = 'Sending…';
       submit.disabled = true;
       feedback.hidden = true;
-      try {
-        const response = await fetch(form.action, { method: 'POST', body: new FormData(form) });
-        if (!response.ok) throw new Error(String(response.status));
-        feedback.textContent = 'Sent. Thank you; we read everything.';
-        feedback.dataset.state = 'ok';
+
+      const values = new FormData(form);
+      const result = await submitForm({
+        endpoint,
+        payload: {
+          formId,
+          name: String(values.get('name') ?? ''),
+          email: String(values.get('email') ?? ''),
+          message: String(values.get('message') ?? ''),
+          classics_contact_website: String(values.get('classics_contact_website') ?? ''),
+          'cf-turnstile-response': String(values.get('cf-turnstile-response') ?? ''),
+          fill_ms: Date.now() - openedAt,
+          sourceUrl: window.location.href,
+          submittedAt: new Date().toISOString(),
+        },
+      });
+
+      if (result.outcome === 'success') {
         form.reset();
-      } catch {
-        feedback.textContent = 'That did not send. Check your connection and try once more, or email us from the repository page.';
-        feedback.dataset.state = 'error';
+        openedAt = Date.now();
+        show('Sent. Thank you; we read everything.', 'ok');
+      } else {
+        // Server text is written with textContent, never as HTML.
+        show(result.message, 'error');
       }
-      feedback.hidden = false;
+
+      // The Turnstile token is single use, so the widget is reset after every
+      // response: without this a second attempt posts a spent token.
+      const turnstile = (window as unknown as { turnstile?: Turnstile }).turnstile;
+      if (turnstile && turnstileBox) turnstile.reset(turnstileBox);
+
       submit.textContent = 'Send';
       submit.disabled = false;
     });
@@ -196,6 +255,10 @@ const faqs = [
   }
   @media (min-width: 640px) { .contact { grid-template-columns: 1fr 1fr; } .contact-wide { grid-column: 1 / -1; } }
   .contact label { display: grid; gap: 0.4rem; }
+  .contact-honeypot {
+    position: absolute; left: -9999px; width: 1px; height: 1px;
+    opacity: 0; pointer-events: none;
+  }
   .contact input, .contact textarea {
     font: inherit; font-size: 1rem; color: var(--ink-10);
     background: transparent; border: 0; border-bottom: 1px solid var(--ink-5);
