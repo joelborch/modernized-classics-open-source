@@ -46,10 +46,10 @@ matches the submitting page.
 
 The sitekey is the shared "Modernized Books Contact form" widget, which several
 Dentistry Brands sites use; `modernizedclassicsbooks.com` is on its hostname
-list, so the live site is covered (Turnstile accepts subdomains of a listed
-hostname, so `www.` is too). `joel-a67.workers.dev` is **not** on that list, so
-the widget will not issue a usable token on a Workers preview: test the form on
-the live host, or add the preview hostname to the widget first. A sitekey whose
+list, so the live site is covered, and `joel-a67.workers.dev` was added on
+2026-10-22 so Workers previews can issue a usable token too. Turnstile accepts
+subdomains of a listed hostname, which is what covers `www.` and
+`modernized-classics-open-source.joel-a67.workers.dev`. A sitekey whose
 hostnames exclude the live site stops the form.
 
 ## Testing
