@@ -42,10 +42,15 @@ is not worth capturing in a shared spreadsheet on those terms.
 The endpoint and sitekey are public by design: every write is gated server-side
 by the Turnstile secret, which exists only in the Worker. The handler also
 requires the Turnstile action `classics_contact` and an attested hostname that
-matches the submitting page, so the sitekey's hostname list must cover
-`modernizedclassicsbooks.com`, `www.modernizedclassicsbooks.com` and the
-`modernized-classics-open-source.joel-a67.workers.dev` preview host. A sitekey
-whose hostnames exclude the live site stops the form.
+matches the submitting page.
+
+The sitekey is the shared "Modernized Books Contact form" widget, which several
+Dentistry Brands sites use; `modernizedclassicsbooks.com` is on its hostname
+list, so the live site is covered (Turnstile accepts subdomains of a listed
+hostname, so `www.` is too). `joel-a67.workers.dev` is **not** on that list, so
+the widget will not issue a usable token on a Workers preview: test the form on
+the live host, or add the preview hostname to the widget first. A sitekey whose
+hostnames exclude the live site stops the form.
 
 ## Testing
 
