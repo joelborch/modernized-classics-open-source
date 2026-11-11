@@ -129,7 +129,15 @@ const textHtml = (await Astro.slots.render('default')).replace(
           EPUB
         </a>
         {audioHref && (
-          <a href={audioHref} target="_blank" rel="noopener noreferrer" class="band-download">
+          <a
+            href={audioHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="band-download"
+            data-audio-download
+            data-book-slug={slug}
+            data-book-title={title}
+          >
             <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4zM14 7a4 4 0 010 6M16 5a7 7 0 010 10" /></svg>
             Audio, MP3
           </a>
@@ -210,6 +218,9 @@ const textHtml = (await Astro.slots.render('default')).replace(
 
 <script>
   import '../scripts/reader';
+  import { trackAudioDownloads } from '../scripts/audio-analytics';
+
+  trackAudioDownloads(document);
 </script>
 
 <style>
