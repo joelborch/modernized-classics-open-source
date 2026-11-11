@@ -46,6 +46,8 @@ export default defineConfig({
   integrations: [
     react(),
     sitemap(),
-    partytown({ config: { forward: ['dataLayer.push'] } })
+    // `gtag` is forwarded so page code can send GA4 events: the call runs the
+    // worker's gtag, which pushes a real `arguments` object onto dataLayer.
+    partytown({ config: { forward: ['dataLayer.push', 'gtag'] } })
   ]
 });
