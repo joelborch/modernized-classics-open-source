@@ -7,11 +7,6 @@ const booksRoot = path.join(process.cwd(), 'src/content/books');
 
 // Every exception needs a reason. Remove an entry as soon as the text is fixed.
 const ALLOWANCES: Record<string, BookTextAllowance[]> = {
-  'critique-of-pure-reason': [
-    { kind: 'duplicate', startsWith: 'Now, since this analytical procedure', reason: 'Kant reused this passage in the 1787 Introduction; the book prints both editions\' Introductions.' },
-    { kind: 'duplicate', startsWith: 'In the concept of "something that happens,"', reason: 'Same: first- and second-edition Introductions.' },
-    { kind: 'duplicate', startsWith: 'How then do I come to say something quite different', reason: 'Same: first- and second-edition Introductions.' },
-  ],
   walden: [
     { kind: 'duplicate', startsWith: 'Let us settle ourselves, and work and wedge our feet downward', reason: 'The introduction quotes the passage that appears later in the text.' },
   ],
@@ -20,7 +15,6 @@ const ALLOWANCES: Record<string, BookTextAllowance[]> = {
 // Books whose text is known to be broken and is being repaired separately.
 const PENDING: Record<string, string> = {
   leviathan: 'Parts III–IV are overlapping, out-of-order chunks and the text is heavily condensed; being redone.',
-  'critique-of-pure-reason': 'Stops after the Introduction; being redone from its catalogued source.',
   'economic-consequences-of-the-peace': 'Tables were summarized or altered and notes about the prompt remain; being checked against the source.',
   'communist-manifesto-and-das-kapital': 'Das Kapital chapters I–XI are missing, so chapter numbering restarts; being filled in.',
 };
