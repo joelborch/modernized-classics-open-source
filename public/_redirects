@@ -36,12 +36,9 @@
 /books/interpretation-of-dreams/* /library 302
 /downloads/interpretation-of-dreams.epub /library 302
 
-# Critique of Pure Reason: temporarily withdrawn while its source is reviewed (302, not permanent)
-/books/critique-pure-reason /library 302
-/books/critique-pure-reason/* /library 302
-/books/critique-of-pure-reason /library 302
-/books/critique-of-pure-reason/* /library 302
-/downloads/critique-of-pure-reason.epub /library 302
+# Critique of Pure Reason: missing "of"
+/books/critique-pure-reason /books/critique-of-pure-reason 301
+/books/critique-pure-reason/* /books/critique-of-pure-reason/:splat 301
 
 # The Economic Consequences of the Peace: add missing mappings
 /books/economic-consequences-of-peace /books/economic-consequences-of-the-peace 301
