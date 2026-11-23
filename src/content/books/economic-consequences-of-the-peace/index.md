@@ -1034,7 +1034,7 @@ Thus, the Economic Clauses of the Treaty were thorough. Little was overlooked th
 
 This section explains how the demands for **Reparation** (payments for war damages) from Germany were determined.
 
-**I. Promises Made Before Peace Talks**
+### I. Promises Made Before Peace Talks
 
 The types of damage the Allies could claim from Germany were based on:
 * President Wilson’s Fourteen Points from January 8, 1918.
@@ -1208,7 +1208,7 @@ This amount would have provided an immediate and definite solution. If Germany h
 
 But the issue was not decided based on what was most sensible.
 
-## **II. The Peace Conference and the Treaty Terms**
+### II. The Peace Conference and the Treaty Terms
 
 I don't believe that when the Armistice was signed, responsible leaders in the Allied countries expected Germany to pay for anything beyond the cost of repairing direct physical damage. This damage was caused by the invasion of Allied territory and the submarine attacks.
 At that time, there were serious doubts about whether Germany would even accept our terms. In other ways, these terms were already very harsh. It would have seemed like a bad political move to risk continuing the war by demanding a money payment that Allied public opinion wasn't expecting at the time and that probably couldn't be collected anyway.
@@ -1289,7 +1289,7 @@ This was the atmosphere when the Prime Minister left for the Paris Peace Confere
 He had committed himself and his government to make demands on a helpless enemy. These demands went against solemn agreements Britain had made. The enemy had laid down its weapons trusting these agreements.
 History will find it hard to forgive this episode. A war supposedly fought to protect the sacredness of international agreements ended with the victorious defenders of these ideals breaking one of the most sacred agreements possible.
 
-### **The True Problems Facing Europe**
+#### The True Problems Facing Europe
 
 Beyond other aspects of this situation, I believe the campaign to make Germany pay the general costs of the war was one of the most serious acts of political foolishness our leaders have ever been responsible for.
 Europe might have had a much different future if either Mr. Lloyd George (the British Prime Minister) or Mr. Wilson (the US President) had understood the most serious problems. They needed to see that these problems were not political or about territory, but financial and economic. The dangers of the future were not about borders or national power, but about **food, coal, and transportation**.
@@ -1303,7 +1303,7 @@ Yet, greed could not solve the financial problems that were about to trouble Eur
 If Europe is to survive its troubles, it will need a great deal of generosity from America. Therefore, Europe must also practice generosity itself. It is useless for the Allies, fresh from stripping Germany and each other, to turn to the United States for help to get European countries, including Germany, back on their feet.
 If the General Election of December 1918 had been fought on principles of wise generosity instead of foolish greed, Europe's financial future might be much better now.
 
-### **A Proposed Alternative Path**
+#### A Proposed Alternative Path
 
 I still believe that before the main Peace Conference, or very early in its meetings, Great Britain's representatives should have deeply discussed the whole economic and financial situation with the United States.
 Britain should have been authorized to make concrete proposals along these general lines:
@@ -1317,7 +1317,7 @@ Such proposals would have required an appeal to the generosity of the United Sta
 These proposals would have been practical. There is nothing unrealistic or overly idealistic about them. And they would have given Europe some hope for financial stability and rebuilding.
 However, I will discuss these ideas further in Chapter VII. We must now return to the events in Paris.
 
-### **The Difficult Position of Allied Finance Ministers**
+#### The Difficult Position of Allied Finance Ministers
 
 I have described the complicated situation Mr. Lloyd George took with him to Paris. The position of the finance ministers of the other Allied countries was even worse.
 In Great Britain, we had not based our financial plans on expecting any large payment from Germany. Money from such a source would have been like an unexpected bonus. Despite later developments, there was an expectation at that time that Britain could balance its budget through normal methods.
@@ -1330,14 +1330,14 @@ It became impossible to build any workable, constructive financial policy on suc
 For this reason, among others, a generous financial policy was essential. The financial position of France and Italy was so bad that it was impossible to make them listen to reason about German payments unless one could also show them some other way out of their troubles.
 In my opinion, the representatives of the United States were greatly at fault for offering no constructive proposals at all to a suffering and confused Europe.
 
-### **Conflicting French Aims: Clemenceau vs. Klotz**
+#### Conflicting French Aims: Clemenceau vs. Klotz
 
 It is worth noting another factor in the situation: the conflict between the "crushing" policy of Mr. Clemenceau (the French Prime Minister) and the financial needs of Mr. Klotz (the French Finance Minister).
 Clemenceau’s goal was to weaken and destroy Germany in every possible way. I imagine he was always a bit dismissive of the indemnity (the payment from Germany). He had no intention of leaving Germany in a position to engage in large-scale international trade.
 But he didn't bother to understand either the indemnity issue or poor Mr. Klotz’s overwhelming financial difficulties. If it amused the financiers to put some very large demands in the Treaty, well, there was no harm in that. But satisfying these demands must not be allowed to interfere with the essential requirements of a **Carthaginian Peace** – a peace settlement so harsh that it completely destroys the enemy.
 The combination of Mr. Clemenceau's "real" policy (focused on crushing Germany) applied to unrealistic financial issues, with Mr. Klotz's policy of pretending on what were very real financial issues, led to a whole set of incompatible provisions in the Treaty. This was on top of the already impossible nature of the reparation proposals.
 
-### **The Troubled Negotiations**
+#### The Troubled Negotiations
 
 I cannot describe here the endless arguments and plotting between the Allies themselves. After some months, these finally led to presenting Germany with the Reparation Chapter in its final form.
 There can have been few negotiations in history so twisted, so miserable, and so completely unsatisfactory to everyone involved. I doubt if anyone who took a major part in that debate can look back on it without shame.
@@ -1358,7 +1358,7 @@ The actual compromise finally reached can be read in the following paragraphs of
 
 So far, however, this is all just a matter of words, of clever legal drafting. It doesn't harm anyone and probably seemed much more important at the time than it ever will again. For the real substance, we must look at Annex I.
 
-### **Analyzing Annex I: What Germany Would Pay For**
+#### Analyzing Annex I: What Germany Would Pay For
 
 A large part of Annex I strictly follows the pre-Armistice conditions, or at least doesn't stretch them beyond what is fairly arguable.
 * **Paragraph 1** claims for injuries to civilians, or to their dependents if they died, as a direct result of acts of war.
@@ -1371,7 +1371,7 @@ All these demands are just and in line with the Allies' rights.
 
 * **Paragraph 4**, which claims for "damage caused by any kind of maltreatment of prisoners of war," is more questionable if we stick strictly to the letter of the agreements. However, it might be justifiable under the Hague Convention (international rules of warfare) and involves a very small amount of money.
 
-### **The Controversial Claims: Pensions and Allowances**
+#### The Controversial Claims: Pensions and Allowances
 
 However, **Paragraphs 5, 6, and 7** involve an issue of immensely greater importance. These paragraphs demand payment for:
 * The amount of **Separation Allowances** (money paid to families of soldiers who were mobilized) granted by Allied Governments during the war.
@@ -1392,7 +1392,7 @@ In any case, the appeals to sentiment and fairness mentioned above are hollow. I
 But the main point is that it was too late to consider whether the pre-Armistice conditions were perfectly wise and logical, or to change them. The only question was whether these conditions were, in fact, limited to direct damage to civilians and their property, as described in Paragraphs 1, 2, 3, 8, 9, and 10 of Annex I.
 If words have any meaning, or agreements have any force, we had no more right to claim for these government war expenses (pensions and separation allowances) than for any other general costs of the war. And who is prepared to argue in detail that we were entitled to demand those general costs?
 
-### **A Political Compromise**
+#### A Political Compromise
 
 What had really happened was a compromise. It was a compromise between the Prime Minister's pledge to British voters to claim the entire costs of the war, and the opposite pledge the Allies had given to Germany at the Armistice.
 * The Prime Minister could claim that although he had not gotten the entire costs of the war, he had still secured an important contribution towards them. He could say he had always qualified his promises by stating that Germany's ability to pay was a limiting factor, and that the bill now presented more than used up this capacity, according to more sober estimates.
@@ -1402,7 +1402,7 @@ Given the Prime Minister's election pledges, President Wilson could hardly hope 
 
 A further point of great difficulty can be easily seen between the lines of the Treaty. It fixes no definite sum as representing Germany’s liability.
 
-### **The Problem of Not Naming a Total Amount**
+#### The Problem of Not Naming a Total Amount
 
 Many people have criticized the fact that the Treaty doesn't name a final sum for reparations. This is inconvenient for both Germany and the Allies. Germany doesn't know how much it has to pay, and the Allies don't know how much they will receive.
 The method the Treaty seems to suggest for figuring out the total amount is clearly impractical. It involves adding up hundreds of thousands of individual claims for damage to land, farm buildings, and even chickens over many months.
@@ -1418,7 +1418,7 @@ Trying to set a figure for either of these created a dilemma:
 
 Therefore, the safest option for the politicians was to mention no figure at all. This necessity is a major reason why the Reparation Chapter of the Treaty is so complicated.
 
-### **Author's Estimate of Total Claims Including Pensions**
+#### Author's Estimate of Total Claims Including Pensions
 
 You might be interested in my estimate of the claim that can actually be justified under Annex I of the Reparation Chapter.
 Earlier, I guessed the claims *not* including pensions and separation allowances to be, at the very most, $15 billion.
@@ -1444,7 +1444,7 @@ I believe this figure is certainly high enough. The actual amount, if calculated
 
 In the next part, I will examine how this $40 billion figure relates to Germany's actual ability to pay. For now, it's important to remember a few other details from the Treaty that speak for themselves:
 
-### **Specific Payment Demands in the Treaty**
+#### Specific Payment Demands in the Treaty
 
 1.  **Initial Payment:** Out of the total claim, whatever it turns out to be, Germany must pay **$5 billion before May 1, 1921.**
     * This sum includes the costs of the Allied armies occupying Germany since the Armistice (a large expense, around $1 billion, which Germany is responsible for under Article 249 of the Treaty).
@@ -1491,7 +1491,7 @@ Therefore, until the Treaty is changed, Germany has effectively agreed to hand o
 
 The Treaty gives other highly significant functions and powers to the Reparation Commission. But it will be more convenient to deal with these in a separate section.
 
-## **III. Germany’s Capacity to Pay**
+### III. Germany’s Capacity to Pay
 
 Germany can make the payments she has agreed to in three main ways:
 1.  **Immediately transferable wealth:** This includes gold, ships, and foreign investments.
@@ -1500,7 +1500,7 @@ Germany can make the payments she has agreed to in three main ways:
 
 Excluded from this list is the actual return of property that was removed from territory occupied by Germany. Examples include Russian gold, Belgian and French investments, cattle, machinery, and works of art. If the actual stolen goods can be identified and returned, they must clearly go back to their rightful owners. They cannot be included in the general reparation payments. Article 238 of the Treaty specifically states this.
 
-### **1. Immediately Transferable Wealth**
+#### 1. Immediately Transferable Wealth
 
 **(a) Gold**
 After subtracting the gold that was to be returned to Russia, the official amount of gold held by the German central bank (Reichsbank) on November 30, 1918, was about $577 million. This was much larger than the amount the Reichsbank held before the war (which was $339 million on July 23, 1914). The increase was due to a strong campaign in Germany during the war. People were urged to surrender not only gold coins but also gold ornaments of all kinds to the Reichsbank.
@@ -1583,7 +1583,7 @@ To summarize Germany's immediately transferable wealth:
 
 Considering that it's not feasible to take much of the gold and silver without harming Allied interests, the total contribution from all these sources that the Reparation Commission can hope to get by May 1921, is likely between **$1.25 billion and $1.75 billion at most.**
 
-### **2. Property in Ceded Territory or Surrendered Under the Armistice**
+#### 2. Property in Ceded Territory or Surrendered Under the Armistice
 
 As the Treaty is written, Germany will not receive significant credits towards reparations for its property in territories it had to give up.
 * **Private property** in most ceded territories is used to pay off private German debts to Allied citizens. Only any surplus is available for reparations. The value of such property in Poland and other new states is paid directly to the owners.
@@ -1615,7 +1615,7 @@ Since Belgium has a private agreement with France, the United States, and Great 
 **Belgium may possibly get its $500 million by May 1921, but none of the other Allies are likely to get any contribution worth mentioning by that date.**
 At any rate, it would be very unwise for Finance Ministers to base their plans on any other assumption.
 
-### **3. Annual Payments Spread Over a Term of Years**
+#### 3. Annual Payments Spread Over a Term of Years
 
 It is clear that Germany’s pre-war ability to pay an annual tribute abroad has been greatly affected by many factors:
 * The almost total loss of its colonies, overseas connections, merchant fleet, and foreign properties.
@@ -1643,7 +1643,7 @@ This way, Germany can create a larger trade surplus (the difference between expo
 In the long run, Germany can pay only with goods, and nothing else. These goods can either be given directly to the Allies, or they can be sold to neutral countries, with the money earned then given to the Allies.
 Therefore, the most solid way to estimate how much Germany can pay is to analyze its trade figures from before the war. Only by looking at this analysis, along with some general information about the country's ability to produce wealth, can we make a reasonable guess about the maximum amount by which Germany’s exports could exceed its imports.
 
-### **Germany's Pre-War Trade Balance**
+#### Germany's Pre-War Trade Balance
 
 In 1913, Germany’s imports were $2.69 billion, and its exports were $2.525 billion. This does not include goods just passing through the country or trade in gold and silver. So, in 1913, imports were about $165 million more than exports.
 However, if we look at the average for the five years ending in 1913, Germany's imports exceeded its exports by a much larger amount: $370 million per year.
@@ -1657,7 +1657,7 @@ Now, Germany's foreign properties and its merchant ships are to be taken away. I
 So, if Germany's exports and imports were to remain at pre-war levels, it would be far from having a surplus to make foreign payments. In fact, it would not even be self-supporting.
 Germany's first task, therefore, must be to change its consumption and production to cover this deficit. Any further savings it can make by using fewer imported goods, and any further increase in its exports, will then be available for reparation payments.
 
-### **Analyzing Germany's Key Exports and Imports**
+#### Analyzing Germany's Key Exports and Imports
 
 About two-thirds of Germany's import and export trade is listed under separate items in the following tables. We can assume that what applies to these listed items also applies more or less to the remaining one-third, which consists of many individually less important goods.
 
@@ -1797,7 +1797,7 @@ Therefore, unless the current Allies are prepared to encourage the import of Ger
 | Other countries | 890.20 | 35.3 | 858.70 | 32.0 |
 | **Total** | **2,522.35** | **100.0** | **2,692.60** | **100.0** |
 
-### **Estimating Germany's Maximum Future Export Surplus**
+#### Estimating Germany's Maximum Future Export Surplus
 
 The above analysis gives some idea of the possible size of the maximum change in Germany’s export balance under the new conditions after the peace treaty.
 Let's make some assumptions:
@@ -1825,7 +1825,7 @@ And even if the goods could be specified, in what markets are they to be sold? R
 
 On the side of imports, a bit more might be possible. By lowering the standard of life, a noticeable reduction in spending on imported goods may be possible. But, as we have already seen, many large import items cannot be reduced without affecting the volume of exports.
 
-### **An Optimistic Guess for Annual Payments**
+#### An Optimistic Guess for Annual Payments
 
 Let us make our guess as high as we can without being foolish. Suppose that after a time, Germany will be able, despite the reduction of its resources, facilities, markets, and productive power, to increase its exports and reduce its imports. Suppose this improves its trade balance altogether by **$500 million annually**, measured in pre-war prices.
 This adjustment is first needed to cover the negative trade balance, which averaged $370 million in the five years before the war. But let's assume that after covering this, Germany is left with a positive trade balance of $250 million a year (at pre-war prices).
@@ -1834,7 +1834,7 @@ Considering the political, social, and human factors, as well as the purely econ
 
 Such an annual figure, allowing 5% for interest and 1% for repayment of the capital, represents a total capital sum with a present value of about **$8.5 billion.**
 
-### **Final Conclusion on Germany's Capacity to Pay**
+#### Final Conclusion on Germany's Capacity to Pay
 
 Therefore, I reach the final conclusion that, including all methods of payment—immediately transferable wealth, property in ceded territories, and an annual payment—**$10 billion is a safe maximum figure of Germany’s capacity to pay.**
 In all the actual circumstances, I do not believe that Germany can pay even that much.
@@ -1848,7 +1848,7 @@ It is up to those who believe that Germany can make an annual payment amounting 
 * In what markets are these goods to be sold?
 Until they provide some level of detail and can produce some tangible argument for their conclusions, they do not deserve to be believed.
 
-### **Important Considerations (Provisos)**
+#### Important Considerations (Provisos)
 
 I make only three provisos, none of which affect the force of my argument for immediate practical purposes:
 
@@ -1858,7 +1858,7 @@ I make only three provisos, none of which affect the force of my argument for im
 
 It is true that in 1870, no one could have predicted Germany’s capacity in 1910. We cannot expect to make laws for a generation or more. Long-term changes in humanity's economic condition and the likelihood of human forecasts being wrong can lead to mistakes in either direction. As reasonable people, we can do no better than base our policy on the evidence we have and adapt it to the five or ten years over which we might suppose ourselves to have some ability to foresee events. We are not wrong if we set aside the extreme chances of human existence and revolutionary changes in the order of nature or humanity's relationship with it. The fact that we have no adequate knowledge of Germany’s capacity to pay over a long period of years is no justification (as I have heard some people claim) for stating that it can pay $50 billion.
 
-### **Why Was the World So Gullible?**
+#### Why Was the World So Gullible?
 
 Why has the world been so ready to believe the untrue statements of politicians? If an explanation is needed, I believe this particular gullibility is partly due to the following influences:
 
@@ -1891,7 +1891,7 @@ An annual surplus that could be used for investment at home can only be turned i
 Labor might be available and efficient for domestic services in Germany, but it might not find any outlet in foreign trade. We are back to the same question we faced when looking at the export trade: in what export businesses is German labor going to find a greatly increased opportunity?
 Labor can only be shifted into new areas with a loss of efficiency and a large spending of capital. The annual surplus that German labor can produce for improving capital at home is not a measure, either in theory or in practice, of the annual payment it can make to foreign countries.
 
-## **IV. The Reparation Commission**
+### IV. The Reparation Commission
 
 This organization is such a remarkable creation and may, if it operates at all, have such a wide influence on life in Europe, that its features deserve a separate examination.
 
@@ -1908,7 +1908,7 @@ Therefore, it was necessary to set up a body to:
 It was only possible to put this body in a position to demand the maximum amount year after year by giving it wide powers over the internal economic life of the enemy countries. These countries are to be treated from now on like bankrupt businesses, managed by and for the benefit of their creditors.
 In fact, however, its powers and functions have been expanded even beyond what was needed for this purpose. The Reparation Commission has been set up as the final judge on numerous economic and financial issues that were conveniently left unsettled in the Treaty itself.
 
-### **Powers and Structure of the Reparation Commission**
+#### Powers and Structure of the Reparation Commission
 
 The powers and structure of the Reparation Commission are mainly described in Articles 233-241 and Annex II of the Reparation Chapter of the Treaty with Germany. But the same Commission will also have authority over Austria and Bulgaria, and possibly over Hungary and Turkey, when peace treaties are made with those countries. So, there are similar articles in the Austrian and Bulgarian Treaties.
 
@@ -1924,7 +1924,7 @@ The powers and structure of the Reparation Commission are mainly described in Ar
 * **Authority and Staff:** The Commission has full executive authority to carry out its decisions. It can set up an executive staff and give authority to its officers. The Commission and its staff will enjoy diplomatic privileges. Their salaries will be paid by Germany, which will have no say in setting them.
 * **Organization:** If the Commission is to perform its many functions adequately, it will need to create a vast, multilingual bureaucratic organization with hundreds of staff members. The economic destiny of Central Europe is to be entrusted to this organization, with its headquarters in Paris.
 
-### **Main Functions of the Reparation Commission**
+#### Main Functions of the Reparation Commission
 
 Its main functions are as follows:
 1.  **Determine the Total Claim:** The Commission will decide the exact amount of the claim against the enemy countries by examining in detail the claims of each of the Allies under Annex I of the Reparation Chapter. This task must be finished by May 1921. It must give the German Government and Germany’s allies "a just opportunity to be heard, but not to take any part whatever in the decisions of the Commission." This means the Commission will act as both a party in the case and a judge at the same time.
@@ -1944,7 +1944,7 @@ Its main functions are as follows:
 There are also many other relatively minor duties assigned to the Commission. The summary above, however, sufficiently shows the scope and importance of its authority. This authority is made far more significant by the fact that the Treaty's demands generally exceed Germany’s ability to pay.
 Consequently, the clauses that allow the Commission to grant reductions if, in its judgment, Germany's economic conditions require it, will make the Commission the decider of Germany’s economic life in many different aspects. The Commission will not only inquire into Germany’s general ability to pay and decide (in the early years) what imports of food and raw materials are necessary. It is also authorized to exert pressure on the German system of taxation and on German internal spending to ensure that reparation payments are the first priority for the country’s entire resources. It will also decide on the effect on German economic life of demands for machinery, cattle, etc., and of the scheduled deliveries of coal.
 
-### **Germany's Forced Acceptance**
+#### Germany's Forced Acceptance
 
 By Article 240 of the Treaty, Germany expressly recognizes the Commission and its powers "as the same may be constituted by the Allied and Associated Governments." Germany also "agrees irrevocably to the possession and exercise by such Commission of the power and authority given to it under the present Treaty." It promises to provide the Commission with all relevant information.
 Finally, in Article 241, "Germany undertakes to pass, issue, and maintain in force any legislation, orders, and decrees that may be necessary to give complete effect to these provisions."
@@ -1952,7 +1952,7 @@ Finally, in Article 241, "Germany undertakes to pass, issue, and maintain in for
 The German Financial Commission at Versailles commented on this, and their words were hardly an exaggeration:
 "German democracy is thus annihilated at the very moment when the German people was about to build it up after a severe struggle—annihilated by the very persons who throughout the war never tired of maintaining that they sought to bring democracy to us.... Germany is no longer a people and a State, but becomes a mere trade concern placed by its creditors in the hands of a receiver, without its being granted so much as the opportunity to prove its willingness to meet its obligations of its own accord. The Commission, which is to have its permanent headquarters outside Germany, will possess in Germany incomparably greater rights than the German Emperor ever possessed; the German people under its regime would remain for decades to come shorn of all rights, and deprived, to a far greater extent than any people in the days of absolutism, of any independence of action, of any individual aspiration in its economic or even in its ethical progress."
 
-### **The Allied Reply and the Author's Critique**
+#### The Allied Reply and the Author's Critique
 
 In their reply to these observations, the Allies refused to admit that there was any substance, basis, or force in them. They stated: "The observations of the German Delegation present a view of this Commission so distorted and so inexact that it is difficult to believe that the clauses of the Treaty have been calmly or carefully examined. It is not an engine of oppression or a device for interfering with German sovereignty. It has no forces at its command; it has no executive powers within the territory of Germany; it cannot, as is suggested, direct or control the educational or other systems of the country. Its business is to ask what is to be paid; to satisfy itself that Germany can pay; and to report to the Powers, whose delegation it is, in case Germany makes default. If Germany raises the money required in her own way, the Commission cannot order that it shall be raised in some other way; if Germany offers payment in kind, the Commission may accept such payment, but, except as specified in the Treaty itself, the Commission cannot require such a payment."
 
@@ -1961,13 +1961,13 @@ For example, isn't the statement that the Commission "has no forces at its comma
 It should be noted that the decision as to whether Germany has kept its commitments and whether it is possible for it to keep them is left not to the League of Nations, but to the Reparation Commission itself. An unfavorable ruling by the Commission is to be followed "immediately" by the use of armed force.
 Moreover, the Allied reply tries to downplay the Commission's powers by assuming that Germany is quite free to "raise the money required in her own way." If that were true, many of the Reparation Commission's powers would not come into practical effect. However, in reality, one of the main reasons for setting up the Commission at all is the expectation that Germany will *not* be able to carry the burden nominally placed upon it.
 
-### **A Glimmer of Hope?**
+#### A Glimmer of Hope?
 
 It is reported that the people of Vienna, hearing that a section of the Reparation Commission is about to visit them, have characteristically decided to pin their hopes on it. A financial body can obviously take nothing from them, for they have nothing. Therefore, they reason, this body must be for the purpose of assisting and relieving them. This is how the Viennese argue, still light-headed in their misfortune.
 But perhaps they are right. The Reparation Commission will come into very close contact with the problems of Europe. It will bear a responsibility equal to its powers. It may thus come to fulfill a very different role from what some of its creators intended.
 If it were transferred to the League of Nations, serving justice rather than national interests, who knows? With a change of heart and purpose, the Reparation Commission might yet be transformed from an instrument of oppression and plunder into an economic council of Europe. Its new object could be the restoration of life and happiness, even in the enemy countries.
 
-## **V. The German Counter-Proposals**
+### V. The German Counter-Proposals
 
 The German counter-proposals regarding reparations were somewhat unclear and also rather insincere.
 It will be remembered that the clauses in the Reparation Chapter about Germany issuing bonds gave the public the impression that the total payment had been fixed at $25 billion, or at least that this was a minimum figure.
@@ -2012,7 +2012,7 @@ This compares to the **$40 billion** which, according to my rough estimate, the 
 
 This $7.5 billion offer was, in itself, very substantial. Indeed, it caused widespread criticism within Germany. However, because it depended on the Allies abandoning most of the rest of the Treaty, it could hardly be seen as a serious offer. The German delegation would have done better if they had stated more clearly how much they felt able to pay.
 
-### **The Allies' Final Reply and a New Offer**
+#### The Allies' Final Reply and a New Offer
 
 In the Allies' final reply to this counter-proposal, there is one important provision that I haven't discussed yet.
 Broadly speaking, the Allies did not agree to any concessions on the Reparation Chapter as it was originally drafted. However, they did recognize that it was inconvenient for Germany not to know the total amount it had to pay. So, they proposed a way for the final total claim to be set at an earlier date than May 1, 1921.
@@ -2029,7 +2029,7 @@ The Allies’ reply added: "The questions are bare questions of fact, namely, th
 If the promised negotiations are really conducted along these lines, they are not likely to be successful. It will not be much easier to agree on a figure before the end of 1919 than it was during the Peace Conference. And it will not help Germany’s financial position to know for certain that it is liable for the huge sum that the Treaty demands, no matter how it's calculated.
 However, these negotiations do offer an opportunity to reopen the whole question of reparation payments. But it is hardly to be hoped that public opinion in the Allied countries will have changed its mood sufficiently at such an early date.
 
-### **A Final Moral Argument**
+#### A Final Moral Argument
 
 I cannot leave this subject as if its just treatment depended entirely on our own pledges or on economic facts.
 The policy of reducing Germany to servitude for a generation, of degrading the lives of millions of human beings, and of depriving a whole nation of happiness should be abhorrent and detestable.

@@ -682,7 +682,7 @@ But here’s the key distinction: **owing honor to your parents is not the same 
 
 ---
 
-## **§ 67. Two Different “Powers” People Confuse**
+### § 67. Two Different “Powers” People Confuse
 
 Locke says most confusion comes from mixing up two very different things:
 
@@ -691,7 +691,7 @@ Locke says most confusion comes from mixing up two very different things:
 
 These aren’t the same power, and they aren’t aimed at the same goal.
 
-### **1) Guardianship During Childhood (Temporary)**
+#### 1) Guardianship During Childhood (Temporary)
 A child’s “subjection” while young gives the father (and parents generally) a **temporary** kind of government. It ends automatically when the child reaches adulthood.
 
 And notice how Locke reframes it: this isn’t really a royal privilege parents get to enjoy. It’s mainly:
@@ -705,7 +705,7 @@ That’s why, when scripture describes God’s corrective treatment of Israel, i
 
 This is the kind of authority children are commanded to obey: so their parents’ labor and worry aren’t increased or repaid with contempt.
 
-### **2) Honor and Support (Permanent)**
+#### 2) Honor and Support (Permanent)
 § 68. On the other side, children owe parents something for the benefits they’ve received—life, care, and the chance to enjoy anything at all. That obligation expresses itself as:
 
 - **respect and reverence**
@@ -719,7 +719,7 @@ It can look less like “obedience” because it’s not about being bossed arou
 
 ---
 
-## **§ 69. Education Ends; Honor Doesn’t**
+### § 69. Education Ends; Honor Doesn’t
 Locke draws the line sharply:
 
 - **Education and guardianship** have a natural endpoint. When the work of raising and training is done, that authority **expires**.
@@ -743,7 +743,7 @@ Yes, it’s often wise and decent for adult children to give their parents real 
 
 ---
 
-## **§ 70. Why Gratitude Doesn’t Create Government**
+### § 70. Why Gratitude Doesn’t Create Government
 Locke pushes the point with everyday examples. You can owe:
 
 - **respect** to an elderly or exceptionally wise person
@@ -764,7 +764,7 @@ sometimes more for one child than another. So this can’t be a simple, one-size
 
 ---
 
-## **§ 71. Paternal Power Isn’t Political Power**
+### § 71. Paternal Power Isn’t Political Power
 This distinction also explains something you can observe anywhere: in societies where parents are themselves subjects under a government, they still retain parental authority over their children. That would be impossible if **political power were nothing but paternal power**, as if they were the same thing.
 
 If all political authority were merely “fatherhood scaled up,” then paternal power would belong entirely to the prince, and ordinary parents—being subjects—would have none left.
@@ -778,7 +778,7 @@ Which means the prince’s political dominion over subjects cannot be derived fr
 
 ---
 
-## **§ 72. The Hidden Lever: Inheritance**
+### § 72. The Hidden Lever: Inheritance
 Locke adds one more kind of “power” that often gets mistaken for parental jurisdiction: **control over property and inheritance**.
 
 In most societies, children naturally expect to inherit their parents’ estate in some customary proportions. But fathers usually have some freedom to distribute that estate more generously or more sparingly depending on a child’s behavior. That expectation can be a powerful incentive to stay in a parent’s good graces—even after adulthood.
@@ -800,7 +800,7 @@ A Frenchman can exert the same kind of pull over an Englishman if he promises hi
 
 ---
 
-## **§ 74. How Fathers Became Kings (Without “Natural” Right)**
+### § 74. How Fathers Became Kings (Without “Natural” Right)
 Locke closes by explaining how political rule could plausibly grow out of family life—without being justified by any special “father-right.”
 
 Even though:
@@ -827,7 +827,7 @@ It comes from something else: the **executive power of the law of nature**—the
 
 ---
 
-## **§ 75. Why the Transition Felt “Natural”**
+### § 75. Why the Transition Felt “Natural”
 Once you picture the early household, the drift into paternal rule makes sense.
 
 Children had spent their whole childhood following their father’s guidance. They brought disputes to him as the natural umpire. And when they became adults, who would seem more fit to keep order than the person who had raised them, cared for them, and was inclined by affection to treat them fairly?
@@ -842,7 +842,7 @@ So the family had little reason to draw a sharp legal line between being under g
 
 ---
 
-## **§ 76. From Family Fathers to Political Monarchs**
+### § 76. From Family Fathers to Political Monarchs
 Over time, Locke says, many natural fathers became political rulers by gradual, almost unnoticed steps. If they lived long enough and were succeeded by capable heirs, that pattern could harden into:
 
 - **hereditary kingdoms**, or
@@ -1285,7 +1285,7 @@ Short of that, your explicit “yes” keeps holding.
 
 ---
 
-## **§ 122. Living under a government doesn’t automatically make you a member of it**
+### § 122. Living under a government doesn’t automatically make you a member of it
 Here’s the key distinction: **obeying a country’s laws** isn’t the same thing as **belonging** to that political society.
 
 If you live quietly in a place, accept its protection, and enjoy its privileges, you do owe compliance with its laws—at least as long as you’re within the reach of its legal force. That’s simply the exchange any non-enemy makes with a functioning government: protection on one side, obedience on the other.
@@ -1296,7 +1296,7 @@ Think of it like staying in someone’s household because it suits you for a whi
 
 That’s why **foreigners** can spend their entire lives under another government—working there, enjoying its laws, taking its protection—and yet not become full political members of that society. They’re bound, even morally, to submit to the government’s administration as far as any resident is. But they don’t become citizens or members just by being present and benefiting.
 
-### **What actually makes someone a political member**
+#### What actually makes someone a political member
 Only one thing does:
 
 - **A deliberate act of joining** through a clear commitment—an express promise, a compact, a positive engagement.
@@ -1305,7 +1305,7 @@ That explicit agreement is what creates political society in the first place, an
 
 ---
 
-### **1. How early political societies learned the hard way**
+#### 1. How early political societies learned the hard way
 In the beginning, once a community had accepted some particular form of rule, they often didn’t think much about the details of governing. They basically left it to the wisdom and discretion of the people in charge, trusting them to steer things well.
 
 But experience tends to be a brutal teacher.
@@ -2410,7 +2410,7 @@ That doesn’t happen over every mistake. After looking hard for edge cases, the
 
 ---
 
-## **1) When a king tries to destroy the government itself**
+### 1) When a king tries to destroy the government itself
 
 The first is when the king **sets out to overturn the government**—not just to rule badly, but to ruin the kingdom and commonwealth as such.
 
@@ -2423,7 +2423,7 @@ A ruler who seriously entertains—and actively advances—plans like that isn�
 
 ---
 
-## **2) When a king hands his kingdom to someone else**
+### 2) When a king hands his kingdom to someone else
 
 § 238. The second case is when a king **makes himself dependent on another power** and **submits his kingdom to a foreign dominion**—a kingdom that his ancestors held, and that the people entrusted to him as a free community.
 
@@ -2433,7 +2433,7 @@ By “selling off” or alienating the kingdom this way, he doesn’t successful
 
 ---
 
-## **§ 239. Even absolutists end up conceding this**
+### § 239. Even absolutists end up conceding this
 
 Here’s the revealing part: even Barclay—one of the major defenders of absolute monarchy—admits that in these situations a king may be resisted and, in effect, stops being king.
 
@@ -2464,7 +2464,7 @@ Hooker alone ought to satisfy anyone who leans on him for church polity—yet it
 
 ---
 
-## **§ 240. “Who gets to judge?”**
+### § 240. “Who gets to judge?”
 
 At this point, a predictable question appears: **Who decides whether a prince or legislature has acted against the trust placed in them?**
 
@@ -2478,7 +2478,7 @@ If that’s reasonable in private life, it’s even more reasonable in the highe
 
 ---
 
-## **§ 241. And if there’s no court on earth, the appeal is to heaven**
+### § 241. And if there’s no court on earth, the appeal is to heaven
 
 The question “Who shall judge?” can’t mean “there is no judge at all.” When there is no earthly tribunal with authority to settle the dispute, **God is judge**.
 
@@ -2486,7 +2486,7 @@ God alone is judge of who is *right*. But each person must still judge *for hims
 
 ---
 
-## **§ 242. When law is silent, the community is the natural umpire**
+### § 242. When law is silent, the community is the natural umpire
 
 If a dispute arises between a prince and part of the people over something where the law is silent or unclear, and the matter is of great importance, the most appropriate umpire is **the body of the people**.
 
@@ -2496,7 +2496,7 @@ But if the prince—or whoever governs—refuses that kind of determination, the
 
 ---
 
-## **§ 243. What returns to whom when government dissolves**
+### § 243. What returns to whom when government dissolves
 
 To wrap it up:
 
