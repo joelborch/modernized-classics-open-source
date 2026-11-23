@@ -969,7 +969,6 @@ This brings me to a general philosophical reflection with which I should like to
 
 In a later lecture, I shall have to deal explicitly with the relation of religion to science on the one hand, and to ancient, primitive thought on the other. There are plenty of people today—“scientists” or “positivists,” as they like to call themselves—who will tell you that religious thought is a mere leftover from the past. They see it as an atavistic return to a type of consciousness that humanity, in its more enlightened examples, has long since left behind and outgrown. If you ask them to explain themselves more fully, they will probably say that for primitive thought, everything is understood in terms of personality. The savage thinks that things operate by personal forces and for the sake of individual goals. For him, even external nature obeys individual needs and demands, just as if these were basic powers themselves.
 
-
 ## THE SICK SOUL
 
 At our last meeting, we talked about the **healthy-minded temperament**. This is a personality type that has a natural inability to suffer for long periods. For these people, the tendency to see things optimistically is a core part of their character, like a crystal forming around a central pattern. We saw how this temperament can become the basis for a particular type of religion. In this religion, good things—even the good things of this world’s life—are seen as the essential focus for a rational person.
@@ -1148,7 +1147,6 @@ Suicide was naturally the consistent course of action dictated by logical though
 Tolstoy continues: “Yet, while my intellect was working, something else in me was working too, and kept me from the deed—a consciousness of life, as I may call it, which was like a force that obliged my mind to fix itself in another direction and draw me out of my situation of despair... During the whole course of this year, when I almost unceasingly kept asking myself how to end the business, whether by the rope or by the bullet, during all that time, alongside all those movements of my ideas and observations, my heart kept longing with another pining emotion. I can call this by no other name than that of a thirst for God. This craving for God had nothing to do with the movement of my ideas—in fact, it was the direct contrary of that movement—but it came from my heart. It was like a feeling of dread that made me seem like an orphan and isolated in the midst of all these things that were so foreign. And this feeling of dread was lessened by the hope of finding the assistance of someone.”
 
 Of the process, both intellectual and emotional, which, starting from this idea of God, led to Tolstoy’s recovery, I will say nothing in this lecture. I will save it for a later time. The only thing that needs to interest us now is the phenomenon of his absolute disenchantment with ordinary life. We should also note the fact that the whole range of habitual values could, to a man as powerful and full of abilities as he was, come to appear such a ghastly mockery.
-
 
 ## THE DIVIDED SELF, AND THE PROCESS OF ITS UNIFICATION
 
@@ -3766,8 +3764,6 @@ So, it all goes back, after all, to the question of the truth of theology. The p
 I propose, then, that to some degree we face this responsibility. Religious persons have often, though not always, professed to see truth in a special manner. That manner is known as **mysticism**.
 I will consequently now proceed to discuss mystical phenomena at some length. After that, though more briefly, I will consider religious philosophy.
 
-The provided text consists of footnotes and endnotes, not the main narrative prose of "THE VALUE OF SAINTLINESS." According to the project guidelines (specifically Mission Objective 5 and the instruction to omit parenthetical asides, citations, and notes), this type of edition-specific material should be discarded and not rewritten as part of the main simplified text. Therefore, no rewrite is provided for this section.
-
 ## MYSTICISM
 
 Over and over again in these talks, I have brought up certain points and left them unfinished. I've been waiting until we could discuss the subject of Mysticism. Some of you might have smiled as you noticed me repeatedly putting it off. But now, the time has come to face mysticism seriously and tie up those loose ends.
@@ -4318,18 +4314,6 @@ Meanwhile, however, I am sure that for many of my readers, this "diet" of mere p
 
 But religious philosophy is an enormous subject. In my next lecture, I can only give that brief glance at it which my limits will allow.
 
-The provided text consists of a continuation of a footnote (describing an ether dream) followed by a series of numbered notes (Notes - 8 through Notes - 36).
-
-According to the project guidelines (specifically Mission Objective 5 and the instruction to omit parenthetical asides, citations, and notes), this type of edition-specific material, including footnotes and endnotes, should be discarded and not rewritten as part of the main simplified text.
-
-Therefore, no rewrite of this footnote material is provided.
-
-The provided text consists entirely of footnotes and endnotes (beginning with a reference to "DELACROIX’s book" and followed by sections explicitly labeled "Notes - 37," "Notes - 38," and "Notes - 39").
-
-According to the project guidelines (specifically Mission Objective 5 and the instruction to omit parenthetical asides, citations, and notes), this type of edition-specific material should be discarded and not rewritten as part of the main simplified text.
-
-Therefore, no rewrite of this footnote material is provided.
-
 ## PHILOSOPHY
 
 Our discussion about Saintliness left us with a big question: When someone feels a divine presence, is that sense pointing to something objectively true? We first looked to mysticism for an answer. We found that although mysticism is very willing to support religion, its expressions are too private and too varied to claim universal authority.
@@ -4614,11 +4598,6 @@ In my next lecture, I will try to complete my rough description of religious exp
 
 It makes a religion seem weaker when people try to argue for it using that kind of reasoning.
 
----
-The rest of the provided text consists of "Notes - 10" and "Notes - 11." According to the project guidelines (specifically Mission Objective 5 and the instruction to omit parenthetical asides, citations, and notes), this type of edition-specific material, including footnotes and endnotes, should be discarded and not rewritten as part of the main simplified text.
-
-Therefore, no rewrite of this footnote material is provided.
-
 ## OTHER CHARACTERISTICS
 
 After our journey through mysticism and philosophy, we have circled back to where we were before. The best arguments for the truth in religion are its uses: its benefits to the individual who has it, and the benefits that individual brings to the world. We return to the **empirical philosophy**: the idea that what is true is what works well, even if we always have to add the qualification "on the whole."
@@ -4866,11 +4845,6 @@ In the next lecture, which is also the last one, we must try to draw the critica
 A very striking example of this is probably the large book called "Oahspe, a new Bible in the Words of Jehovah and his angel ambassadors." This book, published in Boston and London in 1891, was written and illustrated automatically by Dr. Newbrough of New York. I understand that Dr. Newbrough is now, or was recently, the head of a spiritualist community called Shalam in New Mexico.
 
 The latest automatically written book that has come to my attention is "Zertoulem’s Wisdom of the Ages," by George A. Fuller, published in Boston in 1901.
-
----
-The rest of the provided text consists of "Notes - 18," "Notes - 19," and "Notes - 20." According to the project guidelines (specifically Mission Objective 5 and the instruction to omit parenthetical asides, citations, and notes), this type of edition-specific material, including footnotes and endnotes, should be discarded and not rewritten as part of the main simplified text.
-
-Therefore, no rewrite of this footnote material is provided.
 
 ## CONCLUSIONS
 
@@ -5294,9 +5268,3 @@ Every good thought you have, or good action you take, is like tearing away a vei
 This divine reality is the true observer of everything, the eternal witness in the universe. It is your own true Self.
 
 In this view, trying to gain "knowledge" of this Self in the usual intellectual way is actually a step backward, a lesser approach. We *are* already this Self. So, how can we "know" what we already are?
-
-The provided text consists of a list of book titles, author names, and editorial information (e.g., "THE MODERN LIBRARY — A LIST OF CURRENT TITLES," "Modern Library Audios," "THE MODERN LIBRARY EDITORIAL BOARD").
-
-According to the project guidelines (specifically Mission Objective #5: "Discard edition-specific or translator-specific material"), this type of content is not part of the "CONCLUSIONS" section to be rewritten. It should be discarded.
-
-Therefore, there is no text from this specific submission to simplify as part of the "CONCLUSIONS."
