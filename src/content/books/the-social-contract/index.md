@@ -3985,7 +3985,7 @@ Do we wish men to be virtuous? Then let us begin by making them love their count
 
 ### **The State's Duty to Protect Every Citizen**
 
-It must not be imagined that a man can break or lose an arm without the pain being conveyed to his head. Nor is it any more believable that the general will should consent that any one member of the State should wound or destroy another. The security of individuals is so intimately connected with the public confederation that the social contract would, in point of right, be dissolved if in the State a single citizen who might have been relieved were allowed to perish, or if one were wrongfully confined in prison, or if in one case an obviously unjust sentence were given.
+It must not be imagined that a man can break or lose an arm without the pain being conveyed to his head. Nor is it any more believable that the general will should consent that any one member of the State should wound or destroy another. The security of individuals is so intimately connected with the public confederation that the social contract would, in point of right, be dissolved if in the State a single citizen who might have been relieved were allowed to perish, or if one were wrongfully confined in prison, or if in one case an obviously unjust sentence were given. For the fundamental agreements being broken, it is impossible to conceive of any right or interest that could keep the people in the social union.
 
 Does not the undertaking entered into by the whole body of the nation bind it to provide for the security of the least of its members with as much care as for that of all the rest? Is the welfare of a single citizen any less the common cause than that of the whole State?
 
@@ -4011,87 +4011,6 @@ It is therefore one of the most important functions of government to **prevent e
 
 The unequal distribution of inhabitants over the territory, when men are crowded together in one place while other places are depopulated; the encouragement of the arts that serve luxury at the expense of useful and laborious crafts; the sacrifice of agriculture to commerce; and in short, corruption pushed to such an extreme that even public esteem is reckoned at a cash value, and virtue is rated at a market price—these are the most obvious causes of opulence and poverty, of public interest, of mutual hatred among citizens, and of the weakening of all the springs of government.
 
----
-
-### **The Root of It All: Creating Citizens**
-
-But all these precautions will be inadequate unless rulers go still more to the root of the matter. I conclude this part of public economy where I ought to have begun it. **There can be no patriotism without liberty, no liberty without virtue, no virtue without citizens. Create citizens, and you have everything you need.** Without them, you will have nothing but debased slaves, from the rulers of the State downwards.
-
-To form citizens is not the work of a day. And in order to have men, it is necessary to educate them when they are children. It will be said, perhaps, that whoever has men to govern ought not to seek a perfection of which they are incapable. I will agree that a man without passions would certainly be a bad citizen. But it must also be agreed that if men are not taught *not* to love some things, it is impossible to teach them to love one object more than another—to prefer that which is truly beautiful to that which is deformed.
-
-
-***
-
-### **The Reign of Virtue**
-
-If you would have the general will accomplished, you must bring all the private wills into conformity with it. In other words, as virtue is nothing more than this conformity, you must **establish the reign of virtue.**
-
-If our politicians were less blinded by their ambition, they would see how impossible it is for any establishment to act in the spirit of its institution unless it is guided by the law of duty. They would feel that the greatest support of public authority lies in the hearts of the citizens, and that nothing can take the place of morality in the maintenance of government.
-
-It is not only upright men who know how to administer the laws, but at bottom, only good men know how to obey them. The man who once gets the better of remorse will not be stopped by punishments that are less severe and less lasting, and from which there is at least the hope of escaping.
-
----
-
-### **The Downward Spiral of Corruption**
-
-Whatever precautions are taken, those who only need impunity to do wrong will not fail to find ways of eluding the law and avoiding its penalties. In this case, as all private interests unite against the general interest, public vices have a greater effect in weakening the laws than the laws have in repressing such vices. The corruption of the people and of their rulers will at length extend to the government, however wise it may be.
-
-The worst of all abuses is to pay an apparent obedience to the laws only in order actually to break them with security. For in this case, the best laws soon become the most harmful, and it would be a hundred times better that they should not exist. In such a situation, it is useless to add edicts to edicts and regulations to regulations. Everything serves only to introduce new abuses without correcting the old. The more laws are multiplied, the more they are despised.
-
-The reward of virtue soon becomes that of robbery. The vilest of men rise to the greatest credit. The greater they are, the more despicable they become. Their infamy appears even in their dignities, and their very honors dishonor them. If they buy the influence of the leaders or the protection of women, it is only that they may sell justice, duty, and the State in their turn. In the meantime, the people, feeling that its vices are not the first cause of its misfortunes, murmurs and complains that all its misfortunes come solely from those whom it pays to protect it from such things.
-
----
-
-### **When Duty Vanishes**
-
-It is under these circumstances that the voice of duty no longer speaks in men’s hearts. Their rulers are then obliged to substitute the cry of terror, or the lure of an apparent interest, of which they subsequently trick their followers. In this situation, they are compelled to use all the petty and despicable tricks which they call "rules of State" and "mysteries of the cabinet." All the vigor that is left in the government is used by its members in ruining and supplanting one another, while the public business is neglected.
-
-In short, the whole art of those great politicians lies in so mesmerizing those they stand in need of that each may think he is laboring for his own interest while working for theirs.
-
-But when the citizens love their duty, and the guardians of the public authority sincerely apply themselves to fostering that love by their own example, every difficulty vanishes. Government becomes so easy that it needs none of that art of darkness whose blackness is its only mystery. Public morality supplies what is wanting in the genius of the rulers. The more virtue reigns, the less need there is for talent.
-
-When the people are convinced that its rulers are laboring only for its happiness, its deference saves them the trouble of laboring to strengthen their power. History shows us, in a thousand cases, that the authority of one who is beloved over those whom he loves is a hundred times more absolute than all the tyranny of usurpers. This does not mean that the government ought to be afraid to make use of its power, but that it ought to make use of it only in a lawful manner.
-
-To be just, it is necessary to be severe. To permit vice when one has the right and the power to suppress it is to be oneself vicious.
-
----
-
-### **The Power of Patriotism**
-
-It is not enough to say to the citizens, "be good." They must be taught to be so. The most effective means is **patriotism**. Every man is virtuous when his private will conforms to the general will, and we voluntarily will what is willed by those whom we love.
-
-It appears that the feeling of humanity evaporates when it tries to embrace all mankind. We cannot be affected by the calamities of distant lands in the same manner as we are by those of our own nations. It is necessary to confine our interest and compassion in order to make it active. It is proper that our humanity should confine itself to our fellow-citizens.
-
-It is certain that the greatest miracles of virtue have been produced by patriotism. This fine and lively feeling makes the force of self-love as beautiful as virtue itself. It lends it an energy that makes it the most heroic of all passions. This is what produces so many immortal actions that dazzle our feeble eyes.
-
-Contrast Socrates with Cato. The one was the greater philosopher, the other more of the citizen. Athens was already ruined in the time of Socrates, and he had no other country than the world at large. Cato had the cause of his country always at heart; he lived for it alone and could not bear to outlive it. Socrates instructed a few individuals, but Cato defended his country, its liberty, and its laws against the conquerors of the world. A worthy pupil of Socrates would be the most virtuous of his time, but a worthy follower of Cato would be one of the greatest. We should be taught by the one and led by the other. No people has ever been made into a nation of philosophers, but it is not impossible to make a people happy.
-
-Do we wish men to be virtuous? Then let us begin by making them love their country. But how can they love it if their country is nothing more to them than to strangers and gives them nothing it can refuse nobody? It would be still worse if they did not enjoy even social security, and if their lives, liberties, and property lay at the mercy of persons in power, without them being able to get relief from the laws. For in that case, the word "country" would mean something hateful and ridiculous to them.
-
----
-
-### **The State's Duty to Protect Every Citizen**
-
-The security of individuals is so intimately connected with the public good that the social contract would, in principle, be dissolved if in the State a single citizen who might have been relieved were allowed to perish, or if one were wrongfully confined in prison, or if one obviously unjust sentence were given. For the fundamental agreements being broken, it is impossible to conceive of any right or interest that could keep the people in the social union.
-
-Does not the promise entered into by the whole body of the nation bind it to provide for the security of the least of its members with as much care as for that of all the rest? Is the welfare of a single citizen any less the common cause than that of the whole State?
-
-I am ready to admire the saying "it is good that one should perish for all" when it comes from the lips of a virtuous patriot, voluntarily sacrificing himself for the good of his country. But if we are to understand by it that it is lawful for the government to sacrifice an innocent man for the good of the multitude, I look upon it as one of the most detestable rules tyranny ever invented. All have pledged their lives and properties for the defense of each, so that the weakness of individuals may always be protected by the strength of the public, and each member by the whole State.
-
-It is only among free peoples that the dignity of man is realized. The Romans distinguished themselves above all other peoples by the regard their government paid to the individual and by its scrupulous attention to preserving the inviolable rights of all the members of the State. Nothing was so sacred among them as the life of a citizen.
-
-Ambitious rulers! A herdsman governs his dogs and cattle and yet is only the meanest of mankind. If it is a fine thing to command, it is when those who obey us are capable of doing us honor. **Show respect, therefore, to your fellow-citizens, and you will make yourselves worthy of respect.** Show respect to liberty, and your power will increase daily. Never exceed your rights, and they will soon become unlimited.
-
----
-
-### **Preventing Extreme Inequality**
-
-Let our country then show itself the common mother of her citizens. Let the government leave them enough share in the public administration to make them feel that they are at home. Let the laws be in their eyes only the guarantees of the common liberty.
-
-What is most necessary, and perhaps most difficult, in government is rigid integrity in doing strict justice to all, and above all in **protecting the poor against the tyranny of the rich.** The greatest evil has already come about when there are poor men to be defended and rich men to be restrained. It is on the middle classes alone that the whole force of the law is exerted; they are equally powerless against the treasures of the rich and the poverty of the poor. The first mocks the law, the second escapes it. The one breaks the net, the other passes through it.
-
-It is therefore one of the most important functions of government to prevent extreme inequality of fortunes. This is done not by taking away wealth from its possessors, but by depriving all men of the means to accumulate it. It is done not by building hospitals for the poor, but by securing the citizens from becoming poor.
-
 Such are the evils which are with difficulty cured when they make themselves felt, but which a wise administration ought to prevent, if it is to maintain good morals, respect for the laws, patriotism, and the influence of the general will.
 
 ---
@@ -4100,7 +4019,7 @@ Such are the evils which are with difficulty cured when they make themselves fel
 
 But all these precautions will be inadequate unless rulers go still more to the root of the matter. I conclude this part of public economy where I ought to have begun it. **There can be no patriotism without liberty, no liberty without virtue, no virtue without citizens. Create citizens, and you have everything you need.** Without them, you will have nothing but debased slaves, from the rulers of the State downwards.
 
-To form citizens is not the work of a day; and in order to have men, it is necessary to educate them when they are children. I will agree that a man without passions would certainly be a bad citizen. But it must also be agreed that if men are not taught *not* to love some things, it is impossible to teach them to love one object more than another—to prefer that which is truly beautiful to that which is deformed.
+To form citizens is not the work of a day. And in order to have men, it is necessary to educate them when they are children. It will be said, perhaps, that whoever has men to govern ought not to seek a perfection of which they are incapable. I will agree that a man without passions would certainly be a bad citizen. But it must also be agreed that if men are not taught *not* to love some things, it is impossible to teach them to love one object more than another—to prefer that which is truly beautiful to that which is deformed.
 
 ***
 ### **III. Public Finance and Property**
