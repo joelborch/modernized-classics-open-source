@@ -22,8 +22,6 @@ coverAlt: >-
   title and author set in elegant serif typography.
 downloads:
   epub: /downloads/enquiry-concerning-human-understanding.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/an-enquiry-concerning-human-understanding.mp3
 ---
 
 ## SECTION I

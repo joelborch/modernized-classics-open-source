@@ -249,7 +249,7 @@ The action is a text-height ink outline; the primary is the same block filled.
 - **Primary:** ink-10 fill, paper text, 2px series-rule bottom border; hover lifts to ink-9. Used for "Start reading" / "Resume at <chapter>" in the edition band. (The direction contract asked for a text link here; the shipped fill is recorded as a known gap, not a preference. Do not add more filled blocks.)
 - **Hover / Focus:** background, colour, and border transition 150ms `cubic-bezier(0.2, 0, 0, 1)`; focus is the global 2px series-rule outline at 2px offset.
 - **Icon button:** 2.25rem square, transparent, ink-8, 1.125rem inline SVG at 1.5 stroke; hover ink-10 on an ink-1 wash. Used in the running head and dialog head.
-- **Text links as actions:** downloads (EPUB, Audio) are UI-face links in ink-9 with an ink-4 underline and a 1rem leading SVG in ink-7, sitting beside the primary at a 1.25rem gap.
+- **Text links as actions:** downloads (EPUB) are UI-face links in ink-9 with an ink-4 underline and a 1rem leading SVG in ink-7, sitting beside the primary at a 1.25rem gap.
 
 ### Chips
 - **Style:** bare text (UI, 0.9375rem, ink-8) with a 1px transparent bottom border, 0.2rem vertical padding, 0.75rem apart.

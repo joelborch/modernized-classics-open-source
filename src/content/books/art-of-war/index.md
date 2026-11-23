@@ -19,7 +19,6 @@ coverAlt: >-
   representing ancient Chinese warfare and strategy
 downloads:
   epub: /downloads/art-of-war.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-art-of-war.mp3'
 ---
 
 ## INTRODUCTION Sun Wu and his Book

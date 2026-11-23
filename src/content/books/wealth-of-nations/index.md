@@ -18,7 +18,6 @@ coverImage: ./cover.png
 coverAlt: Cover art for The Wealth of Nations featuring economic illustrations
 downloads:
   epub: /downloads/wealth-of-nations.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-wealth-of-nations.mp3'
 ---
 
 ## BOOK ONE

@@ -19,7 +19,6 @@ coverAlt: >-
   the unconscious mind and dream symbolism
 downloads:
   epub: /downloads/interpretation-of-dreams.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-interpretation-of-dreams.mp3'
 ---
 
 ## THE INTERPRETATION OF DREAMS

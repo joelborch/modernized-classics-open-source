@@ -20,7 +20,6 @@ coverAlt: >-
   representing virtue ethics, balance, and the pursuit of happiness
 downloads:
   epub: /downloads/nicomachean-ethics.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-nicomachean-ethics.mp3'
 ---
 
 ## BOOK I

@@ -34,7 +34,6 @@ const items: LibraryBook[] = await Promise.all(
       yearLabel: yearLabel(book.data.yearPublished),
       minutes: readingMinutes(words),
       length: readingTime(words),
-      audio: !!book.data.audioDownload,
       epub: book.data.downloads?.epub || `/downloads/${book.id}.epub`,
       shelf: shelfOf.get(book.id) ?? 'further',
       series: seriesColor(book.id),

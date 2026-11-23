@@ -11,7 +11,6 @@ export interface LibraryBook {
   yearLabel?: string;
   minutes: number;
   length: string;
-  audio: boolean;
   epub: string;
   shelf: string;
   series?: string;
@@ -26,14 +25,12 @@ interface Props {
 
 type View = 'covers' | 'spines';
 type Sort = 'title' | 'year' | 'length';
-type Format = 'all' | 'audio';
 
 const STORAGE_VIEW = 'mc-library-view';
 
 export default function LibraryClient({ books, shelves }: Props) {
   const [query, setQuery] = useState('');
   const [shelf, setShelf] = useState<string>('all');
-  const [format, setFormat] = useState<Format>('all');
   const [sort, setSort] = useState<Sort>('title');
   const [view, setView] = useState<View>('covers');
 
@@ -64,7 +61,6 @@ export default function LibraryClient({ books, shelves }: Props) {
   const results = useMemo(() => {
     let list = query.trim() ? fuse.search(query.trim()).map((r) => r.item) : books;
     if (shelf !== 'all') list = list.filter((b) => b.shelf === shelf);
-    if (format === 'audio') list = list.filter((b) => b.audio);
     if (!query.trim() || sort !== 'title') {
       list = [...list].sort((a, b) => {
         if (sort === 'year') return (a.year ?? 9999) - (b.year ?? 9999) || a.title.localeCompare(b.title, 'en');
@@ -73,10 +69,10 @@ export default function LibraryClient({ books, shelves }: Props) {
       });
     }
     return list;
-  }, [books, fuse, query, shelf, format, sort]);
+  }, [books, fuse, query, shelf, sort]);
 
-  const filtered = query.trim() !== '' || shelf !== 'all' || format !== 'all';
-  const clear = () => { setQuery(''); setShelf('all'); setFormat('all'); };
+  const filtered = query.trim() !== '' || shelf !== 'all';
+  const clear = () => { setQuery(''); setShelf('all'); };
 
   return (
     <div className="library">
@@ -104,13 +100,6 @@ export default function LibraryClient({ books, shelves }: Props) {
         </div>
 
         <div className="library-row">
-          <div className="library-filter" role="group" aria-label="Format">
-            <span className="t-label">Format</span>
-            <div className="chips">
-              <button type="button" aria-pressed={format === 'all'} onClick={() => setFormat('all')}>Read and EPUB</button>
-              <button type="button" aria-pressed={format === 'audio'} onClick={() => setFormat('audio')}>With audio</button>
-            </div>
-          </div>
           <label className="library-filter library-sort">
             <span className="t-label">Order</span>
             <select value={sort} onChange={(e) => setSort(e.target.value as Sort)}>
@@ -169,7 +158,7 @@ export default function LibraryClient({ books, shelves }: Props) {
                 <span className="library-item-meta t-meta">
                   {book.author}{book.yearLabel ? `, ${book.yearLabel}` : ''}
                 </span>
-                <span className="library-item-meta t-meta">{book.length}{book.audio ? ' · audio' : ''}</span>
+                <span className="library-item-meta t-meta">{book.length}</span>
               </a>
             </li>
           ))}
@@ -184,7 +173,7 @@ export default function LibraryClient({ books, shelves }: Props) {
                 <span className="spine-author t-meta">{book.author}</span>
                 <span className="spine-year t-meta">{book.yearLabel ?? ''}</span>
                 <span className="spine-length t-meta">{book.length}</span>
-                <span className="spine-formats t-meta">EPUB{book.audio ? ' · MP3' : ''}</span>
+                <span className="spine-formats t-meta">EPUB</span>
               </a>
             </li>
           ))}

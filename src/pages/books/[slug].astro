@@ -36,7 +36,6 @@ const image = data.coverImage ? new URL(data.coverImage.src, Astro.site).toStrin
     yearModernized={data.yearModernized}
     description={data.description}
     epubHref={data.downloads?.epub || `/downloads/${book.id}.epub`}
-    audioHref={data.audioDownload}
     readingTime={readingTime(words)}
     readingMinutes={readingMinutes(words)}
     words={formatWords(words)}

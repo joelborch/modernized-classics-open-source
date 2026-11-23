@@ -26,8 +26,6 @@ coverAlt: >-
   concerns.
 downloads:
   epub: /downloads/economic-consequences-of-the-peace.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/the-economic-consequences-of-the-peace.mp3
 ---
 
 ## Preface

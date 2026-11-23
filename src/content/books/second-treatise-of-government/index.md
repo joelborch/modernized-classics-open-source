@@ -22,7 +22,6 @@ coverAlt: >-
   title and the author name John Locke.
 downloads:
   epub: /downloads/second-treatise-of-government.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/second-treatise-of-government.mp3'
 ---
 
 ## OF CIVIL-GOVERNMENT

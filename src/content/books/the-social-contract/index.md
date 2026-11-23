@@ -20,7 +20,6 @@ coverAlt: >-
   Jean-Jacques Rousseau
 downloads:
   epub: /downloads/the-social-contract.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/the-social-contract-discourses.mp3'
 ---
 
 To understand the great thinkers of the past, the most important thing you need is a good historical imagination. You have to mentally place yourself in the world they lived in. If you don't, you'll never get beyond the surface-level details to the real, lasting value of their ideas.
