@@ -3479,7 +3479,7 @@ The frequent occurrence of conscious fantasies during the day draws our attentio
 
 If we look more deeply into the nature of these daytime fantasies, we find that they are quite justifiably called by the same name that we give to the productions of our thinking at night: **dreams**. They share certain essential characteristics with our nighttime dreams. Investigating them could actually have opened up for us the best and most direct path to understanding nighttime dreams.
 
-## VII THE PSYCHOLOGY OF THE DREAM-PROCESSES (Continued)
+## VII THE PSYCHOLOGY OF THE DREAM-PROCESSES
 
 The character of these deeper memory systems would lie in their close connection to the raw material of memory. If we wanted to suggest a more detailed theory, their character would depend on the different levels of ease or difficulty (the "conductive resistance") with which mental energy ("excitations") is transmitted to these memory elements.
 
@@ -3658,8 +3658,6 @@ In this way, the wish-fulfillment’s power of representation is spread across a
 
 Although these observations have limited the significance of the "remains of the day" for the dream, it is still worthwhile to pay some further attention to them. After all, they must be a necessary ingredient in forming the dream, if we are surprised by the fact that every dream shows some link to a recent impression from the day—often of the most trivial sort—as part of its content. We have not yet been able to understand the necessity for this added ingredient to the dream-mixture.
 And we will only do so if we hold fast to the part played by the unconscious wish and then turn to the psychology of neuroses for information.
-
-## VII THE PSYCHOLOGY OF THE DREAM-PROCESSES
 
 **How Unconscious Ideas Get Expressed**
 

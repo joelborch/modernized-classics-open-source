@@ -643,8 +643,6 @@ And I admit: we can’t perfectly explain that feeling. We can use words that ge
 
 Right now, for instance, I hear the voice of someone I know, seeming to come from the next room. That sensory impression immediately carries my thought to the person—and to the surrounding scene. I picture them as existing at this moment, with the same qualities and relations I previously knew them to have. Those ideas grip my mind more tightly than the idea of an enchanted castle. They feel different. And they have far more power—power to please or to hurt, to bring joy or sorrow.
 
-## SECTION V  
-### A Sceptical Solution to These Doubts
 
 Let’s step back and take in the whole picture.
 
@@ -1856,8 +1854,6 @@ So I told him to begin. And he did.
 
 “And if you now say: ‘Yes, but if there is divine providence and a supreme justice running the universe, you should expect some extra, more tailored rewards for the good and punishments for the bad, beyond the ordinary course of events’—then you’re repeating the very mistake I’ve been trying to expose.”
 
-## SECTION XI  
-**Of a PARTICULAR PROVIDENCE and of a FUTURE STATE**
 
 You keep assuming that once we grant the divine existence you argue for, you’re then allowed to *do* things with it—to draw extra conclusions, to tack on new expectations about the world, and to “improve” the familiar order of nature by reasoning from whatever attributes you assign to your gods. But you’re forgetting a basic constraint: in this whole discussion, the only legitimate direction of reasoning you have is **from effects to causes**.
 
