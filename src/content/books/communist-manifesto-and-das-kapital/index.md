@@ -22,8 +22,6 @@ coverAlt: >-
   or modern symbols of economic systems.
 downloads:
   epub: /downloads/communist-manifesto-and-das-kapital.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/the-communist-manifesto-and-das-kapital.mp3
 ---
 
 ## MANIFESTO OF THE COMMUNIST PARTY

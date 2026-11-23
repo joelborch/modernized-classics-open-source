@@ -17,7 +17,6 @@ interface Props {
   yearModernized?: number;
   description?: string;
   epubHref: string;
-  audioHref?: string;
   readingTime: string;
   readingMinutes: number;
   words: string;
@@ -29,7 +28,7 @@ interface Props {
 
 const {
   slug, title, author, yearLabel, yearModernized, description,
-  epubHref, audioHref, readingTime, readingMinutes, words,
+  epubHref, readingTime, readingMinutes, words,
   chapters, chapterDepth, cover, coverAlt,
 } = Astro.props;
 
@@ -128,20 +127,6 @@ const textHtml = (await Astro.slots.render('default')).replace(
           <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v10m0 0l-4-4m4 4l4-4M4 16h12" /></svg>
           EPUB
         </a>
-        {audioHref && (
-          <a
-            href={audioHref}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="band-download"
-            data-audio-download
-            data-book-slug={slug}
-            data-book-title={title}
-          >
-            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4zM14 7a4 4 0 010 6M16 5a7 7 0 010 10" /></svg>
-            Audio, MP3
-          </a>
-        )}
       </div>
 
       {chapters.length > 0 && (
@@ -218,9 +203,6 @@ const textHtml = (await Astro.slots.render('default')).replace(
 
 <script>
   import '../scripts/reader';
-  import { trackAudioDownloads } from '../scripts/audio-analytics';
-
-  trackAudioDownloads(document);
 </script>
 
 <style>

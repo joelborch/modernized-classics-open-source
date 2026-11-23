@@ -27,8 +27,6 @@ coverAlt: >-
   modern psychological understanding.
 downloads:
   epub: /downloads/varieties-of-religious-experience.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/varieties-of-religious-experience.mp3
 ---
 ## RELIGION AND NEUROLOGY
 

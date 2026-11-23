@@ -14,7 +14,6 @@ coverImage: ./cover.png
 coverAlt: Cover art for On the Origin of Species featuring scientific illustrations
 downloads:
   epub: /downloads/origin-of-species.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/on-the-origin-of-species.mp3'
 ---
 
 ## INTRODUCTION

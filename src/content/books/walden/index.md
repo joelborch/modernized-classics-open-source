@@ -23,7 +23,6 @@ coverAlt: >-
   Thoreau's 19th century ideals with modern environmental consciousness.
 downloads:
   epub: /downloads/walden.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/walden.mp3'
 ---
 
 ## Introduction

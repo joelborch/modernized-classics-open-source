@@ -20,7 +20,6 @@ const books = defineCollection({
     downloads: z.object({
       epub: z.string().optional(),
     }).optional(),
-    audioDownload: z.string().optional(),
   }),
 });
 

@@ -23,7 +23,6 @@ coverAlt: >-
   elements representing the boundaries of human knowledge.
 downloads:
   epub: /downloads/critique-of-pure-reason.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/critique-of-pure-reason.mp3'
 ---
 
 ## Introduction to the Critique of Pure Reason

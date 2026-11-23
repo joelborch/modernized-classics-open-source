@@ -21,8 +21,6 @@ coverAlt: >-
   background and strong modern typography for the title and author.
 downloads:
   epub: /downloads/vindication-rights-of-woman.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/a-vindication-of-the-rights-of-woman.mp3
 ---
 
 ## 1

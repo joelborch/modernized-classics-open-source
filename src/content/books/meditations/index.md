@@ -21,7 +21,6 @@ coverAlt: >-
   waves or geometric patterns representing reason), or cosmic/natural elements.
 downloads:
   epub: /downloads/meditations.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/meditations.mp3'
 ---
 ## Meditations
 

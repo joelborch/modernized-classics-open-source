@@ -21,8 +21,6 @@ coverAlt: >-
   with modern typography.
 downloads:
   epub: /downloads/on-liberty-utilitarianism-other-essays.epub
-audioDownload: >-
-  https://media.modernizedclassicsbooks.com/on-liberty-utilitarianism-and-other-essays.mp3
 ---
 
 ## I — Introductory

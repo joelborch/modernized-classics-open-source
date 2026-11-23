@@ -16,7 +16,6 @@ coverImage: ./cover.png
 coverAlt: Cover art for Leviathan featuring symbolic imagery of a sovereign power.
 downloads:
   epub: /downloads/leviathan.epub
-audioDownload: 'https://media.modernizedclassicsbooks.com/leviathan.mp3'
 ---
 
 ### **A New Way to Think About Government**
