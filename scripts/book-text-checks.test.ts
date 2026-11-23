@@ -11,7 +11,6 @@ const ALLOWANCES: Record<string, BookTextAllowance[]> = {
 
 // Books whose text is known to be broken and is being repaired separately.
 const PENDING: Record<string, string> = {
-  leviathan: 'Parts III–IV are overlapping, out-of-order chunks and the text is heavily condensed; being redone.',
   'economic-consequences-of-the-peace': 'Tables were summarized or altered and notes about the prompt remain; being checked against the source.',
   'communist-manifesto-and-das-kapital': 'Das Kapital chapters I–XI are missing, so chapter numbering restarts; being filled in.',
 };
