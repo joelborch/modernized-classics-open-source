@@ -24,6 +24,26 @@ downloads:
   epub: /downloads/second-treatise-of-government.epub
 ---
 
+## PREFACE
+
+Reader, you have before you the beginning and the end of a discourse on government. What fate befell the papers that should have filled the middle, and that made up more than all the rest combined, is not worth telling you. I hope that what remains is enough to establish the throne of our great restorer, our present King William, and to secure his title in the consent of the people. That consent is the only title of every lawful government, and he holds it more fully and clearly than any prince in Christendom. I hope, too, that these pages will vindicate before the world the people of England, whose love of their just and natural rights, together with their resolve to preserve them, saved the nation when it stood on the very brink of slavery and ruin.
+
+If these papers carry the force of evidence that I flatter myself they contain, the lost portion will hardly be missed, and my reader may be satisfied without it. I doubt I will have either the time or the inclination to repeat my labors and complete the missing part of my answer by following Sir Robert Filmer once again through all the twists and obscurities that run through the many branches of his remarkable system. The king and the body of the nation have since refuted his hypothesis so thoroughly that I expect no one hereafter will have the audacity to stand against our common safety and once more argue for slavery, or the weakness to be taken in by contradictions dressed up in a popular style and elegantly turned sentences.
+
+Anyone who cares to make the effort, in the parts of Filmer's work left untouched here, can strip his writings of their ornament of ambiguous phrasing, try to reduce his words to direct, definite, intelligible propositions, and then compare those propositions with one another. He will soon be convinced that never was so much glib nonsense assembled in such fine-sounding English. If he thinks it not worth the trouble to examine the whole of Filmer's work, let him make a trial of the section on usurpation, and see whether, with all his skill, he can make Sir Robert intelligible, consistent with himself, or consistent with common sense.
+
+I would not speak so bluntly of a gentleman long since beyond the power of reply, had not the pulpit in recent years openly embraced his doctrine and made it the prevailing theology of the age. Those men who have taken it upon themselves to be teachers, and who have so dangerously misled others, must be shown openly what kind of authority this Patriarch of theirs really is, the man they have followed so blindly. They may then either retract what they have proclaimed on such poor foundations and cannot defend, or else justify the principles they preached as gospel, even though their only source was an English courtier.
+
+I would not have written against Sir Robert, nor taken the trouble to expose his mistakes, his inconsistencies, and his lack of the very scriptural proofs he boasts of so loudly and claims to build on entirely, if there were not men among us who, by extolling his books and championing his doctrine, spare me the reproach of attacking a dead adversary. They have been so zealous on this point that, if I have wronged him in any way, I cannot expect them to spare me. Where they themselves have wronged the truth and the public, I wish they would be equally ready to make amends, and to give due weight to this one reflection: that no greater harm can be done to prince and people alike than to spread false notions about government. Then, at last, future ages might have no cause to complain of the "drum ecclesiastic," the pulpit beaten like a war drum to stir political passions in the name of religion.
+
+If anyone genuinely concerned for the truth undertakes to refute my hypothesis, I promise either to retract my error once I am fairly convinced of it, or to answer his objections. But he must bear two things in mind.
+
+First, quibbling here and there over some phrase or minor detail of my discourse is not an answer to my book.
+
+Second, I will not mistake abuse for argument, nor consider either of these worth my notice. I will, however, always consider myself bound to give satisfaction to anyone who shows himself to have conscientious doubts on the matter and who can present just grounds for them.
+
+It remains only to inform the reader that *Observations* refers to Filmer's *Observations on Hobbes, Milton, etc.*, and that a citation of page numbers alone always refers to the pages of his *Patriarcha*, in the edition of 1680.
+
 ## OF CIVIL-GOVERNMENT
 Book II
 
@@ -662,7 +682,7 @@ But here’s the key distinction: **owing honor to your parents is not the same 
 
 ---
 
-## **Two Different “Powers” People Confuse**
+## **§ 67. Two Different “Powers” People Confuse**
 
 Locke says most confusion comes from mixing up two very different things:
 
@@ -686,7 +706,7 @@ That’s why, when scripture describes God’s corrective treatment of Israel, i
 This is the kind of authority children are commanded to obey: so their parents’ labor and worry aren’t increased or repaid with contempt.
 
 ### **2) Honor and Support (Permanent)**
-On the other side, children owe parents something for the benefits they’ve received—life, care, and the chance to enjoy anything at all. That obligation expresses itself as:
+§ 68. On the other side, children owe parents something for the benefits they’ve received—life, care, and the chance to enjoy anything at all. That obligation expresses itself as:
 
 - **respect and reverence**
 - **support and relief**
@@ -699,7 +719,7 @@ It can look less like “obedience” because it’s not about being bossed arou
 
 ---
 
-## **Education Ends; Honor Doesn’t**
+## **§ 69. Education Ends; Honor Doesn’t**
 Locke draws the line sharply:
 
 - **Education and guardianship** have a natural endpoint. When the work of raising and training is done, that authority **expires**.
@@ -723,7 +743,7 @@ Yes, it’s often wise and decent for adult children to give their parents real 
 
 ---
 
-## **Why Gratitude Doesn’t Create Government**
+## **§ 70. Why Gratitude Doesn’t Create Government**
 Locke pushes the point with everyday examples. You can owe:
 
 - **respect** to an elderly or exceptionally wise person
@@ -744,7 +764,7 @@ sometimes more for one child than another. So this can’t be a simple, one-size
 
 ---
 
-## **Paternal Power Isn’t Political Power**
+## **§ 71. Paternal Power Isn’t Political Power**
 This distinction also explains something you can observe anywhere: in societies where parents are themselves subjects under a government, they still retain parental authority over their children. That would be impossible if **political power were nothing but paternal power**, as if they were the same thing.
 
 If all political authority were merely “fatherhood scaled up,” then paternal power would belong entirely to the prince, and ordinary parents—being subjects—would have none left.
@@ -758,12 +778,12 @@ Which means the prince’s political dominion over subjects cannot be derived fr
 
 ---
 
-## **The Hidden Lever: Inheritance**
+## **§ 72. The Hidden Lever: Inheritance**
 Locke adds one more kind of “power” that often gets mistaken for parental jurisdiction: **control over property and inheritance**.
 
 In most societies, children naturally expect to inherit their parents’ estate in some customary proportions. But fathers usually have some freedom to distribute that estate more generously or more sparingly depending on a child’s behavior. That expectation can be a powerful incentive to stay in a parent’s good graces—even after adulthood.
 
-People also notice something else: land typically comes with political strings attached. If you own land in a country, you’re subject to that country’s government. So some have argued that a father can bind his descendants to the government he lives under, because his “agreement” with that government carries over to his heirs.
+§ 73. People also notice something else: land typically comes with political strings attached. If you own land in a country, you’re subject to that country’s government. So some have argued that a father can bind his descendants to the government he lives under, because his “agreement” with that government carries over to his heirs.
 
 Locke says that’s not quite right.
 
@@ -780,7 +800,7 @@ A Frenchman can exert the same kind of pull over an Englishman if he promises hi
 
 ---
 
-## **How Fathers Became Kings (Without “Natural” Right)**
+## **§ 74. How Fathers Became Kings (Without “Natural” Right)**
 Locke closes by explaining how political rule could plausibly grow out of family life—without being justified by any special “father-right.”
 
 Even though:
@@ -807,7 +827,7 @@ It comes from something else: the **executive power of the law of nature**—the
 
 ---
 
-## **Why the Transition Felt “Natural”**
+## **§ 75. Why the Transition Felt “Natural”**
 Once you picture the early household, the drift into paternal rule makes sense.
 
 Children had spent their whole childhood following their father’s guidance. They brought disputes to him as the natural umpire. And when they became adults, who would seem more fit to keep order than the person who had raised them, cared for them, and was inclined by affection to treat them fairly?
@@ -822,7 +842,7 @@ So the family had little reason to draw a sharp legal line between being under g
 
 ---
 
-## **From Family Fathers to Political Monarchs**
+## **§ 76. From Family Fathers to Political Monarchs**
 Over time, Locke says, many natural fathers became political rulers by gradual, almost unnoticed steps. If they lived long enough and were succeeded by capable heirs, that pattern could harden into:
 
 - **hereditary kingdoms**, or
@@ -1135,7 +1155,7 @@ So when some people objected to Saul’s rule after he was publicly chosen, thei
 
 Even the transfer of power from Saul to David is announced in the same key. David is named as the one God has “commanded… to be captain over his people.” That wording makes it sound as if the heart of kingship is still military leadership. And when the tribes who had resisted David finally come to Hebron to submit, one of their strongest arguments is basically: you’ve already been acting as our real leader. Back when Saul was king, you were the one who “led out and brought in” Israel—an idiom for leading campaigns and bringing the army home. And, they add, God had said David would “feed” (that is, shepherd and care for) the people and be their captain.
 
-**So what does this tell us about the first political societies?** It suggests two common pathways, both grounded in ordinary human needs rather than divine magic.
+§ 110. **So what does this tell us about the first political societies?** It suggests two common pathways, both grounded in ordinary human needs rather than divine magic.
 
 **1) A family slowly turns into a commonwealth.**  
 Imagine a household that grows over generations. The father’s authority continues, then passes to the eldest son, and so on. People grow up under that leadership, get used to it, and—because it’s relatively even-handed and not humiliating—most simply go along with it. Over time, what began as a practical arrangement starts to look like an established “right” of succession, confirmed by long habit.
@@ -1145,7 +1165,7 @@ Or picture several families—neighbors, trading partners, or people thrown toge
 
 Whichever route you choose, the underlying point is the same: no one is trusted with authority except for **the public good and common security**. And in the earliest stages, leaders usually use power for exactly that. If they didn’t, the society wouldn’t make it. Young communities are fragile. Without leaders who function like “nursing fathers”—careful, protective, and focused on the shared welfare—both rulers and ruled would often collapse together.
 
-**Why, then, do we end up arguing so fiercely about political power?** Because the “golden age” doesn’t last.
+§ 111. **Why, then, do we end up arguing so fiercely about political power?** Because the “golden age” doesn’t last.
 
 In the earlier, simpler period—before ambition and the “cursed love of having” warped people’s ideas about honor and power—there tended to be more virtue. That meant better rulers and less corrupt citizens. There was less temptation for rulers to stretch their prerogative into oppression, and less incentive for people to fight about privileges as a way to cut government down. In short, fewer power struggles.
 
@@ -1157,7 +1177,7 @@ But later ages changed the incentives. Ambition and luxury pushed rulers to clin
 
 Because the key fact is this: people entrusted power to rulers for their own good, and then discovered it could be used against them.
 
-**Consent, not divine right, explains peaceful beginnings.**  
+§ 112. **Consent, not divine right, explains peaceful beginnings.**  
 When we look at history—at least where governments begin without conquest—it’s highly likely that naturally free people either:
 
 - accepted continued leadership within a family, or
@@ -1169,7 +1189,7 @@ The idea that kings rule by **divine right**—that monarchy is *jure divino*—
 
 ---
 
-There’s another objection some people raise against this account, and it goes like this:
+§ 113. There’s another objection some people raise against this account, and it goes like this:
 
 **“Everyone is born under some government, so no one is ever truly free to form a new one. Therefore, you can’t ‘start’ a lawful government by consent.”**
 
@@ -1182,11 +1202,11 @@ Push their logic to the end, and it becomes absurd: either
 
 If it’s the second, the job is simple: they just need to tell us who that one rightful ruler is. Once they do, surely all humanity will calmly agree to obey him.
 
-That’s enough to show the objection defeats itself. But we can go further and see why it doesn’t match reality.
+§ 114. That’s enough to show the objection defeats itself. But we can go further and see why it doesn’t match reality.
 
 People say: “Everyone is born under government. Everyone is born a subject—either to his father or his prince—and therefore owes lifelong allegiance.” But humanity has never generally recognized any such built-in, involuntary political subjection that automatically binds a person (and their heirs) without consent.
 
-History—sacred and secular—is full of people doing the opposite. Over and over, we find groups who:
+§ 115. History—sacred and secular—is full of people doing the opposite. Over and over, we find groups who:
 
 - leave the jurisdiction they were born under,
 - withdraw their obedience from the family or community they grew up in, and
@@ -1196,15 +1216,15 @@ That’s where so many small commonwealths and little kingdoms came from in earl
 
 Because if paternal right were the true root of government, the world should have looked very different. There should have been, in principle, only one vast universal monarchy. The only way we get many kingdoms and commonwealths is if people were free to separate from their families and from whatever government existed among them, and to form new political societies as they judged best.
 
-And that freedom hasn’t disappeared with time. Being born under an old, established government with laws and institutions doesn’t trap humanity any more than being born in open wilderness would. The people who insist that birth alone makes you a natural subject typically fall back on one main reason (besides paternal power, already answered): they claim our ancestors “gave away” their natural liberty and bound both themselves and their descendants into permanent subjection.
+§ 116. And that freedom hasn’t disappeared with time. Being born under an old, established government with laws and institutions doesn’t trap humanity any more than being born in open wilderness would. The people who insist that birth alone makes you a natural subject typically fall back on one main reason (besides paternal power, already answered): they claim our ancestors “gave away” their natural liberty and bound both themselves and their descendants into permanent subjection.
 
 Here’s the crucial distinction: yes, a person is bound by promises and agreements they themselves make. But no agreement can, by itself, permanently bind their children and future generations. When a son becomes an adult, he is as free as his father was. The father cannot hand away the son’s liberty any more than he can hand away the liberty of a stranger.
 
 There’s one important caveat, and it explains a common confusion. While a father can’t sign away his child’s freedom, he *can* attach conditions to property he owns. If land is his, he may settle it so that anyone who inherits it must accept certain terms—like belonging to a particular commonwealth—in order to enjoy that inheritance. That doesn’t bind the son as a person; it binds the estate as an estate.
 
-And this is how the mistake usually happens. A commonwealth typically won’t allow its territory to be carved up or held by outsiders. So a son often can’t enjoy his father’s property unless he accepts the same civic terms his father lived under—becoming a member of that society, and thereby placing himself under its government like any other citizen. Because that consent happens one person at a time, as each new adult steps into property and civic life, people don’t notice it. It’s quiet. It isn’t done by crowds all at once. And because it’s not dramatic, many assume it doesn’t exist—then jump to the false conclusion that people are naturally subjects simply because they are born.
+§ 117. And this is how the mistake usually happens. A commonwealth typically won’t allow its territory to be carved up or held by outsiders. So a son often can’t enjoy his father’s property unless he accepts the same civic terms his father lived under—becoming a member of that society, and thereby placing himself under its government like any other citizen. Because that consent happens one person at a time, as each new adult steps into property and civic life, people don’t notice it. It’s quiet. It isn’t done by crowds all at once. And because it’s not dramatic, many assume it doesn’t exist—then jump to the false conclusion that people are naturally subjects simply because they are born.
 
-But governments themselves behave as if that conclusion is wrong. They don’t claim authority over children merely because they had authority over the father. They don’t treat children as automatic subjects because their parents were.
+§ 118. But governments themselves behave as if that conclusion is wrong. They don’t claim authority over children merely because they had authority over the father. They don’t treat children as automatic subjects because their parents were.
 
 Consider a simple case. Suppose an Englishman and an Englishwoman have a child in France. Whose subject is that child?
 
@@ -1217,7 +1237,7 @@ A child is under a father’s care and authority until he reaches the age of jud
 
 ---
 
-So if every adult is naturally free, and nothing but **his own consent** can place him under the authority of an earthly government, the next question is practical:
+§ 119. So if every adult is naturally free, and nothing but **his own consent** can place him under the authority of an earthly government, the next question is practical:
 
 **What counts as consent?**  
 People commonly distinguish between:
@@ -1237,11 +1257,11 @@ Here’s the principle: if a person enjoys **any part** of the benefits of a gov
 
 In practice, it reaches as far as this: being within a government’s territory, and enjoying the protections and conveniences that come with it, is itself a form of consent—enough to oblige you to follow the laws while you’re there.
 
-To see why, think about what happens when someone first joins a commonwealth. By joining, he doesn’t only unite his **person**—he also, at the same time, places under the community’s authority the **possessions** he has (or will later acquire) that aren’t already under another government. It would be a contradiction to enter society for the purpose of securing and regulating property, but then claim your own land is exempt from the society’s jurisdiction. The owner can’t be a subject while the land pretends to be independent.
+§ 120. To see why, think about what happens when someone first joins a commonwealth. By joining, he doesn’t only unite his **person**—he also, at the same time, places under the community’s authority the **possessions** he has (or will later acquire) that aren’t already under another government. It would be a contradiction to enter society for the purpose of securing and regulating property, but then claim your own land is exempt from the society’s jurisdiction. The owner can’t be a subject while the land pretends to be independent.
 
 So the same act that ties a formerly free person to a commonwealth also ties his formerly free possessions to it. From that point forward, both person and property fall under the government of that commonwealth for as long as it exists. And anyone who later comes to enjoy any of that land—by inheritance, purchase, permission, or any other route—takes it with the conditions attached to it: submission to the government whose jurisdiction covers it, as fully as any other subject.
 
-Government’s authority, in practice, grabs you through **land**.
+§ 121. Government’s authority, in practice, grabs you through **land**.
 
 It has direct legal power over the territory itself, and it reaches you—especially before you’ve formally joined the society—mainly because you **live on that land** and **benefit from it**. That matters because it draws a clean line around what you owe the government when your “yes” is only implied.
 
@@ -2058,7 +2078,7 @@ It’s like being on a ship and realizing the captain is taking you to Algiers. 
 ## CHAP. XIX. 
 Of the Dissolution of Government.
 
-To talk clearly about the “dissolution of government,” we have to separate two different breakages that people often blur together:
+§ 211. To talk clearly about the “dissolution of government,” we have to separate two different breakages that people often blur together:
 
 - **The dissolution of a society** (the political community itself falls apart).
 - **The dissolution of a government** (the community still exists, but its governing machinery collapses).
@@ -2072,7 +2092,7 @@ In practice, that union is usually destroyed in one main way: **foreign conquest
 
 And once the society is gone, the government can’t possibly remain. Conquest doesn’t just topple leaders; it often tears apart the relationships that made government meaningful in the first place—breaking the people into scattered, subdued groups no longer protected by, or dependent on, the society that should have defended them. Trying to keep a government alive after the society is shattered is like trying to keep a house standing after a tornado has flung its beams and bricks across the field, or an earthquake has dumped them into a heap.
 
-### **Government Can Also Collapse From the Inside**
+### **§ 212. Government Can Also Collapse From the Inside**
 Foreign invasion isn’t the only way governments end. They can dissolve from within.
 
 #### **1) When the Legislative Power Is Altered**
@@ -2088,7 +2108,7 @@ So if someone starts making laws without being appointed by the people, those �
 
 In plain terms: when the rightful voice of the public is shut out and impostors take its place, each person is once again left to their own judgment about how to protect their freedom.
 
-### **A Concrete Example: A Mixed Government**
+### **§ 213. A Concrete Example: A Mixed Government**
 To see how this usually happens—and who is most likely to cause it—imagine a system where the legislature involves three parts:
 
 1. **A single hereditary ruler** who holds the continuous supreme executive power and can summon or dissolve the other legislative bodies at set times.  
@@ -2097,12 +2117,12 @@ To see how this usually happens—and who is most likely to cause it—imagine a
 
 In a system like that, the legislature can be “altered” in several recognizable ways.
 
-#### **A) When the Ruler Replaces Law With Personal Will**
+#### **§ 214. When the Ruler Replaces Law With Personal Will**
 If the ruler substitutes their **arbitrary will** for the laws—laws that are supposed to express the society’s will through the legislature—then the legislature has effectively been changed. Why? Because, in practice, the “real legislature” is the one whose rules actually get enforced.
 
 So when someone introduces new rules that weren’t authorized by the society’s foundational arrangement, or undermines old laws in a way that denies the authority that made them, that person isn’t just breaking laws—they’re **setting up a new legislative power**.
 
-#### **B) When the Ruler Blocks the Legislature From Meeting or Acting Freely**
+#### **§ 215. When the Ruler Blocks the Legislature From Meeting or Acting Freely**
 It’s not enough for a legislature to exist on paper. A legislature only functions if it can:
 
 - meet at the proper times,
@@ -2113,13 +2133,13 @@ If the ruler prevents assembly, or strips away genuine deliberation, or rushes a
 
 So anyone who removes the legislature’s freedom or blocks it from acting in season effectively abolishes the legislature—and that ends the government.
 
-#### **C) When Elections Are Manipulated Without Consent**
+#### **§ 216. When Elections Are Manipulated Without Consent**
 If the ruler uses arbitrary power to alter who gets to vote, or how elections work, without the people’s consent and against their common interest, the legislature changes again. If the wrong people choose representatives—or the right people are forced to choose in an unauthorized way—then those “representatives” aren’t the legislature the society appointed.
 
-#### **D) When the People Are Handed Over to Foreign Rule**
+#### **§ 217. When the People Are Handed Over to Foreign Rule**
 If either the ruler or the legislature delivers the people into subjection to a foreign power, that’s certainly a change of the legislature and therefore a dissolution of government. The whole point of entering society was to remain **one free, independent community**, governed by its own laws. That goal is destroyed the moment the people are surrendered to someone else’s rule.
 
-### **Why the Blame Often Falls on the Executive**
+### **§ 218. Why the Blame Often Falls on the Executive**
 In a constitution like the one described, it’s usually clear why the executive—the prince—gets the blame when the government dissolves in these ways.
 
 The executive typically controls the real tools of power:
@@ -2136,7 +2156,7 @@ There’s also a structural reason: in this kind of government, the executive ca
 
 Still, whenever other parts of the legislature play along—by actively helping, or by failing to oppose what they could have opposed—they share guilt in the attempt. Undermining the constitutional foundation of a community is among the gravest wrongs people can commit against one another.
 
-### **Neglect Can Dissolve Government Too**
+### **§ 219. Neglect Can Dissolve Government Too**
 There’s another route to dissolution: when the person holding supreme executive power **abandons the job** so completely that the laws can’t be carried out.
 
 That doesn’t merely create inefficiency. It produces anarchy.
@@ -2145,7 +2165,7 @@ Laws aren’t written for decoration. Their whole purpose is to bind society tog
 
 If there’s no administration of justice to secure rights, and no remaining authority able to direct public force or provide for public necessities, then there is no government left. When laws can’t be enforced, it’s exactly as if no laws existed. And a “government without laws” is a contradiction—something politics can’t make sense of and human society can’t live with.
 
-### **What Happens After Dissolution**
+### **§ 220. What Happens After Dissolution**
 In these kinds of cases, once the government is dissolved, the people are free to protect themselves by establishing a **new legislature**—changing the persons, the form, or both—whatever best serves their safety and good.
 
 The society doesn’t lose its basic right of self-preservation just because someone else betrayed their trust. The community’s original right remains: to secure itself through a settled legislature and the fair, impartial execution of the laws.
@@ -2154,13 +2174,13 @@ And we shouldn’t pretend that people only get this remedy when it’s already 
 
 That’s not relief; it’s mockery. People can’t be secure against tyranny if the only escape hatch appears after tyranny is complete. So they have not only the right to get out of tyranny—they have the right to **prevent it**.
 
-### **A Second Internal Cause: Betrayal of Trust**
+### **§ 221. A Second Internal Cause: Betrayal of Trust**
 There’s a second major way governments dissolve from within: when the legislature or the executive **violates the trust** placed in them.
 
 #### **When the Legislature Attacks Property**
 The legislature betrays its trust when it tries to invade the subject’s property—when it aims to make itself, or any faction within the community, the master and arbitrary disposer of the people’s lives, liberties, and fortunes.
 
-Why is that such a fatal breach?
+§ 222. Why is that such a fatal breach?
 
 Because the whole reason people enter society is to preserve their property. And the reason they authorize a legislature is so there will be standing rules—legal “fences”—that protect everyone’s rights, limit power, and keep any person or part of society from dominating the rest.
 
@@ -2189,21 +2209,21 @@ So when an executive tries to pack the legislature with declared supporters of t
 
 Add to that visible rewards and punishments used to force compliance, plus legal tricks deployed to remove and destroy anyone who stands in the way, and the purpose becomes unmistakable. And the conclusion is straightforward: someone who has seriously attempted this can’t reasonably be trusted with public power any longer.
 
-### **Objection: “Won’t This Make Government Unstable?”**
+### **§ 223. Objection: “Won’t This Make Government Unstable?”**
 Someone might object: “People are ignorant and always unhappy. If government rests on the shifting mood of the public, won’t it fall apart? Won’t people replace the legislature whenever they feel offended?”
 
 The reality is the opposite. People don’t abandon long-standing political arrangements easily. They’re often hard to persuade even to fix obvious defects in the systems they’ve grown used to.
 
 Even when everyone can see a chance to reform—whether the problem is built into the constitution from the start or has crept in over time through corruption—change is still slow and difficult. In fact, the history of political upheavals in this country shows how strongly people tend to return, after chaotic experiments, to the familiar structure of king, lords, and commons. Even when provocations were serious enough that some kings lost their crowns, the public rarely went so far as to move the crown to a different family line.
 
-### **Objection: “This Theory Encourages Rebellion”**
+### **§ 224. Objection: “This Theory Encourages Rebellion”**
 Another objection follows: “Doesn’t this view ferment rebellion?”
 
 First: no more than any other view does. If people are made miserable and are exposed to the abuses of arbitrary power, then it hardly matters what stories you tell about their rulers. Call the rulers “sons of Jupiter.” Declare them sacred, divine, heaven-sent—whatever you like. If people are generally mistreated and denied their rights, they’ll look for a chance to relieve themselves of a burden they can’t bear. And because human affairs constantly shift—through accidents, weakness, and change—opportunities rarely stay away for long.
 
 Anyone who has lived even a short time has seen examples. Anyone who has read even a little history can find examples across every kind of government.
 
-Second: these upheavals don’t happen over every minor mistake. People will tolerate a lot—serious errors by those in charge, plenty of harmful and inconvenient laws, and the ordinary missteps that come with being human—without mutiny or murmur.
+§ 225. Second: these upheavals don’t happen over every minor mistake. People will tolerate a lot—serious errors by those in charge, plenty of harmful and inconvenient laws, and the ordinary missteps that come with being human—without mutiny or murmur.
 
 But when people live through a long run of abuses—constant stalling, bad faith, and political tricks—all aimed in the same direction, the pattern eventually becomes impossible to miss. They can *feel* the weight of what’s being done to them, and they can see where it’s headed. So it shouldn’t surprise anyone when they finally wake up, push back, and try to place power in hands that will actually protect the purpose government was created for in the first place.
 
@@ -2380,7 +2400,7 @@ In fact, Barclay is more consistent in another place, where he flatly denies tha
 
 He says there are two such cases. The first is when a king seriously sets out to **destroy the kingdom itself**, like the stories told of Nero and Caligula—men said to have plotted to devastate the senate, the people, even the city with sword and fire, and to treat the whole populace as disposable. When a king genuinely pursues such designs, Barclay says, he throws off the very care and purpose of ruling and therefore loses authority over his subjects, the way a master loses ownership of a servant he has abandoned.
 
-What if people ever have the *right*, on their own authority, to protect themselves—up to and including taking up arms against a king who’s openly crushing them?
+§ 237. What if people ever have the *right*, on their own authority, to protect themselves—up to and including taking up arms against a king who’s openly crushing them?
 
 On the usual “absolute obedience” view, the answer is **never**—so long as he is still truly a king. “Honor the king,” and “whoever resists authority resists what God has established,” are treated as iron rules. Under that doctrine, the people can’t acquire power *over* the king.
 
@@ -2405,7 +2425,7 @@ A ruler who seriously entertains—and actively advances—plans like that isn�
 
 ## **2) When a king hands his kingdom to someone else**
 
-The second case is when a king **makes himself dependent on another power** and **submits his kingdom to a foreign dominion**—a kingdom that his ancestors held, and that the people entrusted to him as a free community.
+§ 238. The second case is when a king **makes himself dependent on another power** and **submits his kingdom to a foreign dominion**—a kingdom that his ancestors held, and that the people entrusted to him as a free community.
 
 He might claim he means well. But the act itself destroys the core of what kingship is supposed to be: being **supreme within the kingdom**, immediately under God, not under some other ruler. Worse, he has betrayed the people’s liberty—something he was specifically obligated to guard.
 
@@ -2413,7 +2433,7 @@ By “selling off” or alienating the kingdom this way, he doesn’t successful
 
 ---
 
-## **Even absolutists end up conceding this**
+## **§ 239. Even absolutists end up conceding this**
 
 Here’s the revealing part: even Barclay—one of the major defenders of absolute monarchy—admits that in these situations a king may be resisted and, in effect, stops being king.
 
@@ -2444,7 +2464,7 @@ Hooker alone ought to satisfy anyone who leans on him for church polity—yet it
 
 ---
 
-## **“Who gets to judge?”**
+## **§ 240. “Who gets to judge?”**
 
 At this point, a predictable question appears: **Who decides whether a prince or legislature has acted against the trust placed in them?**
 
@@ -2458,7 +2478,7 @@ If that’s reasonable in private life, it’s even more reasonable in the highe
 
 ---
 
-## **And if there’s no court on earth, the appeal is to heaven**
+## **§ 241. And if there’s no court on earth, the appeal is to heaven**
 
 The question “Who shall judge?” can’t mean “there is no judge at all.” When there is no earthly tribunal with authority to settle the dispute, **God is judge**.
 
@@ -2466,7 +2486,7 @@ God alone is judge of who is *right*. But each person must still judge *for hims
 
 ---
 
-## **When law is silent, the community is the natural umpire**
+## **§ 242. When law is silent, the community is the natural umpire**
 
 If a dispute arises between a prince and part of the people over something where the law is silent or unclear, and the matter is of great importance, the most appropriate umpire is **the body of the people**.
 
@@ -2476,7 +2496,7 @@ But if the prince—or whoever governs—refuses that kind of determination, the
 
 ---
 
-## **What returns to whom when government dissolves**
+## **§ 243. What returns to whom when government dissolves**
 
 To wrap it up:
 

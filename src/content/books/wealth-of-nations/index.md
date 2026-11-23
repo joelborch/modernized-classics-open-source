@@ -20,6 +20,26 @@ downloads:
   epub: /downloads/wealth-of-nations.epub
 ---
 
+## INTRODUCTION AND PLAN OF THE WORK
+
+Every nation draws all the necessities and comforts of life it consumes in a year from one original source, its own annual labour. What it consumes is always either the direct product of that labour or something bought from other nations with that product.
+
+A nation will therefore be better or worse supplied with the necessities and comforts it needs according to whether this product, or what it buys, is large or small in proportion to the number of people who must consume it.
+
+In every nation, this proportion depends on two separate factors. The first is the skill, dexterity, and judgment with which its labour is generally applied. The second is the ratio between the number of people engaged in useful labour and the number who are not. Whatever a nation's soil, climate, or size, the abundance or scarcity of its annual supply must, in its particular circumstances, depend on these two factors.
+
+Of the two, the first seems to matter more. Among primitive nations of hunters and fishers, every individual able to work is more or less employed in useful labour, and each tries as best he can to provide the necessities and comforts of life for himself and for those of his family or tribe who are too old, too young, or too sick to go hunting and fishing. Yet such nations are so wretchedly poor that sheer want frequently drives them, or at least convinces them that they are driven, either to kill outright or to abandon their infants, their elderly, and those suffering from long illnesses, leaving them to die of hunger or to be devoured by wild animals. Among civilized and prosperous nations, by contrast, a great many people do not work at all, and many of these consume the product of ten times, often a hundred times, as much labour as most of those who do. Yet the total product of the society's labour is so great that everyone is often abundantly supplied, and even a worker of the lowest and poorest class, if he is thrifty and hardworking, can enjoy a larger share of the necessities and comforts of life than any member of a primitive society could possibly obtain.
+
+The first book of this Inquiry examines the causes of this improvement in the productive powers of labour, and the order in which its product is naturally distributed among the different ranks and conditions of people in society.
+
+Whatever the existing level of skill, dexterity, and judgment with which a nation applies its labour, the abundance or scarcity of its annual supply must depend, for as long as that level holds, on the ratio between the number of people employed each year in useful labour and the number who are not. As will later become clear, the number of useful and productive workers is everywhere proportional to the amount of capital used to set them to work, and to the particular way in which that capital is employed. The second book therefore deals with the nature of capital, the manner in which it is gradually accumulated, and the differing quantities of labour it sets in motion depending on how it is used.
+
+Nations that have reached a reasonably advanced level of skill, dexterity, and judgment in applying their labour have pursued very different plans in directing it, and these plans have not all been equally favourable to increasing its product. Some nations have adopted policies that give extraordinary encouragement to the industry of the countryside; others have favoured the industry of the towns. Hardly any nation has treated every kind of industry equally and impartially. Since the fall of the Roman Empire, European policy has favoured the arts, manufacturing, and commerce, which make up the industry of the towns, over agriculture, the industry of the countryside. The third book explains the circumstances that appear to have introduced and established this policy.
+
+These different plans may first have been introduced to serve the private interests and prejudices of particular classes of people, with no regard for, or foresight of, their consequences for the general welfare of society. Nonetheless, they have given rise to very different theories of political economy, some of which exaggerate the importance of the industry carried on in towns, and others the importance of the industry carried on in the countryside. These theories have had considerable influence, not only on the opinions of scholars but also on the public conduct of princes and sovereign states. In the fourth book, I have tried to explain these theories as fully and clearly as I can, together with the principal effects they have produced in different ages and nations.
+
+The purpose of these first four books is to explain what the income of the great body of the people has consisted of, or, put another way, the nature of the funds that have supplied their annual consumption in different ages and nations. The fifth and final book deals with the revenue of the sovereign, or the commonwealth. In it I have tried to show three things. First, I set out the necessary expenses of the sovereign or commonwealth, and which of these expenses ought to be paid for by a general contribution from the whole society, and which by some particular part of it, or by certain of its members only. Second, I describe the different methods by which the whole society can be made to contribute toward the expenses that fall on the whole society, along with the principal advantages and drawbacks of each method. Third and last, I examine the reasons and causes that have led almost every modern government to mortgage some part of this revenue, or to contract debts, and the effects those debts have had on the real wealth of society, which is the annual product of its land and labour.
+
 ## BOOK ONE
 
 **About the Reasons for Better Work Efficiency and How What's Made is Naturally Shared Among Different Groups of People**
@@ -1178,10 +1198,45 @@ The contempt of risk and the presumptuous hope of success are in no period of li
 
 What a common soldier may lose is obvious enough. Without regarding the danger, however, young volunteers never enlist so readily as at the beginning of a new war. Though they have hardly any chance of promotion (preferment), they imagine, in their youthful fancies, a thousand occasions of acquiring honor and distinction which never occur. These romantic hopes make up the whole price of their blood. Their pay is less than that of common laborers, and in actual service, their fatigues are much greater.
 
-The lottery of the sea is not altogether so disadvantageous as that of the army. The son of a respectable laborer or craftsman may frequently go to sea with his father’s consent; but if he enlists as a soldier, it is always without it. Other people see some chance of his making something by the one trade (the sea); nobody but himself sees any chance of his making anything by the other (the army). The great admiral is less the object of public admiration than the great general, and the highest success in the sea service promises a less brilliant fortune and reputation than equal success in the land service. The same difference runs through all the lower degrees of promotion in both. By the rules of social standing (precedency), a captain in the navy ranks with a colonel in the army; but he does not rank with him in common estimation. As the great prizes in the lottery of the sea are less, the smaller ones must be more numerous. Common sailors, therefore, more frequently get some fortune and promotion than common soldiers; and the hope of these prizes is what principally recommends the trade. Though their skill and dexterity are much superior to that of almost any craftsman, and though their whole life is one continual scene of hardship and danger, yet for all this dexterity and skill, for all these hardships and dangers, while they remain in the condition of common sailors, they receive hardly any other payment but the pleasure of exercising the one and of surmounting the other. Their wages are not greater than those of common laborers at the port which regulates the rate of seamen’s wages. As they are continually going from port to port, the monthly pay of those who sail from all the different ports of Great Britain is more nearly on a level than that of any other workmen in those different places; and the rate of the port to and from which the greatest number sail, that is the port of London, regulates that of all the rest.
+The lottery of the sea is not quite as unfavorable as the lottery of the army. The son of a respectable laborer or craftsman can often go to sea with his father's consent, but if he enlists as a soldier, it is always without it. Other people see some chance that he might make something of himself in the first trade; no one but the boy himself sees any such chance in the second. A great admiral commands less public admiration than a great general, and the highest success at sea promises a less brilliant fortune and reputation than equal success on land. The same difference runs through every lower grade of promotion in the two services. Under the formal rules of precedence, a captain in the navy ranks alongside a colonel in the army, but he does not rank with him in common esteem. Since the great prizes in this lottery are smaller, the small prizes must be more numerous. Common sailors therefore win some fortune and advancement more often than common soldiers do, and the hope of those prizes is the chief attraction of the trade. Their skill and dexterity far exceed those of almost any craftsman, and their whole life is one continuous scene of hardship and danger. Yet for all that skill and dexterity, and for all those hardships and dangers, so long as they remain common sailors they receive scarcely any reward beyond the pleasure of exercising the one and overcoming the other. Their wages are no greater than those of common laborers at the port that sets the rate for seamen's pay. Because sailors move constantly from port to port, the monthly pay of those sailing from all the different ports of Great Britain comes closer to a single level than the pay of any other workers in those places, and the rate at the port to and from which the greatest number sail, the port of London, sets the rate for all the rest. In London, wages in most classes of work are roughly double those of the same classes in Edinburgh. But sailors leaving the port of London seldom earn more than three or four shillings a month above those who sail from Leith, Edinburgh's port, and the difference is often smaller still. In peacetime, in the merchant service, the London rate runs from a guinea, or twenty-one shillings, to about twenty-seven shillings per calendar month. A common laborer in London, earning nine or ten shillings a week, can make forty to forty-five shillings in a calendar month. The sailor, it is true, is also fed on top of his pay. Yet the value of his provisions may not always exceed the gap between his pay and the laborer's. Even when it does, the surplus is not clear gain to the sailor, because he cannot share his rations with his wife and family, whom he must support at home out of his wages.
 
+The dangers and narrow escapes of an adventurous life, far from discouraging young people, often seem to make a trade more attractive to them. A tender mother among the poorer classes is often afraid to send her son to school in a seaport town, for fear that the sight of the ships and the talk and adventures of the sailors will lure him to sea. The distant prospect of hazards from which we expect to extricate ourselves by courage and skill is not unpleasant to us, and it does not raise wages in any employment. The case is different where courage and skill can do nothing. In trades known to be seriously harmful to health, wages are always remarkably high. Unhealthiness is a kind of disagreeableness, and its effect on wages belongs under that general heading.
 
-When their master needs their labor, he gives them, besides their housing and land, two pecks of oatmeal a week, worth about sixteenpence sterling. During a great part of the year, he has little or no need for their labor. The cultivation of their own small piece of land is not enough to occupy the time which is left at their own disposal. When such part-time occupiers were more numerous than they are at present, they are said to have been willing to give their spare time for a very small payment to anybody, and to have worked for lower wages than other laborers. In ancient times, they seem to have been common all over Europe. In countries that were poorly cultivated and even worse inhabited, most landlords and farmers could not otherwise provide themselves with the extraordinary number of workers that country labor requires at certain seasons. The daily or weekly payment which such laborers occasionally received from their masters was clearly not the whole price of their labor. Their small plot of land and house (tenement) made up a considerable part of it. This daily or weekly payment, however, seems to have been considered as the whole of it by many writers who have collected the prices of labor and provisions in ancient times, and who have taken pleasure in representing both as wonderfully low.
+In all the different employments of stock, or capital, the ordinary rate of profit varies to a greater or lesser degree with the certainty or uncertainty of the returns. Returns are generally less uncertain in domestic trade than in foreign trade, and less uncertain in some branches of foreign trade than in others: in the trade to North America, for example, than in the trade to Jamaica. The ordinary rate of profit always rises somewhat with the risk. It does not, however, appear to rise in proportion to the risk, or enough to compensate for it fully. Bankruptcies are most frequent in the most hazardous trades. The most hazardous trade of all, smuggling, is also the most profitable when a venture succeeds, yet it is the surest road to bankruptcy. Here, as everywhere else, the presumptuous hope of success seems to draw so many adventurers into risky trades that their competition drives profit below what would be needed to compensate the risk. To compensate it fully, the ordinary returns would have to do more than yield the ordinary profits of capital. They would have to make up for all occasional losses and also give the adventurers a surplus profit of the same kind that insurers earn. But if ordinary returns were sufficient for all this, bankruptcies would be no more frequent in these trades than in any others.
+
+Of the five circumstances that cause wages to vary, then, only two affect the profits of capital: the agreeableness or disagreeableness of the business, and the risk or security that attends it. In agreeableness or disagreeableness there is little or no difference among the great majority of employments of capital, though there is a great deal among employments of labor. And the ordinary profit of capital, though it rises with risk, does not always seem to rise in proportion to it. It should follow from all this that, within the same society or neighborhood, the average and ordinary rates of profit across the different employments of capital will be closer to a common level than the money wages of the different kinds of labor.
+
+And so they are. The gap between the earnings of a common laborer and those of a lawyer or physician with a good practice is plainly far wider than the gap between the ordinary profits of any two branches of trade. Moreover, the apparent difference in the profits of different trades is generally an illusion. It arises because we do not always distinguish between what should count as wages and what should count as profit.
+
+"Apothecaries' profit" has become a byword for something unusually extravagant. Yet this large apparent profit is often nothing more than reasonable wages for labor. The skill of an apothecary is a far finer and more delicate matter than that of any craftsman whatever, and the trust placed in him is of much greater importance. He is the physician of the poor in every case, and of the rich when the distress or danger is not very great. His reward ought therefore to match his skill and his trust, and it generally comes from the price at which he sells his drugs. But all the drugs that the busiest apothecary in a large market town sells in a year may cost him no more than thirty or forty pounds. So even if he sells them for three or four hundred pounds, at a thousand percent profit, this may often be no more than reasonable wages for his labor, charged in the only way he can charge them: on the price of his drugs. Most of the apparent profit is real wages dressed up as profit.
+
+In a small seaport town, a modest grocer will make forty or fifty percent on a capital of a single hundred pounds, while a substantial wholesale merchant in the same place will scarcely make eight or ten percent on a capital of ten thousand. The grocer's trade may be necessary for the convenience of the inhabitants, and the narrowness of the market may not allow a larger capital to be employed in it. The grocer, however, must not only live by his trade but live by it in a manner suited to the qualifications it demands. Besides having a little capital, he must be able to read, write, and keep accounts. He must also be a fair judge of perhaps fifty or sixty different kinds of goods, their prices and qualities, and the markets where they can be bought most cheaply. He must have, in short, all the knowledge a great merchant needs, and nothing prevents him from becoming one except the lack of sufficient capital. Thirty or forty pounds a year cannot be considered too great a reward for the labor of so accomplished a person. Deduct this from the seemingly large profits on his capital, and perhaps little more will remain than the ordinary profits of capital. Here too, most of the apparent profit is real wages.
+
+The difference between the apparent profit of retail trade and that of wholesale trade is much smaller in the capital city than in small towns and country villages. Where ten thousand pounds can be employed in the grocery trade, the wages of the grocer's labor are a trifling addition to the real profits of so large a capital. The apparent profits of the wealthy retailer in the capital city are therefore closer to those of the wholesale merchant. This is why goods sold at retail are generally as cheap, and often much cheaper, in the capital city than in small towns and villages. Grocery goods, for example, are generally much cheaper there, while bread and butchers' meat are often just as cheap. It costs no more to bring grocery goods to the great town than to the country village, but it costs a great deal more to bring grain and cattle, since most of them must come from much farther away. Since the prime cost of grocery goods, the original price paid to acquire them, is the same in both places, they are cheapest where the least profit is charged on them. The prime cost of bread and butchers' meat is higher in the great town than in the village. So although the profit charged is smaller, these goods are not always cheaper there, but often equally cheap. With goods like bread and butchers' meat, the same cause that reduces apparent profit raises prime cost. The size of the market, by giving employment to larger capitals, reduces apparent profit; but by requiring supplies from a greater distance, it raises prime cost. In most cases the decrease in the one and the increase in the other seem nearly to offset each other. This is probably why, although the prices of grain and cattle commonly differ widely across the kingdom, the prices of bread and butchers' meat are generally very nearly the same throughout most of it.
+
+Although the profits of capital, in both wholesale and retail trade, are generally lower in the capital city than in small towns and villages, great fortunes are often built there from small beginnings, and almost never in the smaller places. In small towns and villages, because the market is narrow, trade cannot always expand as capital grows. In such places, therefore, an individual's rate of profit may be very high, but the total sum of his profits can never be very large, and neither can his yearly accumulation. In great towns, by contrast, trade can be expanded as capital increases, and the credit of a frugal and thriving man grows much faster than his capital. His trade expands in proportion to the combined amount of both. The total of his profits is proportional to the scale of his trade, and his yearly accumulation is proportional to the total of his profits. Even in great towns, however, great fortunes are seldom made in any one regular, established, and well-known line of business except through a long life of industry, frugality, and attention. Sudden fortunes are indeed sometimes made in such places by what is called the trade of speculation. The speculative merchant follows no single regular, established, or well-known line of business. He is a grain merchant this year, a wine merchant the next, and a sugar, tobacco, or tea merchant the year after. He enters any trade when he foresees that it is likely to be more than usually profitable, and he leaves it when he foresees that its profits are likely to return to the level of other trades. His profits and losses therefore bear no regular relation to those of any established, well-known branch of business. A bold adventurer may sometimes win a considerable fortune through two or three successful speculations, but he is just as likely to lose one through two or three unsuccessful ones. This trade can be carried on only in great towns. Only in places with the most extensive commerce and correspondence can the information it requires be obtained.
+
+The five circumstances mentioned above cause considerable inequalities in the wages of labor and the profits of capital. They cause none, however, in the sum total of the advantages and disadvantages, real or imagined, of the different employments of either. These circumstances are of such a nature that they make up for a small money gain in some employments and offset a large one in others.
+
+For this equality in the whole of their advantages and disadvantages to take place, however, three conditions are necessary, even where there is the most perfect freedom. First, the employments must be well known and long established in the neighborhood. Second, they must be in their ordinary, or what may be called their natural, state. Third, they must be the sole or principal employments of those who pursue them.
+
+First, this equality can occur only in employments that are well known and have long been established in the neighborhood.
+
+Other things being equal, wages are generally higher in new trades than in old ones. When a projector, a promoter of some new venture, tries to establish a new manufacture, he must at first lure workers from other employments. He does this by offering higher wages than they can earn in their own trades, or than the nature of his work would otherwise require, and considerable time must pass before he can risk reducing those wages to the common level. Manufactures for which demand arises entirely from fashion and fancy are continually changing, and they seldom last long enough to count as old, established manufactures. Those for which demand arises chiefly from use or necessity, by contrast, are less subject to change, and the same form or fabric may remain in demand for whole centuries. Wages are therefore likely to be higher in manufactures of the first kind than in those of the second. Birmingham deals chiefly in manufactures of the first kind and Sheffield in those of the second, and wages in the two places are said to reflect this difference in the nature of their manufactures.
+
+The establishment of any new manufacture, any new branch of commerce, or any new practice in agriculture is always a speculation from which the projector expects extraordinary profits. These profits are sometimes very great, and sometimes, perhaps more often, quite the reverse. In general, however, they bear no regular relation to the profits of other, older trades in the neighborhood. If the project succeeds, profits are usually very high at first. Once the trade or practice becomes thoroughly established and well known, competition brings them down to the level of other trades.
+
+Second, this equality in the whole of the advantages and disadvantages of the different employments of labor and capital can occur only in the ordinary, or what may be called the natural, state of those employments.
+
+The demand for almost every kind of labor is sometimes greater and sometimes less than usual. In the first case the advantages of the employment rise above the common level; in the second they fall below it. Demand for farm labor is greater at haymaking and harvest than during most of the year, and wages rise with demand. In wartime, forty or fifty thousand sailors are forced out of the merchant service into the king's navy. The demand for sailors on merchant ships then necessarily rises as they grow scarce, and their wages on such occasions commonly climb from between a guinea and twenty-seven shillings to between forty shillings and three pounds a month. In a declining manufacture, on the other hand, many workers would rather accept lower wages than leave their own trade, and so they take less than would otherwise suit the nature of their employment.
+
+The profits of capital vary with the price of the goods in which it is employed. As the price of any commodity rises above its ordinary or average rate, the profits of at least some part of the capital employed in bringing it to market rise above their proper level, and as the price falls, those profits sink below it. All commodities are liable to some variation in price, but some far more than others. For every commodity produced by human industry, the quantity of industry employed each year is necessarily regulated by the annual demand, so that the average annual output may match the average annual consumption as closely as possible. In some employments, as has already been observed, the same quantity of industry will always produce the same, or very nearly the same, quantity of goods. In the linen or woolen manufactures, for example, the same number of hands will each year work up very nearly the same quantity of linen and woolen cloth. Variations in the market price of such goods can therefore arise only from some accidental change in demand. A public mourning, the period of official grief after a royal death when black dress was customary, raises the price of black cloth. But since the demand for most kinds of plain linen and woolen cloth is fairly steady, so too is the price. There are other employments, however, in which the same quantity of industry will not always produce the same quantity of goods. The same amount of labor will yield very different quantities of grain, wine, hops, sugar, tobacco, and so on in different years. The price of such commodities therefore varies not only with changes in demand but with the much greater and more frequent changes in quantity, and so it fluctuates enormously. The profit of some of the dealers in them must necessarily fluctuate with the price. The speculative merchant operates chiefly in commodities of this kind. He tries to buy them up when he foresees that their price is likely to rise, and to sell them when it is likely to fall.
+
+Third, this equality in the whole of the advantages and disadvantages of the different employments of labor and capital can occur only in employments that are the sole or principal occupations of those who pursue them.
+
+Sometimes a person earns his living from one employment that does not take up most of his time. In his intervals of leisure, he is then often willing to work at another for lower wages than would otherwise suit the nature of that work.
+
+In many parts of Scotland there still survives a class of people called cottars or cottagers, though they were more common some years ago than they are now. They are a kind of outdoor servant to the landlords and farmers. The usual reward they receive from their master is a house, a small garden for kitchen vegetables, enough grass to feed a cow, and perhaps an acre or two of poor arable land. When their master needs their labor, he gives them in addition two pecks of oatmeal a week, worth about sixteen pence sterling. For much of the year he has little or no need of their labor, and cultivating their own small holding is not enough to fill the time left at their own disposal. When such tenants were more numerous than they are now, they are said to have been willing to give their spare time to anyone for a very small payment, and to have worked for lower wages than other laborers. In earlier ages they seem to have been common throughout Europe. In countries that were poorly cultivated and even more poorly populated, most landlords and farmers had no other way to secure the extraordinary number of hands that farm work demands at certain seasons. The daily or weekly payment that such laborers occasionally received from their masters was evidently not the whole price of their labor, because their small holding made up a considerable part of it. Yet many writers who have collected the prices of labor and provisions in ancient times, and who have taken pleasure in presenting both as wonderfully low, seem to have treated this daily or weekly payment as the whole of it.
 
 The produce of such part-time labor often comes cheaper to market than would otherwise be suitable for its nature. Stockings in many parts of Scotland are knitted much cheaper than they can anywhere be made on a loom. They are the work of servants and laborers who get the main part of their subsistence from some other employment. More than a thousand pairs of Shetland stockings are annually imported into Leith (the port of Edinburgh), for which the price is from fivepence to sevenpence a pair. At Lerwick, the small capital of the Shetland Islands, tenpence a day, I have been assured, is a common price for common labor. In the same islands, they knit worsted (wool) stockings to the value of a guinea (21 shillings) a pair and upwards.
 
@@ -2099,7 +2154,429 @@ Our tanners, besides, have not been quite as successful as our clothiers in conv
 Whatever regulations tend to lower the price of either wool or raw hides below what it naturally would be must, in an improved and cultivated country, have some tendency to raise the price of butcher’s meat. The price of both large and small cattle which are fed on improved and cultivated land must be sufficient to pay the rent which the landlord, and the profit which the farmer, has reason to expect from improved and cultivated land. If it is not, they will soon cease to feed them. Whatever part of this price, therefore, is not paid by the wool and the hide must be paid by the carcass (the meat). The less there is paid for the one, the more must be paid for the other. In what manner this price is to be divided upon the different parts of the animal is indifferent to the landlords and farmers, provided the whole price is paid to them. In an improved and cultivated country, therefore, their interest as landlords and farmers cannot be much affected by such regulations, though their interest as consumers may be, by the rise in the price of provisions.
 It would be quite otherwise, however, in an unimproved and uncultivated country, where most of the lands could be applied to no other purpose but the feeding of cattle, and where the wool and the hide made up the principal part of the value of those cattle. Their interest as landlords and farmers would in this case be very deeply affected by such regulations, and their interest as consumers very little. The fall in the price of the wool and the hide would not in this case raise the price of the carcass, because most of the lands of the country being applicable to no other purpose but the feeding of cattle, the same number would still continue to be fed. The same quantity of butcher’s meat would still come to market. The demand for it would be no greater than before. Its price, therefore, would be the same as before. The whole price of cattle would fall, and along with it both the rent and the profit of all those lands of which cattle was the principal produce – that is, of most of the lands of the country. The perpetual prohibition of the exportation of wool, which is commonly, but very falsely, attributed to Edward III, would, in the circumstances of the country at that time, have been the most destructive regulation which could well have been thought of. It would not only have reduced the actual value of most of the lands of the kingdom, but by reducing the price of the most important type of small cattle (sheep), it would have greatly retarded its subsequent improvement.
 
-The wool of Scotland fell very considerably in its price as a consequence of the union with England. This union excluded Scottish wool from the great market of Europe and confined it to the narrow one of Great Britain.
+The price of Scottish wool fell considerably as a result of the union with England, which shut it out of the great market of Europe and confined it to the narrow market of Great Britain. The value of most of the land in the southern counties of Scotland, which are chiefly sheep country, would have suffered severely from this change, had the rise in the price of butcher's meat not fully offset the fall in the price of wool.
+
+Human industry's power to increase the quantity of wool or raw hides is limited insofar as it depends on the produce of the country where that industry is exerted, and it is uncertain insofar as it depends on the produce of other countries. In that second respect, it depends less on how much those countries produce than on how much they leave unmanufactured, and on whatever restrictions they may or may not choose to impose on the export of this kind of raw produce. Because these circumstances are entirely independent of domestic industry, they necessarily make the results of its efforts more or less uncertain. In multiplying this sort of raw produce, therefore, the power of human industry is not only limited but uncertain.
+
+The same is true of another very important kind of raw produce: the quantity of fish brought to market. Here, too, the power of industry is both limited and uncertain. It is limited by the country's geography: by how near to or far from the sea its various provinces lie, by the number of its lakes and rivers, and by what might be called the fertility or barrenness of those seas, lakes, and rivers with respect to fish. As population increases, and as the annual produce of the country's land and labour grows ever greater, there come to be more buyers of fish; and those buyers also have a greater quantity and variety of other goods to buy with, or, what amounts to the same thing, the price of a greater quantity and variety of other goods. But it will generally be impossible to supply this large and expanded market without employing more labour, in proportion, than had been needed to supply the small and confined one. A market that once required a thousand tons of fish a year and now requires ten thousand can seldom be supplied without employing more than ten times the labour that was formerly sufficient. The fish must generally be sought farther away, larger vessels must be used, and more expensive equipment of every kind brought into service. The real price of fish, therefore, naturally rises as a country improves. And I believe it has in fact done so, to a greater or lesser degree, in every country.
+
+The success of any particular day's fishing may be a very uncertain matter. Yet given the country's geography, it might be thought that the general power of industry to bring a certain quantity of fish to market, taken over the course of a year or of several years together, is certain enough; and no doubt it is. But because it depends more on the country's geography than on the state of its wealth and industry, it may be the same in different countries at very different stages of improvement, and very different in different countries at the same stage. Its connection with the state of improvement is therefore uncertain, and it is this kind of uncertainty I am speaking of here.
+
+In increasing the quantity of the various minerals and metals drawn from the depths of the earth, and of the precious metals in particular, the power of human industry seems not to be limited at all, but to be entirely uncertain.
+
+The quantity of precious metals to be found in any country is not limited by anything in its geography, such as the fertility or barrenness of its own mines. Those metals frequently abound in countries that have no mines whatever. Their quantity in any given country seems to depend on two separate circumstances. The first is its purchasing power: the state of its industry and the annual produce of its land and labour, which determine whether it can afford to spend a greater or smaller quantity of labour and subsistence on acquiring such luxuries as gold and silver, either from its own mines or from those of other countries. The second is the fertility or barrenness of whatever mines happen, at a given time, to be supplying the commercial world with those metals. Because gold and silver are small in bulk and great in value, and therefore easy and cheap to transport, their quantity even in the countries most remote from the mines must be more or less affected by this fertility or barrenness. Their quantity in China and Hindustan, for example, must have been affected to some degree by the abundance of the mines of America.
+
+Insofar as the quantity of precious metals in a country depends on the first of these circumstances, its purchasing power, their real price, like that of all other luxuries, is likely to rise as the country grows richer and more advanced, and to fall as it grows poorer and more depressed. Countries with a great quantity of labour and subsistence to spare can afford to buy any given quantity of these metals at the cost of more labour and subsistence than countries with less to spare.
+
+Insofar as their quantity depends on the second circumstance, the fertility or barrenness of the mines that happen to be supplying the commercial world, their real price, meaning the real quantity of labour and subsistence they will buy or exchange for, will no doubt fall more or less in proportion to the fertility of those mines, and rise in proportion to their barrenness.
+
+The fertility or barrenness of the mines supplying the commercial world at any given time, however, is plainly a circumstance that may have no connection whatever with the state of industry in any particular country. It seems to have no very necessary connection even with the state of industry in the world at large. It is true that as the arts and commerce gradually spread over a larger and larger part of the earth, the search for new mines, extending over a wider area, may have a somewhat better chance of success than when it was confined within narrower bounds. Even so, the discovery of new mines to replace the old ones as they are gradually exhausted is a matter of the greatest uncertainty, one that no human skill or industry can guarantee. All the signs are admitted to be doubtful, and only the actual discovery and successful working of a new mine can establish the reality of its value, or even of its existence. In this search there seem to be no fixed limits either to the possible success or to the possible disappointment of human effort. Within a century or two, new mines may be discovered more fertile than any yet known; and it is just as possible that the most fertile mine then known will be poorer than any that was worked before the discovery of the American mines. Whichever of these two outcomes occurs matters very little to the real wealth and prosperity of the world, that is, to the real value of the annual produce of the land and labour of mankind. Its nominal value, the quantity of gold and silver by which that annual produce could be expressed or represented, would no doubt be very different. But its real value, the real quantity of labour it could purchase or command, would be exactly the same. In the first case, a shilling, which is worth twelve pence, might represent no more labour than a penny does now; in the second, a penny might represent as much as a shilling does now. Yet in the first case, a man with a shilling in his pocket would be no richer than a man with a penny is today; and in the second, a man with a penny would be just as rich as a man with a shilling is now. The only advantage the world could gain from the first outcome would be cheap and abundant gold and silver plate, the tableware and other vessels made of those metals; and the only inconvenience it could suffer from the second would be the dearness and scarcity of those trifling luxuries.
+
+### CONCLUSION OF THE DIGRESSION CONCERNING THE VARIATIONS IN THE VALUE OF SILVER
+
+Most of the writers who have collected the money prices of goods in earlier ages seem to have treated a low money price for corn (that is, grain) and for goods in general, which amounts to a high value for gold and silver, as proof not only that those metals were scarce but that the country was poor and barbarous at the time. This notion is bound up with the system of political economy which holds that national wealth consists in an abundance of gold and silver, and national poverty in their scarcity. I will try to explain and examine that system at length in the fourth book of this Inquiry. For now I will observe only that a high value of the precious metals is no proof of poverty or barbarism in any particular country at the time it prevails. It proves only that the mines then supplying the commercial world happened to be barren. A poor country cannot afford to buy more gold and silver than a rich one, and it can no more afford to pay a higher price for them; the value of those metals, therefore, is not likely to be higher in the poor country than in the rich. In China, a country far richer than any part of Europe, the precious metals are worth much more than anywhere in Europe. It is true that the wealth of Europe has grown greatly since the discovery of the American mines, and that the value of gold and silver has gradually declined over the same period. But this decline was not caused by any growth in Europe's real wealth, in the annual produce of its land and labour. It was caused by the accidental discovery of mines richer than any known before. The increase in the quantity of gold and silver in Europe and the growth of its manufactures and agriculture are two developments that occurred at nearly the same time, yet they arose from very different causes and have scarcely any natural connection with each other. The first came from pure accident, in which neither prudence nor policy had, or could have had, any part. The second came from the fall of the feudal system and the establishment of a government that gave industry the only encouragement it requires: some reasonable security that it will enjoy the fruits of its own labour. Poland, where the feudal system still persists, is as beggarly a country today as it was before the discovery of America. Yet the money price of corn has risen there, and the real value of the precious metals has fallen in Poland just as it has elsewhere in Europe. Their quantity must therefore have increased there as in other places, and in nearly the same proportion to the annual produce of its land and labour. This larger stock of metal, however, has apparently not increased that annual produce; it has neither improved the country's manufactures and agriculture nor bettered the condition of its inhabitants. Spain and Portugal, the countries that own the mines, are, after Poland, perhaps the two most beggarly countries in Europe. Yet the value of the precious metals must be lower in Spain and Portugal than anywhere else in Europe, because the metals travel from those countries to the rest of Europe burdened not only with freight and insurance costs but with the expense of smuggling, since their export is either forbidden or taxed. In proportion to the annual produce of land and labour, then, the quantity of gold and silver must be greater in those two countries than anywhere else in Europe, and yet they are poorer than most of Europe. Though the feudal system has been abolished in Spain and Portugal, it has not been replaced by anything much better.
+
+Just as a low value of gold and silver is no proof that a country is wealthy and flourishing, so a high value of those metals, or a low money price for goods in general or for corn in particular, is no proof that it is poor and barbarous.
+
+But while a low money price for goods in general, or for corn in particular, is no proof of poverty or barbarism, a low money price for certain particular kinds of goods, such as cattle, poultry, and game of every kind, measured against the price of corn, is very strong proof indeed. It clearly demonstrates, first, that these goods were very plentiful compared with corn, and therefore that the land given over to them was very extensive compared with the land given over to corn. It demonstrates, second, that this land was worth little compared with corn land, and therefore that by far the greater part of the country's land lay uncultivated and unimproved. It shows that the capital and population of the country did not stand in the proportion to its territory that they ordinarily do in civilized countries, and that society, at that time and in that place, was still in its infancy. From the high or low money price of goods in general, or of corn in particular, we can infer only that the mines then supplying the commercial world with gold and silver were rich or barren, not that the country itself was rich or poor. But from the high or low money price of some kinds of goods relative to others, we can infer, with a probability approaching certainty, whether the country was rich or poor, whether most of its land was improved or unimproved, and whether it was in a more or less barbarous state or a more or less civilized one.
+
+Any rise in money prices that came entirely from a fall in the value of silver would affect every kind of goods equally, raising all prices by a third, a fourth, or a fifth, according to whether silver had lost a third, a fourth, or a fifth of its former value. But the rise in the price of provisions, which has been the subject of so much argument and conversation, has not affected all kinds of provisions equally. Taking the present century as a whole, the price of corn has risen much less than the price of certain other provisions, as even those who attribute the rise to a fall in the value of silver acknowledge. The rise in the price of those other provisions cannot, therefore, be due entirely to a fall in the value of silver. Other causes must be taken into account, and the causes I have already set out above may well suffice, without any appeal to the supposed fall in the value of silver, to explain the rise in those particular provisions whose price has actually increased relative to that of corn.
+
+As for the price of corn itself, during the first sixty-four years of the present century, and before the recent extraordinary run of bad harvests, it was somewhat lower than during the last sixty-four years of the century before. This is attested not only by the records of Windsor market but by the public fiars of every county in Scotland (the official grain prices fixed each year in each county) and by the records of several markets in France, which Mr. Messance and Mr. Dupré de St. Maur have collected with great diligence and accuracy. The evidence is more complete than could reasonably have been expected on a question so naturally difficult to settle.
+
+As for the high price of corn over the last ten or twelve years, the badness of the seasons is enough to account for it, without supposing any fall in the value of silver.
+
+The opinion that silver is continually losing value does not, therefore, appear to rest on any sound observation, whether of the prices of corn or of other provisions.
+
+It may perhaps be objected that, even by the account given here, the same quantity of silver will buy a much smaller quantity of several kinds of provisions today than it would have bought during part of the last century, and that to ask whether this change comes from a rise in the value of those goods or from a fall in the value of silver is to draw an idle and useless distinction, one of no help whatever to a man who has only a certain amount of silver to take to market, or a certain fixed income in money. I certainly do not claim that understanding this distinction will let him buy more cheaply. It does not follow, however, that the distinction is entirely useless.
+
+It may be of some use to the public by offering a simple proof of the country's prosperity. If the rise in the price of certain provisions is due entirely to a fall in the value of silver, then it arises from a circumstance from which nothing can be inferred except the richness of the American mines. The real wealth of the country, the annual produce of its land and labour, may in spite of this circumstance be either gradually declining, as in Portugal and Poland, or gradually advancing, as in most other parts of Europe. But if the rise in the price of certain provisions is due to a rise in the real value of the land that produces them, whether through its greater fertility or because wider improvement and good cultivation have made it fit for growing corn, then it arises from a circumstance that indicates, as clearly as anything can, a prosperous and advancing country. Land makes up by far the largest, most important, and most durable part of the wealth of every extensive country. It must surely be of some use to the public, or at least of some satisfaction, to have so decisive a proof that the largest, most important, and most durable part of its wealth is increasing in value.
+
+It may also be of some use to the public in setting the money wages of some of its lower-ranking servants. If the rise in the price of certain provisions is due to a fall in the value of silver, then their money wages, provided these were not too large to begin with, ought certainly to be raised in proportion to the extent of that fall. If they are not raised, their real compensation will plainly be reduced by that much. But if the rise in price is due to the increased value that improved fertility has given to the land producing these provisions, it becomes a far more delicate matter to judge in what proportion any money wage ought to be raised, or whether it ought to be raised at all. The spread of improvement and cultivation necessarily raises the price of every kind of animal food, to a greater or lesser degree relative to the price of corn, and it just as necessarily lowers the price of, I believe, every kind of vegetable food. It raises the price of animal food because much of the land that produces it, once made fit for growing corn, must yield the landlord and the farmer the rent and profit of corn land. It lowers the price of vegetable food because, by making the land more fertile, it makes such food more plentiful. Agricultural improvement also introduces many kinds of vegetable food that require less land than corn and no more labour, and so come to market much more cheaply. Such are potatoes and maize, or Indian corn, the two most important improvements that European agriculture, and perhaps Europe itself, has gained from the great expansion of its commerce and navigation. Many other kinds of vegetable food, which in a primitive state of agriculture are confined to the kitchen garden and grown only with the spade, come in an improved state to be planted in open fields and grown with the plough, such as turnips, carrots, and cabbages. If, as improvement advances, the real price of one kind of food necessarily rises, the real price of another kind just as necessarily falls, and it becomes a more delicate question how far the rise in the one may be offset by the fall in the other. Once the real price of butcher's meat has reached its peak (which, for every kind except perhaps pork, it seems to have done throughout much of England more than a century ago), any later rise in the price of other kinds of animal food can do little to affect the condition of the lower ranks of people. Throughout much of England, the poor cannot possibly suffer as much from any rise in the price of poultry, fish, wildfowl, or venison as they must gain from the fall in the price of potatoes.
+
+In the present season of scarcity, the high price of corn undoubtedly distresses the poor. But in times of moderate plenty, when corn is at its ordinary or average price, a natural rise in the price of any other kind of raw produce can do little to affect them. They suffer more, perhaps, from the artificial rise that taxes have caused in the price of certain manufactured goods, such as salt, soap, leather, candles, malt, beer, and ale.
+
+### EFFECTS OF THE PROGRESS OF IMPROVEMENT UPON THE REAL PRICE OF MANUFACTURES
+
+The natural effect of improvement, however, is to lower gradually the real price of almost all manufactured goods. The cost of the manufacturing workmanship itself falls, perhaps, in every one of them without exception. Better machinery, greater skill, and a more fitting division and distribution of work are all natural consequences of improvement, and together they make a much smaller quantity of labor sufficient to complete any given piece of work. A prosperous society may raise the real price of labor very considerably, but the great reduction in the quantity of labor required will generally far outweigh even the largest rise that can occur in its price.
+
+There are, admittedly, a few manufactures in which the unavoidable rise in the real price of the raw materials will more than cancel all the advantages that improvement can bring to the work itself. In the work of carpenters and joiners, and in the coarser kinds of cabinetmaking, this is the case. Timber of the kind that grows wild on uncultivated land becomes scarcer and dearer as the land is cleared and improved, and that necessary rise in its real price will more than offset every advantage to be gained from the best machinery, the greatest skill, and the most fitting division and distribution of work.
+
+But wherever the real price of the raw material either does not rise at all or does not rise very much, the price of the manufactured commodity falls very considerably.
+
+Over the present century and the one before it, this fall in price has been most striking in those manufactures whose materials are the coarser metals. A watch movement better than one that could have been bought for twenty pounds around the middle of the last century may now perhaps be had for twenty shillings, a single pound. During the same period there has been a very great reduction in price in the work of cutlers and locksmiths, in all the small trinkets and ornaments made of the coarser metals, and in all the goods commonly known as Birmingham and Sheffield ware, though the reduction has not been quite as great as in watchmaking. It has nonetheless been large enough to astonish workmen in every other part of Europe, many of whom acknowledge that they cannot produce work of equal quality for double or even triple the price. There are perhaps no manufactures in which the division of labor can be carried further, or in which the machinery employed admits of a greater variety of improvements, than those whose materials are the coarser metals.
+
+In the manufacture of woolen cloth there has been no such noticeable reduction of price over the same period. On the contrary, I have been assured that the price of superfine cloth has risen somewhat, relative to its quality, over the past twenty-five or thirty years. The cause, it was said, was a considerable rise in the price of its material, which consists entirely of wool imported from Spain. The price of Yorkshire cloth, made entirely of English wool, is said to have fallen a good deal over the course of the present century, again relative to its quality. Quality, however, is so very open to dispute that I regard all information of this kind as somewhat uncertain. In the cloth manufacture, the division of labor is nearly the same now as it was a century ago, and the machinery employed is not very different. There may, however, have been some small improvements in both, which may have brought about some reduction in price.
+
+The reduction becomes far more noticeable and undeniable if we compare the price of cloth today with what it was in a much more distant period, toward the end of the fifteenth century, when labor was probably much less subdivided and the machinery employed much more imperfect than it is now.
+
+In 1487, the fourth year of the reign of Henry VII, a statute declared that "whoever shall sell by retail a broad yard of the finest scarlet dyed-in-the-grain cloth, or of any other dyed-in-the-grain cloth of the finest making, for more than sixteen shillings, shall forfeit forty shillings for every yard so sold." Sixteen shillings then contained about the same quantity of silver as twenty-four shillings of our present money, and this was evidently regarded at the time as a not unreasonable price for a yard of the finest cloth. Since this was a sumptuary law, one of those statutes meant to restrain extravagant spending, it is likely that such cloth had usually sold for somewhat more. Today a guinea, or twenty-one shillings, may be taken as the highest price. Even if we suppose the quality of the cloths to be equal, and the cloth of the present day is most probably far superior, the money price of the finest cloth appears to have fallen considerably since the end of the fifteenth century. Its real price, however, has fallen much further. Six shillings and eightpence was then, and for a long time afterward, considered the average price of a quarter of wheat, a measure of eight bushels. Sixteen shillings was therefore the price of two quarters and more than three bushels of wheat. If we value a quarter of wheat today at twenty-eight shillings, the real price of a yard of fine cloth in those times must have been equal to at least three pounds, six shillings, and sixpence of our present money. Whoever bought it must have given up command over a quantity of labor and subsistence equal to what that sum would purchase today.
+
+The reduction in the real price of coarse cloth, though considerable, has not been as great as that of fine cloth.
+
+In 1463, the third year of the reign of Edward IV, a statute declared that "no servant in husbandry, nor common laborer, nor servant to any craftsman living outside a city or borough, shall use or wear in their clothing any cloth costing more than two shillings the broad yard." In that year, two shillings contained very nearly the same quantity of silver as four shillings of our present money. But the Yorkshire cloth now sold at four shillings a yard is probably much superior to anything then made for the very poorest class of common servants. Even the money price of their clothing, then, may be somewhat cheaper now than it was in those early times, relative to its quality. The real price is certainly a good deal cheaper. Tenpence was then considered what was called the moderate and reasonable price of a bushel of wheat. Two shillings was therefore the price of two bushels and nearly two pecks of wheat, a peck being a quarter of a bushel, and at today's price of three shillings and sixpence a bushel, that quantity would be worth eight shillings and ninepence. For a yard of this cloth, the poor servant must have given up the power to purchase as much subsistence as eight shillings and ninepence would buy today. This, too, was a sumptuary law, designed to restrain the luxury and extravagance of the poor. Their clothing, therefore, had commonly been much more expensive.
+
+The same law forbids people of the same class to wear hose costing more than fourteenpence a pair, equal to about twenty-eight pence of our present money. But fourteenpence was in those times the price of a bushel and nearly two pecks of wheat, which today, at three shillings and sixpence a bushel, would cost five shillings and threepence. We would now consider this a very high price for a pair of stockings for a servant of the poorest and lowest class. Yet in those times he must have paid what was in reality the equivalent of that price.
+
+In the reign of Edward IV, the art of knitting stockings was probably unknown anywhere in Europe. Hose were made of ordinary cloth, which may have been one of the reasons they were so dear. The first person in England to wear knitted stockings is said to have been Queen Elizabeth, who received them as a gift from the Spanish ambassador.
+
+In both the coarse and the fine woolen manufacture, the machinery used in those early times was far more imperfect than it is today. It has since received three major improvements, besides probably many smaller ones whose number and importance would be difficult to establish. The first major improvement was the replacement of the rock and spindle, the distaff that held the raw fiber and the hand spindle that twisted it into thread, by the spinning wheel, which with the same quantity of labor will do more than twice the work. The second was the introduction of several very ingenious machines that ease and shorten, in an even greater proportion, the winding of worsted and woolen yarn, and the proper arrangement of the warp and weft before they are set on the loom. Before these machines were invented, that operation must have been extremely tedious and laborious. The third was the use of the fulling mill to thicken the cloth, in place of the old method of trampling it underfoot in water. No wind or water mills of any kind were known in England as early as the beginning of the sixteenth century, nor, so far as I know, in any other part of Europe north of the Alps. They had been introduced into Italy some time earlier.
+
+These circumstances may help, in some measure, to explain why the real price of both coarse and fine cloth was so much higher in those early times than it is today. It took a greater quantity of labor to bring the goods to market, and once they arrived there, they must therefore have purchased, or been exchanged for, the price of a greater quantity of labor.
+
+In those early times, coarse cloth was probably made in England in the same way it has always been made in countries where the arts and manufactures are still in their infancy. It was most likely a household manufacture, in which every stage of the work was carried out from time to time by all the members of nearly every private family. They did this work only when they had nothing else to do, and it was not the principal occupation from which any of them drew the greater part of their living. Work performed in this way, as has already been observed, always comes to market much more cheaply than work that is the workman's principal or only means of support. Fine cloth, on the other hand, was not made in England in those times but in the rich commercial country of Flanders, and it was probably produced then, as it is now, by people who drew the whole or the greater part of their living from it. It was, moreover, a foreign manufacture, and must have paid some duty to the king, at the very least the old customs duty known as tonnage and poundage. This duty was probably not very large. It was not then the policy of European states to restrict the import of foreign manufactures by heavy duties, but rather to encourage it, so that merchants could supply the great lords, as cheaply as possible, with the comforts and luxuries they wanted and which the industry of their own country could not provide.
+
+These circumstances may help, in some measure, to explain why the real price of coarse cloth was, in those early times, so much lower relative to that of fine cloth than it is today.
+
+### CONCLUSION OF THE CHAPTER
+
+I will close this very long chapter with one observation: every improvement in the condition of society tends, directly or indirectly, to raise the real rent of land. It increases the real wealth of the landlord, meaning his power to purchase the labour of other people or the produce of their labour.
+
+The extension of improvement and cultivation raises rent directly. As the land yields more, the landlord's share of that yield necessarily grows with it.
+
+A rise in the real price of certain kinds of raw produce, such as cattle, also raises rent directly, and in an even greater proportion. Such a rise is at first the result of extended improvement and cultivation, and afterward the cause of their being extended further still. When it occurs, the real value of the landlord's share, his real command over the labour of other people, rises along with the real value of the produce. Beyond that, his share also becomes a larger proportion of the whole.
+
+The reason is that the produce, once its real price has risen, takes no more labour to gather than it did before. A smaller portion of it is therefore enough to replace, with the ordinary profit, the capital that pays for that labour. A larger portion must consequently go to the landlord.
+
+All those improvements in the productive powers of labour that directly lower the real price of manufactured goods tend indirectly to raise the real rent of land. The landlord exchanges whatever part of his raw produce exceeds his own consumption, or, equivalently, the price of that part, for manufactured goods. Whatever lowers the real price of manufactures raises the real price of raw produce in relation to them. A given quantity of raw produce then exchanges for a greater quantity of manufactures, and the landlord can buy more of the conveniences, ornaments, or luxuries he wants.
+
+Every increase in the real wealth of a society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land. A certain proportion of that labour naturally flows to the land. More men and more cattle are put to work in cultivating it, the produce grows as the capital devoted to raising it grows, and rent grows with the produce.
+
+The opposite circumstances work in the opposite direction. Neglect of cultivation and improvement, a fall in the real price of any part of the raw produce of land, a rise in the real price of manufactures caused by the decay of manufacturing skill and industry, and a decline in the real wealth of the society all tend to lower the real rent of land. They reduce the real wealth of the landlord and diminish his power to purchase either the labour of other people or the produce of their labour.
+
+As I have already observed, the whole annual produce of the land and labour of every country, or, equivalently, the whole price of that annual produce, naturally divides into three parts: the rent of land, the wages of labour, and the profits of stock, or capital. It provides an income to three different orders of people: those who live by rent, those who live by wages, and those who live by profit. These are the three great, original, and constituent orders of every civilized society, and the income of every other order is ultimately derived from theirs.
+
+What has just been said shows that the interest of the first of these orders is strictly and inseparably bound up with the general interest of society. Whatever promotes or obstructs the one necessarily promotes or obstructs the other. When the public deliberates over any regulation of commerce or of domestic administration, landowners can never mislead it in order to advance the interest of their own order, provided, at least, that they have a tolerable understanding of that interest. Too often, in fact, they lack even that. They are the only one of the three orders whose income costs them neither labour nor attention. It comes to them, as it were, of its own accord, independent of any plan or undertaking of theirs. The ease and security of their position naturally breed a kind of indolence, and that indolence too often leaves them not only ignorant but incapable of the sustained mental effort needed to foresee and understand the consequences of any public regulation.
+
+The interest of the second order, those who live by wages, is as strictly connected with the interest of society as that of the first. I have already shown that a labourer's wages are never so high as when the demand for labour is continually rising, or when the quantity of labour employed increases considerably year after year. When the real wealth of the society stops growing, his wages soon sink to what is barely enough to let him raise a family, and so to keep up the supply of labourers. When the society declines, they fall even below that. The landowning order may perhaps gain more from a society's prosperity than labourers do, but no order suffers so cruelly from its decline. Yet although the labourer's interest is strictly connected with that of society, he is unable either to grasp that interest or to see how it bears on his own. His circumstances leave him no time to acquire the necessary information, and his education and habits commonly unfit him to judge even if he were fully informed. In public deliberations, therefore, his voice is seldom heard and still less heeded, except on particular occasions when his outcry is stirred up, directed, and backed by his employers, not for his purposes but for their own.
+
+His employers make up the third order, those who live by profit. It is capital employed for the sake of profit that sets in motion the greater part of the useful labour in every society. The plans and undertakings of those who employ capital govern and direct all the most important operations of labour, and profit is the object of every one of those plans and undertakings. But the rate of profit does not, like rent and wages, rise with the prosperity of society and fall with its decline. On the contrary, it is naturally low in rich countries and high in poor ones, and it is always highest in the countries that are heading fastest toward ruin. The interest of this third order therefore lacks the connection with the general interest of society that the interests of the other two possess.
+
+Within this order, merchants and master manufacturers are the two classes who commonly employ the largest capitals, and whose wealth draws to them the greatest share of public attention and esteem. Because they spend their whole lives occupied with plans and undertakings, they often have sharper minds than most country gentlemen. But since their thoughts are usually directed toward the interest of their own particular branch of business rather than toward that of society, their judgment, even when offered with the greatest candour (which has not always been the case), is far more reliable on the first of these subjects than on the second. Their advantage over the country gentleman lies less in their knowledge of the public interest than in their knowing their own interest better than he knows his. It is through this superior knowledge of their own interest that they have often played upon his generosity, persuading him to abandon both his own interest and the public's out of a very simple but honest conviction that their interest, and not his, was the interest of the public.
+
+The interest of the dealers in any particular branch of trade or manufacturing, however, is always in some respects different from, and even opposed to, the interest of the public. It is always in the dealers' interest to widen the market and to narrow the competition. Widening the market may often accord well enough with the public interest, but narrowing the competition must always work against it. Its only effect is to let the dealers raise their profits above their natural level and so impose, for their own benefit, an absurd tax on the rest of their fellow citizens. Any proposal for a new law or regulation of commerce that comes from this order should therefore always be heard with great caution. It should never be adopted until it has been examined long and carefully, with the most scrupulous and also the most suspicious attention. It comes from an order of men whose interest is never exactly the same as the public's, who generally have an interest in deceiving and even oppressing the public, and who accordingly have, on many occasions, both deceived and oppressed it.
+
+### PRICES OF WHEAT
+
+| Year | Price of the quarter in each year | Average of the different prices in one year | Average price of each year in money of 1776 |
+|---|---|---|---|
+| 1202 | £0 12s 0d | | £1 16s 0d |
+| 1205 | £0 12s 0d | | |
+| | £0 13s 4d | £0 13s 5d | £2 0s 3d |
+| | £0 15s 0d | | |
+| 1223 | £0 12s 0d | | £1 16s 0d |
+| 1237 | £0 3s 4d | | £0 10s 0d |
+| 1243 | £0 2s 0d | | £0 6s 0d |
+| 1244 | £0 2s 0d | | £0 6s 0d |
+| 1246 | £0 16s 0d | | £2 8s 0d |
+| 1247 | £0 13s 5d | | £2 0s 0d |
+| 1257 | £1 4s 0d | | £3 12s 0d |
+| 1258 | £1 0s 0d | | |
+| | £0 15s 0d | £0 17s 0d | £2 11s 0d |
+| | £0 16s 0d | | |
+| 1270 | £4 16s 0d | | |
+| | £6 8s 0d | £5 12s 0d | £16 16s 0d |
+| 1286 | £0 2s 8d | | |
+| | £0 16s 0d | £0 9s 4d | £1 8s 0d |
+| **Total** | | | £35 9s 3d |
+| **Average** | | | £2 19s 1¼d |
+| 1287 | £0 3s 4d | | £0 10s 0d |
+| 1288 | £0 0s 8d | | |
+| | £0 1s 0d | | |
+| | £0 1s 4d | | |
+| | £0 1s 6d | | |
+| | £0 1s 8d | £0 3s 0¼d | £0 9s 1¾d |
+| | £0 2s 0d | | |
+| | £0 3s 4d | | |
+| | £0 9s 4d | | |
+| 1289 | £0 12s 0d | | |
+| | £0 6s 0d | | |
+| | £0 2s 0d | £0 10s 1½d | £1 10s 4½d |
+| | £0 10s 8d | | |
+| | £1 0s 0d | | |
+| 1290 | £0 16s 0d | | £2 8s 0d |
+| 1294 | £0 16s 0d | | £2 8s 0d |
+| 1302 | £0 4s 0d | | £0 12s 0d |
+| 1309 | £0 7s 2d | | £1 1s 6d |
+| 1315 | £1 0s 0d | | £3 0s 0d |
+| 1316 | £1 0s 0d | | |
+| | £1 10s 0d | £1 10s 6d | £4 11s 6d |
+| | £1 12s 0d | | |
+| | £2 0s 0d | | |
+| 1317 | £2 4s 0d | | |
+| | £0 14s 0d | | |
+| | £2 13s 0d | £1 19s 6d | £5 18s 6d |
+| | £4 0s 0d | | |
+| | £0 6s 8d | | |
+| 1336 | £0 2s 0d | | £0 6s 0d |
+| 1338 | £0 3s 4d | | £0 10s 0d |
+| **Total** | | | £23 4s 11¼d |
+| **Average** | | | £1 18s 8d |
+| 1339 | £0 9s 0d | | £1 7s 0d |
+| 1349 | £0 2s 0d | | £0 5s 2d |
+| 1359 | £1 6s 8d | | £3 2s 2d |
+| 1361 | £0 2s 0d | | £0 4s 8d |
+| 1363 | £0 15s 0d | | £1 15s 0d |
+| 1369 | £1 0s 0d | | |
+| | £1 4s 0d | £1 2s 0d | £2 9s 4d |
+| 1379 | £0 4s 0d | | £0 9s 4d |
+| 1387 | £0 2s 0d | | £0 4s 8d |
+| 1390 | £0 13s 4d | | |
+| | £0 14s 0d | £0 14s 5d | £1 13s 7d |
+| | £0 16s 0d | | |
+| 1401 | £0 16s 0d | | £1 17s 6d |
+| 1407 | £0 4s 4¾d | | |
+| | £0 3s 4d | £0 3s 10d | £0 8s 10d |
+| 1416 | £0 16s 0d | | £1 12s 0d |
+| **Total** | | | £15 9s 4d |
+| **Average** | | | £1 5s 9½d |
+| 1423 | £0 8s 0d | | 0 |
+| 1425 | £0 4s 0d | | 0 |
+| 1434 | £1 6s 8d | | 4 |
+| 1435 | £0 5s 4d | | 8 |
+| 1439 | £1 0s 0d | | |
+| | £1 6s 8d | £1 3s 4d | £2 6s 8d |
+| 1440 | £1 4s 0d | | £2 8s 0d |
+| 1444 | £0 4s 4d | £0 4s 2d | £0 4s 8d |
+| | £0 4s 0d | | |
+| 1445 | £0 4s 6d | | £0 9s 0d |
+| 1447 | £0 8s 0d | | £0 16s 0d |
+| 1448 | £0 6s 8d | | £0 13s 4d |
+| 1449 | £0 5s 0d | | £0 10s 0d |
+| 1451 | £0 8s 0d | | £0 16s 0d |
+| **Total** | | | £12 15s 4d |
+| **Average** | | | £1 1s 3⅓d |
+| 1453 | £0 5s 4d | | £0 10s 8d |
+| 1455 | £0 1s 2d | | £0 2s 4d |
+| 1457 | £0 7s 8d | | £1 15s 4d |
+| 1459 | £0 5s 0d | | £0 10s 0d |
+| 1460 | £0 8s 0d | | £0 16s 0d |
+| 1463 | £0 2s 0d | £0 1s 10d | £0 3s 8d |
+| | £0 1s 8d | | |
+| 1464 | £0 6s 8d | | £0 10s 0d |
+| 1486 | £1 4s 0d | | £1 17s 0d |
+| 1491 | £0 14s 8d | | £1 2s 0d |
+| 1494 | £0 4s 0d | | £0 6s 0d |
+| 1495 | £0 3s 4d | | £0 5s 0d |
+| 1497 | £1 0s 0d | | £1 11s 0d |
+| **Total** | | | £8 9s 0d |
+| **Average** | | | £0 14s 1d |
+| 1499 | £0 4s 0d | | £0 6s 0d |
+| 1504 | £0 5s 8d | | £0 8s 6d |
+| 1521 | £1 0s 0d | | £1 10s 0d |
+| 1551 | £0 8s 0d | | £0 8s 0d |
+| 1553 | £0 8s 0d | | £0 8s 0d |
+| 1554 | £0 8s 0d | | £0 8s 0d |
+| 1555 | £0 8s 0d | | £0 8s 0d |
+| 1556 | £0 8s 0d | | £0 8s 0d |
+| 1557 | £0 8s 0d | | |
+| | £0 4s 0d | £0 17s 8½d | £0 17s 8½d |
+| | £0 5s 0d | | |
+| | £2 13s 4d | | |
+| 1558 | £0 8s 0d | | £0 8s 0d |
+| 1559 | £0 8s 0d | | £0 8s 0d |
+| 1560 | £0 8s 0d | | £0 8s 0d |
+| **Total** | | | £6 0s 2½d |
+| **Average** | | | £0 10s 0½d |
+| 1561 | £0 8s 0d | | £0 8s 0d |
+| 1562 | £0 8s 0d | | £0 8s 0d |
+| 1574 | £2 16s 0d | | |
+| | £1 4s 0d | £2 0s 0d | £2 0s 0d |
+| 1587 | £3 4s 0d | | £3 4s 0d |
+| 1594 | £2 16s 0d | | £2 16s 0d |
+| 1595 | £2 13s 0d | | £2 13s 0d |
+| 1596 | £4 0s 0d | | £4 0s 0d |
+| 1597 | £5 4s 0d | | |
+| | £4 0s 0d | £4 12s 0d | £4 12s 0d |
+| 1598 | £2 16s 8d | | £2 16s 8d |
+| 1599 | £1 19s 2d | | £1 19s 8d |
+| 1600 | £1 17s 8d | | £1 17s 8d |
+| 1601 | £1 14s 10d | | £1 14s 10d |
+| **Total** | | | £28 9s 4d |
+| **Average** | | | £2 7s 5½d |
+
+**Prices of the quarter of nine bushels of the best or highest priced wheat at Windsor Market, on Lady Day and Michaelmas, from 1595 to 1764, both inclusive; the price of each year being the medium between the highest prices of those two market days.**
+
+| Year | Price (£ s d) | Ten-year totals and averages, 1731–1750 |
+|---|---|---|
+| 1595 | £2 0s 0d | |
+| 1596 | £2 8s 0d | |
+| 1597 | £3 9s 6d | |
+| 1598 | £2 16s 8d | |
+| 1599 | £1 19s 2d | |
+| 1600 | £1 17s 8d | |
+| 1601 | £1 14s 10d | |
+| 1602 | £1 9s 4d | |
+| 1603 | £1 15s 4d | |
+| 1604 | £1 10s 8d | |
+| 1605 | £1 15s 10d | |
+| 1606 | £1 13s 0d | |
+| 1607 | £1 16s 8d | |
+| 1608 | £2 16s 8d | |
+| 1609 | £2 10s 0d | |
+| 1610 | £1 15s 10d | |
+| 1611 | £1 18s 8d | |
+| 1612 | £2 2s 4d | |
+| 1613 | £2 8s 8d | |
+| 1614 | £2 1s 8½d | |
+| 1615 | £1 18s 8d | |
+| 1616 | £2 0s 4d | |
+| 1617 | £2 8s 8d | |
+| 1618 | £2 6s 8d | |
+| 1619 | £1 15s 4d | |
+| 1620 | £1 10s 4d | |
+| **Total (26 years)** | £54 0s 6½d | |
+| **Average** | £2 1s 6¾d | |
+| 1621 | £1 10s 4d | |
+| 1622 | £2 18s 8d | |
+| 1623 | £2 12s 0d | |
+| 1624 | £2 8s 0d | |
+| 1625 | £2 12s 0d | |
+| 1626 | £2 9s 4d | |
+| 1627 | £1 16s 0d | |
+| 1628 | £1 8s 0d | |
+| 1629 | £2 2s 0d | |
+| 1630 | £2 15s 8d | |
+| 1631 | £3 8s 0d | |
+| 1632 | £2 13s 4d | |
+| 1633 | £2 18s 0d | |
+| 1634 | £2 16s 0d | |
+| 1635 | £2 16s 0d | |
+| 1636 | £2 16s 8d | |
+| **Total (16 years)** | £40 0s 0d | |
+| **Average** | £2 10s 0d | |
+| 1637 | £2 13s 0d | |
+| 1638 | £2 17s 4d | |
+| 1639 | £2 4s 10d | |
+| 1640 | £2 4s 8d | |
+| 1641 | £2 8s 0d | |
+| 1646 | £2 8s 0d | |
+| 1647 | £3 13s 0d | |
+| 1648 | £4 5s 0d | |
+| 1649 | £4 0s 0d | |
+| 1650 | £3 16s 8d | |
+| 1651 | £3 13s 4d | |
+| 1652 | £2 9s 6d | |
+| 1653 | £1 15s 6d | |
+| 1654 | £1 6s 0d | |
+| 1655 | £1 13s 4d | |
+| 1656 | £2 3s 0d | |
+| 1657 | £2 6s 8d | |
+| 1658 | £3 5s 0d | |
+| 1659 | £3 6s 0d | |
+| 1660 | £2 16s 6d | |
+| 1661 | £3 10s 0d | |
+| 1662 | £3 14s 0d | |
+| 1663 | £2 17s 0d | |
+| 1664 | £2 0s 6d | |
+| 1665 | £2 9s 4d | |
+| 1666 | £1 16s 0d | |
+| 1667 | £1 16s 0d | |
+| 1668 | £2 0s 0d | |
+| 1669 | £2 4s 4d | |
+| 1670 | £2 1s 8d | |
+| 1671 | £2 2s 0d | |
+| 1672 | £2 1s 0d | |
+| 1673 | £2 6s 8d | |
+| 1674 | £3 8s 8d | |
+| 1675 | £3 4s 8d | |
+| 1676 | £1 18s 0d | |
+| 1677 | £2 2s 0d | |
+| 1678 | £2 19s 0d | |
+| 1679 | £3 0s 0d | |
+| 1680 | £2 5s 0d | |
+| 1681 | £2 6s 8d | |
+| 1682 | £2 4s 0d | |
+| 1683 | £2 0s 0d | |
+| 1684 | £2 4s 0d | |
+| 1685 | £2 6s 8d | |
+| 1686 | £1 14s 0d | |
+| 1687 | £1 5s 2d | |
+| 1688 | £2 6s 0d | |
+| 1689 | £1 10s 0d | |
+| 1690 | £1 14s 8d | |
+| 1691 | £1 14s 0d | |
+| 1692 | £2 6s 8d | |
+| 1693 | £3 7s 8d | |
+| 1694 | £3 4s 0d | |
+| 1695 | £2 13s 0d | |
+| 1696 | £3 11s 0d | |
+| 1697 | £3 0s 0d | |
+| 1698 | £3 8s 4d | |
+| 1699 | £3 4s 0d | |
+| 1700 | £2 0s 0d | |
+| **Total (60 years)** | £153 1s 8d | |
+| **Average** | £2 11s 0⅓d | |
+| 1701 | £1 17s 8d | |
+| 1702 | £1 9s 6d | |
+| 1703 | £1 16s 0d | |
+| 1704 | £2 6s 6d | |
+| 1705 | £1 10s 0d | |
+| 1706 | £1 6s 0d | |
+| 1707 | £1 8s 6d | |
+| 1708 | £2 1s 6d | |
+| 1709 | £3 18s 6d | |
+| 1710 | £3 18s 0d | |
+| 1711 | £2 14s 0d | |
+| 1712 | £2 6s 4d | |
+| 1713 | £2 11s 0d | |
+| 1714 | £2 10s 4d | |
+| 1715 | £2 3s 0d | |
+| 1716 | £2 8s 0d | |
+| 1717 | £2 5s 8d | |
+| 1718 | £1 18s 10d | |
+| 1719 | £1 15s 0d | |
+| 1720 | £1 17s 0d | |
+| 1721 | £1 17s 6d | |
+| 1722 | £1 16s 0d | |
+| 1723 | £1 14s 8d | |
+| 1724 | £1 17s 0d | |
+| 1725 | £2 8s 6d | |
+| 1726 | £2 6s 0d | |
+| 1727 | £2 2s 0d | |
+| 1728 | £2 14s 6d | |
+| 1729 | £2 6s 10d | |
+| 1730 | £1 16s 6d | |
+| 1731 | £1 12s 10d | £1 12s 10d |
+| 1732 | £1 6s 8d | £1 6s 8d |
+| 1733 | £1 8s 4d | £1 8s 4d |
+| 1734 | £1 18s 10d | £1 18s 10d |
+| 1735 | £2 3s 0d | £2 3s 0d |
+| 1736 | £2 0s 4d | £2 0s 4d |
+| 1737 | £1 18s 0d | £1 18s 0d |
+| 1738 | £1 15s 6d | £1 15s 6d |
+| 1739 | £1 18s 6d | £1 18s 6d |
+| 1740 | £2 10s 8d | £2 10s 8d |
+| **Total (10 years)** | | £18 12s 8d |
+| **Average** | | £1 17s 3½d |
+| 1741 | £2 6s 8d | £2 6s 8d |
+| 1742 | £1 14s 0d | £1 14s 0d |
+| 1743 | £1 4s 10d | £1 4s 10d |
+| 1744 | £1 4s 10d | £1 4s 10d |
+| 1745 | £1 7s 6d | £1 7s 6d |
+| 1746 | £1 19s 0d | £1 19s 0d |
+| 1747 | £1 14s 10d | £1 14s 10d |
+| 1748 | £1 17s 0d | £1 17s 0d |
+| 1749 | £1 17s 0d | £1 17s 0d |
+| 1750 | £1 12s 6d | £1 12s 6d |
+| **Total (10 years)** | | £16 18s 2d |
+| **Average** | | £1 13s 9¾d |
+| 1751 | £1 18s 6d | |
+| 1752 | £2 1s 10d | |
+| 1753 | £2 4s 8d | |
+| 1754 | £1 13s 8d | |
+| 1755 | £1 14s 10d | |
+| 1756 | £2 5s 3d | |
+| 1757 | £3 0s 0d | |
+| 1758 | £2 10s 0d | |
+| 1759 | £1 19s 10d | |
+| 1760 | £1 16s 6d | |
+| 1761 | £1 10s 3d | |
+| 1762 | £1 19s 0d | |
+| 1763 | £2 0s 9d | |
+| 1764 | £2 6s 9d | |
+| **Total (64 years)** | £129 13s 6d | |
+| **Average** | £2 0s 6¾d | |
 
 ## BOOK TWO
 
@@ -3191,8 +3668,6 @@ Any increase in the quantity of silver, while the quantity of commodities circul
 * But their **real value** would be precisely the same as before.
 * They would be exchanged for a greater number of pieces of silver. However, the quantity of labor which they could command, or the number of people whom they could maintain and employ, would be precisely the same.
 
-
-
 The country's real capital would stay the same. It might take more silver coins to transfer an equal portion of that capital from one person to another. The paperwork, like a wordy lawyer’s documents, would be more cumbersome. But the actual thing being transferred—the capital itself—would be exactly the same as before. It could only produce the same effects.
 
 Since the funds for supporting productive work would be the same, the demand for that work would also be the same. Therefore, the price of labor, or wages, though it might seem higher in silver coins, would actually be the same in terms of purchasing power. Workers would be paid more silver pieces, but those pieces would only buy the same amount of goods as before.
@@ -3335,8 +3810,6 @@ However, equal amounts of capital, when employed in each of these four different
     * The most important operations of agriculture seem intended not so much to *increase* the fertility of nature (though they do that too), but rather to *direct* that fertility towards the production of the plants most profitable to humans. A field overgrown with weeds and brambles might frequently produce as great a quantity of vegetable matter as the best-cultivated vineyard or cornfield. Planting and tilling often regulate more than they stimulate the active fertility of nature. After all the farmer's labor, a great part of the work always remains to be done by nature.
     * The laborers and laboring cattle, therefore, employed in agriculture, do more than just reproduce a value equal to their own consumption (or to the capital that employs them), along with their owner's profits, as workmen in manufacturing do. They occasion the reproduction **of a much greater value**.
 
-
-
 Besides replacing the farmer's capital and all its profits, the labor in agriculture regularly creates the **rent for the landlord**. This rent can be thought of as the payment for using the powers of nature, which the landlord lends to the farmer. The amount of rent is greater or smaller depending on how fertile the land is believed to be, either naturally or through improvements. Rent is essentially the value of nature's work that remains after subtracting or accounting for everything that can be considered the work of humans. This share is seldom less than a quarter and often more than a third of the total produce from the land.
 
 No equal amount of productive labor used in manufacturing can ever create such a large additional return (the rent). In manufacturing, nature does nothing; humans do everything. The output in manufacturing must always be in proportion to the strength of the efforts that cause it (human labor and capital).
@@ -3477,8 +3950,6 @@ However, using gold and silver in foreign trade seems to have one advantage over
 * Besides, no goods are less likely to suffer damage during carriage.
 
 Therefore, an equal quantity of foreign goods may frequently be purchased with a *smaller quantity* of the produce of domestic industry if gold and silver are used as intermediaries, than if any other foreign goods are used. The demand of the country may frequently be supplied more completely and at a smaller expense in this manner than in any other.
-
-
 
 Whether this kind of trade, by continually exporting these metals, is likely to make the country poorer in any other way, is a question I will examine in great detail later on.
 
@@ -3721,8 +4192,6 @@ But in the present state of Europe, when small estates as well as great ones get
 
 Entails, however, are still respected throughout the greater part of Europe. This is particularly true in those countries where noble birth is a necessary qualification for holding either civil or military honors. Entails are thought necessary for maintaining this exclusive privilege of the nobility to the great offices and honors of their country. And since that order of nobility has already seized one unjust advantage over the rest of their fellow citizens, it is thought reasonable that they should have another (entails) to prevent their potential poverty from making their privileged position seem ridiculous.
 
-
-
 The common law of England is actually said to dislike things that tie up property forever, like entails. As a result, entails are more restricted in England than in any other European monarchy. However, even England is not completely free of them. In Scotland, it's believed that more than one-fifth, and perhaps even more than one-third, of all the lands in the country are currently under strict entail.
 
 This way, not only were huge areas of uncultivated land taken over by particular families, but the possibility of these lands ever being divided again was prevented as much as possible, forever.
@@ -3856,8 +4325,6 @@ The ancient "tenths and fifteenths," which were common taxes in England in forme
 ### Conclusion: Discouraged Farmers, Slow Improvement
 
 Under all these discouragements, little improvement of the land could be expected from its occupiers. That group of people, even with all the liberty and security that law can provide, must always struggle to improve land under great disadvantages.
-
-
 
 A farmer, when compared to a landowner who farms their own land, is like a merchant who trades with borrowed money compared to one who trades with their own money. The capital of both can grow. However, the capital of the farmer (or the merchant with borrowed money), even with equally good management, will always grow more slowly than that of the other. This is because a large share of the farmer's profits is used to pay rent, much like a large share of the merchant's profits is used to pay interest on the loan.
 
@@ -3997,7 +4464,6 @@ In this manner, order and good government, and along with them the liberty and s
 
 If a poor cultivator, oppressed with the servitude of serfdom, managed to accumulate some little capital, he would naturally hide it with great care from his master, to whom it would otherwise have belonged. He would then take the first opportunity to run away to a town. The law at that time was so indulgent to the inhabitants of towns, and so desirous of diminishing the authority of the lords over the people of the country, that if a serf could conceal himself in a town from the pursuit of his lord for a year, he was free forever.
 
-
 Therefore, any money or capital that was saved up by the hardworking people in the countryside naturally sought safety in cities. Cities were the only places where a person who had earned that capital could feel secure with it.
 
 ### How Cities Get Their Supplies
@@ -4135,8 +4601,6 @@ The power of the ancient barons was founded upon the authority which the great l
 * They could maintain order and enforce the law within their respective lands because each of them could, in their own territory, turn the whole force of all the inhabitants against the injustice of any single person.
 * No other person had sufficient authority to do this. The king, in particular, did not.
 
-
-
 In those ancient times, the king was little more than the greatest landowner in his own lands. The other great landowners would pay him certain respects, mainly for the sake of common defense against their common enemies. If the king had tried to enforce payment of a small debt within the lands of a great proprietor, where all the inhabitants were armed and used to standing by one another, it would have cost him almost the same effort as trying to put down a civil war.
 * He was, therefore, forced to give up the administration of justice throughout most of the country to those who were actually capable of administering it (the great lords).
 * For the same reason, he had to leave the command of the country's militia to those whom that militia would actually obey.
@@ -4256,8 +4720,6 @@ is perhaps as well-suited by nature as any large country in Europe to be the cen
 From the beginning of the reign of Queen Elizabeth I, the English legislature has also been particularly attentive to the interests of commerce and manufactures. In reality, there is no country in Europe, not even Holland itself, whose laws are, on the whole, more favorable to this sort of industry. Commerce and manufactures have accordingly been continually advancing during all this period.
 
 The cultivation and improvement of the country has, no doubt, been gradually advancing too. But it seems to have followed slowly, and at a distance, the more rapid progress of commerce and manufactures. The greater part of the country must probably have been cultivated before the reign of Elizabeth I. Yet, a very great part of it still remains uncultivated today, and the cultivation of the far greater part is much inferior to what it could be.
-
-
 
 The law of England, however, helps farming not only indirectly by protecting trade but also with several direct encouragements.
 * **Exporting Grain:** Except in times of food shortages, exporting grain (corn) is not only allowed but also encouraged with a government payment (a bounty) to exporters.
