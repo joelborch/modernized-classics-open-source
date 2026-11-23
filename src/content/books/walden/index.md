@@ -3562,8 +3562,6 @@ The Great Snow! How cheerful it is to hear stories about it! Farmers could not g
 
 In the deepest snows, the path I used from the highway to my house, about half a mile long, might have looked like a winding, dotted line on a map, with wide gaps between the dots. For a week of consistent weather, I took exactly the same number of steps, and each step was the same length, whether I was coming or going. I stepped deliberately, with the precision of a pair of dividers (a measuring tool), in my own deep tracks. Winter reduces us to such routines. Yet often, these tracks were filled with the beautiful blue color of the sky reflected in the snow.
 
-Here is the continued simplified rewrite of "Former Inhabitants; and Winter Visitors."
-
 ### Winter Walks and Wildlife Encounters
 
 But no weather ever completely stopped my walks, or rather, my trips outdoors. I frequently walked eight or ten miles through the deepest snow. I did this to keep an "appointment" with a beech tree, a yellow birch, or an old pine tree friend. The ice and snow would weigh down their branches, making their tops look sharper, and changing the pines into fir-trees in appearance. I waded to the tops of the highest hills when the snow was nearly two feet deep on flat ground. Every step I took would shake down another snowstorm on my head from the trees above. Sometimes I had to creep and struggle there on my hands and knees, especially when the hunters had already gone into their winter shelters.
@@ -3881,8 +3879,6 @@ When the ice-men were at work here in the winter of 1846–47, the blocks of ice
 
 They also showed me another place that they thought was a **“leach hole.”** They believed the pond leaked out through this hole, under a hill, into a neighboring meadow. They pushed me out on a cake of ice to see it. It was a small cavity under ten feet of water. But I think I can guarantee that the pond won’t need sealing (soldering) until they find a worse leak than that one.
 
-Here is the continued simplified rewrite of "The Pond in Winter."
-
 ### Tracing a Leak and Ice's Movements
 
 Someone suggested that if such a "leach hole" (a place where the pond might be leaking) were found, its connection with the nearby meadow could be proven. They said you could put some colored powder or sawdust into the mouth of the hole. Then, you could put a strainer over the spring in the meadow. The strainer would catch some of the colored particles if they were carried through by the current of water.
@@ -4061,8 +4057,6 @@ This phenomenon of the thawing sand is more exhilarating to me than the richness
 
 This is the frost coming out of the ground; this is Spring. It comes before the green and flowery spring, just as mythology comes before regular poetry. I know of nothing more cleansing (purgative) of winter’s gloom and stagnation ("winter fumes and indigestions").
 
-Here is the continued simplified rewrite of "Spring."
-
 ### Earth's Spring Awakening
 
 This convinces me that Earth is still in her "swaddling clothes," like a baby, and stretches out baby fingers on every side. Fresh curls of new growth spring from the baldest-looking ground. There is nothing that is not alive or part of a living system (nothing inorganic). These leaf-like (foliaceous) heaps of sand lie along the bank like the waste material (slag) from a furnace. They show that Nature is "in full blast" with creative energy from within.
@@ -4164,8 +4158,6 @@ There was a dead horse in the hollow by the path to my house. It sometimes compe
 ### A Brightness in the Woods
 
 Early in May, the oaks, hickories, maples, and other trees were just putting out their new leaves. Amidst the pine woods around the pond, they gave a brightness like sunshine to the landscape, especially on cloudy days. It was as if the sun were breaking through mists and shining faintly on the hillsides here and there.
-
-Here is the final simplified rewrite for the "Spring" chapter.
 
 ### Spring's Farewell and a Year's Passing
 
@@ -4311,8 +4303,6 @@ My neighbors tell me of their adventures with famous gentlemen and ladies, what 
 They tell me of California and Texas, of England and the Indies, of the Honorable Mr. So-and-so of Georgia or of Massachusetts. These are all temporary (transient) and fleeting things (phenomena). Eventually, I am ready to leap from their court-yard like the Mameluke bey (an Egyptian leader who leaped to his death to escape a massacre, symbolizing a desire to escape triviality).
 
 I delight to get my bearings – not to walk in a procession with pomp and parade, in a conspicuous place, but to walk instead with the Builder of the universe, if I may. I choose not to live in this restless, nervous, bustling, trivial Nineteenth Century, but to stand or sit thoughtfully while it goes by. What are men celebrating? They are all on a committee of arrangements, and hourly expect a speech from somebody. God is only the president of the day, and Daniel Webster (a famous orator) is His speaker.
-
-Here is the final simplified rewrite for the "Conclusion" chapter.
 
 ### Seek Solid Ground and True Work
 
