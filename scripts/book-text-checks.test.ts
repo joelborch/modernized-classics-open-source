@@ -11,7 +11,6 @@ const ALLOWANCES: Record<string, BookTextAllowance[]> = {
 
 // Books whose text is known to be broken and is being repaired separately.
 const PENDING: Record<string, string> = {
-  'communist-manifesto-and-das-kapital': 'Das Kapital chapters I–XI are missing, so chapter numbering restarts; being filled in.',
 };
 
 describe('book text', () => {
