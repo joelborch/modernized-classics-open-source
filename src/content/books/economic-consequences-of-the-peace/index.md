@@ -808,8 +808,6 @@ German representatives stated, without anyone disagreeing, that “There is no i
 
 The French wanted the Saar coal to fuel the ironworks in Lorraine, which they had regained. They took the coal in a ruthless, strategic way, much like Bismarck (a former German chancellor known for his practical and often harsh policies) might have done. It wasn't a lack of historical examples that made this action wrong, but rather the Allies' own stated ideals and promises during the war, which contradicted such a seizure.
 
-**(ii.)
-
 **(ii.) Upper Silesia**
 Upper Silesia is a region mostly without large towns. However, it contains one of Germany's major coalfields. This area produced about 23 percent of all German hard coal. The Treaty stated that Upper Silesia would be given to Poland, but only after a **plebiscite** (a vote by the people living there to decide their future).
 
@@ -845,13 +843,27 @@ From this:
 * 33.5 million tons were exported (exports minus imports).
 * This left 139 million tons for Germany's own domestic use.
 
-The estimated loss of production due to losing territory was:
-* Alsace-Lorraine: 5.5 million tons
-* Saar Basin: 13.2 million tons
-* Upper Silesia (if lost after the vote): 43.8 million tons
-* **Total Loss from Territory:** 62.5 million tons
+It is estimated that this total was used as follows:
 
-So, based on 1913 output, Germany would have 130.7 million tons left (191.5 - 60.8, using slightly different internal figures from the author for immediate calculation, but the total loss impact is similar). If we subtract coal used at the mines (say, around 12.7 million to keep the math aligned with author's subsequent 118m figure), this leaves about 118 million tons.
+| Use | Tons |
+| --- | ---: |
+| Railways | 18,000,000 |
+| Gas, water, and electricity | 12,500,000 |
+| Bunkers | 6,500,000 |
+| House fuel, small industry, and agriculture | 24,000,000 |
+| Industry | 78,000,000 |
+| **Total** | **139,000,000** |
+
+The estimated loss of production due to losing territory was:
+
+| Territory | Tons |
+| --- | ---: |
+| Alsace-Lorraine | 3,800,000 |
+| Saar Basin | 13,200,000 |
+| Upper Silesia | 43,800,000 |
+| **Total** | **60,800,000** |
+
+So, based on 1913 output, Germany would have 130.7 million tons left. After deducting the coal consumed at the mines themselves, this leaves (say) 118 million tons.
 
 Out of this supply, for some years Germany would have to send:
 * Over 20 million tons to France as compensation for damaged French mines.
@@ -1097,16 +1109,16 @@ Popular opinion is most wrong, the author thinks, about **Belgium**.
 * Industrially, the looting was serious and temporarily crippling. But the actual money cost of replacing machinery adds up slowly. A few tens of millions of dollars would have covered the value of every machine Belgium ever owned.
 * Besides, a purely statistical view must note that Belgians have a strong instinct for self-preservation. The large amount of German banknotes held in Belgium at the time of the Armistice shows that some groups, despite German harshness, found ways to profit from the invaders. Belgian claims against Germany for sums greater than the total estimated pre-war wealth of the entire country are simply irresponsible.
 
-To help guide our thinking, here is an official summary of Belgian wealth, published in 1913 by Belgium's Finance Ministry:
-* Houses: $1.1 billion
-* Furniture, etc.: $1.1 billion
-* Land (value): $2.08 billion
-* Farm Animals and Tools: $0.3 billion
-* Coins and Gold/Silver Bullion: $0.23 billion
-* Industrial Plants and Tools: $0.6 billion
-* Railways, Trams, Ships: $0.34 billion
-* Foreign Investments: $0.12 billion
-* **Official Total (1913):** $5.87 billion
+To help guide our thinking, here is the official survey of Belgian wealth, published in 1913 by Belgium's Finance Ministry:
+
+| Category | Value |
+| --- | ---: |
+| Land | $1,320,000,000 |
+| Buildings | 1,175,000,000 |
+| Personal wealth | 2,725,000,000 |
+| Cash | 85,000,000 |
+| Furniture, etc. | 600,000,000 |
+| **Total** | **$5,905,000,000** |
 
 This total is about $780 per person. Dr. Stamp, a leading expert, tends to think this is too low on first impression (though he doesn't accept some much higher recent estimates). For comparison, wealth per person in neighboring countries was about $835 for Holland, $1,220 for Germany, and $1,515 for France. A total of $7.5 billion for Belgium, or about $1,000 per person, would be quite generous. The official estimate for land and buildings is likely more accurate than the other figures. On the other hand, increased construction costs must be considered.
 
@@ -1177,8 +1189,15 @@ Because there is very little solid information to guess the exact claims of this
 
 ### **Summary of Estimated Claims**
 
-So, we are left with the following estimated claims:
-*(The original text implies a list here, but does not provide it before cutting off. The author then immediately discusses the guesswork involved.)*
+So, we are finally left with the following estimated claims:
+
+| Claimant | Estimated claim |
+| --- | ---: |
+| Belgium | $2,500,000,000 |
+| France | 4,000,000,000 |
+| Great Britain | 2,850,000,000 |
+| Other Allies | 1,250,000,000 |
+| **Total** | **$10,600,000,000** |
 
 I must emphasize that there is a lot of guesswork in these figures. The figure for France, especially, is likely to be criticized.
 However, I am fairly confident that the general size of the claim, rather than the exact numbers, is reasonably accurate.
@@ -1408,7 +1427,17 @@ The claim for pensions and separation allowances under Annex I is not based on w
 
 To make this calculation, one would need the actual French payment rates and the number of soldiers mobilized and casualties in each category for all the Allied armies. Not all these detailed figures are available. However, enough is known about the general level of allowances, the numbers of people involved, and the casualties suffered to make an estimate that should be reasonably close.
 
-My guess for the amount to be added for pensions and allowances is substantial. I am more confident in the approximate accuracy of the total additional amount than in how it might be divided among the different Allied countries.
+My guess for the amount to be added for pensions and allowances is as follows:
+
+| Claimant | Pensions and allowances |
+| --- | ---: |
+| British Empire | $7,000,000,000 |
+| France | 12,000,000,000 |
+| Italy | 2,500,000,000 |
+| Others (including United States) | 3,500,000,000 |
+| **Total** | **$25,000,000,000** |
+
+I am more confident in the approximate accuracy of the total figure than in how it is divided among the different Allied countries.
 You will notice that adding pensions and allowances greatly increases the total claim. In fact, it nearly doubles it.
 Adding this figure for pensions and allowances to the estimate for other damages, we get a **total claim against Germany of $40 billion.**
 I believe this figure is certainly high enough. The actual amount, if calculated precisely, might even be a bit less.
@@ -1630,7 +1659,80 @@ Germany's first task, therefore, must be to change its consumption and productio
 
 ### **Analyzing Germany's Key Exports and Imports**
 
-The following tables (which were in the original text but are summarized here) showed about two-thirds of Germany’s import and export trade listed under separate items. We can assume that what applies to these listed items also applies more or less to the remaining one-third, which consists of many less important goods.
+About two-thirds of Germany's import and export trade is listed under separate items in the following tables. We can assume that what applies to these listed items also applies more or less to the remaining one-third, which consists of many individually less important goods.
+
+| German exports, 1913 | Million dollars | % of total exports |
+| --- | ---: | ---: |
+| Iron goods (including tin plates, etc.) | 330.65 | 13.2 |
+| Machinery and parts (including motor cars) | 187.75 | 7.5 |
+| Coal, coke, and briquettes | 176.70 | 7.0 |
+| Woolen goods (including raw and combed wool and clothing) | 147.00 | 5.9 |
+| Cotton goods (including raw cotton, yarn, and thread) | 140.75 | 5.6 |
+| *Subtotal* | *982.85* | *39.2* |
+| Cereals, etc. (including rye, oats, wheat, hops) | 105.90 | 4.1 |
+| Leather and leather goods | 77.35 | 3.0 |
+| Sugar | 66.00 | 2.6 |
+| Paper, etc. | 65.50 | 2.6 |
+| Furs | 58.75 | 2.2 |
+| Electrical goods (installations, machinery, lamps, cables) | 54.40 | 2.2 |
+| Silk goods | 50.50 | 2.0 |
+| Dyes | 48.80 | 1.9 |
+| Copper goods | 32.50 | 1.3 |
+| Toys | 25.75 | 1.0 |
+| Rubber and rubber goods | 21.35 | 0.9 |
+| Books, maps, and music | 18.55 | 0.8 |
+| Potash | 15.90 | 0.6 |
+| Glass | 15.70 | 0.6 |
+| Potassium chloride | 14.55 | 0.6 |
+| Pianos, organs, and parts | 13.85 | 0.6 |
+| Raw zinc | 13.70 | 0.5 |
+| Porcelain | 12.65 | 0.5 |
+| *Subtotal* | *711.70* | *67.2* |
+| Other goods, unenumerated | 829.60 | 32.8 |
+| **Total** | **2,524.15** | **100.0** |
+
+| German imports, 1913 | Million dollars | % of total imports |
+| --- | ---: | ---: |
+| **I. Raw materials** |  |  |
+| Cotton | 151.75 | 5.6 |
+| Hides and skins | 124.30 | 4.6 |
+| Wool | 118.35 | 4.4 |
+| Copper | 83.75 | 3.1 |
+| Coal | 68.30 | 2.5 |
+| Timber | 58.00 | 2.2 |
+| Iron ore | 56.75 | 2.1 |
+| Furs | 46.75 | 1.7 |
+| Flax and flaxseed | 46.65 | 1.7 |
+| Saltpetre | 42.75 | 1.6 |
+| Silk | 39.50 | 1.5 |
+| Rubber | 36.50 | 1.4 |
+| Jute | 23.50 | 0.9 |
+| Petroleum | 17.45 | 0.7 |
+| Tin | 14.55 | 0.5 |
+| Phosphorus chalk | 11.60 | 0.4 |
+| Lubricating oil | 11.45 | 0.4 |
+| *Subtotal, raw materials* | *951.90* | *35.3* |
+| **II. Food, tobacco, etc.** |  |  |
+| Cereals, etc. (wheat, barley, bran, rice, maize, oats, rye, clover) | 327.55 | 12.2 |
+| Oil seeds and cake, etc. (including palm kernels, copra, cocoa beans) | 102.65 | 3.8 |
+| Cattle, lamb fat, bladders | 73.10 | 2.8 |
+| Coffee | 54.75 | 2.0 |
+| Eggs | 48.50 | 1.8 |
+| Tobacco | 33.50 | 1.2 |
+| Butter | 29.65 | 1.1 |
+| Horses | 29.05 | 1.1 |
+| Fruit | 18.25 | 0.7 |
+| Fish | 14.95 | 0.6 |
+| Poultry | 14.00 | 0.5 |
+| Wine | 13.35 | 0.5 |
+| *Subtotal, food, tobacco, etc.* | *759.30* | *28.3* |
+| **III. Manufactures** |  |  |
+| Cotton yarn and thread and cotton goods | 47.05 | 1.8 |
+| Woolen yarn and woolen goods | 37.85 | 1.4 |
+| Machinery | 20.10 | 0.7 |
+| *Subtotal, manufactures* | *105.00* | *3.9* |
+| **IV. Unenumerated** | 876.40 | 32.5 |
+| **Total** | **2,692.60** | **100.0** |
 
 **Major Pre-War Exports:**
 The tables showed that Germany's most important exports were:
@@ -1662,7 +1764,7 @@ An examination of the import list shows that 63.6% were raw materials and food.
     However, this might not be equally true for items like barley (used for beer), coffee, eggs, and tobacco. If Germany could be forced into a system where no one drank beer or coffee, or smoked tobacco, a substantial saving could be made. Otherwise, there seems little room for any significant reduction in necessary food imports.
 
 **Where Germany Traded (1913 Data):**
-An analysis of German exports and imports by destination and origin is also relevant. (The original text refers to a table here, which is summarized below based on the author's description.)
+The following analysis of German exports and imports by destination and origin is also relevant.
 This analysis showed that of Germany’s exports in 1913:
 * 18% went to the British Empire.
 * 17% went to France, Italy, and Belgium.
@@ -1671,6 +1773,29 @@ This analysis showed that of Germany’s exports in 1913:
 This means that **more than half of Germany's exports went to the countries of the Allied nations.**
 Of the rest, 12% went to Austria-Hungary, Turkey, and Bulgaria, and 35% went to other countries.
 Therefore, unless the current Allies are prepared to encourage the import of German products, a substantial increase in the total volume of German exports can only happen by flooding neutral markets with German goods.
+
+**German Trade (1913) by Destination and Origin**
+
+| Country | Exports to: million dollars | Exports to: % | Imports from: million dollars | Imports from: % |
+| --- | ---: | ---: | ---: | ---: |
+| Great Britain | 359.55 | 14.2 | 219.00 | 8.1 |
+| India | 37.65 | 1.5 | 135.20 | 5.0 |
+| Egypt | 10.85 | 0.4 | 29.60 | 1.1 |
+| Canada | 15.10 | 0.6 | 16.00 | 0.6 |
+| Australia | 22.10 | 0.9 | 74.00 | 2.8 |
+| South Africa | 11.70 | 0.5 | 17.40 | 0.6 |
+| *Total: British Empire* | *456.95* | *18.1* | *491.20* | *18.2* |
+| France | 197.45 | 7.8 | 146.05 | 5.4 |
+| Belgium | 137.75 | 5.5 | 86.15 | 3.2 |
+| Italy | 98.35 | 3.9 | 79.40 | 3.0 |
+| U.S.A. | 178.30 | 7.1 | 427.80 | 15.9 |
+| Russia | 220.00 | 8.7 | 356.15 | 13.2 |
+| Romania | 35.00 | 1.4 | 19.95 | 0.7 |
+| Austria-Hungary | 276.20 | 10.9 | 206.80 | 7.7 |
+| Turkey | 24.60 | 1.0 | 18.40 | 0.7 |
+| Bulgaria | 7.55 | 0.3 | 2.00 | ... |
+| Other countries | 890.20 | 35.3 | 858.70 | 32.0 |
+| **Total** | **2,522.35** | **100.0** | **2,692.60** | **100.0** |
 
 ### **Estimating Germany's Maximum Future Export Surplus**
 
@@ -2240,7 +2365,19 @@ With the reparation problem thus cleared up, it would be possible to bring forwa
 **Proposal 1: Cancel All Inter-Ally War Debts**
 The first proposal is for the **entire cancellation of debts between the Allied governments** (that is, debts between the governments of the Allied and Associated countries) that were incurred for the purposes of the war. This proposal, which has already been suggested in some quarters, is one that I believe is absolutely essential for the future prosperity of the world. It would be an act of far-seeing statesmanship for the United Kingdom and the United States, the two main powers involved, to adopt it.
 
-The sums of money involved are approximately as follows (based on the author's textual description, as no table was provided in the original prompt):
+The sums of money involved are shown approximately in the following table (in millions of dollars):
+
+| Loans to | By United States | By United Kingdom | By France | Total |
+| --- | ---: | ---: | ---: | ---: |
+| United Kingdom | 4,210 | 0 | 0 | 4,210 |
+| France | 2,750 | 2,540 | 0 | 5,200 |
+| Italy | 1,625 | 2,335 | 175 | 4,135 |
+| Russia | 190 | 2,840 | 800 | 3,830 |
+| Belgium | 400 | 490 | 450 | 1,340 |
+| Serbia and Yugoslavia | 100 | 100 | 100 | 300 |
+| Other Allies | 175 | 395 | 250 | 820 |
+| **Total** | **9,450** | **8,700** | **1,775** | **19,925** |
+
 * The total amount of Inter-Ally debt is nearly **$20 billion** (assuming loans from one Ally are not subtracted from loans to another).
 * The **United States** is only a lender.
 * The **United Kingdom** has lent about twice as much as it has borrowed.

@@ -23,6 +23,14 @@ downloads:
   epub: /downloads/on-liberty-utilitarianism-other-essays.epub
 ---
 
+# On Liberty
+
+*I dedicate this volume to the beloved and mourned memory of the woman who inspired, and in part wrote, all that is best in my work: the friend and wife whose lofty sense of truth and justice was my strongest spur, and whose approval was my greatest reward. Like everything I have written for many years, this book belongs as much to her as to me. Yet the work as it now stands has enjoyed her revision, an advantage beyond price, only to a very limited degree. Some of its most important sections had been set aside for a more careful second reading, which they are now never to receive. If I were able to convey to the world even half of the great thoughts and noble feelings that lie buried with her, I would do it more good than anything I am ever likely to write on my own, without the prompting and help of her wisdom, which had scarcely an equal.*
+
+The great, guiding principle, toward which every argument set out in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.
+
+— Wilhelm von Humboldt, *Sphere and Duties of Government*
+
 ## I — Introductory
 
 This essay isn’t about the famous free-will debate—the so-called **Liberty of the Will** versus what used to be labeled **Philosophical Necessity**. It’s about something more down-to-earth and more politically explosive: **civil (or social) liberty**—what it is, and where the legitimate power of society over an individual should end.
@@ -1459,9 +1467,6 @@ What began as obedience to authority turned into habit, and habit turned into id
 
 ## V — Applications
 
-V  
-Applications
-
 Before you can apply the principles argued in this essay consistently across every corner of government and morality, people have to accept them more broadly as the starting point for discussing details. So the few “case” remarks I’ll make here aren’t meant to chase the doctrine all the way to its farthest consequences. They’re illustrations—samples of how the principles work—meant to sharpen what the two central maxims really mean, where they stop, and how to weigh them when it isn’t obvious which one applies.
 
 Here are the two maxims:
@@ -1815,6 +1820,8 @@ Even so, a central office that specializes in **information and instruction**—
 The trouble starts at the exact moment the government crosses that line. The mischief begins when, instead of drawing out the energy and competence of individuals and local bodies, it replaces them with its own. When, instead of informing, advising, and—when necessary—calling out failures, it puts people in chains, or tells them to step aside while it does their work for them.
 
 Because in the long run, **the value of a state is the value of the people who make it up**. Any state that trades away the mental growth and elevation of its citizens for a little more administrative neatness—or for the *appearance* of competence that comes from routine—pays a hidden price. A state that shrinks its people so they’ll be more obedient tools, even for supposedly good ends, eventually discovers the obvious: with small people, nothing truly great gets done. And the perfect bureaucratic “machine” it built by sacrificing everything else will finally prove useless—because it has driven away the living force the machine needed in order to matter at all.
+
+# Utilitarianism
 
 ## I — General Remarks
 
@@ -2429,9 +2436,6 @@ If this doctrine is true, then the principle of utility is proved. Whether it is
 
 ## V — On The Connection Between Justice And Utility
 
-V  
-On The Connection Between Justice And Utility
-
 Across the whole history of moral philosophy, one of the biggest roadblocks to accepting the idea that **utility**—human **happiness and well-being**—is the standard of right and wrong has been the idea of **justice**. The word *justice* doesn’t just sound important; it hits most people like an instinct. It arrives with a punch of certainty that makes it feel like it must be pointing to something “out there” in the world—some absolute feature of reality. So many thinkers have assumed that **the just** must exist in nature as something fixed and objective, usually treated as separate from mere “expediency” (what works), and even imagined as the opposite of it—though, in practice, people also admit that justice and long-term expediency rarely stay divorced for very long.
 
 But we need to separate two questions that people constantly tangle together:
@@ -2895,6 +2899,14 @@ Apart from his use of the word “necessarily,” there’s little to quarrel wi
 
 The sound position, in my view—and, I gather, in Spencer’s as well—is that ethics, like every other serious science, needs **both** methods. We need conclusions reached by careful observation, and we need deductions from broader laws and conditions. And we need them to converge—each correcting, corroborating, and verifying the other—before a moral principle earns the kind and level of evidence that counts as genuine scientific proof.
 
+# Considerations on Representative Government
+
+## Preface
+
+Readers who have done me the honor of following my earlier writings will probably find little that strikes them as new in this volume. Its principles are the ones I have been working toward for most of my life, and most of its practical proposals have already been made, either by others or by me. What is new is the act of gathering these principles together and showing how they connect, and also, I believe, much of the reasoning offered in their support. In any case, several of the opinions here, even if they are not new, are for now as unlikely to win general acceptance as if they were.
+
+Various signs suggest to me, however, that both Conservatives and Liberals (if I may keep calling them by the names they still use for themselves) have lost confidence in the political creeds they nominally profess. The recent debates on the reform of Parliament make this plainer than anything else. Yet neither side seems to have made any progress toward finding a better creed. A better doctrine must nonetheless be possible. It would not be a mere compromise that splits the difference between the two, but something broader than either, so comprehensive that a Liberal or a Conservative could adopt it without giving up anything he genuinely values in his own creed. When so many people dimly sense the need for such a doctrine, and so few even imagine they have found it, anyone may, without presumption, offer whatever his own thinking, and the best he knows of other people's, can contribute toward building it.
+
 ## I — To What Extent Forms Of Government Are A Matter Of Choice
 
 When people argue about the “best” form of government, they’re usually talking past each other because they’re starting from two very different pictures of what government even *is*.
@@ -3325,52 +3337,13 @@ To get a whole population to accept that kind of work takes an unusually lucky c
 
 But that “defense” of slavery applies only—if it applies at all—to the most primitive stage of society. Once you’re dealing with a civilized people, there are other ways to spread civilization to those under their influence. And slavery clashes so violently with **government by law**—the bedrock of modern life—and corrodes the ruling class so thoroughly once they’ve been exposed to civilized standards, that bringing slavery into any modern society is not just immoral but a collapse into something worse than barbarism.
 
-Still, historically, almost every people we now call civilized once lived in a world where most of the population were slaves. And a society built on slavery needs a different kind of government than a society of independent “savages.”
+At some point in their history, however, nearly every people now civilized has consisted, in its majority, of slaves. A people in that condition needs a very different polity to raise it out of that state than a nation of savages does. If such a people is naturally energetic, and especially if the same community contains an industrious class who are neither slaves nor slave-owners, as was the case in Greece, then probably nothing more is needed to secure their improvement than to make them free. Once freed, they may often be fit, like the freedmen of Rome, to be admitted at once to the full rights of citizenship. This, however, is not the normal condition of slavery, and it is generally a sign that slavery is becoming obsolete. A slave, in the proper sense of the word, is a being who has not learned to help himself. He is, no doubt, one step ahead of the savage. He no longer has to acquire the first lesson of political society, because he has learned to obey. But what he obeys is only a direct command. It is characteristic of those *born* into slavery that they cannot conform their conduct to a rule or a law. They can do only what they are ordered to do, and only when they are ordered to do it. If a man they fear is standing over them and threatening them with punishment, they obey; but when his back is turned, the work is left undone. The motive that moves them must appeal not to their interests but to their instincts: immediate hope or immediate terror. A despotism, which may tame the savage, will, insofar as it remains a despotism, only confirm slaves in their incapacities. Yet a government under their own control would be entirely beyond their power to manage. Their improvement cannot come from themselves; it must be brought to bear on them from outside. The step they have to take, and their only path to improvement, is to be raised from a government of will to a government of law. They have to be taught self-government, and in its earliest stage self-government means the capacity to act on general instructions. What they need is not a government of force but a government of guidance. Because they stand too low, however, to yield to the guidance of anyone except those they look up to as holders of force, the government best suited to them is one that possesses force but seldom uses it. Such a government would be a parental despotism or aristocracy, resembling the Saint-Simonian form of socialism. It would maintain a general oversight of every operation of society, so as to keep before each person the sense of a power close at hand and strong enough to compel his obedience to the rule laid down. Yet because it could not possibly descend to regulating every minute detail of industry and daily life, it would necessarily leave individuals to do a great deal for themselves, and would encourage them to do so. This may be called government by leading-strings, after the cords once used to hold up small children as they learned to walk. It seems to be the kind of government needed to carry such a people most rapidly through the next necessary step in social progress. Such appears to have been the idea behind the government of the Incas of Peru, and such was the idea behind the government of the Jesuits in Paraguay. I hardly need add that leading-strings are justified only as a means of gradually training a people to walk on their own.
 
-In some unusual cases, improvement might be as simple as emancipation. If enslaved people are naturally energetic, and if the society also contains a hardworking middle group that is neither slave nor slave-owner (as in parts of ancient Greece), then simply making the enslaved free might be enough. Once freed, they may quickly become capable of full citizenship—like many Roman freedmen. But when slavery is in its “normal” form, that isn’t what you see. In fact, when emancipation works that smoothly, it usually means slavery is already dying out.
+It would be out of place to carry the illustration further. To investigate what kind of government suits every known state of society would be to write a treatise not on representative government but on political science as a whole. For our narrower purpose, we borrow from political philosophy only its general principles. To determine which form of government best suits a particular people, we must be able to pick out, among that people's defects and shortcomings, those that form the immediate obstacle to progress, and to discover what it is that, so to speak, blocks the road. The best government for them is the one that does most to give them the thing whose absence keeps them from advancing at all, or lets them advance only in a halting and lopsided way. We must not forget, however, the reservation that applies to everything aimed at improvement or Progress: in seeking the good that is needed, we must do no damage, or as little as possible, to the good already possessed. A people of savages should be taught obedience, but not in a way that turns them into a people of slaves. To put the observation more generally, the form of government that is most effective in carrying a people through the next stage of progress will still be quite unsuitable for them if it does so in a way that obstructs the step beyond, or positively unfits them for it. Such cases are frequent, and they are among the saddest facts in history. The priestly hierarchy of Egypt and the paternal despotism of China were well-fitted instruments for carrying those nations up to the level of civilization they attained. But once they had reached that point, they came to a permanent halt for want of mental liberty and individuality. These are requirements of improvement that the very institutions which had carried those nations so far left them wholly unable to acquire, and since those institutions neither broke down nor gave way to others, further improvement stopped. In contrast with these nations, consider the opposite example offered by another, comparatively insignificant Eastern people: the Jews. They too had an absolute monarchy and a priestly hierarchy, and their organized institutions were as plainly priestly in origin as those of the Hindus. These institutions did for them what their institutions did for other Eastern peoples: they subdued them to industry and order, and gave them a national life. But neither their kings nor their priests ever gained, as they did in those other countries, exclusive control over the shaping of the national character. Their religion allowed people of genius and lofty religious feeling to be regarded by others, and to regard themselves, as inspired by heaven, and it thereby gave rise to an unorganized institution of inestimable value: the Order, if it may be called that, of the Prophets. Protected by their sacred character, a protection that usually though not always held, the Prophets were a power in the nation, often more than a match for kings and priests, and they sustained, in that small corner of the earth, the antagonism of influences that is the only real guarantee of continued progress. Religion there was consequently not what it has been in so many other places, a consecration of everything once established and a barrier against further improvement. A distinguished Jewish writer, M. Salvador, remarked that the Prophets were, in Church and State, the equivalent of the modern freedom of the press. The comparison gives a just but not an adequate idea of the part this great element of Jewish life played in national and universal history. Because the canon of inspiration was never closed, the people most eminent in genius and moral feeling could not only denounce and condemn, with the direct authority of the Almighty, whatever seemed to them to deserve it, but could also put forward better and higher interpretations of the national religion, which from then on became part of that religion. Accordingly, anyone who can shake off the habit of reading the Bible as though it were a single book, a habit that until recently was as deeply ingrained in Christians as in unbelievers, will see with admiration the vast distance between the morality and religion of the Pentateuch, or even of the historical books (unmistakably the work of Hebrew conservatives of the priestly order), and the morality and religion of the prophetic books. That distance is as wide as the one between the prophetic books and the Gospels. Conditions more favorable to Progress could hardly exist. Accordingly, the Jews, instead of remaining stationary like other Asian peoples, were, after the Greeks, the most progressive people of antiquity, and together with the Greeks they have been the starting point and chief driving force of modern culture.
 
-In the harshest, most typical form, a “proper” slave is someone who hasn’t learned how to act for himself. He’s a step above a savage in one crucial respect: he has learned to obey. But what he has learned is **obedience to a person’s command**, not obedience to a rule.
+It is therefore impossible to understand how forms of government should be adapted to states of society without taking into account not only the next step but every step that society has yet to take, both those that can be foreseen and the far wider, indefinite range that is at present out of sight. It follows that, to judge the merits of forms of government, we must construct an ideal of the form of government most desirable in itself. This would be the form that, if the conditions needed to give effect to its beneficial tendencies were present, would do more than any other to favor and promote not some single improvement but improvement of every kind and degree. Having done this, we must consider what mental conditions of every sort are needed to enable this government to realize its tendencies, and therefore what various defects make a people incapable of reaping its benefits. It would then be possible to construct a theorem of the circumstances in which that form of government may wisely be introduced. It would also be possible to judge, in cases where it had better not be introduced, which inferior forms of polity will best carry those communities through the intermediate stages they must pass through before they become fit for the best form of government.
 
-That’s the key distinction. People shaped by slavery, the author claims, often can’t reliably guide their conduct by general principles—by **law**. They can follow orders, and they can do it fast, but only under direct supervision. If someone they fear is standing over them, they work; if that person turns away, the work stops. The motives that move them aren’t long-term interests or judgment, but reflexes—immediate hope of reward or immediate terror of punishment.
-
-So while a despotism might “tame” a savage, despotism—precisely because it is despotism—tends to freeze enslaved people into the very incapacity that slavery produced. At the same time, handing them self-rule too soon wouldn’t work either; a government fully under their control would be, in the author’s view, unmanageable at that stage.
-
-Their improvement, then, can’t start from within. It has to be imposed from outside. The decisive step—the only path forward—is moving them from a **government of will** (the ruler’s personal choice, command by command) to a **government of law** (stable rules that apply generally). What they need at first is not raw force, but **guidance**: training in self-government, which initially means learning to act on general instructions instead of waiting for a shouted order.
-
-But because they’re not yet able to follow guidance from anyone except those they associate with power, the government best suited to them is one that **possesses force but rarely uses it**. Think of a **parental despotism** or a guiding aristocracy—something like certain technocratic-utopian visions: it supervises society broadly, keeps the sense that real power stands behind the rules, and can compel obedience when necessary. Yet it can’t micromanage every detail of work and life, and that limitation is actually a feature: it forces people to do many things on their own, building the habits they lack.
-
-This kind of “training wheels” government—what the author calls **government by leading-strings**—may move such a people fastest through the next stages of social development. He points to the Incas of Peru and the Jesuits’ communities in Paraguay as examples of this general idea. But the warning is obvious: training wheels are only justified if they’re used to teach people to ride, not to keep them permanently dependent.
-
-At this point, the author steps back. Fully mapping which form of government fits every known social condition would require writing a general treatise on political science, not a discussion aimed at representative government. For the narrower purpose here, we only need a few broad principles.
-
-To decide what kind of government suits a particular people, you have to look at that people’s defects and limitations and identify the ones that most directly block progress—the specific thing that “stops the road.” The best government for them is the one that most effectively supplies what they’re missing, the thing without which they can’t advance at all—or can advance only in a crippled, lopsided way.
-
-But there’s an essential caveat whenever your goal is improvement: in trying to add what’s missing, you must avoid damaging what already exists, or at least minimize the damage. You might need to teach a “savage” population obedience, but you must not teach it in a way that turns them into slaves. More generally, a government can be very effective at pushing a people through the *next* stage, yet still be a terrible choice if it does so in a way that blocks the stage after that—if it trains them into permanent dependence, conformity, or fear.
-
-History is full of these tragedies. The Egyptian priesthood and the paternal despotism of China were, in the author’s view, well-designed tools for bringing those societies up to the level of civilization they reached. But once there, they stalled. Why? Because the next step required **mental liberty and individuality**—and the very institutions that had made earlier progress possible also made acquiring those qualities nearly impossible. And since those institutions didn’t collapse or give way to new ones, further improvement stopped.
-
-To see the opposite pattern, the author points to a smaller and often underestimated Eastern people: the Jews. They too had an absolute monarchy and a powerful religious hierarchy, and their institutions were as clearly priest-made as those of India. Like other Eastern systems, these institutions disciplined the people into industry and order and gave them a durable national life.
-
-But there was a crucial difference: neither kings nor priests ever gained exclusive control over shaping the nation’s character. Their religion made room for inspired individuals—people of strong moral seriousness and genius—to be recognized as speaking with divine authority. That produced an immensely valuable, informal institution: the **Prophets**.
-
-Protected (though not always effectively) by their sacred status, the Prophets became a national power—often strong enough to confront kings and priests—and kept alive an internal clash of forces. And for the author, that kind of ongoing tension is the only real safeguard of continuous progress. In many places, religion becomes the stamp of approval on whatever already exists: it sanctifies the status quo and blocks reform. In this case, religion also created an engine of critique.
-
-One observer described the Prophets as, in both church and state, the equivalent of the modern free press. That comparison is fair, the author says, but still doesn’t capture the full scale of what they did. Because “inspiration” was never treated as a closed, completed canon, the most gifted and morally intense individuals could publicly condemn what they believed deserved condemnation—claiming divine authority—and could also offer higher, better interpretations of the national religion that then became part of the religion itself.
-
-That’s why, if you stop reading the Bible as though it were one single uniform book, you can’t miss the enormous gap between the morality and religious outlook of the Pentateuch (and even the historical books, which the author attributes to conservative priestly writers) and the morality and religion of the prophetic writings. The distance is as great, he says, as the distance between the Prophets and the Gospels. With conditions like that—critique built into the culture—progress had unusually fertile ground. And accordingly, the Jews, rather than remaining stationary like many other Asian societies, were—next to the Greeks—the most progressive people of antiquity. Together with the Greeks, they became the starting point and main driving force behind what we now call modern culture.
-
-All of this leads to a bigger conclusion: you can’t understand how forms of government fit different stages of society if you focus only on the very next step. You have to consider the whole sequence of steps a society still has ahead of it—both what we can predict and the much larger unknown future.
-
-So, if we want to judge governments properly, we have to build an **ideal model**: the form of government that is best in itself—meaning, the one that would do more than any other to encourage and sustain progress in every direction, at every level, *if* the right conditions existed for it to work.
-
-Once we have that ideal in view, we can ask two practical questions:
-
-- What mental and moral capacities does a people need for that government to deliver its benefits?  
-- What specific deficiencies make a people unable to profit from it?
-
-From there, we could work out when it makes sense to introduce the best form, and when it doesn’t, which “lesser” forms are most likely to carry a community through the intermediate stages until it becomes ready for the best.
-
-The second problem—choosing the best stopgap forms—isn’t the focus here. But the first problem is central. And the author says we can already state, without overconfidence, a guiding thesis that will be defended in the pages ahead: the **ideally best** form of government will turn out to be some version of the **representative system**.
+Of these inquiries, the last does not concern us here, but the first is an essential part of our subject. We may, without rashness, state at once a proposition whose proofs and illustrations will appear in the pages that follow: that this ideally best form of government will be found in one variety or another of the Representative System.
 
 ## III — That The Ideally Best Form Of Government Is Representative Government
 
@@ -3489,149 +3462,29 @@ Its superiority, as far as immediate well-being goes, rests on two principles th
 
 Put more concretely: people are protected from harm by others only to the extent that they have the power—and the practiced disposition—to protect themselves. And people succeed in the long struggle with nature in proportion as they are **self-reliant**: depending on what they can do, individually or together, rather than depending on what others will do for them.
 
-The first of these claims—that each person is the safest guardian of their own rights and interests—is one of those basic rules of prudence that everyone who can manage their own life follows instinctively whenever their own stake is on the line.
+The first of these propositions holds that each person is the only safe guardian of his own rights and interests. It is one of those elementary rules of prudence that everyone capable of managing his own affairs follows instinctively whenever his own interests are at stake. Many people, it is true, strongly dislike it as a political doctrine and like to denounce it as a creed of universal selfishness. The answer is this: whenever it ceases to be true that people, as a rule, prefer themselves to others, and those closest to them to those further away, Communism will become not only practicable but the only defensible form of society, and when that time comes it will certainly be put into effect. For my own part, since I do not believe in universal selfishness, I have no difficulty admitting that Communism would be practicable even now among the elite of humanity, and may one day become so among everyone else. But this opinion is anything but popular with those defenders of existing institutions who object to the doctrine that self-interest generally predominates, and so I suspect that they do in fact believe that most people put themselves before others. It is not necessary, however, to claim even this much in order to support the right of everyone to share in sovereign power. We need not assume that when power belongs to an exclusive class, that class will knowingly and deliberately sacrifice the other classes to itself. It is enough that, without their natural defenders, the interests of the excluded are always in danger of being overlooked, and that when they are considered at all, they are seen through very different eyes from those of the people they directly concern. In this country, for example, the so-called working classes may be regarded as shut out from any direct participation in government. I do not believe that the classes who do participate have, in general, any intention of sacrificing the working classes to themselves. They once had that intention, as the long and persistent attempts to hold down wages by law make clear. But today their usual disposition is the very opposite. They willingly make considerable sacrifices, especially financial ones, for the benefit of the working classes, and if they err, it is through a generosity too lavish and indiscriminate. Nor do I believe that any rulers in history have been moved by a more sincere desire to do their duty toward the poorer part of their fellow citizens. Yet does Parliament, or almost any of its members, ever for a single moment look at a question through the eyes of a working man? When an issue arises in which laborers as such have a stake, is it ever considered from any point of view but that of their employers? I do not claim that the working man's view of such questions is generally closer to the truth than the other. But it is sometimes just as close, and in any case it deserves a respectful hearing instead of being, as it now is, not merely turned away but ignored altogether. On the question of strikes, for instance, it is doubtful whether there is a single leading member of either House who is not firmly convinced that reason lies entirely on the side of the employers and that the workers' view is simply absurd. Those who have studied the question know how far this is from the truth. They also know how differently, and how much less superficially, the matter would have to be argued if the classes who strike could make themselves heard in Parliament.
 
-Many people recoil from the idea that politics should be built around **self-interest**, as if it were a creed of pure selfishness. But notice what that complaint quietly assumes: that human beings, in general, *do* put themselves first, and they care more about people close to them than strangers far away. If that stopped being true—if people reliably cared about everyone else as much as themselves—then **communism** wouldn’t just be workable; it would be the only morally defensible way to organize society, and it would almost certainly happen.
+It is an inherent condition of human affairs that no intention to protect the interests of others, however sincere, can make it safe or beneficial to tie their hands. It is still more plainly true that only by their own hands can people bring about any real and lasting improvement in their circumstances. Through the combined influence of these two principles, free communities have been freer from social injustice and crime, and have attained a more brilliant prosperity, than any others, or than they themselves after they lost their freedom. Compare the free states of the world, for as long as their freedom lasted, with the contemporary subjects of monarchical or oligarchical despotism. Set the Greek cities beside the provinces of the Persian Empire, each governed by a satrap; set the Italian republics and the free towns of Flanders and Germany beside the feudal monarchies of Europe; set Switzerland, Holland, and England beside Austria or France before the Revolution. The greater prosperity of the free states was too obvious ever to be denied. Their superiority in good government and social relations is proven by that prosperity, and is plain besides on every page of history. If we compare not one age with another but the different governments that existed side by side in the same age, the result is the same. No amount of disorder in the free states, conducted as their affairs were in full public view, can be compared for a moment with what prevailed in the monarchies, even if we accept every exaggeration that critics of the free states have made. The monarchies treated the mass of the people with a contemptuous brutality that pervaded every part of life. Acts of revolting individual tyranny occurred more than daily under the systems of plunder they called fiscal arrangements, and in the secrecy of their terrible courts of justice.
 
-For my part, I don’t buy the caricature of “universal selfishness.” I can easily imagine communism working right now among the best and most disciplined people, and I can imagine it becoming workable for many more over time. Interestingly, though, the loudest critics of the “self-interest dominates” idea are often the same defenders of the status quo—and since that idea is inconvenient for them, their outrage makes me suspect they actually believe it’s true: that most people, most of the time, put themselves first.
+It must be acknowledged that the benefits of freedom, as far as they have been enjoyed up to now, were won by extending its privileges to only part of the community, and that a government extending them impartially to all remains a goal not yet realized. Every approach toward that goal has value in its own right, and in many cases, given the general state of progress, nothing more than an approach could have been made. Still, the participation of all in these benefits is the ideally perfect conception of free government. To the extent that anyone, whoever it may be, is excluded, the interests of the excluded are left without the guarantee granted to everyone else. They also have less scope and encouragement than they otherwise would to exert their energies for their own good and for the good of the community, and the general prosperity always rises in proportion to such exertion.
 
-But we don’t even need that claim to justify a more democratic principle: **everyone has a right to a share of sovereign power**. You don’t have to assume that an exclusive ruling class will consciously and deliberately exploit everyone else. A far simpler risk is enough:
+Such is the case with regard to present well-being, meaning the good management of the affairs of the existing generation. If we now turn to the influence of the form of government on character, we will find the superiority of popular government over every other to be, if possible, even more decisive and indisputable.
 
-- When a group has no seat at the table, **its interests are easy to forget**.
-- And even when those interests are noticed, they tend to be judged through the lens of people **whose lives aren’t directly affected**.
+This question really rests on a still more fundamental one: which of two common types of character is it more desirable, for the general good of humanity, to have predominate? There is the active type and the passive type: the one that struggles against evils and the one that endures them, the one that bends to circumstances and the one that tries to make circumstances bend to it.
 
-Take Britain as an example. The “working classes,” as people called them, were effectively shut out of direct political influence. I don’t believe the classes who governed generally *wanted* to harm working people. In fact, their attitude had flipped from earlier times. There *was* a period when the intention to keep labor down was explicit—think of the long efforts to suppress wages by law. But in Mill’s present, many lawmakers were willing to make real sacrifices, including financial ones, to help the poor. He even suggests that few ruling groups in history have been more sincerely determined to do their duty toward the less well-off.
+The commonplaces of moralists and the general sympathies of mankind favor the passive type. Energetic characters may be admired, but most people, in their own lives, prefer the acquiescent and submissive. Our neighbors' passivity increases our sense of security and gives free play to our own willfulness. Passive characters, unless we happen to need their activity, seem like one fewer obstacle in our path. A contented person is not a dangerous rival. Yet nothing is more certain than that all improvement in human affairs is the work of discontented characters. It is also far easier for an active mind to acquire the virtue of patience than for a passive mind to take on the virtues of energy.
 
-And yet—here’s the problem—did Parliament, or almost any individual member of it, ever truly see an issue through a working person’s eyes?
+Of the three kinds of mental excellence, intellectual, practical, and moral, there could never be any doubt about the first two as to which side had the advantage. All intellectual superiority is the fruit of active effort. Enterprise, the desire to keep moving and to keep attempting and accomplishing new things for our own benefit or for others', is the parent even of speculative talent, and still more of practical talent. The intellectual cultivation compatible with the passive type is of the feeble and vague kind that belongs to a mind content to stop at amusement or mere contemplation. The test of real and vigorous thinking, the kind that discovers truths instead of dreaming dreams, is its successful application to practice. Where that purpose is absent to give thought definiteness, precision, and an intelligible meaning, thought produces nothing better than the mystical metaphysics of the Pythagoreans or of the Vedas, the ancient sacred scriptures of India. In practical improvement the case is even clearer. The character that improves human life is the one that struggles against natural forces and tendencies, not the one that gives way to them. The qualities that benefit the individual are all on the side of the active and energetic character. And the habits and conduct that advance each individual member of the community must form at least part of those that do most, in the end, to advance the community as a whole.
 
-When a question comes up where laborers have a direct stake, is it treated from *their* point of view—or almost entirely from the point of view of employers?
+On the question of moral superiority, however, there seems at first glance to be room for doubt. I am not referring to the religious sentiment that has so widely favored the inactive character as being more in harmony with the submission owed to the divine will. Christianity, like other religions, has encouraged this sentiment. But it is the distinctive strength of Christianity, with regard to this and many other distortions, that it is able to throw them off. Setting religious considerations aside, a passive character, which yields to obstacles instead of striving to overcome them, may not be very useful to others, any more than to itself, but one might expect it to be at least harmless. Contentment is always counted among the moral virtues. But it is a complete mistake to suppose that contentment necessarily or naturally accompanies passivity of character, and where it does not, the moral consequences are harmful. Where there is a desire for advantages one does not have, a mind that cannot hope to win them through its own energies is apt to look with hatred and malice on those who have them. The person who exerts himself, with hopeful prospects, to improve his circumstances is the one who feels goodwill toward others engaged in the same pursuit or who have succeeded in it. And where most people are so engaged, those who fail to reach their goal have had their feelings shaped by the general habit of the country. They attribute their failure to a lack of effort or opportunity, or to their own bad luck. But those who desire what others have while putting no energy into striving for it are either endlessly complaining that fortune does not do for them what they make no attempt to do for themselves, or else overflowing with envy and ill will toward those who possess what they would like to have.
 
-Mill isn’t claiming that workers are always right. Often they aren’t. But sometimes they’re just as close to the truth as their employers, and in every case their perspective deserves serious attention. Instead, it’s not merely dismissed; it’s treated as if it doesn’t exist.
+The more success in life is seen, or believed, to be the product of fate or accident rather than of effort, the more envy develops as a feature of national character. The most envious of all peoples are those of the East. In Eastern moralists and Eastern tales, the envious man is remarkably prominent. In real life he is the terror of everyone who possesses anything desirable, whether a palace, a handsome child, or even good health and high spirits, and the supposed power of his mere glance is the basis of the all-pervading superstition of the evil eye. Next to the peoples of the East in envy, as in inactivity, come some of the peoples of southern Europe. The Spaniards pursued all their great men with envy, embittered their lives, and generally succeeded in cutting their successes short. The French are essentially a southern people. Among them, the double education of despotism and Catholicism has, despite their impulsive temperament, made submission and endurance the common character of the people and their most widely accepted idea of wisdom and excellence. If envy of one another, and of all superiority, is not more rampant among them than it is, the credit must go to the many valuable counterbalancing elements in the French character, and above all to their great individual energy. That energy is less persistent and more intermittent than among the self-reliant, struggling Anglo-Saxons. Even so, it has shown itself among the French in nearly every direction in which their institutions have favored it.
 
-Look at strikes. Mill doubts there’s even one leading figure in either House who doesn’t feel sure—absolutely sure—that the whole “reason of the matter” is on the masters’ side and that the workers’ case is basically ridiculous. Anyone who has actually studied the issue, he says, knows how wrong that is—and how much deeper and less superficial the debate would become if the striking classes could really make themselves heard in Parliament.
+There are, no doubt, genuinely contented characters in every country, people who not only do not seek but do not even desire what they do not already have, and such people naturally bear no ill will toward those whose lot appears more fortunate. But most apparent contentment is really discontent combined with laziness or self-indulgence, a discontent that takes no legitimate steps to raise itself but delights in bringing others down to its own level. And if we look closely even at cases of innocent contentment, we see that they win our admiration only under certain conditions. The indifference must extend solely to improvement in outward circumstances, and it must be accompanied by a striving for constant progress in spiritual worth, or at least by a selfless zeal to benefit others. The contented man or the contented family with no ambition to make anyone else happier, to promote the good of their country or their neighborhood, or to improve themselves in moral excellence, excites in us neither admiration nor approval. We rightly attribute that kind of contentment to mere unmanliness and lack of spirit. The contentment we approve of is the ability to do cheerfully without what cannot be had. It includes a sound judgment of the relative value of different objects of desire, and a willing surrender of the lesser when it conflicts with the greater. These excellences, however, come more naturally to a character the more actively it is engaged in trying to improve its own lot or someone else's. The person who constantly measures his energy against difficulties learns which difficulties are insurmountable for him, and which ones, though he could overcome them, would cost more than success is worth. The person whose thoughts and activities are all needed for practical and useful enterprises, and habitually employed in them, is of all people the least likely to brood in discontent over things that are either not worth having or not worth having for him. Thus the active, self-reliant character is not only intrinsically the best, but also the most likely to acquire everything truly excellent or desirable in the opposite type.
 
----
+The striving, go-ahead character of England and the United States deserves criticism only because of the very secondary aims on which it usually spends its strength. In itself it is the foundation of the best hopes for the general improvement of mankind. It has been shrewdly observed that whenever anything goes wrong, the habitual response of the French is to say, "Il faut de la patience" ("One must be patient"), while that of the English is, "What a shame!" The people who think it a shame when something goes wrong, and who leap to the conclusion that the evil could and should have been prevented, are the ones who, in the long run, do the most to make the world better. If their desires are set low, extending little beyond physical comfort and the display of wealth, the immediate results of their energy will be not much more than the steady extension of human power over material things. But even this makes room for the greatest intellectual and social achievements and prepares the mechanical means for them. And so long as the energy is there, some people will apply it, and it will be applied more and more, to perfecting not only outward circumstances but human beings' inner nature. Inactivity, lack of aspiration, and the absence of desire are a more fatal obstacle to improvement than any misdirection of energy. Indeed, it is only through them, when they prevail among the mass of people, that any truly dangerous misdirection by an energetic few becomes possible. It is chiefly this that keeps the great majority of the human race in a savage or semi-savage state.
 
-Here’s a hard rule of political life: **good intentions don’t substitute for power**.
-
-No matter how sincere someone is about protecting other people’s interests, it is never “safe” to arrange things so that those people must depend on someone else’s judgment and generosity. And there’s an even more obvious truth: **lasting improvements in people’s lives are secured mainly by their own efforts**, not by others acting for them.
-
-Together, those two principles explain a striking historical pattern: free communities have tended to be
-
-- less soaked in social injustice and crime, and
-- more prosperous and energetic,
-
-than societies ruled by monarchs or oligarchs—or than those same communities became after they lost their freedom.
-
-Mill invites you to compare like with like: governments that existed at the same time.
-
-- The free Greek city-states versus the Persian satrapies.
-- The Italian republics, and the free towns of Flanders and Germany, versus feudal monarchies.
-- Switzerland, Holland, and England, versus Austria or pre-revolutionary France.
-
-Their economic and civic advantages were so visible they were hard to deny. And their superiority wasn’t just about wealth; it showed up in the texture of daily life and government. Even if you grant every exaggeration about the noise and disorder of public life in the free states, it doesn’t begin to match what was routine in many monarchies: the casual, contemptuous trampling of the majority, the petty tyrannies inflicted by officials, the relentless predation hidden inside “fiscal arrangements,” and the terrifying secrecy of courts that called themselves justice.
-
----
-
-At the same time, Mill makes an important admission: the “freedom” that existed in history was usually **partial freedom**. The benefits of liberty were won by extending political privilege to *some* people, not to everyone. A government that extends those benefits **impartially to all** is still, in his view, an unrealized ideal.
-
-Still, every step toward that ideal matters. In many historical situations, the general level of education and public spirit made “full equality” impossible to achieve all at once. But the guiding picture remains clear: the most complete idea of a free government is one in which **everyone participates in the protections and advantages of freedom**.
-
-Because whenever anyone—no matter who—is excluded:
-
-- their interests lose the ordinary guarantees that protect everyone else,
-- and they have less room and encouragement to develop their abilities in ways that help both themselves and the wider community.
-
-And since a society’s prosperity is always tied to how much human energy it can unlock and aim well, exclusion doesn’t just hurt the excluded. It drags down the whole.
-
----
-
-So far, the argument has been about **how well a society is managed right now**—the practical welfare of the living generation. But if we shift the focus from outcomes to **character**, Mill thinks the case for popular government becomes even stronger.
-
-Everything turns on a deeper question: which kind of character do we want to be most common, for humanity’s sake?
-
-- The **active** type or the **passive** type?
-- The kind that fights evils or the kind that merely endures them?
-- The kind that bends to circumstances or the kind that tries to bend circumstances to itself?
-
-Most moral clichés—and most people’s instincts—favor the passive type. We say we admire energy, but we often *prefer* submissiveness in the people around us. A compliant neighbor feels safer. Their quiet makes it easier for us to get our own way. A passive person, if we don’t need their initiative, can feel like one less obstacle in our path. Contentment doesn’t threaten us; it doesn’t compete.
-
-But Mill insists on something close to a law of social progress: **nearly all improvement comes from the discontented**—from people who refuse to accept what’s wrong and try to change it. And there’s another asymmetry: it’s easier for an active person to learn patience than for a passive person to learn genuine energy.
-
-If we break “mental excellence” into three kinds—**intellectual, practical, and moral**—Mill says the advantage of the active type is obvious for the first two.
-
-**Intellectual excellence** is built from effort. Clear thinking, discovery, and understanding don’t appear by accident; they’re produced by sustained work. The desire to act, to experiment, to attempt new things—whether for oneself or others—creates not only practical talent but even speculative insight. By contrast, the kind of “culture” compatible with the passive type tends to be thin: a mind that stops at entertainment or mere contemplation.
-
-For Mill, the test of real thinking isn’t dreamy abstraction; it’s whether thought can be **made precise and used**. Thinking that never aims at application often dissolves into fog—mystical systems and wordy metaphysics, like the more obscure traditions associated with the Pythagoreans or the Vedas.
-
-**Practical improvement** makes the contrast even sharper. The character that improves life is the one that wrestles with nature and habit, not the one that simply yields. The traits that help individuals—initiative, persistence, the willingness to struggle—are tied to the traits that, in the long run, raise the whole community.
-
----
-
-The harder case, at first glance, is **moral excellence**. People often associate passivity with goodness: with harmlessness, with virtue, with the famous moral charm of “contentment.” Mill sets religion aside here, though he notes that many religions have historically praised an inactive temperament as closer to submission. He also suggests that Christianity, at its best, has the ability to correct such distortions rather than be trapped by them.
-
-Even without religion, it’s tempting to think: a passive person may not be useful, but at least they won’t hurt anyone.
-
-Mill calls that a mistake. First, **contentment doesn’t naturally follow from passivity**. And when passivity exists without true contentment, the moral consequences can be ugly. If someone wants advantages they don’t have, but they don’t cultivate the energy required to pursue them, it’s easy for desire to curdle into bitterness—hatred toward those who do have what they want.
-
-The person who strives, who sees a path to improve their condition, usually feels goodwill toward others on the same path—even those who’ve succeeded. In a society where many people are trying, failure tends to be interpreted in the language of effort, opportunity, or bad luck.
-
-But those who desire what others possess and yet don’t seriously try to obtain it fall into two common moods:
-
-- endless complaint that “fortune” isn’t doing for them what they won’t attempt for themselves, or
-- envy and ill-will toward anyone who has what they want.
-
-And the more a society believes that success comes from sheer accident—fate, luck, favoritism—rather than exertion, the more envy becomes a national habit.
-
-Mill claims envy is especially intense in “the East,” as he understood it: in Eastern moral literature, the envious man is a stock character; and in daily life, envy is treated as dangerous, almost supernatural. The fear that an envious glance can harm you—the superstition of the **evil eye**—spreads precisely because envy is assumed to have power.
-
-Next, he says, come parts of southern Europe. Spain, in his telling, hounded its great men with envy, soured their lives, and often cut short their successes.
-
-France is a more complex case. Mill describes the French as essentially a southern people whose temperament is impulsive and energetic, yet whose history—shaped by despotism and Catholicism—trained habits of submission and endurance, so that “patience” became their admired ideal. If envy and hostility to superiority aren’t worse there than they are, he argues, it’s because French character contains strong counterweights—especially a remarkable individual energy that emerges whenever institutions allow it, even if that energy is less steady and more intermittent than in the self-reliant, struggling Anglo-Saxons.
-
----
-
-Of course, there are genuinely contented people everywhere—people who don’t just refrain from seeking what they lack but truly don’t *want* it. Those people don’t resent others for having more.
-
-But Mill thinks most “contentment” is counterfeit: it’s real dissatisfaction mixed with laziness or self-indulgence. It doesn’t rise by legitimate effort; instead, it takes pleasure in pulling others down to the same level.
-
-Even when contentment is innocent, we only admire it under specific conditions. We admire it when the indifference is only toward external advancement—money, status, comforts—while there is still an active drive toward **inner growth**, moral improvement, or a sincere, unselfish commitment to help other people.
-
-A person—or a family—who feels no ambition to make anyone else happier, to serve their neighborhood or country, or to improve themselves morally doesn’t earn admiration. We naturally interpret that kind of “content” as a lack of spirit.
-
-The contentment worth praising is something else entirely:
-
-- the ability to do cheerfully without what can’t be had,
-- a clear sense of what different desires are worth,
-- and a willing choice of the greater good over the lesser when they conflict.
-
-And here’s Mill’s twist: these virtues tend to arise most naturally in people who are actively engaged in improving their lives or someone else’s. When you regularly test your strength against real obstacles, you learn which barriers you truly can’t move and which ones you *could* move but aren’t worth the cost. When your mind is occupied with useful, achievable projects, you’re less likely to brood over glittering prizes that aren’t worth pursuing—or that don’t actually fit your life.
-
-So the active, self-helping character is not only better in itself; it’s also the type most likely to absorb whatever is genuinely excellent in the passive type.
-
----
-
-Mill then turns to England and the United States. Their restless “go-ahead” spirit can be criticized, he says, mainly because it often aims at trivial goals—comfort, money, display. But that energy, in itself, is one of humanity’s best resources.
-
-Someone once observed, Mill notes, that when things go wrong the French instinct is to say, “We need patience,” while the English instinct is to say, “What a shame.” The people who react to failure with “shame”—who immediately assume the problem *could* and *should* have been prevented—are the ones who, over time, do the most to improve the world.
-
-Even if that energy is misdirected toward low aims, it still expands human control over material conditions. And that expansion isn’t nothing: it builds tools, systems, and capacities that later make bigger intellectual and social achievements possible. As long as the energy exists, some people will turn it—and will keep turning it more and more—toward improving not just outward circumstances but **human character itself**.
-
-Because the most deadly obstacle to progress isn’t even misused energy. It’s **no energy at all**: inactivity, lack of aspiration, absence of desire. When that becomes widespread, it doesn’t just stall improvement; it’s the only condition under which a small energetic minority can badly misdirect an entire society. Mill thinks this is a central reason why so much of humanity remains, in his words, in a savage or semi-savage state.
-
----
-
-All of this ties back to government. Mill’s conclusion is blunt: **rule by one or a few** tends to cultivate the passive type of character, while **rule by the many** tends to cultivate the active, self-reliant type.
-
-Irresponsible rulers need their subjects to be quiet more than they need them to be energetic—except for the kinds of activity rulers can command and harness. For people excluded from political participation, every government teaches the same lesson: treat the orders of men as if they were laws of nature. Yield. Accept. Obey.
-
-And people don’t become mere tools in the hands of rulers if they have a strong will, a sense of self, a spring of inner activity in the rest of their lives. But when they show those traits, despots don’t encourage them; at best, they tolerate them grudgingly, as something that must be “forgiven.”
-
-Even when rulers aren’t consciously afraid of their subjects’ mental activity, their very position suppresses it. Effort is discouraged not only by punishment or explicit repression, but by something more effective: the belief that effort is **powerless**—that no matter what you try, nothing will change.
-
-Between being ruled by someone else’s will and building the habits of **self-reliance** and **self-government**, there’s an obvious clash. The tighter the control, the deeper the clash.
-
-Different rulers meddle to different degrees. Some leave people a little room to act; others run their lives for them. But the difference is mostly about *how far* they go, not *what kind* of rule it is. In fact, the “best” despots—those who genuinely mean well—often go the farthest in tying up people’s freedom. A bad despot may be content, once he’s comfortable, to stop interfering. A good despot can’t resist “improving” the public—by forcing people to conduct their own affairs the way *he* thinks they should. The famous regulations that locked major French industries into fixed, state-approved methods were created under Colbert.
+Now there can be no doubt whatever that government by one person or by a few favors the passive type of character, and government by the many favors the active, self-reliant type. Rulers who answer to no one need the quiet acquiescence of the ruled more than they need any activity beyond what they can compel. Every government teaches those who have no share in it to submit to the commands of men as though they were necessities of nature. The will of superiors, and the law as the will of superiors, must be passively obeyed. But no people are mere instruments or raw material in the hands of their rulers if they have will, or spirit, or some inner spring of activity in the rest of their conduct. Any display of these qualities, far from being encouraged by despots, must seek their forgiveness. Even when unaccountable rulers are not conscious enough of danger from their subjects' mental activity to wish to suppress it, their very position acts as a suppression. Effort is restrained even more effectively by the certainty that it will be powerless than by any active discouragement. Between subjection to the will of others and the virtues of self-help and self-government there is a natural incompatibility, more or less complete according to how tightly or loosely the bonds are drawn. Rulers vary greatly in how far they carry their control over their subjects' free agency, or how far they replace it by managing their subjects' business for them. But the difference is one of degree, not of principle, and the best despots often go furthest in shackling their subjects' free agency. A bad despot, once his own personal pleasures have been provided for, may sometimes be willing to leave the people alone. A good despot, however, insists on doing them good by making them conduct their own business in a better way than they themselves know. The regulations that confined all the leading branches of French manufacturing to fixed, prescribed methods were the work of the great Colbert, finance minister to Louis XIV.
 
 Now compare that with what happens to a person’s mind and character when the only outside limits he feels are:
 
@@ -3674,9 +3527,6 @@ Put all of this together and the conclusion is hard to escape:
 But there’s a practical limit. In any community larger than a small town, it’s impossible for everyone to take part *personally* in more than a tiny fraction of public business. And once you accept that fact, the “ideal” form of a perfect government points in one direction: it must be **representative**.
 
 ## IV — Under What Social Conditions Representative Government Is Inapplicable
-
-IV  
-Under What Social Conditions Representative Government Is Inapplicable
 
 We’ve treated **representative government** as the best political arrangement humans have come up with—at least for societies that are ready for it. In general, the more a population has developed its education, prosperity, public spirit, and institutions, the more naturally this kind of government fits. As you move down that ladder, representative government usually becomes less workable. Not always, though. Whether a people can sustain representative government depends less on their “rank” in some grand scale of humanity than on whether they have certain **specific prerequisites**. Those prerequisites tend to travel with overall development, so big mismatches are possible but uncommon.
 
@@ -4614,129 +4464,7 @@ I don’t believe the English people deserve to be branded, without trial, as ho
 
 In this case, though, what most people feel isn’t deep hostility—it’s the normal, healthy suspicion we have toward new systems that haven’t been thoroughly argued through. The real obstacle is **unfamiliarity**. And unfamiliarity is powerful: our imagination can accept a major change in substance more easily than a small change in names and procedures. Still, if an idea truly has value, time dissolves that resistance. In an age of constant public debate and widespread interest in improvement, what once took centuries can take only years.
 
-### Criticism is maturing—and that’s a good sign
-
-Since this treatise first appeared, several critiques of Mr. Hare’s proposal have shown at least one thing: people are finally examining it carefully, and with more intelligence than before. That’s the usual trajectory of major reforms.
-
-At first, they meet blind prejudice and arguments that only blind prejudice could find persuasive. As the prejudice weakens, the objections often get sharper for a while—because once people understand the plan better, they can see its genuine inconveniences and the practical reasons it might not instantly deliver every benefit it’s capable of. You learn the friction points along with the strengths.
-
-But among all the objections I’ve encountered that even *look* reasonable, I haven’t found one that supporters of the plan hadn’t already anticipated, considered, and debated—and then judged either unreal or easily manageable.
-
-### The Central Office fear: fraud, or suspicion of fraud
-
-The most “serious-looking” objection is also the easiest to answer: people assume it would be impossible to prevent fraud—or even to prevent the *suspicion* of fraud—in the work of the Central Office.
-
-The proposed safeguards are simple:
-
-- **Full publicity**
-- **Complete freedom to inspect the voting papers after the election**
-
-Critics reply: “That won’t help, because to verify the returns, each voter would have to redo all the clerks’ work.”
-
-That would indeed be a crushing objection—if the plan required *every voter* to personally audit the whole process. It doesn’t. The only verification you can reasonably ask of an ordinary voter is to confirm that **their own ballot paper** was used as it should have been. For that purpose, each paper would be returned, after the proper interval, to the place it came from.
-
-And the broader checking—the heavy lifting—would happen the way it already tends to happen in contested elections: through motivated competitors. The candidates who lost, especially those who believe they should have won, would hire agents to verify the entire process. If they found serious errors, the documents would go before a committee of the House of Commons, which could examine and verify the national electoral operations at perhaps a tenth of the time and expense currently required to scrutinize a single disputed return under the existing system.
-
-### Two worries about “gaming” the system
-
-Even granting that the plan is workable, critics say its benefits could be undermined in two ways—producing harm instead of improvement.
-
-**1) It would empower cliques and single-issue groups.**  
-They imagine tight little organizations—sectarian alliances, special-purpose associations (temperance leagues, ballot societies, liberation societies), class-based coalitions, or groups bound by religious identity—using coordination to magnify their influence.
-
-**2) It would become a party “ticket” machine.**  
-They worry each party would send around a master list of hundreds of candidates to be voted for nationwide. The party’s supporters in every constituency would vote the list as a block. That organized vote, critics say, would swamp any independent candidate. This “ticket system,” as in America, would allegedly entrench the big parties, only rarely being beaten by the same small sectarian groups and hobbyhorse cliques mentioned above.
-
-### The real answer: organization matters—but the current system makes it everything
-
-Here the reply is decisive. Nobody claims that under Mr. Hare’s plan—or any plan—**organization** stops being an advantage. Scattered individuals will always struggle against disciplined, coordinated groups. Since Mr. Hare’s proposal can’t change human nature, we should expect every organized party or faction, large or small, to use its organization to the fullest.
-
-But notice the contrast:
-
-- Under the **current** system, organized forces are effectively **everything**.
-- The scattered, independent elements are effectively **nothing**.
-
-Right now, voters who aren’t bound to one of the major parties—or to one of the smaller sectarian blocs—often have no way to make their votes count for what they truly want. Mr. Hare’s plan gives them a tool. They may use it clumsily or skillfully. They might win their fair share of influence—or less than their fair share. But whatever influence they gain would be a net improvement over their present near-zero.
-
-And if you assume every small interest will learn to organize, why on earth would we assume the great interest of **national intellect and character** would remain unorganized? If there can be temperance tickets and ragged-school tickets, why couldn’t one public-spirited person in a constituency circulate a “personal merit” ticket—pointing voters toward candidates of recognized ability and integrity? And why couldn’t a handful of such people, meeting in London, select the most distinguished names from the full list—without obsessing over party orthodoxy—and publish that shortlist cheaply across the country?
-
-Remember the crucial structural difference. Under the current elections, the two great parties’ influence is essentially **unlimited**. Under Mr. Hare’s scheme it would still be **large**, but it would be **bounded**. Neither the major parties nor the smaller cliques could elect more members than corresponds to the number of supporters they actually have.
-
-That’s the reverse of how American ticket politics works. In America, people vote the party ticket because elections are decided by a simple majority, and voting for someone who can’t reach that majority is treated as a wasted vote. Under Mr. Hare’s system, a vote for a person of known worth has almost as good a chance of succeeding as a vote for a party nominee. That creates a healthy pressure: any Liberal or Conservative who is more than a mere party label—anyone with preferences beyond the party line—would be tempted to strike out the obscure, insignificant names on the party list and replace them with people who genuinely honor the nation.
-
-And once that possibility becomes real, party managers have an incentive to adapt. When drawing up party lists, they’d be less likely to fill them entirely with pledged party loyalists, and more likely to include respected national figures—people broadly admired, and more naturally aligned with that party than with its rival.
-
-### The subtle risk: “half-independent” voting
-
-There is, however, a real difficulty, and it shouldn’t be glossed over. Independent-minded voters—those who want to support unpatronized people of genuine merit—might write down a few such names, then fill the rest of their list with ordinary party candidates. Ironically, that would help inflate the numbers against the very kind of representation they’d prefer.
-
-If that proved serious, there’s an easy fix: **limit the number of secondary (contingent) votes**. Nobody has an informed, individual preference among 658 candidates—probably not even among 100. It would be reasonable to cap each voter’s list at twenty, fifty, or whatever number makes it plausible that the voter is exercising personal judgment rather than behaving as anonymous party rank-and-file.
-
-But even without such a rule, the problem would likely shrink as soon as the system became widely understood. In fact, the very cliques people fear would have a strong incentive to teach the remedy. Each small minority group would tell its members:
-
-- “Vote for your special candidates only,” or
-- “At least put them first, so they have the best chance to reach the quota through first votes, or without slipping too low in the transfers.”
-
-And voters outside those cliques could learn from the same lesson.
-
-### Minorities get exactly what they deserve—no more, no less
-
-Under this system, smaller groups would have precisely the amount of power they ought to have: exactly what their numbers entitle them to, **not one particle more**. And to secure even that fair share, they’d be pushed toward a healthy strategy: choosing candidates who can attract support beyond the clique itself—people whose broader qualities persuade voters who don’t share the sectarian badge or single-issue obsession.
-
-It’s also worth noticing how public arguments for the existing system conveniently change shape depending on what they’re trying to fend off. Not long ago, defenders of the old arrangements loved to claim that under them all “interests” and “classes” were represented. And in a sound Parliament, important interests and classes should indeed have representation—meaning spokespeople and advocates.
-
-But from that, defenders leapt to a far more dangerous claim: that we should keep a system that gives partial interests not merely advocates, but **control of the tribunal itself**.
-
-Now the tune flips. Mr. Hare’s plan prevents partial interests from commanding the tribunal while still ensuring they have advocates—and for that very reason it’s attacked. Because it combines the benefits of class representation and numerical representation, it gets shot at from both sides.
-
-### The real barrier: people think it’s too complicated
-
-Yet these aren’t the objections that truly block adoption. The real barrier is the exaggerated belief that the plan is too complex, and the resulting doubt about whether it can actually be implemented.
-
-The only complete answer is **trial**. Once the plan’s merits are better understood and it wins broader support among impartial thinkers, the right move is to introduce it experimentally in a limited arena—say, the municipal election of a large town.
-
-A perfect opportunity was missed when Parliament chose to divide the West Riding of Yorkshire to give it four members, instead of trying the new principle by keeping the constituency whole and allowing a candidate to win by securing—through first votes or through secondary votes—one quarter of the total votes cast.
-
-Experiments like that wouldn’t fully test the plan’s value. But they would demonstrate how it works. They would show people it isn’t impracticable, familiarize the public with its machinery, and provide real evidence about whether the feared difficulties are substantial or imaginary.
-
-The day Parliament authorizes such a partial trial, I believe it will open a new era of parliamentary reform—one that gives representative government a form suited to its mature and successful phase, once it has outgrown the militant stage in which the world has so far mostly seen it.
-
-This blunder by Mr. Disraeli (from which, to his great credit, Sir John Pakington soon took the opportunity to dissociate himself) is one among many vivid examples of how little Conservative leaders understand Conservative principles. Without demanding the unlikely virtue that parties should fully grasp their opponents’ principles—much less know when to apply them—we can still say it would be a real improvement if each party understood and acted on its own. England would benefit greatly if Conservatives voted consistently for what is genuinely conservative, and Liberals for what is genuinely liberal.
-
-We wouldn’t have to wait long, then, for reforms that—like this one and plenty of other major measures—are both **genuinely democratic** and **genuinely conservative** in the best sense: they expand political power while also stabilizing the system.
-
-The problem is that the party that calls itself “Conservative” is often the worst offender when it comes to blocking exactly that kind of reform. And here’s the grim irony: if someone proposed a policy on any topic that was truly broad-minded, long-range, and responsibly conservative—so sensible that even Liberals were willing to support it—most Conservatives would still charge in on instinct and kill it before it could pass.
-
-Meanwhile, the idea at the center of this chapter—**personal representation** (a voting method designed to give **minorities a fair share of representation**, not just a token voice)—has moved beyond theory.
-
-In the years since the last edition of this book, we’ve learned something important: the “experiment” described here hasn’t just been imagined. It’s been tried in the real world, at a scale larger than any city or province. In the constitution written for the **entire Danish kingdom** (not merely Denmark proper), lawmakers built in minority representation using a plan so close to Thomas Hare’s that it’s hard to tell them apart.
-
-That matters for two reasons:
-
-- **It proves the scheme can be implemented**, not just admired on paper.
-- It’s another example of a recurring phenomenon in intellectual history: when society reaches a certain point, the same solution can occur independently to different capable minds, even without any contact between them.
-
-In Denmark’s case, the public learned the details through a strong paper by Robert Lytton, published among the House of Commons reports in 1864. The upshot is that Hare’s plan can now be described as **Hare’s—or Andræ’s**. It has advanced from “interesting proposal” to **working political reality**.
-
-So far, Denmark is the only country where personal representation has become a standing institution. But the speed at which the idea has spread among serious political thinkers has been striking—especially in places where **universal suffrage** is treated as unavoidable.
-
-It has attracted support from two very different camps:
-
-- **Friends of democracy**, who see it as the clean logical consequence of democratic principles.
-- **Reluctant democrats**, who accept democracy because they must, and want a practical way to **correct its obvious hazards**.
-
-The early intellectual momentum came from Switzerland. France followed. And in France, very recently, two highly influential writers—one from the moderate liberal tradition and one from the most radical democratic tradition—have publicly endorsed the plan. In Germany, one of the country’s leading political thinkers, who also serves in the Liberal cabinet of the Grand Duke of Baden, is counted among its supporters.
-
-The same current is part of the broader awakening of political thought in the United States—an awakening already being forced and sharpened by the enormous, ongoing struggle over human freedom. And in Australia, in the two largest colonies, Hare’s plan has been seriously debated in their legislatures. It hasn’t been adopted there yet, but it already has a strong base of support.
-
-Just as telling as that support is the quality of the debate. Speakers from both major sides—Conservative and Radical—have shown they grasp the principles clearly and completely. That alone is a strong answer to a common objection: that the plan is “too complicated” for ordinary public life.
-
-It isn’t. What’s missing isn’t intelligence; it’s attention. All that’s required to make the plan—and the advantages it promises—perfectly clear to everyone is that the public reaches the point where they think it’s worth the effort to actually focus on it.
-
 ## VIII — Of The Extension Of The Suffrage
-
-VIII  
-Of The Extension Of The Suffrage
 
 A representative democracy worth the name isn’t just “majority rules.” It’s a system that truly represents **everyone**—including minorities of interest, minorities of opinion, and minorities of intellect. In that kind of democracy, people who are outnumbered still get heard, and they still have a real shot at influence—because **character** and **argument** can carry weight, not just headcounts. That’s the only democracy that is genuinely fair: government of all, by all.
 
@@ -5154,6 +4882,8 @@ The danger scales with how much independent discretion the electors have. The on
 The strongest argument left for this contrivance is practical, not principled. In some political climates, it might be an easier compromise than schemes like **plural voting**—a way to give everyone *some* vote without letting sheer numbers alone dominate Parliament. For example, imagine expanding the electorate by adding a large, more select segment of the laboring classes, elected by the remainder. Under some circumstances, a two-stage arrangement might serve as a convenient temporary bargain.
 
 But it doesn’t carry any political principle far enough to satisfy thoughtful people as a stable, long-term settlement.
+
+As far as England is concerned, there is no need to say anything more against a scheme that has no basis in any of the nation's traditions. I may even owe the reader an apology for arguing at such length against a political device that perhaps could not find a single supporter in this country. Yet an idea that seems so plausible at first sight, and that has so many precedents in history, might resurface amid the general confusion of political opinion. It might be proposed at moments when it would prove tempting to certain minds. For that reason, even if English readers were the only ones to consider, it could not be passed over entirely in silence.
 
 ## X — Of The Mode Of Voting
 
@@ -6212,90 +5942,21 @@ So if a soldier is trained and socialized to feel that half (or three-quarters) 
 
 A government can exploit this. By stationing one nationality’s regiments in another nationality’s region—keeping Hungarian troops in Italy and Italian troops in Hungary, for example—it can rule both as if it were a foreign conqueror, maintaining control through force rather than consent.
 
-### “Isn’t National Feeling Barbaric?” Yes—and Also Real.
+Someone may object that so sharp a distinction between what we owe a fellow countryman and what we owe a mere fellow human being is more fitting for savages than for civilized people, and that it ought to be resisted with every possible energy. No one holds that view more strongly than I do. But this goal, one of the worthiest toward which human effort can be directed, can never be advanced, in the present state of civilization, by keeping different nationalities of anything like equal strength under one government. In a barbarous state of society the case is sometimes different. The government may then have an interest in softening the antipathies between races, so as to preserve the peace and make the country easier to govern. But when any of the peoples artificially bound together either possess free institutions or desire them, the government's interest points in exactly the opposite direction. It then gains by keeping their antipathies alive and making them more bitter, so that the peoples cannot unite and so that it can use some of them as tools to enslave the others. For an entire generation the Austrian court has made these tactics its chief means of government, and the world knows all too well how fatally they succeeded during the Vienna insurrection and the Hungarian war. Fortunately, there are now signs that progress has advanced too far for this policy to succeed any longer.
 
-At this point, someone might object: isn’t it morally ugly to treat “fellow countrymen” as deserving one kind of care while treating everyone else as merely “human beings,” owed far less? Isn’t that a savage instinct that civilized people should fight?
+For the reasons just given, it is generally a necessary condition of free institutions that the boundaries of governments should coincide, in the main, with those of nationalities. In practice, however, several considerations can conflict with this general principle. In the first place, geography often prevents its application. There are parts even of Europe where different nationalities are so intermingled on the ground that it is impossible to place them under separate governments. The population of Hungary is made up of Magyars, Slovaks, Croats, Serbs, Romanians, and, in some districts, Germans, so mixed together that they cannot be separated by territory. They have no choice but to make a virtue of necessity and reconcile themselves to living together under equal rights and laws. Their shared subjugation, which dates only from the destruction of Hungarian independence in 1849, seems to be ripening them and preparing them for such an equal union. The German colony of East Prussia is cut off from the rest of Germany by part of what was once Poland. Too weak to maintain an independence of its own, it must, if territory is to remain continuous, either live under a non-German government, or else the Polish land that lies between must come under a German one. Another considerable region where Germans form the dominant part of the population, the provinces of Courland, Estonia, and Livonia, is condemned by its location to form part of a Slavic state. Eastern Germany itself contains a large Slavic population: Bohemia is mainly Slavic, and Silesia and other districts are partly so. Even France, the most united country in Europe, is far from homogeneous. Quite apart from the fragments of foreign nationalities at its remote edges, it consists, as both its language and its history show, of two parts: one inhabited almost entirely by a Gallo-Roman population, and another in which the Franks, Burgundians, and other Germanic peoples make up a substantial element.
 
-The author agrees, strongly. Reducing the gap between how we treat insiders and outsiders is one of the worthiest goals humans can pursue.
+Once proper allowance has been made for the demands of geography, another consideration arises, one that is more purely moral and social. Experience shows that one nationality can merge with another and be absorbed into it, and when the absorbed nationality was originally an inferior and more backward portion of the human race, the absorption is greatly to its advantage. No one can suppose that a Breton, or a Basque of French Navarre, is not better off for being drawn into the current of ideas and feelings of a highly civilized and cultivated people. As a member of the French nation, he is admitted on equal terms to all the privileges of French citizenship, shares the advantages of French protection, and partakes in the dignity and prestige of French power. The alternative is to sulk on his own rocks, a half-savage relic of past times, circling in his own small mental orbit, with no share or interest in the broader movement of the world. The same is true of the Welshman or the Scottish Highlander as members of the British nation.
 
-But—and this is the key—given the current state of civilization, you can’t advance that goal by forcing different nationalities of roughly equal strength to live under one government. In practice, that tends to make things worse.
+Whatever genuinely tends to mix nationalities, and to blend their characteristics and peculiarities in a common union, benefits the human race. It does so not by extinguishing distinct types, of which enough examples are sure to survive in these cases, but by softening their extreme forms and filling in the gaps between them. A united people resembles a crossbred animal, which inherits the particular strengths of each parent stock while the mixture keeps any single trait from being exaggerated; and the effect is greater still in a people, because the influences at work are moral as well as physical. Such a people inherits the special aptitudes and excellences of all its ancestors, while the mixture protects each of those qualities from being pushed to an extreme where it turns into the vice that lies next to it. But this kind of blending requires particular conditions, and the combinations of circumstances that occur and bring it about are various.
 
-In very primitive societies, the dynamic can differ: a ruler may have an interest in calming ethnic hostility just to keep the peace and make the territory easier to govern. But once any of the groups has free institutions—or is striving for them—the incentives flip. A government that rules multiple nationalities often benefits from keeping those nationalities suspicious and hostile toward one another. That prevents them from uniting against the state and lets the government use one group as an instrument to dominate another.
+The nationalities brought together under one government may be roughly equal in numbers and strength, or they may be very unequal. If they are unequal, the smaller of the two may be either the more civilized or the less civilized. If it is the more civilized, it may either use that superiority to gain ascendancy over the other, or it may be overcome by brute force and reduced to subjection. This last outcome is an unmixed harm to the human race, and civilized humanity should rise in arms with one accord to prevent it. The absorption of Greece by Macedonia was one of the greatest misfortunes that ever befell the world, and the absorption of any of the principal countries of Europe by Russia would be another.
 
-The Austrian monarchy, the author argues, spent decades relying on this approach, with catastrophic results visible in events like the Vienna uprising and the conflict in Hungary. Still, he sees signs that society has advanced too far for such tactics to succeed indefinitely.
+If the smaller nationality, assumed to be the more advanced, manages to overcome the larger, as the Macedonians, reinforced by the Greeks, overcame Asia, and as the English overcame India, there is often a gain to civilization. In this case, however, the conquerors and the conquered cannot live together under the same free institutions. For the conquerors to be absorbed into the less advanced people would be an evil, so the conquered must be governed as subjects. Whether this arrangement is a benefit or a misfortune depends on two things: whether the subjugated people have reached the stage at which it harms them not to live under a free government, and whether the conquerors use their superiority in a way designed to prepare the conquered for a higher stage of improvement. I will take up this subject in detail in a later chapter.
 
-### The General Rule—and Why It’s Hard To Apply
+When the nationality that succeeds in overpowering the other is both the more numerous and the more advanced, and especially when the subdued nationality is small and has no hope of regaining its independence, the outcome is different. Provided it is governed with reasonable justice, and provided the members of the more powerful nationality are not made hateful by being granted exclusive privileges, the smaller nationality gradually becomes reconciled to its position and merges with the larger. No Breton of Lower Brittany, nor even any Alsatian, today has the slightest wish to be separated from France. If the Irish have not all come to feel the same way toward England, that is partly because they are numerous enough to form a respectable nationality of their own. But it is mainly because, until recent years, they had been governed so atrociously that their best feelings joined with their worst in stirring up bitter resentment against Saxon rule. This disgrace to England and calamity to the whole empire has, it can truly be said, come completely to an end for nearly a generation. No Irishman is now less free than an Anglo-Saxon, nor does he receive a smaller share of any benefit, whether to his country or to his personal fortunes, than if he came from any other part of the British dominions. Ireland's only remaining real grievance, the established State Church, is one that half, or nearly half, of the people of the larger island share with them. Almost nothing now keeps the two peoples apart except the memory of the past and the difference in their prevailing religion, and they are perhaps better suited than any two races in the world to complete and complement each other. The awareness of finally being treated not only with equal justice but with equal consideration is spreading so rapidly through the Irish nation that it is wearing away every feeling that could blind them to the benefits a smaller and less wealthy people must necessarily gain from being fellow citizens, rather than foreigners, to a people who are not only their nearest neighbors but also the wealthiest, one of the freest, and one of the most civilized and powerful nations on earth.
 
-For these reasons, the author’s general conclusion is blunt: **free institutions usually require that political borders align, roughly, with national borders.**
-
-But real life complicates that.
-
-#### 1) Geography Can Make Separation Impossible
-
-Even in Europe, there are regions where nationalities are so thoroughly interwoven that separate governments aren’t workable.
-
-Hungary is the author’s main example. Its population includes Magyars, Slovaks, Croats, Serbs, Romanians, and—in some areas—Germans, mixed so tightly that you can’t cleanly divide them by territory. In such cases, there may be no choice but to accept living together and to do it on the only tolerable basis: **equal rights and equal laws**.
-
-He suggests that a shared experience of subjection—especially since the loss of Hungarian independence in 1849—was beginning to push these groups toward accepting such an equal union.
-
-Other geographic puzzles make the same point. A German community in East Prussia was separated from Germany by Polish territory. Too weak to stand alone, it faced a choice: either live under a non-German state, or else see the intervening Polish land absorbed into a German one. Likewise, German-dominated Baltic provinces such as Courland, Estonia, and Livonia were geographically placed to belong to a Slavic state.
-
-Even within “German” areas, there were substantial Slavic populations: Bohemia mostly Slavic, and Silesia and other districts partly so.
-
-And even France—often seen as Europe’s most unified country—wasn’t truly homogeneous. Beyond small remnants of foreign groups at its edges, France contained two broad historical and linguistic layers: one largely Gallo-Roman, the other significantly shaped by Frankish, Burgundian, and other Germanic elements.
-
-#### 2) Absorption Can Be Real—and Sometimes Beneficial
-
-After accounting for geography, a more social and moral question appears. History shows that one nationality can gradually **merge into** another. And when the absorbed group is genuinely less developed (in the sense of education, institutions, and culture), the author argues that the change can be a net benefit for them.
-
-He uses examples like Bretons or Basques in French Navarre, and also Welsh people or Scottish Highlanders within Britain. In his view, it is better for members of these smaller groups to enter the mainstream of a more advanced civilization—sharing in its ideas, its opportunities, its protections, and the status that comes with its power—than to remain isolated in a narrow cultural world, cut off from the broader movement of human life.
-
-More generally, anything that truly encourages the **mixing of nationalities** and the blending of their distinctive qualities can benefit humanity. Not because it should erase all differences—there will still be enough examples of each type—but because it can soften extremes and reduce sharp divisions. A blended people, like a cross-bred line in animals (and even more so, since moral and cultural forces matter as well as biology), can inherit strengths from multiple sources, with the mixture helping to keep those strengths from hardening into neighboring vices.
-
-But this kind of blending doesn’t happen automatically. It depends on conditions, and the outcomes vary.
-
-### Power Balance: When Blending Works—and When It Turns Toxic
-
-Nationalities brought under one government might be close to equal in numbers and power, or they might be very unequal. If they’re unequal, the smaller group might be more civilized or less civilized than the larger.
-
-If the smaller group is more advanced, several paths are possible:
-
-- It might use its superiority to gain dominance.
-- Or it might be overwhelmed by sheer numbers and force, reduced to subjection.
-
-That last case—where the more advanced group is crushed by a less advanced one—is, in the author’s view, a pure loss for humanity, something civilized people should unite to prevent. He calls Greece’s absorption by Macedonia one of the world’s great misfortunes and suggests that the absorption of major European nations by Russia would be a similar disaster.
-
-If the smaller but more advanced nationality conquers the larger—he cites the Macedonians (with Greeks) in Asia and the English in India—civilization may gain. But there’s a catch: conquerors and conquered generally cannot share the same free institutions. If the conquerors are absorbed into the less advanced population, that would be a bad outcome (civilizationally, in his framework). So the conquered must be ruled as subjects. Whether this is ultimately good or bad depends on two questions:
-
-- Have the conquered reached the point where being denied free government is itself a serious injury?
-- Do the conquerors use their advantage in a way that helps the conquered move toward higher development?
-
-He flags this as a topic he will treat later.
-
-Finally, consider the case where the conquering nationality is both **more numerous** and **more advanced**, especially when the subdued nationality is small and has little realistic chance of restoring independence. In that situation, if the state governs with tolerable justice and doesn’t make the dominant nationality hated by granting it exclusive privileges, the smaller group may gradually reconcile itself to its new position and blend into the larger nation.
-
-He points to Brittany and Alsace in France as examples of regions with little desire to separate.
-
-Ireland, he says, hadn’t fully reached that point with England—not only because Ireland was large enough to sustain a national identity of its own, but mainly because England had governed Ireland so brutally for so long that resentment became inevitable. He claims that this disgraceful pattern had largely ended for nearly a generation: Irish people were no less free than Anglo-Saxons and had no less share in the benefits of citizenship. The chief remaining grievance, in his account, was the established church—an issue that many in Great Britain also faced. In his view, what still kept the two peoples apart was mostly memory and religious difference, even though he believed the two were unusually well suited to complement each other. He argues that equal treatment and equal respect were rapidly reducing hostility, making it harder for Irish people to ignore the advantages that come from being fellow citizens, not foreigners, to a neighboring nation that was wealthier, freer, and among the most civilized and powerful on earth.
-
-### The Hardest Case: Roughly Equal Nationalities
-
-The greatest practical obstacles to blending arise when the nationalities tied together are close to equal in numbers and in the other ingredients of power. In that situation, each group:
-
-- Trusts its ability to hold its own in a struggle
-- Refuses to be absorbed into the others
-- Clings stubbornly to its distinct identity
-- Revives old customs, and even dying languages, to make the boundary sharper
-- Treats any official authority exercised by “the other side” as oppression
-- Reads any concession to one group as a loss for all the rest
-
-If such divided nations live under a despotic government that is foreign to all of them—or even one that comes from one group but cares more about its own power than national loyalty—and if it distributes no special privileges to any group and recruits officials from all sides without preference, then over generations something interesting can happen. Shared circumstances can gradually create shared feelings, especially when the groups are geographically mixed across the same territory. People begin, slowly, to treat one another as fellow countrymen.
-
-But if the push for free government arrives *before* that long fusion has taken place, the author argues that the window closes. The chance to blend the nationalities peacefully has been missed.
-
-Once the clashing national groups are still at odds, and they also live in different places, the case for separation gets very strong—especially when there’s no practical reason they should be ruled together in the first place. Think of an Italian province forced under a French or German government: the arrangement isn’t just awkward, it’s fundamentally misfit. And if you care about either **liberty** or **peaceful coexistence**, breaking the political link isn’t merely sensible—it’s often necessary.
-
-To be fair, separation doesn’t always mean total isolation. Sometimes two provinces that go their own ways can still benefit from staying connected through a **federal** arrangement. But in practice, that’s rare. When people are willing to give up full independence and join a federation, it usually isn’t with the same partner they just fought to leave. More often, each province has other nearby states it would rather link up with—neighbors it actually feels aligned with, sharing stronger sympathies and, often, more overlapping interests.
+The greatest practical obstacles to the blending of nationalities arise when the nationalities bound together are nearly equal in numbers and in the other elements of power. In such cases each one, confident in its strength and believing itself able to hold its own in a struggle with any of the others, refuses to be merged into another. Each cultivates its distinctive peculiarities with partisan stubbornness. Obsolete customs, and even dying languages, are revived to deepen the separation. Each considers itself oppressed if any authority is exercised within its territory by officials of a rival race, and whatever is granted to one of the contending nationalities is regarded as taken away from all the rest. When nations divided in this way live under a despotic government that is foreign to all of them, or under one that, though sprung from one of them, cares more for its own power than for any national sympathies, grants no privilege to any nation, and chooses its agents from all of them without distinction, then within a few generations a shared condition often produces a shared feeling, and the different races come to regard one another as fellow countrymen, particularly if they are scattered across the same territory. But if the age of aspiration to free government arrives before this fusion has taken place, the opportunity to bring it about has passed. From then on, if the unreconciled nationalities are geographically separate, and especially if their location gives them no natural fitness or convenience for being under the same government (as with an Italian province under a French or German yoke), breaking the connection altogether is not only plainly appropriate but, for anyone who cares about either freedom or harmony, a necessity. There may be cases in which the provinces, once separated, could usefully remain joined by a federal tie. Generally, though, if they are willing to give up complete independence and join a federation, each of them has other neighbors with which it would rather unite, because it shares more sympathies with them, and often a greater common interest as well.
 
 ## XVII — Of Federal Representative Governments
 
@@ -6487,162 +6148,29 @@ A single central government can coexist with many degrees of **centralization**�
 
 ## XVIII — Of The Government Of Dependencies By A Free State
 
-Free states, like any other kind of state, can end up ruling **dependencies**—territories they control but don’t treat as fully equal partners. Those dependencies might be gained through conquest or built through colonization. Britain, in the modern era, is the standout example. So the real question isn’t whether a free country can have dependencies. It’s how it can govern them without betraying its own principles.
+Free states, like any others, may possess dependencies, acquired either by conquest or by colonization, and our own country offers the largest example of this in modern history. How such dependencies ought to be governed is therefore a question of the first importance.
 
-### **Small Strategic Outposts**
-We don’t need to spend much time on tiny holdings that exist mainly as strategic assets—places like Gibraltar, Aden, or Heligoland. When a territory is held primarily as a naval or military position, security comes first. That usually means the local population can’t be fully included in running the place, because the governing state won’t risk losing control of the fort, harbor, or chokepoint that justified taking it in the first place.
+There is no need to discuss small outposts such as Gibraltar, Aden, or Heligoland, which are held only as naval or military stations. In these places the military or naval purpose outweighs every other consideration, and the inhabitants cannot be given a share in governing the place without compromising that purpose. They ought nonetheless to be allowed every liberty and privilege compatible with the restriction, including the free management of their municipal affairs. And because they are sacrificed locally to the convenience of the governing state, they should be compensated by receiving rights equal to those of its native-born subjects in every other part of the empire.
 
-Still, even in these cases, the people who live there should get every freedom that doesn’t conflict with the military purpose, including:
+Outlying territories of some size and population that are held as dependencies fall into two classes. By a dependency is meant a territory subject, to a greater or lesser degree, to acts of sovereign power by the paramount country, without being equally represented in that country's legislature, if it is represented at all. Some of these territories are inhabited by people at a level of civilization similar to that of the ruling country, people capable of representative government and ready for it, as in the British possessions in America and Australia. Others, like India, are still far from that condition.
 
-- **Local civil liberties** as far as security allows  
-- **Control of municipal affairs** (town administration, local services, day-to-day governance)  
+In the case of dependencies of the first class, this country has at last put the true principle of government into practice, and with a completeness rarely achieved. England has always felt some degree of obligation to grant representative institutions modeled on her own to those outlying populations who shared her blood and language, and to some who did not. Yet until the present generation she stood on the same low footing as other countries in how much self-government she actually allowed them to exercise through the institutions she had granted. She claimed to be the final judge even of their purely internal affairs, and to settle those affairs according to her own ideas of how they could best be managed, not theirs. This practice followed naturally from a misguided theory of colonial policy, once common to all of Europe and still not entirely abandoned by any other nation. That theory valued colonies as markets for our goods that we could keep wholly to ourselves, and we prized this privilege so highly that we thought it worth buying by granting the colonies the same monopoly over our market for their products that we claimed over theirs for ours. Under this remarkable plan for enriching both them and ourselves, each side was made to pay enormous sums to the other, with the greater part of those sums simply lost along the way. The plan has now been abandoned for some time. But the bad habit of meddling in the internal government of the colonies did not die out at once when we gave up the idea of profiting by it. We went on harassing them, not for any benefit of our own, but for the benefit of some section or faction among the colonists, and this persistence in domineering cost us a rebellion in Canada before we hit on the happy idea of stopping. England behaved like a badly raised elder brother who keeps tyrannizing over the younger ones out of sheer habit, until one of them puts up a spirited resistance, though with unequal strength, and gives him notice to desist. We were wise enough not to need a second warning. A new era in the colonial policy of nations began with Lord Durham's Report, an enduring monument to that nobleman's courage, patriotism, and enlightened liberality, and to the intellect and practical wisdom of its co-authors, Edward Gibbon Wakefield and the much-lamented Charles Buller.
 
-And because they’re effectively being asked to accept local sacrifice for the empire’s convenience, they should be compensated in the only way a free state can credibly compensate: by granting them **full equality with native citizens** everywhere else in the empire.
+It is now a settled principle of British policy, professed in theory and faithfully observed in practice, that her colonies of European race possess the fullest measure of internal self-government, just as the mother country does. They have been allowed to frame their own free representative constitutions, altering in any way they saw fit the already highly popular constitutions we had given them. Each is governed by its own legislature and its own executive, both organized on thoroughly democratic principles. The veto of the Crown and of Parliament, though formally reserved, is exercised only on questions that concern the empire as a whole and not the particular colony alone, and even then very rarely. How generously the line between imperial and colonial questions has been drawn can be seen from one fact: all the unallocated land in the regions lying behind our American and Australian colonies has been handed over to the uncontrolled disposal of the colonial communities. That land might, without any injustice, have been kept in the hands of the imperial government and administered for the greatest advantage of future emigrants from every part of the empire. Every colony thus has as full a power over its own affairs as it would have as a member of even the loosest federation, and far fuller than a state possesses under the Constitution of the United States, since a colony is free even to tax goods imported from the mother country as it pleases. Their union with Great Britain is the slightest kind of federal union. It is not, however, a strictly equal federation, for the mother country keeps for itself the powers of a federal government, though in practice these have been reduced to their narrowest limits. This inequality, so far as it extends, is of course a disadvantage to the dependencies. They have no voice in foreign policy, yet they are bound by the decisions of the superior country, and they are compelled to join England in war without being consulted in any way before she enters it.
 
-### **Two Kinds of Larger Dependencies**
-Once you move beyond small outposts, dependencies come in two broad types—both defined by one key fact: the “paramount” country can exercise sovereign power over them, but they are not equally represented (if represented at all) in the ruling country’s legislature.
+There are those, now happily not few in number, who believe that justice binds communities just as it binds individuals, and that people have no right to do to other countries, for the supposed benefit of their own, what they would have no right to do to other people for their own benefit. Such people regard even this limited degree of constitutional subordination on the part of the colonies as a violation of principle, and they have often busied themselves searching for ways to avoid it. With this aim, some have proposed that the colonies should send representatives to the British legislature. Others have proposed that the powers of our own Parliament, like those of the colonial parliaments, should be confined to internal policy, and that a separate representative body should be created for foreign and imperial affairs, in which the dependencies of Great Britain would be represented in the same manner and as completely as Great Britain herself. Under such a system there would be a perfectly equal federation between the mother country and her colonies, which would then no longer be dependencies.
 
-1. **Dependencies ready for representative government**  
-   These are societies at roughly the same level of political development as the ruling country—capable of self-rule through representative institutions. In Mill’s time, he points to the British possessions in America and Australia.
+The sense of fairness and the ideas of public morality that inspire these suggestions deserve every praise. But the suggestions themselves are so inconsistent with rational principles of government that it is doubtful any reasonable thinker has seriously entertained them as possible. Countries separated by half the globe lack the natural conditions for living under one government, or even for belonging to one federation. Even if their interests were sufficiently alike, they do not have, and never can have, a sufficient habit of taking counsel together. They are not part of the same public. They do not discuss and deliberate in the same arena, but separately, and each has only the most imperfect knowledge of what is going on in the minds of the others. They neither know each other's aims nor trust each other's principles of conduct. Let any Englishman ask himself how he would like his destiny to depend on an assembly one third of which came from British North America and another third from South Africa and Australia. Yet that is what it would come to under anything resembling fair or equal representation. And would not everyone feel that the representatives of Canada and Australia, even on matters of an imperial character, could not know, or care sufficiently about, the interests, opinions, and wishes of the English, Irish, and Scots? Even for strictly federal purposes, the conditions we have already seen to be essential to a federation do not exist. England is capable of protecting herself without the colonies, and she would be in a far stronger and more dignified position if separated from them than if reduced to a single member of an American, African, and Australian confederation. Beyond the trade she could enjoy just as well after separation, England gains little from her dependencies except prestige. Whatever small advantage she does gain is far outweighed by what they cost her, and by the dispersal of her naval and military forces that they make necessary. In time of war, or of any real fear of war, those forces must be two or three times as large as would be needed to defend this country alone.
 
-2. **Dependencies not yet ready**  
-   These are territories whose social and political conditions are, in his view, still far from that stage—India being the main example he gives.
+Great Britain, then, could do perfectly well without her colonies, and every principle of morality and justice requires that she consent to their separation should the time come when, after a full trial of the best form of union, they deliberately wish to break away. Even so, there are strong reasons for keeping the present slight bond of connection for as long as neither side finds it disagreeable. As far as it goes, the bond is a step toward universal peace and toward general friendly cooperation among nations. It makes war impossible among a large number of communities that would otherwise be independent. It also prevents any of them from being absorbed into a foreign state and adding to the aggressive strength of some rival power, one either more despotic or closer at hand, which might not always be as unambitious or as peaceable as Great Britain. At the very least it keeps the markets of the various countries open to one another, and prevents the mutual exclusion by hostile tariffs that none of the great communities of mankind except England has yet outgrown. And in the case of the British possessions it has a further advantage, particularly valuable at the present time: it adds to the moral influence, and to the weight in the councils of the world, of the power that understands liberty better than any other now in existence. Whatever errors that power may have committed in the past, it has come to bring more conscience and moral principle to its dealings with foreigners than any other great nation appears either to think possible or to consider desirable. Since, then, the union can continue only on the footing of an unequal federation for as long as it does continue, it is important to consider how this small degree of inequality can be kept from becoming either burdensome or humiliating to the communities that occupy the lower position.
 
-What follows is mostly about the first category: places that can govern themselves and should be allowed to.
+The only inferiority necessarily built into the arrangement is that the mother country decides questions of peace and war both for the colonies and for herself. In return, the colonies gain the mother country's obligation to repel any aggression directed against them. But unless the smaller community is so weak that it cannot do without the protection of a stronger power, a reciprocal obligation of this kind is not a full equivalent for exclusion from a voice in the deliberations. It is essential, therefore, that in all wars except those undertaken for the sake of a particular colony, such as the frontier wars against the Xhosa in South Africa or the wars in New Zealand, the colonists should not be called upon, unless they themselves volunteer, to contribute anything to the cost beyond what is required for the specific local defense of their own ports, coasts, and frontiers against invasion. Moreover, since the mother country claims the right to adopt, at her sole discretion, measures or policies that may expose the colonies to attack, it is only just that she should bear a considerable share of the cost of their military defense even in peacetime, and the whole of that cost insofar as it depends on a standing army.
 
-### **The Break from Old-Style Colonial Control**
-For a long time, England did grant representative institutions to colonies populated by people of English language and culture (and sometimes others), but she didn’t truly let those institutions govern. The mother country insisted on acting as the final judge—even over purely internal matters—and insisted on doing so by **England’s** ideas of what was best, not the colony’s.
+There is, however, a still more effective means, and in general the only means, by which a smaller community can be given a full equivalent for merging its individual identity as an independent power among nations into the larger identity of a vast and powerful empire. This one indispensable and at the same time sufficient measure, which satisfies the demands of justice and the growing demands of policy alike, is to open the service of government, in all its departments and in every part of the empire, to the inhabitants of the colonies on perfectly equal terms. Why does no one ever hear a whisper of disloyalty from the Channel Islands? By race, religion, and geography they belong less to England than to France. Yet while they enjoy, like Canada and New South Wales, complete control over their internal affairs and their taxation, every office and honor in the gift of the Crown is freely open to a native of Guernsey or Jersey. Generals, admirals, and peers of the United Kingdom are drawn from those small islands, and nothing prevents prime ministers from being drawn from them too. The same system was begun for the colonies in general by an enlightened colonial secretary who died too soon, Sir William Molesworth, when he appointed Francis Hincks, a leading Canadian politician, to the governorship of a West Indian colony. It shows a very shallow understanding of what drives political behavior in a community to think such things unimportant on the ground that the number of people actually in a position to benefit might not be large. That limited number would consist precisely of those who carry the most moral authority over everyone else. Nor are people so lacking in a sense of collective degradation that they fail to feel it as an insult to all of them when even one person is denied an advantage because of a circumstance they all share with him. If we prevent the leading men of a community from standing before the world as its chiefs and representatives in the general councils of mankind, we owe it both to their legitimate ambition and to the community's just pride to give them in return an equal chance of reaching an equally prominent position in a nation of greater power and importance. Were the whole service of the British Crown opened to the natives of the Ionian Islands, we would hear no more of their desire for union with Greece. Such a union is not desirable for the people, since it would be a step backward in civilization for them. But it is hardly surprising that Corfu, which has given the Russian Empire a minister of European reputation, and Greece itself a president before the Bavarian prince arrived to become its king, should feel it a grievance that its people are barred from the highest posts under any government at all.
 
-That behavior grew out of a poisonous colonial theory that used to be common across Europe: the belief that colonies mattered because they could be turned into **captive markets**. The plan was simple in concept and absurd in practice:
+So much for the dependencies whose populations are advanced enough to be suited to representative government. There are others that have not reached that point, and these, if they are held at all, must be governed by the dominant country or by persons it appoints for the purpose. This form of government is as legitimate as any other, provided it is the one that, given the subject people's present stage of civilization, does most to ease their passage to a higher stage of improvement. As we have already seen, there are conditions of society in which a vigorous despotism is in itself the best form of government for training a people in exactly what they lack before they can become capable of a higher civilization. There are other conditions in which despotism as such does no good, because its lessons have already been learned only too thoroughly; yet because the people have no source of spontaneous improvement within themselves, nearly their only hope of making any progress depends on the chance of a good despot. Under a native despotism, a good despot is a rare and passing accident. But when a people is ruled by a more civilized nation, that nation ought to be able to supply good government continuously. The ruling country ought to be able to do for its subjects everything that could be done by a succession of absolute monarchs, monarchs secured by irresistible force against the insecurity of tenure that attends barbarous despotisms, and gifted with the insight to anticipate everything that experience has taught the more advanced nation. Such is the ideal rule of a free people over a barbarous or semi-barbarous one. We need not expect to see that ideal realized. But unless the rulers approach it in some degree, they are guilty of betraying the highest moral trust that can fall to a nation; and if they do not even aim at it, they are selfish usurpers, as criminal as any of those whose ambition and greed have, age after age, toyed with the destinies of great masses of mankind.
 
-- The colony is forced to buy the mother country’s goods.  
-- In exchange, the mother country pretends to be generous by giving the colony a protected monopoly in the mother country’s market.  
-
-The result wasn’t real shared prosperity. It was two societies made to overpay each other through restrictions and middlemen, with much of the value “lost on the road” in waste, inefficiency, and distortion. England eventually abandoned this approach.
-
-But even after England stopped trying to profit directly from controlling colonial policy, she didn’t immediately stop interfering in colonial internal affairs. The meddling continued—often not for Britain’s benefit, but to serve some **local faction** within the colony. That domineering habit helped provoke the Canadian rebellion, and only then did Britain finally have the good sense to stop acting like the colony’s parent and start treating it like a political adult.
-
-Mill’s analogy is blunt: England behaved like a badly raised older brother who bullies the younger ones out of habit—until one younger sibling finally pushes back hard enough to make him quit. The important point is that England learned after the first warning.
-
-A new era, Mill argues, began with **Lord Durham’s Report**, which he treats as a landmark of courageous and liberal political judgment (and he credits Durham’s collaborators for the practical intelligence behind it as well).
-
-### **A Working Model: Full Internal Self-Government**
-Britain’s settled policy, by Mill’s account, is now clear and—crucially—actually followed: colonies of European origin are entitled to **the fullest possible internal self-government**, essentially on the same footing as the parent country.
-
-In practice, that means:
-
-- Colonies can **reshape their own representative constitutions**, modifying the already popular constitutions Britain originally granted them.
-- Each colony has its own **legislature and executive**, built on highly democratic principles.
-- The Crown and Parliament technically keep a veto, but it is used **rarely**, and only for issues that genuinely concern the empire as a whole—not purely local matters.
-
-How broad this “local matters” category has become is illustrated by a striking concession: Britain has handed over **the unappropriated public lands** behind the American and Australian colonies to the colonies’ own control. Britain could have kept those lands and administered them for the benefit of future emigrants from across the empire without obvious injustice. Instead, it yielded them.
-
-The result is that each colony has, for practical purposes, as much control over its internal life as if it were part of the loosest federation—and in some ways even more autonomy than a state would have under the U.S. Constitution. Mill highlights one especially telling example: a British colony can even impose taxes on imports from Britain as it sees fit.
-
-So yes, there is still a bond with Great Britain. But it is the lightest kind of **federal connection**—and not an equal one.
-
-### **The Inequality That Remains**
-The arrangement is “federal” in form, but unequal in reality. Britain keeps what you might call the core powers of the central government—though, in practice, it tries to use them as little as possible.
-
-This inequality has a very specific cost for the colonies:
-
-- They have **no real voice in foreign policy**.
-- They are still bound by Britain’s choices.
-- In particular, they can be pulled into war because Britain decides to go to war.
-
-In other words, colonies may govern themselves internally, but they can still be forced to fight externally.
-
-### **Why “Equal Representation” Doesn’t Actually Work**
-Some people—Mill respects their moral instinct—argue that justice binds communities the way it binds individuals. If you wouldn’t be justified in doing something to another person for your own benefit, you aren’t justified in doing it to another country, either. From that perspective, even this limited constitutional subordination looks wrong. So reformers have proposed ways to remove the inequality.
-
-Two main proposals show up:
-
-- **Give the colonies representation in the British Parliament.**
-- **Split powers** so that both Britain’s Parliament and colonial Parliaments handle only internal affairs, while a new, shared representative body governs foreign and imperial policy—making the whole arrangement an **equal federation**, with colonies no longer “dependencies.”
-
-Mill praises the ethical impulse behind these ideas—but then rejects them as practically unworkable. Countries separated by half the globe, he argues, simply don’t have the conditions needed for one government, or even a functional federation:
-
-- Even if they share interests, they don’t—and can’t—share enough **habit of consultation**.
-- They aren’t part of the same **public sphere**. They don’t debate in the same arena.
-- Each side knows only dimly what the other thinks, wants, or fears.
-- They don’t understand each other’s goals well, and they can’t build real confidence in each other’s political conduct.
-
-Mill then forces the reader to picture what “fair representation” would mean. Suppose one-third of the imperial legislature were British American, another third South African and Australian. Would an English voter be comfortable having their future hinge on such an assembly? And would anyone believe that Canadian and Australian representatives—even on “imperial” questions—could truly know or care enough about the opinions and needs of English, Irish, and Scottish voters?
-
-Even for a federation, Mill says, these are exactly the missing ingredients. In his earlier terms, the essential conditions for a stable federation aren’t present.
-
-He also adds a blunt strategic point: England can defend itself without the colonies, and would be stronger—and more dignified—standing alone than reduced to one member of a sprawling American-African-Australasian confederation. Beyond the trade England could likely keep even after separation, the empire gives England little besides prestige, while imposing heavy costs:
-
-- the expense of maintaining far-flung territories
-- and the forced dispersal of naval and military power, which in wartime means England must maintain forces double or triple what would be needed for defense at home alone
-
-### **Why Keep Any Connection at All?**
-If Britain can do without colonies—and if justice would require Britain to accept separation whenever a colony, after honest experience with the best available union, deliberately wants to leave—why maintain any tie?
-
-Mill’s answer is that there are still strong reasons to keep this light bond, **as long as both sides find it acceptable**.
-
-He sees it as a small but real step toward:
-
-- **universal peace**
-- and broad, friendly cooperation among nations
-
-A shared connection makes war among these otherwise independent communities impossible. It also reduces the chance that any one of them is absorbed by a foreign state—especially a nearby rival power that might be more despotic, more aggressive, or simply less restrained than Britain. In that sense, the connection acts like a geopolitical “do not swallow” label.
-
-The bond also helps keep markets open among these communities and discourages the kind of mutual exclusion through hostile tariffs that, in Mill’s view, most major societies still haven’t outgrown (England being the notable exception).
-
-Finally, he argues that for British possessions there is a distinctive advantage in the present moment: the connection increases the moral influence and global weight of the power that, more than any other existing great nation, understands liberty—and that, whatever its past errors, has developed more conscience and moral principle in dealing with foreigners than its rivals even consider possible or desirable.
-
-If the bond must remain an unequal federation, then the practical problem becomes: how do you keep that inequality from feeling oppressive or humiliating to the smaller communities?
-
-### **Fair Terms for an Unequal Federation**
-Mill insists that only one inferiority is built into the arrangement: the mother country decides questions of peace and war for everyone.
-
-The colonies get something in return: Britain is obligated to defend them against aggression. But unless a colony is so weak that it cannot survive without protection, that “reciprocal obligation” still doesn’t fully compensate for having no voice in decisions that can cost lives and money.
-
-So, at minimum, fairness requires limits on what Britain can demand from the colonies:
-
-- In wars not undertaken for the colony’s own sake, colonists should not be forced (unless they voluntarily ask) to contribute to the general cost of war—beyond what’s needed for the **local defense** of their own ports, coasts, and borders.
-- Because Britain alone chooses policies that might expose colonies to attack, Britain should shoulder a significant part of the cost of colonial defense even in peacetime—especially the portion that depends on maintaining a **standing army**.
-
-### **The Stronger Solution: Equal Access to Imperial Public Service**
-But Mill argues there’s a deeper, more effective way to compensate a smaller community for giving up full independent standing in world affairs. In fact, he suggests it is usually the only way to offer a true equivalent.
-
-The indispensable—and, at the same time, sufficient—expedient is this:
-
-Open every part of government service, in every department and across the empire, **on perfectly equal terms** to colonial inhabitants.
-
-If a colony can’t be an equal partner in foreign policy, then its people must at least be treated as full members of the wider political community when it comes to careers, honors, and leadership.
-
-Mill points to a telling case: the Channel Islands. By race, religion, and geography, he says they belong less to England than to France. Yet nobody hears “disloyalty” from them. Why? Because while they control their internal affairs and taxation—much like Canada or New South Wales—**every office and dignity controlled by the Crown is open to them**. People from Guernsey or Jersey can become generals, admirals, peers of the United Kingdom, and there is nothing in principle preventing them from becoming prime minister.
-
-A similar approach began, he notes, when Sir William Molesworth appointed Mr. Hinckes, a prominent Canadian politician, to govern in the West Indies.
-
-Mill anticipates the sneer: “So what? Only a few people will ever actually benefit.” He calls that a shallow understanding of politics. The handful who can benefit are exactly the people with the most **moral and social influence** over everyone else. And communities aren’t as numb to collective insult as cynics assume. If you deny a single person an opportunity solely because of a shared trait—“he’s from the colony”—everyone who shares that trait feels the degradation.
-
-If you refuse to let a community’s leading figures step onto the world stage as its representatives in the broader councils of humanity, then you owe them something substantial in return: an equal chance to reach that same prominence within a larger, more powerful nation.
-
-### **Dependencies Not Ready for Self-Government**
-So far, Mill has been talking about dependencies whose people are politically advanced enough for representative government. But there are others—societies that have not reached that stage and that, if held at all, must be governed by the dominant country (or by officials appointed by it).
-
-He argues that this can be legitimate—no more illegitimate than any other form of rule—*if* it is the form best suited, given the people’s current state of civilization, to help them move toward a higher level of improvement.
-
-In some social conditions, he says, what the society needs most is training in the habits and disciplines that make higher civilization possible. In those cases, a **vigorous despotism** can be the best available training regime.
-
-In other conditions, despotism itself doesn’t teach anything useful—because the population has already learned its lessons far too well—but the society still lacks any internal engine of improvement. Then the only realistic hope of progress may be the accidental appearance of a **good despot**.
-
-Under native despotism, a good despot is rare and short-lived. But if the rulers come from a more advanced society, Mill believes that society ought to be able to supply competent, improving rule continuously. The dominant country should be able to do, for its subjects, what a long succession of capable absolute monarchs could do:
-
-- protected by overwhelming force from the instability typical of “barbarous” despotisms
-- and informed by the accumulated experience of a more developed nation, so that it can anticipate what slower trial-and-error would eventually teach
-
-That, he says, is the ideal of a free people ruling a barbarous or semi-barbarous people.
-
-He doesn’t pretend the ideal will be fully realized. But he insists on a hard moral line: unless the rulers make some serious approach to that standard, they are guilty of abandoning one of the highest moral trusts a nation can hold. And if they don’t even aim at it, then they are simply selfish usurpers—morally no better than the empires and conquerors who have, century after century, toyed with the fate of whole populations for ambition and greed.
-
-### **The Big Problem of the Age**
-Mill ends by zooming out. He thinks it is already common—and rapidly becoming universal—for “backward” populations to be either directly ruled by more advanced nations or brought under their complete political ascendancy. Given that trend, few problems matter more than designing that rule so it becomes a **benefit rather than a curse** to the subject people—giving them the best government realistically possible now, while also building the conditions for durable, long-term improvement.
-
-Governing a **dependency**—a territory that can’t realistically govern itself yet—sounds like it should be straightforward. In practice, it’s one of the least-understood problems in political design. You could even argue we barely understand it at all.
+It is already common, and is fast becoming universal, for the more backward populations either to be held in direct subjection by the more advanced or to live under their complete political ascendancy. In the present age of the world, therefore, few problems are more important than how to organize this rule so that it becomes a good rather than an evil to the subject people, giving them the best government attainable now and the conditions most favorable to lasting improvement in the future. Yet the way to fit a government for this purpose is far less well understood than the conditions of good government for a people capable of governing itself. It might even be said that it is not understood at all.
 
 To a casual observer, it looks easy. Take India, for example: if it can’t govern itself, then just appoint a minister to govern it, and make that minister answerable to the British Parliament like any other British official. Clean, simple, and completely wrong.
 
@@ -6852,8 +6380,9 @@ It has been the strange destiny of the East India Company’s government to poin
 
 It would be a bitter outcome if, two or three generations from now, that abstract lesson were the only remaining “benefit” of British rule in India—if posterity concluded that Britain stumbled into better arrangements than it ever would have designed on purpose, and then, the moment it began to reason about them, smashed them—letting real, ongoing improvements collapse because it didn’t understand the principles that made them possible.
 
+# The Subjection of Women
 
-I
+## I
 
 This essay has one main job: to explain—as plainly as I can—the reasons behind a belief I’ve held since I was first old enough to have opinions about society and politics. And time hasn’t softened that belief. If anything, thinking about it and watching the world has only made it stronger.
 
@@ -7257,8 +6786,7 @@ Because under the current setup, an educated woman isn’t just inconvenient; sh
 
 If women are to be raised for this kind of marriage, then, the argument goes, it would have been more “consistent” to train them only in the skills of an **odalisque**—a decorative captive in a harem—or, at best, a domestic servant.
 
-
-II
+## II
 
 Let’s start where the problem shows its sharpest edge: the legal terms society attaches to marriage—especially for women.
 
@@ -7526,7 +7054,7 @@ By this principle, most married women would not regularly take on occupations th
 
 If public opinion were properly guided, these matters could safely be left to social judgment and personal conscience, without legal interference.
 
-III
+## III
 
 On the other side of women’s equal status—their right to enter *all* the jobs and public roles that men have long treated as their private property—I don’t expect much trouble persuading anyone who’s already accepted the case for equality inside the family.
 
@@ -7931,7 +7459,7 @@ What makes this especially striking is the degree of isolation imposed on these 
 
 A related point applies on a smaller scale: the kind of mind that can accurately grasp what’s *true* and what’s *right* often shows up across very different domains. The same sense that recognizes sound principles in “serious” art can also recognize good taste in something as changeable as clothing. Fashion swings from long to short, large to small, and back again—but it still rests on an underlying form. Someone who consistently invents well or dresses with real taste is probably showing the same practical judgment that, aimed at larger goals, could have produced excellence in more enduring work.
 
-IV
+## IV
 
 A big question still hangs in the air—one that people who are starting to doubt the old order tend to ask loudest: *What’s the payoff?* What good will come from changing our customs and institutions? Would the world actually be better if women were free? And if not, why stir people up and risk a social upheaval in the name of some “abstract right”?
 
