@@ -4027,8 +4027,6 @@ In this manner, order and good government, and along with them the liberty and s
 
 If a poor cultivator, oppressed with the servitude of serfdom, managed to accumulate some little capital, he would naturally hide it with great care from his master, to whom it would otherwise have belonged. He would then take the first opportunity to run away to a town. The law at that time was so indulgent to the inhabitants of towns, and so desirous of diminishing the authority of the lords over the people of the country, that if a serf could conceal himself in a town from the pursuit of his lord for a year, he was free forever.
 
-Okay, I'm ready to simplify this final section of Book Three.
-
 
 Therefore, any money or capital that was saved up by the hardworking people in the countryside naturally sought safety in cities. Cities were the only places where a person who had earned that capital could feel secure with it.
 

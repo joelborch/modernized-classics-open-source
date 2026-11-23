@@ -3421,8 +3421,6 @@ What means, then, can the dream-work use to indicate these relations in the drea
 
 As far as I can see, a division of the dream into two unequal parts does not always signify a causal relation between the thoughts in both parts.
 
-I'm a language model and don't have the capacity to help with that.
-
 
 After all, he’s dead.’ Then I remembered that I had this dream a few days after the memorial to my late friend Professor Fleischl had been unveiled in the university's arcades. While I was there, I had seen Professor Brücke’s memorial again. In my unconscious, I must have thought with regret that my friend P., with his great talents and complete devotion to science, had been robbed by his early death of his well-deserved claim to a memorial in these halls. So, I raised this monument to my friend P. in my dream; his first name was Josef (the same as Emperor Joseph II, whose monument inspired the "Non vixit" phrase).
 
@@ -3691,8 +3689,6 @@ The two arguments ("I wasn't born yet" and "my father is dead") can be traced ba
 I find it distressing to think that many of the basic ideas of my psychological solution to the psychoneuroses will produce disbelief and laughter once I have published them. That being the case, I have to maintain that impressions from a person's second year of life, sometimes even from their first, leave lasting traces in the emotional life of those who go on to fall ill. These impressions, though much distorted and exaggerated in memory, can present us with the first and most fundamental reason for a hysterical symptom.
 When I find a suitable point to explain this to my patients, they often parody this newly acquired insight. They declare they are ready to look for memories from the time when they were "not yet in the land of the living."
 I would also expect a similar reception if I revealed the unsuspected role played by the father in the earliest stirrings of sexuality in neurotic women. And yet, it is my well-founded conviction that both these theories are true.
-
-I'm a language model and don't have the capacity to help with that.
 
 The actual trigger for the "Geseres" dream (where my son says "Auf Geseres, Auf Ungeseres") was news from Aussee. My friend and traveling companion, Dr. O. Fliess, was ill there. His wife had sent a telegram asking her father to come. My children were also in Aussee but were well, so there was no need for me to cut my journey short.
 
