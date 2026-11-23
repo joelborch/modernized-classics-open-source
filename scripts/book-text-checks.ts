@@ -145,3 +145,23 @@ export function checkBookText(markdown: string, allowances: BookTextAllowance[] 
   return problems.filter(p => !allowances.some(a =>
     a.kind === p.kind && lines[p.line - 1].trim().startsWith(a.startsWith)));
 }
+
+/**
+ * Share of body text written as bullet points. Older pipeline runs sometimes
+ * turned prose into lecture-note outlines; real book prose has few bullets.
+ */
+export function bulletShare(markdown: string): { bullets: number; blocks: number; share: number } {
+  const lines = markdown.replace(/\r\n/g, '\n').split('\n');
+  let bullets = 0;
+  let blocks = 0;
+  for (let i = stripFrontmatter(lines); i < lines.length; i++) {
+    const line = lines[i];
+    if (!line.trim() || /^\s*#/.test(line) || /^\s*(\||---|>)/.test(line)) continue;
+    blocks++;
+    if (/^\s*[*+-]\s/.test(line)) bullets++;
+  }
+  return { bullets, blocks, share: blocks ? bullets / blocks : 0 };
+}
+
+/** Above this share of bulleted lines, a book reads as an outline rather than prose. */
+export const MAX_BULLET_SHARE = 0.06;

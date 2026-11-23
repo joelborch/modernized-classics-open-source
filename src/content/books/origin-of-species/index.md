@@ -4017,7 +4017,7 @@ We must always remember two key things:
 If we forget these points, we will completely misunderstand how nature works.
 We might feel surprised that we can’t explain the extinction of a particular species or group. But we should only feel that surprise when we can first explain other things precisely. For example, when we can say exactly why one species has more individuals than another, or why one species can successfully live in a new country while another cannot. Until then, our lack of understanding about extinction is not so surprising.
 
-## **On the Forms of Life Changing Almost Simultaneously Throughout the World**
+### On the Forms of Life Changing Almost Simultaneously Throughout the World
 
 Few discoveries in paleontology (the study of fossils) are more striking than this: forms of life around the world appear to change at almost the same times.
 
@@ -4101,7 +4101,7 @@ If the rock formations in these regions were not deposited at exactly the same t
 * This order would falsely appear to be strictly parallel.
 * However, the species would not all be the same in the stages that seem to correspond in the two regions.
 
-## **On the Affinities of Extinct Species to Each Other, and to Living Forms**
+### On the Affinities of Extinct Species to Each Other, and to Living Forms
 
 Now let's look at how extinct species are related to each other, and how they are related to living species.
 
@@ -4230,7 +4230,7 @@ The theory of descent (evolution) makes the meaning of these fossil relationship
 
 But we *should* expect to find, after these intervals (which are very long in years, but only moderately long in geological terms), closely allied forms. Some authors have called these **representative species**. And we certainly do find these. In short, we find the kind of evidence for slow and barely noticeable changes in species forms that we have the right to expect.
 
-## **On the State of Development of Ancient Compared with Living Forms**
+### On the State of Development of Ancient Compared with Living Forms
 
 We have previously seen that the degree of differentiation and specialization of body parts in living beings, when they reach maturity, is the best standard suggested so far for judging their degree of "perfection" or "highness" in an organizational sense. We also saw that since having specialized parts is an advantage to each being, natural selection will tend to make the organization of each being more specialized and, in this sense, "higher" or more "perfect."
 
@@ -4298,7 +4298,7 @@ This view fits extremely well with the theory of evolution. In understanding how
 So, the embryo becomes like a preserved picture. It is a snapshot, saved by nature, of an earlier and less modified state of the species. This idea may be true, but it might never be fully provable.
 For instance, we see that the oldest known mammals, reptiles, and fishes clearly belong to their proper classes. Some of these old forms are slightly less distinct from each other than are the typical members of the same groups today. However, it would be pointless to look for animals that have the very basic embryological character common to all vertebrates (animals with backbones). We would only find such forms if fossil-rich rock beds were discovered far beneath the oldest Cambrian strata. The chance of such a discovery is small.
 
-## **On the Succession of the Same Types within the Same Areas, during the later Tertiary Periods**
+### On the Succession of the Same Types within the Same Areas, during the later Tertiary Periods
 
 Many years ago, Mr. Clift showed that the fossil mammals from Australian caves were closely related to the marsupials (mammals like kangaroos and koalas) that live on that continent today.
 
@@ -4345,7 +4345,7 @@ It must not be forgotten that, according to our theory, all the species of the s
 * Or, and this will be a far more common case, only two or three species in just two or three of the six older genera will be the parents of the new genera. The other species and the other old genera will have become utterly extinct.
 In failing orders (groups of organisms that are declining), where the number of genera and species is decreasing (as is the case with the Edentata of South America), even fewer genera and species will leave modified descendants.
 
-## **Summary of the Preceding and Present Chapters**
+### Summary of the Preceding and Present Chapters
 
 I have tried to show several important points about the geological record and evolution:
 
@@ -4533,7 +4533,7 @@ But in many other cases, where we have reason to believe that the species of a g
 
 It is also obvious that the individuals of the *same* species, even though they now live in distant and isolated regions, must have come from one spot where their parents were first produced. As has been explained, it is incredible that individuals that are exactly the same could have been produced from parents that were specifically distinct.
 
-## **Single Centers of Supposed Creation**
+### Single Centers of Supposed Creation
 
 This brings us to a question that naturalists have discussed extensively: Were species created at one or more points on the Earth's surface?
 
@@ -4595,7 +4595,7 @@ To illustrate what I mean: our English racehorses are different from horses of e
 
 Before discussing the three classes of facts that I have selected as presenting the greatest difficulty for the theory of "single centers of creation," I must say a few words about the means of dispersal—how species spread.
 
-## **Means of Dispersal**
+### Means of Dispersal
 
 Sir C. Lyell and other authors have skillfully discussed this subject. I can give here only the briefest summary of the more important facts.
 
@@ -4697,7 +4697,7 @@ It would be a great mistake to argue this way: "Great Britain is a well-stocked 
 
 Out of a hundred kinds of seeds or animals transported to an island, even if that island is far less well-stocked than Britain, perhaps not more than one would be so well suited to its new home as to become established (naturalized). But this is not a valid argument against what could be achieved by occasional means of transport over the long course of geological time. This is especially true while the island was being formed (upheaved) and before it had become fully stocked with inhabitants. On almost bare land, with few or no destructive insects or birds living there, nearly every seed that chanced to arrive, if it was fitted for the climate, would sprout and survive.
 
-## **Dispersal during the Glacial Period**
+### Dispersal during the Glacial Period
 
 **A Puzzle: Identical Species on Distant Mountains**
 The fact that many identical plants and animals live on mountain summits separated from each other by hundreds of miles of lowlands, where alpine (mountain-dwelling) species could not possibly exist, is one ofthe most striking cases known. These are instances of the same species living at distant points without any apparent possibility of them having migrated from one point to the other.
@@ -4781,7 +4781,7 @@ Thus, I think, we can understand:
 **Creation Theory Fails to Explain These Patterns**
 These cases of close relationships in species—either now or formerly inhabiting the seas on the eastern and western shores of North America, the Mediterranean and Japan, and the temperate lands of North America and Europe—are inexplicable on the theory of creation. We cannot maintain that such species have been created alike because the physical conditions of the areas are nearly similar. For if we compare, for instance, certain parts of South America with parts of South Africa or Australia, we see countries closely similar in all their physical conditions, yet their inhabitants are utterly dissimilar.
 
-## **Alternate Glacial Periods in the North and South**
+### Alternate Glacial Periods in the North and South
 
 But we must return to our more immediate subject. I am convinced that Edward Forbes’s view about the effects of the Ice Age may be largely extended.
 
@@ -4898,7 +4898,7 @@ This chapter continues our discussion of how living things are spread across the
 * How islands are colonized from the nearest source, with species then undergoing evolutionary changes.
 * A summary of this chapter and the previous one.
 
-## **Freshwater Life**
+### Freshwater Life
 
 Lakes and river systems are separated from each other by barriers of land. Because of this, one might think that freshwater plants and animals would not have spread widely within the same country. And since the sea is apparently an even more formidable barrier, one might think they would never have extended to distant countries. But the case is exactly the reverse.
 Not only do many freshwater species, belonging to different classes, have enormous geographical ranges, but allied (closely related) species are found in a remarkable manner throughout the world. When I was first collecting specimens in the fresh waters of Brazil, I well remember feeling much surprise at the similarity of the freshwater insects, shells, and other creatures to those of Britain. This was in stark contrast to the dissimilarity of the surrounding land-based animals and plants compared with those of Britain.
@@ -4956,7 +4956,7 @@ In considering these several means of distribution, it should be remembered that
 
 But the wide distribution of freshwater plants and of the lower animals—whether they keep the same identical form or become somewhat modified—apparently depends in main part on the wide dispersal of their seeds and eggs by animals. This is especially true for freshwater birds, which have great powers of flight and naturally travel from one body of water to another.
 
-## **On the Inhabitants of Oceanic Islands**
+### On the Inhabitants of Oceanic Islands
 
 We now come to the last of the three classes of facts which I have selected as presenting the greatest amount of difficulty with respect to distribution. This is considered from the viewpoint that not only have all individuals of the same species migrated from some one area, but that allied species, although now inhabiting the most distant points, have also proceeded from a single area—the birthplace of their early ancestors.
 
@@ -4993,7 +4993,7 @@ Many remarkable little facts could be given about the inhabitants of oceanic isl
 * **Hooked Seeds without Mammals:** For instance, certain islands are not inhabited by a single mammal. Yet, some of the endemic plants (plants unique to those islands) have beautifully hooked seeds. Few relationships in nature are more obvious than that hooks on seeds serve to transport them in the wool or fur of four-legged animals (quadrupeds). But a hooked seed might be carried to an island by other means. If the plant then became modified over time and formed an endemic species, it might still keep its hooks. These hooks would then be a useless appendage, much like the shriveled wings found under the fused wing-covers of many island beetles (which can no longer fly).
 * **Herbs Becoming Trees:** Again, islands often possess trees or bushes belonging to plant groups (orders) which elsewhere include only herbaceous (non-woody) species. Now, trees, as Alph. de Candolle has shown, generally have confined (limited) geographical ranges, whatever the cause may be. Hence, trees would be unlikely to reach distant oceanic islands as seeds or saplings. An herbaceous plant, which had no chance of successfully competing with the many fully developed trees growing on a continent, might, when established on an island with less competition, gain an advantage over other herbaceous plants by growing taller and taller and eventually overtopping them. In this case, natural selection would tend to add to the stature of the plant, whatever order it belonged to, and thus first convert it into a bush and then into a tree.
 
-## **Absence of Amphibians and Land Mammals on Oceanic Islands**
+### Absence of Amphibians and Land Mammals on Oceanic Islands
 
 Regarding the absence of whole orders of animals on oceanic islands, Bory St. Vincent long ago remarked that Batrachians (amphibians like frogs, toads, and newts) are never found on any of the many islands with which the great oceans are studded. I have taken pains to verify this assertion and have found it true, with a few exceptions: New Zealand, New Caledonia, the Andaman Islands, and perhaps the Solomon Islands and the Seychelles. But I have already remarked that it is doubtful whether New Zealand and New Caledonia should be classed as oceanic islands. This is even more doubtful for the Andaman and Solomon groups and the Seychelles.
 
@@ -5051,7 +5051,7 @@ It occurred to me that land-shells, when hibernating and having a membranous dia
 
 It is, however, not at all probable that land-shells have often been transported in driftwood. The feet of birds offer a more probable method.
 
-## **On the Relations of the Inhabitants of Islands to Those of the Nearest Mainland**
+### On the Relations of the Inhabitants of Islands to Those of the Nearest Mainland
 
 The most striking and important fact for us is the affinity (close relationship) of the species that inhabit islands to those of the nearest mainland, without them being actually the same species. Numerous instances could be given.
 
@@ -5141,7 +5141,7 @@ The relations just discussed are inexplicable on the ordinary view of the indepe
 * The still closer relationship of the distinct inhabitants of the islands in the same archipelago.
 All these are explicable if we admit colonization from the nearest or readiest source, together with the subsequent adaptation (evolution) of the colonists to their new homes.
 
-## **Summary of the Last and Present Chapters** (Chapters XII and XIII)
+### Summary of the Last and Present Chapters (Chapters XII and XIII)
 
 **Summary Point 1: Common Ancestry of Individuals Within a Species**
 In these chapters, I have endeavored to show that the difficulty is not insuperable in believing that all individuals of the same species, wherever found, are descended from common parents. This is true if we make due allowance for:
@@ -5202,7 +5202,7 @@ This chapter will explore several key biological topics:
 * **Rudimentary Organs:** Organs that are reduced in size and function, and how their origin can be explained.
 * **Summary:** A recap of these concepts.
 
-## **Classification**
+### Classification
 
 From the earliest periods in Earth's history, living things have resembled each other to different degrees. This allows them to be classified in groups within larger groups. This system of classification is not arbitrary, like grouping stars into constellations based on apparent patterns.
 
@@ -5367,7 +5367,7 @@ We can understand why a species or a group of species may depart from its allies
 As we find organs of high physiological importance—those which serve to preserve life under the most diverse conditions of existence—are generally the most constant, we attach special value to them in classification. But if these same organs, in another group or section of a group, are found to differ much, we at once value them less in our classification of that particular group.
 We shall presently see why embryological characters are of such high classificatory importance. Geographical distribution may sometimes be brought usefully into play in classing large genera, because all the species of the same genus inhabiting any distinct and isolated region are in all probability descended from the same parents.
 
-## **Analogical Resemblances**
+### Analogical Resemblances
 
 We can understand, on the above views, the very important distinction between **real affinities** (true evolutionary relationships based on shared ancestry) and **analogical or adaptive resemblances** (similarities due to similar function or lifestyle, not close ancestry). Lamarck first called attention to this subject, and he has been ably followed by Macleay and others.
 
@@ -5449,7 +5449,7 @@ It should be observed that the process of imitation probably never began between
 If the imitated form was subsequently and gradually modified through any agency, the imitating form would be led along the same track by selection. It could thus be altered to almost any extent, so that it might ultimately assume an appearance or coloring wholly unlike that of the other members of the family to which it belonged.
 There is, however, some difficulty on this head. It is necessary to suppose in some cases that ancient members belonging to several distinct groups, before they had diverged to their present extent, accidentally resembled a member of another and protected group to a sufficient degree to afford some slight protection. This initial accidental resemblance would then have given the basis for the subsequent acquisition of the most perfect resemblance through natural selection.
 
-## **On the Nature of the Affinities Connecting Organic Beings**
+### On the Nature of the Affinities Connecting Organic Beings
 
 As the modified descendants of dominant species (belonging to the larger genera) tend to inherit the advantages which made the groups to which they belong large and their parents dominant, they are almost sure to spread widely and to seize on more and more places in the economy of nature. The larger and more dominant groups within each class thus tend to go on increasing in size. Consequently, they supplant (replace) many smaller and feebler groups.
 Thus, we can account for the fact that all organisms, recent and extinct, are included under a few great orders, and under still fewer classes. As showing how few the higher groups are in number, and how widely they are spread throughout the world, the fact is striking: the discovery of Australia by Europeans has not added an insect belonging to a new class. In the vegetable kingdom, as I learn from Dr. Hooker, it has added only two or three families of small size.
@@ -5504,7 +5504,7 @@ We can clearly see how it is that all living and extinct forms can be grouped to
 
 Professor Haeckel, in his ‘Generelle Morphologie’ and in other works, has recently brought his great knowledge and abilities to bear on what he calls **phylogeny**, or the lines of descent of all organic beings. In drawing up the several evolutionary series, he trusts chiefly to embryological characters but receives aid from homologous and rudimentary organs, as well as from the successive periods at which the various forms of life are believed to have first appeared in our geological formations. He has thus boldly made a great beginning and shows us how classification will in the future be treated (as the study of evolutionary history).
 
-## **Morphology**
+### Morphology
 
 We have seen that members of the same class, whatever their habits of life, resemble one another in the general plan of their organization. This resemblance is often described as "unity of type," or by saying that the various parts and organs in the different species of a class are homologous. The whole subject falls under the general term Morphology. It is one of the most interesting branches of natural history, and might almost be called its very soul. What could be more curious than the fact that the hand of a man, formed for grasping, the hand of a mole, formed for digging, the leg of a horse, the paddle of a porpoise, and the wing of a bat should all be built on the same pattern, and should contain similar bones in the same relative positions? Consider a lesser but still striking example. The hind feet of the kangaroo, so well suited to bounding across open plains; those of the koala, a climbing, leaf-eating animal whose feet are equally well suited to grasping branches; those of the bandicoots, which live on the ground and feed on insects or roots; and those of certain other Australian marsupials are all built on the same extraordinary plan. In each, the bones of the second and third toes are extremely slender and enclosed within a single sheath of skin, so that together they look like one toe bearing two claws. Despite this shared pattern, the hind feet of these animals are plainly used for purposes as different as can be imagined. The case is made all the more striking by the American opossums, which live in much the same way as some of their Australian relatives, yet have feet built on the ordinary plan. Professor Flower, from whom these observations are drawn, concludes: "We may call this conformity to type without getting much closer to an explanation of the phenomenon." He then adds: "But is it not powerfully suggestive of true relationship, of inheritance from a common ancestor?"
 
@@ -5526,7 +5526,7 @@ Morphology, however, is a far more complex subject than it first appears, as Mr.
 
 Naturalists often speak of the skull as made of transformed vertebrae, the jaws of crabs as transformed legs, and the stamens and pistils of flowers as transformed leaves. But as Professor Huxley has observed, it would in most cases be more accurate to say that skull and vertebrae, jaws and legs, and so on, have all been transformed, not one from the other as they now exist, but from some common and simpler element. Most naturalists, however, use such language only as metaphor. They by no means intend to say that over a long course of descent, primordial organs of any kind, whether vertebrae in one case or legs in the other, were actually converted into skulls or jaws. Yet the appearance that this has happened is so strong that naturalists can scarcely avoid using language that plainly carries this meaning. On the views maintained here, such language may be taken literally. And the remarkable fact that the jaws of a crab, for instance, retain numerous characteristics that they probably would have kept through inheritance had they really been transformed from true, though extremely simple, legs is in part explained.
 
-## **Development and Embryology**
+### Development and Embryology
 
 This is one of the most important subjects in the entire range of natural history. The metamorphoses of insects, familiar to everyone, generally seem to take place abruptly, in a few stages. In reality, however, the transformations are numerous and gradual, though hidden from view. Sir John Lubbock has shown that a certain mayfly, *Chloeon*, molts more than twenty times during its development, undergoing some degree of change each time. In this case we see metamorphosis carried out in a primitive and gradual way. Many insects, and especially certain crustaceans, show us how remarkable the changes of structure during development can be. These changes reach their peak, however, in the so-called alternation of generations found in some of the lower animals. It is an astonishing fact, for instance, that a delicate, branching colony of polyps, fixed to an underwater rock and resembling a small plant, should produce, first by budding and then by splitting crosswise, a multitude of large floating jellyfish; that these jellyfish should produce eggs; that from those eggs should hatch tiny swimming creatures, which attach themselves to rocks and grow into branching colonies; and so on in an endless cycle. The belief that alternation of generations and ordinary metamorphosis are essentially the same process was greatly strengthened by Wagner's discovery that the larva, or maggot, of a gall midge, *Cecidomyia*, produces other larvae without sexual reproduction. These in turn produce still others, which finally develop into mature males and females that breed in the ordinary way, by eggs.
 
@@ -5581,7 +5581,7 @@ It can, however, be proved true only in those cases in which the ancient state o
 **Embryology Explained by Evolution**
 Thus, as it seems to me, the leading facts in embryology, which are second to none in importance, are explained on the principle of variations. These variations, occurring in the many descendants from some one ancient progenitor, generally appeared at a not very early period of life and were inherited at a corresponding period. Embryology rises greatly in interest when we look at the embryo as a picture, more or less obscured, of the progenitor (either in its adult or larval state) of all the members of the same great class.
 
-## **Rudimentary, Atrophied, and Aborted Organs**
+### Rudimentary, Atrophied, and Aborted Organs
 
 Organs or parts in this strange condition—bearing the plain stamp of uselessness—are extremely common, or even general, throughout nature. It would be impossible to name one of the "higher" animals (more complex ones like mammals or birds) in which some part or other is not in a rudimentary condition.
 **Examples of Rudimentary Organs:**
@@ -5665,7 +5665,7 @@ Rudimentary organs may be compared with the letters in a word that are still ret
 **Evolution Predicts Rudimentary Organs**
 On the view of descent with modification, we may conclude that the existence of organs in a rudimentary, imperfect, and useless condition, or quite aborted (absent), far from presenting a strange difficulty (as they assuredly do on the old doctrine of creation), might even have been anticipated in accordance with the views explained here.
 
-## **Summary (of Chapter XIV)**
+### Summary (of Chapter XIV)
 
 In this chapter, I have attempted to show that several key aspects of biology all naturally follow if we admit the common parentage of allied forms, together with their modification through variation and natural selection, including the effects of extinction and divergence of character. These aspects are:
 1.  The arrangement of all organic beings throughout all time in groups under groups (hierarchical classification).

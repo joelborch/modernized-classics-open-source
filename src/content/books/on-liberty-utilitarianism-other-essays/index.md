@@ -754,7 +754,7 @@ That kind of disciplined, argumentative thinking is both essential and hard to m
 
 ---
 
-## **Why Disagreement Helps Even When No One Is “Totally Wrong”**
+### Why Disagreement Helps Even When No One Is “Totally Wrong”
 
 There’s another major reason diversity of opinion is valuable, and it will stay valuable for a long time—at least until humanity reaches an intellectual maturity that, honestly, still seems unimaginably far away.
 
@@ -780,7 +780,7 @@ That’s why, given how partial prevailing opinions typically are—even when th
 
 ---
 
-## **Rousseau as a Useful Explosion**
+### Rousseau as a Useful Explosion
 
 Take the eighteenth century. Educated people—and most of the uneducated who followed their lead—were practically intoxicated with admiration for “civilization” and the triumphs of modern science, literature, and philosophy. They wildly exaggerated how different modern people were from ancient people, and they comforted themselves with the belief that the difference was entirely in modern humanity’s favor.
 
@@ -797,7 +797,7 @@ These ideas have never fully disappeared from educated minds since Rousseau wrot
 
 ---
 
-## **Politics: Why We Need Competing Sides**
+### Politics: Why We Need Competing Sides
 
 Politics offers an even clearer example. It’s almost a cliché to say that a healthy political life needs both:
 
@@ -826,7 +826,7 @@ To be clear, I’m not claiming that this country is currently intolerant about 
 
 ---
 
-## **The “Christian Morality Is the Whole Truth” Objection**
+### The “Christian Morality Is the Whole Truth” Objection
 
 Someone might object: “Fine, maybe most popular principles are partial truths. But some received principles—especially on the highest and most vital subjects—are more than half-truths. Christian morality, for example, is the whole truth about morality. If someone teaches a morality that differs from it, they’re simply wrong.”
 
@@ -859,7 +859,7 @@ Meanwhile, the best pagan moralities gave *too much* weight to duty to the state
 
 ---
 
-## **What This Does (and Doesn’t) Claim About Christ’s Teachings**
+### What This Does (and Doesn’t) Claim About Christ’s Teachings
 
 None of this requires the claim that these defects are unavoidable in every possible conception of Christian ethics, or that the missing elements of a complete morality can’t be reconciled with Christianity. Still less does it require an attack on Christ’s own teachings.
 
@@ -879,7 +879,7 @@ That exclusive claim must and should be resisted. And if a reaction produces def
 
 ---
 
-## **Free Discussion Won’t End Sectarianism—but It Still Matters**
+### Free Discussion Won’t End Sectarianism—but It Still Matters
 
 I’m not claiming that unlimited freedom to express every possible opinion would eliminate the evils of religious or philosophical sectarianism. Whenever narrow minds become intensely committed to a truth, they tend to preach it, drill it in, and even live it as if no other truth existed—or at least as if no other truth could limit or qualify it.
 
@@ -4956,23 +4956,23 @@ That’s why **publicity**—being seen, being answerable—is invaluable even w
 
 ---
 
-## **Why I Still Don’t Want the Ballot—even under Universal Suffrage**
+### Why I Still Don’t Want the Ballot—even under Universal Suffrage
 
 A common reply goes like this: “Maybe secrecy is risky *now*, when only some people vote. But someday everyone will be educated and fit to vote; men and women alike will have the franchise because they’ve earned it. Then there’s no danger of class legislation, because the electorate will just be the nation. Even if some people vote selfishly, the majority won’t have any narrow motive. And since there won’t be non-voters to answer to, the ballot will filter out only the corrupt pressures and do pure good.”
 
 I don’t accept that—**even in the best imaginable version of universal suffrage**.
 
-### **1) In that future, secrecy wouldn’t be necessary**
+#### 1) In that future, secrecy wouldn’t be necessary
 Picture what the argument itself assumes: a broadly educated population, with every adult holding a vote. In that world, public opinion would rule more strongly than it already does. Even today—when only a minority votes and much of the public is poorly educated—everyone can see that opinion is the final authority in practice.
 
 So it’s fantasy to think that, over a community where everyone reads and everyone votes, landlords and wealthy people could regularly force the electorate to act against its own inclinations in a way the public couldn’t easily shake off.
 
-### **2) But publicity would still be necessary**
+#### 2) But publicity would still be necessary
 Even if secrecy stopped being needed as protection, **public accountability would still matter as much as ever**. Human experience would have to be wildly mistaken for this to be true: that merely being part of the community—without a stark, obvious conflict with the public interest—automatically makes people perform public duties well, even without the stimulus and restraint of others’ judgments.
 
 For most people, simply having “a share” in the public good isn’t enough to make them do their public duty. Even when they have no private interest pulling the other way, they still need external motives—encouragement, social expectation, and yes, the discomfort of potential disapproval.
 
-### **3) People don’t vote as honestly in secret as in public**
+#### 3) People don’t vote as honestly in secret as in public
 It also doesn’t follow that if everyone voted, they’d vote as honestly behind a curtain as they would in the open. The claim that “when the electors are the whole community, they can’t vote against the community’s interest” sounds profound, but it doesn’t really say much once you examine it.
 
 The community, taken as a whole, can only have its collective interest. But **individuals can have countless interests that diverge from it**—because a person’s “interest” is whatever they feel invested in.
@@ -5000,7 +5000,7 @@ If the ballot throws away all of that—**even under the circumstances most favo
 
 ---
 
-## **Voting Papers: Useful, But Don’t Turn Them Into Private Deals**
+### Voting Papers: Useful, But Don’t Turn Them Into Private Deals
 
 On the other debatable issues around voting methods, we don’t need so many words.
 
@@ -5017,7 +5017,7 @@ In private, a briber could literally watch the bargain being carried out. An int
 
 ---
 
-## **Make Voting Easy—and Make Elections Cheap**
+### Make Voting Easy—and Make Elections Cheap
 
 Polling places should be numerous enough that every voter can reach one easily. And under no excuse should we tolerate “transportation” at a candidate’s expense. That practice is too close to buying influence.
 
@@ -5037,7 +5037,7 @@ That threat matters because it signals seriousness. When lawmakers show they tru
 
 ---
 
-## **Why Electoral Corruption Persists**
+### Why Electoral Corruption Persists
 
 This is painfully obvious in the case of electoral corruption. Political leaders have never made a truly serious attempt to end bribery, because they’ve never truly wanted elections to be inexpensive.
 
@@ -5051,7 +5051,7 @@ Yet even by their own lights, this habit of “balancing evil with evil” is mi
 
 ---
 
-## **Don’t Turn Public Service Into Something You Buy**
+### Don’t Turn Public Service Into Something You Buy
 
 There are few ways political institutions do more moral harm—through their spirit, not just their rules—than by treating public office as a favor to be granted: something a person seeks for personal reasons, and even pays for, as if it were a source of private profit.
 
@@ -5067,7 +5067,7 @@ As long as the candidate and the surrounding social customs treat being an MP le
 
 ---
 
-## **Why Paying MPs Isn’t the Fix People Think It Is**
+### Why Paying MPs Isn’t the Fix People Think It Is
 
 The same principle that demands we neither require nor tolerate election spending by candidates leads to another conclusion that can look, at first glance, like the opposite: it argues against paying members of Parliament.
 
@@ -7212,7 +7212,7 @@ If those examples show what a naturally excitable people can become under strong
 
 Like the French compared with the English, the Irish with the Swiss, or Greeks and Italians compared with Germans, women—compared with men—often show the same broad range of abilities, just with a different “style” of excellence on average. And if girls’ and women’s education were designed to *correct* the weaknesses their temperament can bring, instead of *intensifying* them, there’s no good reason to doubt they’d do the same work just as well overall.
 
-## **Focus vs. Flexibility**
+### Focus vs. Flexibility
 Let’s grant, for the sake of argument, a common claim: that women’s minds are naturally more **mobile** than men’s—less inclined to stay locked on a single long effort, better at splitting attention across several things at once than at driving one narrow track to its absolute peak. That *might* describe women as they’re typically shaped by society today (with plenty of exceptions), and it could help explain why, at the very top end, men have more often dominated fields that seem to reward total absorption in one pursuit.
 
 But even if that difference were real, it would change the **type** of excellence, not the **value** of it. And it still doesn’t answer a deeper question: is that “single-subject tunnel vision” actually the healthiest, most normal condition for a human mind—even for purely intellectual work?
@@ -7228,7 +7228,7 @@ Women may have some of this flexibility by nature, but they certainly acquire it
 
 People have noticed this for ages: women often manage to think clearly in circumstances where many men would excuse themselves from even trying. And even when the subject matter is “small,” a woman’s mind is rarely allowed to be empty in the way a man’s mind often is when he isn’t engaged in what he considers the central business of his life. A man’s ordinary life may revolve around one “main pursuit.” A woman’s ordinary life is, more often, **everything at once**—and it keeps moving as steadily as the world itself.
 
-## **The Brain-Size Argument (And Why It Doesn’t Settle Anything)**
+### The Brain-Size Argument (And Why It Doesn’t Settle Anything)
 Then comes another claim: that anatomy proves men have greater mental capacity because men have larger brains.
 
 First, the fact itself isn’t securely established. You can’t simply infer brain size from body size. If you could, the conclusions would be absurd: tall, large-framed men would automatically be far smarter than smaller men—and elephants or whales would outclass humans by miles.
@@ -7253,7 +7253,7 @@ But I have to underline this: all of this is speculation. It’s meant only to s
 
 And why is this so hard to know? Because the psychological laws by which character is formed have barely been studied with scientific seriousness, and in this particular case they’ve almost never been applied. The most obvious external causes of differences in character—education, habit, social role—are constantly ignored: the observer overlooks them, and the dominant schools of both natural history and mental philosophy tend to treat them with a kind of contempt. Whether they look for the source of human differences in matter or in spirit, they often unite in sneering at those who explain differences through people’s different relationships to society and everyday life.
 
-## **Why “Women’s Nature” Looks Different Everywhere**
+### Why “Women’s Nature” Looks Different Everywhere
 The popular “knowledge” about women is often nothing more than shallow generalization: unexamined conclusions drawn from whatever examples happen to be nearby. That’s why different countries carry different stereotypes, depending on what local customs and circumstances have produced in the women who live there.
 
 - In parts of the East, people claim women are naturally more voluptuous; you can see this in the harsh abuse of women on that basis in some Hindu writings.  
@@ -7274,7 +7274,7 @@ Elsewhere, observers fall into different errors. An Englishman is often ignorant
 - by **starving** them until only a weak residue remains  
 - or by **transforming** them so they grow in directions they wouldn’t have taken on their own
 
-## **What We Can (And Can’t) Infer**
+### What We Can (And Can’t) Infer
 So yes: right now we can’t know how much of the mental difference we think we see between men and women is natural and how much is artificial—or whether there are any natural differences at all—or what would remain if artificial causes were removed.
 
 I’m not going to pretend to do what I’ve just called impossible. But uncertainty doesn’t forbid careful conjecture. When certainty can’t be reached, you can still sometimes move toward probability.
@@ -7285,7 +7285,7 @@ So let’s take the one striking case observers point to when they argue for wom
 
 No first-rank work in philosophy, science, or art—no achievement that clearly sits at the very top of the scale—has been produced by a woman. Must we explain that by saying women are naturally incapable?
 
-## **Is the Sample Size Even Big Enough?**
+### Is the Sample Size Even Big Enough?
 First, we should ask whether experience gives us enough evidence to draw a legitimate conclusion. It’s been barely three generations since women—apart from rare exceptions—have even begun to test their powers in philosophy, science, or art. Only in the present generation have their efforts become at all numerous, and even now, outside England and France, they remain extremely few.
 
 So ask yourself: purely by the odds, should we *expect* a mind of the very highest speculative or creative rank to have appeared in that short time among the small number of women whose interests and social position even allowed them to devote themselves to such pursuits?
@@ -7294,7 +7294,7 @@ In all areas where there has actually been time for development—meaning everyt
 
 The Greeks counted Sappho among their great poets. And if Myrtis (said to have taught Pindar) and Corinna (who reportedly beat him five times in poetic contests) could even be compared with a name like his, they must have had real merit. Aspasia left no philosophical writings, but it’s an accepted fact that Socrates sought her out for instruction and openly acknowledged that he benefited from it.
 
-## **Where the Gap Seems to Be**
+### Where the Gap Seems to Be
 If we compare women’s work with men’s in modern times—whether in literature or the arts—whatever inferiority appears tends to shrink down to one central point. And it’s a serious one:
 
 - a relative **lack of originality**
@@ -7305,7 +7305,7 @@ Most women’s compositions build on the existing stock of ideas, and their crea
 
 So the chief thing missing, again, is high originality of conception. The next step is to ask whether there is any way to account for that deficiency.
 
-## **A Historical Reason to Expect Fewer “Era-Making” Ideas**
+### A Historical Reason to Expect Fewer “Era-Making” Ideas
 Remember this: for a vast stretch of human history—during much of the period when great and fertile new truths could be reached by sheer genius with relatively little accumulated study and formal preparation—women did not participate in speculative thought at all.
 
 From Hypatia’s time to the Reformation, the illustrious Héloïse is almost the only woman for whom such an achievement might have been possible; and we can’t know how much speculative power in her was lost to the world through the misfortunes of her life.
