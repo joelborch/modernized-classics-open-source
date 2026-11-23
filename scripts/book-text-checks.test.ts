@@ -7,9 +7,6 @@ const booksRoot = path.join(process.cwd(), 'src/content/books');
 
 // Every exception needs a reason. Remove an entry as soon as the text is fixed.
 const ALLOWANCES: Record<string, BookTextAllowance[]> = {
-  walden: [
-    { kind: 'duplicate', startsWith: 'Let us settle ourselves, and work and wedge our feet downward', reason: 'The introduction quotes the passage that appears later in the text.' },
-  ],
 };
 
 // Books whose text is known to be broken and is being repaired separately.

@@ -633,7 +633,7 @@ National differences and conflicts between peoples are disappearing more and mor
 * The world market.
 * Uniformity in the mode of production and in the conditions of life that result from it.
 
-The rule of the proletariat will cause these differences to vanish even faster. United action, at least of the leading civilized countries, is one of meninas conditions for the emancipation (freeing) of the proletariat.
+The rule of the proletariat will cause these differences to vanish even faster. United action, at least of the leading civilized countries, is one of the first conditions for the emancipation (freeing) of the proletariat.
 As the exploitation of one individual by another is put to an end, the exploitation of one nation by another will also be put to an end. As the conflict between classes within a nation vanishes, the hostility of one nation to another will come to an end.
 
 **Ideas and Consciousness**
