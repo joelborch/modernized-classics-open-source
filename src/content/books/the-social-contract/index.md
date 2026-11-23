@@ -1053,8 +1053,6 @@ There are a thousand arguments for this principle. First, long distances make ad
 
 ***
 
-### **Chapter 9: The People (continued)**
-
 The cost of running a government becomes heavier as the distance from the people grows.
 * First, each city has its own administration, which the people pay for.
 * Each district has its own, also paid for by the people.
@@ -1181,8 +1179,6 @@ The members of this body are called magistrates or kings, that is to say, govern
 
 ***
 
-### **Chapter 1: Government in General (continued)**
-
 The Sovereign can limit, change, or take back the power it gives to the government whenever it pleases. The act of giving away such a right is incompatible with the nature of the social body and goes against the whole purpose of the association.
 
 So, I call **government**, or supreme administration, the legitimate exercise of the executive power. I call the **prince** or **magistrate** the person or the body that is put in charge of that administration.
@@ -1297,8 +1293,6 @@ Besides, how many difficult conditions does such a government require!
 
 ***
 
-### **Chapter 4: On Democracy (continued)**
-
 What does a democracy need to succeed? 🗳️
 
 * **First, a very small State.** The people must be able to get together easily, and each citizen should be able to know all the others.
@@ -1389,8 +1383,6 @@ The opposite problem can also be fixed. When the government is too weak, special
 
 
 ***
-
-### **Chapter 7: On Mixed Governments (continued)**
 
 In the first case, the government is divided to make it weak. In the second, it is organized into special courts to make it strong. The greatest strength and the greatest weakness are both found in simple governments, while the mixed forms result in a medium level of strength.
 
@@ -1712,14 +1704,6 @@ The customs we find established at least show that these customs had an origin. 
 After the foundation of Rome, the new-born republic was divided into three classes, which, from this division, took the name of **tribes**.
 
 
-***
-
-### **Chapter 4: The Roman Assemblies**
-
-We don't have well-certified records of the first period of Rome's existence. It seems very probable that most of the stories told about it are fables. In fact, the most instructive part of a people's history—the part that deals with their founding—is what we know the least about.
-
-But the customs we find established at least show that these customs had an origin. The traditions that go back to those origins, that are backed by the greatest authorities, and that are confirmed by the strongest proofs, should be considered the most certain. These are the rules I have tried to follow in asking how the freest and most powerful people on earth exercised their supreme power.
-
 ---
 
 ### **The First Division: By Tribe**
@@ -1832,8 +1816,6 @@ The citizens were therefore provided with tablets, by which each man could vote 
 
 ***
 
-### **Chapter 4: The Roman Assemblies (continued)**
-
 Sometimes an assembly was called together hastily before candidates had time to form their political factions. Sometimes, a whole meeting was taken up with talk when it was seen that the people had been won over and were about to make a wrong decision.
 
 But in the end, ambition found a way around all attempts to check it. And the most incredible fact of all is that, in the midst of all these abuses, the vast Roman people, thanks to its ancient regulations, never stopped electing officials, passing laws, judging cases, and carrying out both public and private business, almost as easily as the senate itself could have done.
@@ -1928,8 +1910,6 @@ What the pagans had feared came to pass.
 
 
 ***
-
-### **Chapter 8: On Civil Religion (continued)**
 
 Then everything changed. The humble Christians changed their language. Soon, this so-called "kingdom of the other world" turned into the most violent of earthly dictatorships, led by a visible leader (the Pope).
 
@@ -2192,8 +2172,6 @@ What would the great soul of Fabricius have felt if he had the misfortune to be 
 
 
 ***
-
-### **Part One (continued)**
 
 #### **A Message from a Roman General**
 
