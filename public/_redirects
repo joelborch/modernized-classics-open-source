@@ -31,11 +31,6 @@
 /books/varieties-religious-experience /books/varieties-of-religious-experience 301
 /books/varieties-religious-experience/* /books/varieties-of-religious-experience/:splat 301
 
-# The Interpretation of Dreams: temporarily withdrawn while it is redone from the Brill translation (302, not permanent)
-/books/interpretation-of-dreams /library 302
-/books/interpretation-of-dreams/* /library 302
-/downloads/interpretation-of-dreams.epub /library 302
-
 # Critique of Pure Reason: missing "of"
 /books/critique-pure-reason /books/critique-of-pure-reason 301
 /books/critique-pure-reason/* /books/critique-of-pure-reason/:splat 301
