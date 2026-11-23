@@ -36,11 +36,6 @@
 /books/interpretation-of-dreams/* /library 302
 /downloads/interpretation-of-dreams.epub /library 302
 
-# Meditations: temporarily withdrawn while it is redone from a public-domain translation (302, not permanent)
-/books/meditations /library 302
-/books/meditations/* /library 302
-/downloads/meditations.epub /library 302
-
 # Critique of Pure Reason: temporarily withdrawn while its source is reviewed (302, not permanent)
 /books/critique-pure-reason /library 302
 /books/critique-pure-reason/* /library 302
