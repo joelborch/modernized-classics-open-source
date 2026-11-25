@@ -59,3 +59,6 @@
 - Do not silently map unsupported effort/model combinations or replace missing cost data with zero.
 - Preserve schema validation, cancellation, bounded process output, configuration provenance, and fail-closed QA.
 - `npm test` must never call paid models. Live smoke checks require `npm run smoke:model -- --live` and an explicitly chosen local provider/model.
+
+## Lane notes
+- 2026-11-23: When a fix or audit applies to many books, run all of them in one batch of parallel subagents and report the complete list, not one or two at a time.
